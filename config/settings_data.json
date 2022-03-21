@@ -1468,17 +1468,17 @@
       "16046706018733d79b": {
         "type": "featured-product-dev",
         "blocks": {
-          "9abd3b8a-0a87-4c7b-b756-3790c7146b16": {
-            "type": "product",
-            "settings": {
-              "product": "create-your-own-custom-serum",
-              "type": "best_sellers"
-            }
-          },
           "2ca6304f-0f1b-4076-928f-b4ee9dbd5ccc": {
             "type": "product",
             "settings": {
               "product": "tri-light-sabi",
+              "type": "best_sellers"
+            }
+          },
+          "9abd3b8a-0a87-4c7b-b756-3790c7146b16": {
+            "type": "product",
+            "settings": {
+              "product": "create-your-own-custom-serum",
               "type": "best_sellers"
             }
           },
@@ -1638,8 +1638,8 @@
           }
         },
         "block_order": [
-          "9abd3b8a-0a87-4c7b-b756-3790c7146b16",
           "2ca6304f-0f1b-4076-928f-b4ee9dbd5ccc",
+          "9abd3b8a-0a87-4c7b-b756-3790c7146b16",
           "01c93470-c163-46eb-b499-211b6eaf1d09",
           "308f39ac-6683-4aad-993f-c1c402798ba4",
           "e0919f2b-1041-4fc8-bef1-b60465427aee",
