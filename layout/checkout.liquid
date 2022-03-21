@@ -1,0 +1,176 @@
+<!DOCTYPE html>
+<html lang="{{ locale }}" dir="{{ direction }}" class="{{ checkout_html_classes }}">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, height=device-height, minimum-scale=1.0, user-scalable=0">
+    <meta name="referrer" content="origin">
+
+    <title>{{ page_title }}</title>
+    {{ content_for_header }}
+
+    {{ checkout_stylesheets }}
+    {{ checkout_scripts }}
+    {% include "loyaltylion" %}
+      <style>
+          .shipment-span{
+            font-size:12px;
+          }
+          .hide {
+              opacity: 0;
+              visibility: hidden;
+          }
+          .gift-message {
+              padding-top: 15px;
+          }
+          .gift-box {
+              padding-top: 20px;
+              border-top: 1px solid rgba(175,175,175,0.34);
+          }
+
+          .red-error-box {
+            border: 1px solid red !important;
+          }
+
+          .disabled {
+            opacity: 0.5;
+            pointer-events: none;
+            cursor: dis
+          }
+
+          .top--reset {
+            top: -13px !important;
+          }
+
+          @media (max-width: 480px) {
+            .zip_error_msg_phone > p {
+              font-size: 12px;
+            }
+          }
+          .order-summary__sections{
+            height: 100%;
+          }
+      </style>
+     {% if customer %}<style>
+          .js .order-summary--is-collapsed {
+            height: auto !important;
+            visibility: initial !important;;
+          }
+          .order-summary-toggle__inner {display:none !important;}
+    </style>
+    {% endif %}
+
+<script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
+
+<script>lion.configure({ checkout: true })</script>
+      
+      <script>
+        fetch('/cart.js')
+          .then(response => response.json())
+          .then(data => {
+            //console.log(data);
+            const message = data.attributes['gift-note'];
+            if(message){
+              const giftContainer = document.getElementById('gift');
+              const giftBox = document.getElementById('gift-message');
+              giftContainer.classList.remove('hide');
+              giftBox.innerText = message;
+            }
+            var prods = data.items;
+            prods.forEach(myShipment);
+
+          });
+          
+          
+        function myShipment(item, index) {
+            var prop = item.properties;
+            var prodid = item.id;
+            var shipment = prop._shipment;
+            //console.log(prodid);
+            if(shipment){
+              $('[data-variant-id="'+prodid+'"] .product__description').append('<span class="shipment-span"><i>'+shipment+'</i></span>');
+            }
+        }
+
+      </script>
+
+
+  </head>
+  <body>
+    {{ skip_to_content_link }}
+
+    <div class="banner" data-header>
+      <div class="wrap">
+        {{ content_for_logo }}
+      </div>
+    </div>
+
+    {{ order_summary_toggle }}
+
+    <div class="content" data-content>
+      <div class="wrap">
+        <div class="main" role="main">
+          <div class="main__header">
+            {{ content_for_logo }}
+            {{ breadcrumb }}
+            {{ alternative_payment_methods }}
+          </div>
+          <div class="main__content">
+            {{ content_for_layout }}
+          </div>
+          <div class="main__footer">
+            {{ content_for_footer }}
+          </div>
+        </div>
+        <div class="sidebar" role="complementary">
+          <div class="sidebar__header">
+            {{ content_for_logo }}
+          </div>
+          <div class="sidebar__content">
+            {{ content_for_order_summary }}
+            <div class="custom-note">
+              <p>Promo Discount Codes cannot be used in conjunction with other discounts or loyalty points.</p>
+            </div>
+          </div>
+            <div class="gift-box hide" id="gift">
+                <h2 class="section__title">Gift message</h2>
+                <div class="gift-message" id="gift-message"></div>
+            </div>
+        </div>
+      </div>
+    </div>
+    <script>
+      // Validation checkout for postal code - Alex Soh
+      var $input_postal_code = $('#checkout_shipping_address_zip');
+      var $continuebtn = $($('.step__footer__continue-btn')[0]);
+      var error_msg ='<p class="field__message field__message--error zip_error_msg">Postal code needs to be in 6 digits format</p>';
+
+      $(function(){
+        // set max length for mobile and zip code
+        $('#checkout_shipping_address_zip').attr('maxlength', 6);
+        $('#checkout_shipping_address_phone').attr('maxlength', 9);
+        if ( $('.main__content .step').attr('data-step') == 'contact_information' ){
+          $continuebtn.on( "click", function() {
+            if ( $input_postal_code.val().length != 6){
+              $('[data-address-field=zip]').children('.zip_error_msg').remove();
+              $('[data-address-field=zip]').addClass('field--error');
+              $('[data-address-field=zip]').append(error_msg);
+              return false;
+            }
+          });
+        }
+      });
+
+      $(function() {
+        $("#checkout_shipping_address_zip").on('input', function(e) {
+            $(this).val($(this).val().replace(/[^0-9]/g, ''));
+        });
+      });
+    </script>
+    {{ tracking_code }}
+  
+
+<div data-rebuy-id="7318"></div>
+<script async src="https://rebuyengine.com/js/rebuy?shop=skininc-dev.myshopify.com"></script>
+</body>
+</html>

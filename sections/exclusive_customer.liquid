@@ -1,0 +1,46 @@
+<div class="treatment_text exclusive_customer">
+  <h2>{{ section.settings.title }}</h2>
+  <h4>{{ section.settings.img_heading }}</h4>
+  <p>{{ section.settings.img_text}}</p>
+</div> 
+
+<div class="book_app" id="book_app">
+  <h4>{{ section.settings.book_title }}</h4>
+  <p>{{ section.settings.book_text }}</p>
+</div>
+
+{% schema %}
+  {
+    "name": "exclusive_customer",
+    "settings": [
+      {
+        "type": "text",
+        "id": "title",
+        "label": "Heading"
+      },
+      {
+        "type": "text",
+        "id": "img_heading",
+        "label": "customer heading"
+      },
+      {
+        "type": "text",
+        "id": "img_text",
+        "label": "customer text"
+      },
+    {
+        "type": "text",
+        "id": "book_title",
+        "label": "Book Heading"
+      },
+      {
+        "type": "text",
+        "id": "book_text",
+        "label": "book text"
+      }
+  
+    ]
+  }
+{% endschema %} 
+
+

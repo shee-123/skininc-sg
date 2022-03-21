@@ -1,0 +1,42 @@
+<script>
+  $( document ).ready(function() {
+
+    function showHoolahInstallmentPrice(){
+      $('.hoolah_product_widget, .hoolah_collection_widget').show();
+    }
+
+    function hideHoolahInstallmentPrice(){
+      $('.hoolah_product_widget, .hoolah_collection_widget').hide();
+    }
+
+
+    // Intial currency value
+    var currency = $("{{ selector }}").val().toUpperCase();
+    console.log("Initial currency: " + currency);
+
+    if (currency === 'SGD') {
+      showHoolahInstallmentPrice();
+    } else {
+      hideHoolahInstallmentPrice();
+    }
+
+
+
+
+
+    // Currency dropdown change
+    $(document).on('change', '{{ selector }}', function() {
+	  var currency = this.value.toUpperCase();
+	  console.log("Changed currency: " + currency);
+
+      if (currency === 'SGD') {
+          showHoolahInstallmentPrice();
+        } else {
+          hideHoolahInstallmentPrice();
+        }
+
+    });
+  });
+
+
+</script>

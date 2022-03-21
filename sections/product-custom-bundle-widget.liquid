@@ -1,0 +1,86 @@
+{% if product.metafields.meta.bundle_widget_shortcode %}
+<div id="custom_bundle_widget_section" class="custom_bundle_product_widget">
+  <div class="container">
+  	{{ product.metafields.meta.bundle_widget_shortcode }}
+  </div>
+</div>
+{% endif %}
+
+<style type="text/css">
+  .custom_spaced{
+      margin: 0;
+      padding: 80px 0px;
+      border-top: 1px solid #f4f4f4;
+      border-bottom: 1px solid #f4f4f4;
+  }
+  .bndlr-product.bndlr-mix-and-match{
+    padding: 20px 20px 30px;
+    max-width: 300px !important;
+  }
+  .bndlr-container .bndlr-break-plus-signs .bndlr-add-to-cart{
+    border-radius: 0px;
+    font-size: 13px;
+    text-align: center;
+    letter-spacing: 0.2em;
+    font-family: neuzeit-grotesk,sans-serif;
+    font-weight: 300;
+    padding: 14px 28px;
+    border: 1px solid #d7b4b5;
+    margin-top: 15px;
+  }
+  .bundler-target-element{
+    display: inline-block;
+  }
+  .bundler-target-element > div.bndlr-container{
+    display: inline-block;
+    width: auto;
+  }
+  .custom_bundle_product_widget > div.container{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  .bndlr-products-container .bndlr-product{
+    max-width: 260px;
+  }
+</style>
+
+<script type="text/javascript">
+  $(function() {
+      $('body').on('click', '.bndlr-product .bndlr-add-to-bundle', function(){
+        if ($(this).parent().attr('data-product-id') == '4634783121521' || $(this).parent().attr('data-product-id') == '4634782630001' || $(this).parent().attr('data-product-id') == '4634781089905' || $(this).parent().attr('data-product-id') == '4634782957681' ){
+          $('.bundler-target-element .bndlr-mnm-available-products .bndlr-product[data-product-id="4634783121521"] .bndlr-add-to-bundle').css('display', 'none');
+          $('.bundler-target-element .bndlr-mnm-available-products .bndlr-product[data-product-id="4634782630001"] .bndlr-add-to-bundle').css('display', 'none');
+          $('.bundler-target-element .bndlr-mnm-available-products .bndlr-product[data-product-id="4634781089905"] .bndlr-add-to-bundle').css('display', 'none');
+          $('.bundler-target-element .bndlr-mnm-available-products .bndlr-product[data-product-id="4634782957681"] .bndlr-add-to-bundle').css('display', 'none');
+        }
+        if ($(this).parent().attr('data-product-id') == '4472784224369' || $(this).parent().attr('data-product-id') == '2254901411953' || $(this).parent().attr('data-product-id') == '2254901543025' ){
+          $('.bundler-target-element .bndlr-mnm-available-products .bndlr-product[data-product-id="4472784224369"] .bndlr-add-to-bundle').css('display', 'none');
+          $('.bundler-target-element .bndlr-mnm-available-products .bndlr-product[data-product-id="2254901411953"] .bndlr-add-to-bundle').css('display', 'none');
+          $('.bundler-target-element .bndlr-mnm-available-products .bndlr-product[data-product-id="2254901543025"] .bndlr-add-to-bundle').css('display', 'none');
+        }
+      });
+      $('body').on('click', '.bndlr-product .bndlr-close', function(){
+          $('.bundler-target-element .bndlr-mnm-available-products .bndlr-product[data-product-id="4634783121521"] .bndlr-add-to-bundle').css('display', 'block');
+          $('.bundler-target-element .bndlr-mnm-available-products .bndlr-product[data-product-id="4634782630001"] .bndlr-add-to-bundle').css('display', 'block');
+          $('.bundler-target-element .bndlr-mnm-available-products .bndlr-product[data-product-id="4634781089905"] .bndlr-add-to-bundle').css('display', 'block');
+          $('.bundler-target-element .bndlr-mnm-available-products .bndlr-product[data-product-id="4634782957681"] .bndlr-add-to-bundle').css('display', 'block');
+          $('.bundler-target-element .bndlr-mnm-available-products .bndlr-product[data-product-id="4472784224369"] .bndlr-add-to-bundle').css('display', 'block');
+          $('.bundler-target-element .bndlr-mnm-available-products .bndlr-product[data-product-id="2254901411953"] .bndlr-add-to-bundle').css('display', 'block');
+          $('.bundler-target-element .bndlr-mnm-available-products .bndlr-product[data-product-id="2254901543025"] .bndlr-add-to-bundle').css('display', 'block');
+      });
+  });
+</script>
+
+{% schema %}
+  {
+    "name": "Bundle Product Widget",
+    "settings": [
+		{
+          "type": "header",
+          "content": "Custom Bundle Product Widget",
+		  "info": "Custom Bundle product widget will come from widget shortcode of custom meta field."
+        }
+	]
+  }
+{% endschema %}

@@ -1,0 +1,87 @@
+<div class="treatment_text">
+  <h2>{{ section.settings.title }}</h2>
+  <div class="text_img">
+      <img src="{{ section.settings.image | img_url: 'master' }}">
+      <div class="text">
+        <h4>{{ section.settings.img_heading }}</h4>
+        <p>{{ section.settings.img_text}}</p>
+      </div>      
+  </div>      
+</div> 
+
+
+<div class="oxycro">
+      <h2>{{ section.settings.oxyheading }} </h2>
+      <div class="works_inner">
+        {% for block in section.blocks %}
+            <div class="iocn-sec">
+              <h4>{{ block.settings.heading }}</h4>
+              <p>{{ block.settings.text }}</p> 
+            </div>
+        {% endfor %}        
+      </div>
+</div>
+
+<div class="book_an_app">
+  <a href="#book_app">{{ section.settings.book }}</a>
+</div>
+
+
+
+{% schema %}
+  {
+    "name": "treatment_section",
+    "settings": [
+      {
+        "type": "text",
+        "id": "title",
+        "label": "Heading"
+      },
+    {
+        "type": "image_picker",
+        "id": "image",
+        "label": "Image"
+      },
+      {
+        "type": "text",
+        "id": "img_heading",
+        "label": "Img heading"
+      },
+      {
+        "type": "text",
+        "id": "img_text",
+        "label": "Img text"
+      },
+    {
+        "type": "text",
+        "id": "oxyheading",
+        "label": "oxyheading"
+      },
+    {
+      "type": "text",
+      "id": "book",
+      "label": "Book An Appointment "
+      } 
+    ],
+  "blocks": [
+      {
+        "type": "icon_txt",
+        "name": "Icon with Text",
+        "settings": [
+          {
+            "type": "text",
+            "id": "heading",
+            "label": "heading" 
+          },
+          {
+            "type": "text",
+            "id": "text",
+            "label": "text" 
+          }
+        ]
+      }
+    ]
+  }
+{% endschema %}
+
+

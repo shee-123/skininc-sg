@@ -1,0 +1,231 @@
+<div id="mySizeChartModal" class="ebcf_modal">
+
+  <div class="ebcf_modal-content">
+    <span class="ebcf_close">&times;</span>
+    <h2 class="c_option_heading">{{ section.settings.support_center_heading }}</h2>
+    <div class="c_option chat_option_1">
+      <a href="javascript:void(0);" id="showWidget">
+        {{ section.settings.c_option_zendesk_heading }}
+      </a>
+    </div>
+    <div class="c_option chat_option_2">
+      <a href="javascript:void(0);" id="showMessengerWidget">
+        {{ section.settings.c_option_messenger_heading }}
+      </a>
+    </div>
+  </div>
+
+</div>
+
+<div id="mobileChartBtn" class="mobile_chart_btn">
+  <button class="btn_wrapper">
+    <span class="btn_icon">
+      <svg id="Layer_1" x="0" y="0" viewBox="0 0 15 16" xml:space="preserve" aria-hidden="true"><path d="M1.3,16c-0.7,0-1.1-0.3-1.2-0.8c-0.3-0.8,0.5-1.3,0.8-1.5c0.6-0.4,0.9-0.7,1-1c0-0.2-0.1-0.4-0.3-0.7c0,0,0-0.1-0.1-0.1 C0.5,10.6,0,9,0,7.4C0,3.3,3.4,0,7.5,0C11.6,0,15,3.3,15,7.4s-3.4,7.4-7.5,7.4c-0.5,0-1-0.1-1.5-0.2C3.4,15.9,1.5,16,1.5,16 C1.4,16,1.4,16,1.3,16z M3.3,10.9c0.5,0.7,0.7,1.5,0.6,2.2c0,0.1-0.1,0.3-0.1,0.4c0.5-0.2,1-0.4,1.6-0.7c0.2-0.1,0.4-0.2,0.6-0.1 c0,0,0.1,0,0.1,0c0.4,0.1,0.9,0.2,1.4,0.2c3,0,5.5-2.4,5.5-5.4S10.5,2,7.5,2C4.5,2,2,4.4,2,7.4c0,1.2,0.4,2.4,1.2,3.3 C3.2,10.8,3.3,10.8,3.3,10.9z"></path></svg>
+    </span>
+  </button>
+</div>
+
+<style>
+  /* The Modal (background) */
+  .ebcf_modal {
+    display: none; /* Hidden by default */
+    position: fixed; /* Stay in place */
+    z-index: 1; /* Sit on top */
+    left: 0;
+    top: 0;
+    width: 100%; /* Full width */
+    height: 100%; /* Full height */
+    flex-direction: column;
+    box-sizing: border-box;
+    color: rgb(47, 57, 65);
+    overflow: hidden;
+  }
+
+  /* Modal Content */
+  .ebcf_modal-content {
+    margin: auto;
+    padding: 60px 25px 70px 25px;
+    width: 100%;
+    max-width: 680px;
+    background-color: rgb(255, 255, 255);
+    box-shadow: rgb(0 0 0 / 20%) 0px 0px 0.428571rem 0px;
+    border-radius: 0.571429rem;
+    position: relative;
+    text-align: center;
+  }
+  
+  .ebcf_modal-content h2.c_option_heading{
+    font-family: 'Cormorant Garamond',serif!important;
+    font-size: 42px;
+    font-weight: 600;
+    color: #d7b4b5;
+    font-style: italic;
+    letter-spacing: 0!important;
+    margin-bottom: 30px;
+  }
+
+  /* The Close Button */
+  .ebcf_close {
+    color: #aaaaaa;
+    font-size: 28px;
+    font-weight: bold;
+    position: absolute;
+    top: 0;
+    right: 10px;
+  }
+
+  .ebcf_close:hover,
+  .ebcf_close:focus {
+    color: #000;
+    text-decoration: none;
+    cursor: pointer;
+  }
+  
+  .ebcf_modal-content .chat_option_1{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 15px;
+  }
+  .ebcf_modal-content .c_option a{
+    padding: 10px 25px;
+    border: none;
+    background: #d7b4b5;
+    color: #ffffff;
+    border-radius: 30px;
+  }
+  .ebcf_modal-content .c_option a:hover{
+    color: #ffffff;
+  }
+  .ebcf_modal-content .chat_option_2{
+    display: flex;
+    justify-content: center;
+  }
+  
+  /*  Facebook Messenger Chat Button Hidding  */
+  .fb_dialog{
+    display: none !important;
+  }
+  .fb_customer_chat_bounce_in_v2{
+    bottom: 13px !important;
+  }
+  #fb-customer-chat{
+    display: none;
+  }
+  
+  @media (max-width: 767px){
+    .ebcf_modal {
+      padding-left: 25px;
+      padding-right: 25px;
+    }
+    .ebcf_modal-content {
+      max-width: 100%;
+    }
+  }
+  #mobileChartBtn{
+    display: none !important;
+  }
+  @media (max-width: 1239px){
+    #mobileChartBtn{
+      display: block !important;
+      padding: 0px;
+      margin: 13px 20px;
+      position: fixed;
+      bottom: 0px;
+      overflow: visible;
+      opacity: 1;
+      border: 0px;
+      z-index: 999998;
+      transition-duration: 250ms;
+      transition-timing-function: cubic-bezier(0.645, 0.045, 0.355, 1);
+      transition-property: opacity, top, bottom;
+      right: 0px;
+    }
+    #mobileChartBtn .btn_wrapper{
+      background-color: #d7b4b5;
+      color: #ffffff;
+      fill: #ffffff;
+      padding: 15px;
+      border-radius: 999rem;
+      bottom: 0;
+      letter-spacing: 0.6;
+      font-size: 15px;
+      cursor: pointer;
+    }
+    #mobileChartBtn .btn_wrapper span.btn_icon{
+      vertical-align: middle;
+      display: flex;
+    }
+    #mobileChartBtn .btn_wrapper span.btn_icon svg{
+      color: #ffffff;
+      fill: #ffffff;
+      min-width: 1.42857rem;
+      min-height: 1.42857rem;
+      height: 1.42857rem;
+      width: 1.42857rem;
+    }
+  }
+</style>
+
+<script type="text/javascript">
+  
+  // Get the modal
+  var ebModal = document.getElementById('mySizeChartModal');
+
+  // Get the button that opens the modal in desktop
+  var ebBtn = document.getElementById("mySizeChart");
+  
+  // Get the button that opens the modal in mobile
+  var m_ebBtn = document.getElementById('mobileChartBtn');
+
+  // Get the <span> element that closes the modal
+  var ebSpan = document.getElementsByClassName("ebcf_close")[0];
+  
+  // Get the button that opens the Zendesk chat widget
+  var zeBtn = document.getElementById("showWidget");
+  
+  // Get the button that opens the Messenger chat widget
+  var m_gBtn = document.getElementById("showMessengerWidget");
+  
+  // Get the Facebook Chat widget
+  var f_c_w = document.getElementById("fb-customer-chat");
+
+  // When the user clicks the button, open the modal in desktop
+  ebBtn.onclick = function() {
+    ebModal.style.display = "flex";
+  }
+  
+  // When the user clicks the button, open the modal in mobile
+  m_ebBtn.onclick = function() {
+    m_ebBtn.style.display = "none";
+    ebModal.style.display = "flex";
+  }
+
+  // When the user clicks on <span> (x), close the modal
+  ebSpan.onclick = function() {
+    ebModal.style.display = "none";
+    m_ebBtn.style.display = "block";
+  }
+  
+  // When the user clicks on chat option 1, close the modal and open the Zendesk Chat widget.
+  zeBtn.onclick = function() {
+    ebModal.style.display = "none";
+    zE(function() {zE.activate({hideOnClose: true});});
+    m_ebBtn.style.display = "block";
+  }
+  
+  // When the user clicks on chat option 2, close the modal and open the Messenger Chat widget.
+  m_gBtn.onclick = function() {
+    ebModal.style.display = "none";
+    f_c_w.style.display = "block";
+    FB.CustomerChat.show();
+    m_ebBtn.style.display = "block";
+  }
+
+  // When the user clicks anywhere outside of the modal, close it
+  window.onclick = function(event) {
+    if (event.target == ebModal) {
+      ebModal.style.display = "none";
+      m_ebBtn.style.display = "block";
+    }
+  }
+</script>

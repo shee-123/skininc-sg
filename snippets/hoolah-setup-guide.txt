@@ -1,0 +1,58 @@
+1. config/settings_data.json: Add individual CDN ID
+
+"hoolah_cdn_id": "146c6023-6bb7-497c-92d4-7a99a28aa7ad",
+
+
+---
+
+2. layout/theme.liquid: Add hoolah library
+
+<!-- hoolah WIDGET LIBRARY-->
+{%- include 'hoolah-library'%}
+<!-- hoolah WIDGET LIBRARY -->
+
+---
+
+3. *product collection*.liquid: Add hoolah collection widget to product collection page directly after the price tag's closing </div>. Adjust price variable hoolah_base_price, if needed
+
+<!-- hoolah COLLECTION WIDGET -->
+{% if product.available %}
+   {%- include 'hoolah-widget', type: 'collection', hoolah_base_price: product.price_min -%}
+{% endif %}
+<!-- hoolah COLLECTION WIDGET -->
+
+---
+
+4. *product-details*.liquid: Add hoolah product widget directly after the price tag's closing </div>. Adjust price variable hoolah_base_price, if needed
+
+<!-- hoolah PRODUCT WIDGET -->
+{% if product.available %}
+   {%- include 'hoolah-widget', type: 'product', hoolah_base_price: product.price_min -%}
+{% endif %}
+<!-- hoolah PRODUCT WIDGET -->
+
+---
+
+5. templates/page.hoolah-explainer.liquid: Remove headline / content section and place hoolah-explainer include
+{%- include 'hoolah-explainer' -%}
+
+
+---
+
+6. Add currency notifier footer before </body> tag in case of a currency selector is in place. Replace #currencies with the currency selector ID / class
+
+<!-- hoolah CURRENCY notifier-->
+{%- include 'hoolah-currency-notifier', selector: '#currencies'%}
+<!-- hoolah CURRENCY notifier-->
+
+
+---
+
+7. Create new page 'hoolah installments' based on hoolah-explainer page template
+
+
+
+8. Add JQuery CDN when needed
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.0/jquery.min.js"></script>
+

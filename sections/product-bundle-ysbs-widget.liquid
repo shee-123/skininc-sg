@@ -1,0 +1,116 @@
+{% if product.metafields.meta.bundle_widget_shortcode %}
+<div id="custom_bundle_widget_section" class="custom_bundle_product_widget">
+  <div class="container">
+  	{{ product.metafields.meta.bundle_widget_shortcode }}
+  </div>
+</div>
+{% endif %}
+
+<style type="text/css">
+  .custom_spaced{
+      margin: 0;
+      padding: 80px 0px;
+      border-top: 1px solid #f4f4f4;
+      border-bottom: 1px solid #f4f4f4;
+  }
+  .bndlr-product.bndlr-mix-and-match{
+    padding: 20px 20px 30px;
+    max-width: 300px !important;
+  }
+  .bndlr-container .bndlr-break-plus-signs .bndlr-add-to-cart{
+    border-radius: 0px;
+    font-size: 13px;
+    text-align: center;
+    letter-spacing: 0.2em;
+    font-family: neuzeit-grotesk,sans-serif;
+    font-weight: 300;
+    padding: 14px 28px;
+    border: 1px solid #d7b4b5;
+    margin-top: 15px;
+  }
+  .bundler-target-element{
+    display: inline-block;
+  }
+  .bundler-target-element > div.bndlr-container{
+    display: inline-block;
+    width: auto;
+  }
+  .custom_bundle_product_widget > div.container{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  .bndlr-products-container .bndlr-product{
+    max-width: 260px;
+  }
+  .bundler-target-element .bndlr-mnm-available-products .bundle1_custom_txt_1{
+    width: 100%;
+    font-weight: bold;
+    font-style: normal;
+    color: #5e5e5e;
+    font-size: 20px;
+    padding: 20px 15px;
+  }
+  .bundler-target-element .bndlr-mnm-available-products .bundle1_custom_txt_2{
+    width: 100%;
+    font-weight: bold;
+    font-style: normal;
+    color: #5e5e5e;
+    font-size: 20px;
+    padding: 20px 15px;
+    margin-top: 30px;
+  }
+</style>
+
+<script type="text/javascript">
+  $(function() {
+      document.body.onload = function () {
+        $('.bundler-target-element .bndlr-mnm-available-products .bndlr-product[data-product-id="2254901411953"]').before('<div class="bundle1_custom_txt_1">Select Your My Daily Dose Serums</div>');
+        $('.bundler-target-element .bndlr-mnm-available-products .bndlr-product[data-product-id="2254901543025"]').after('<div class="bundle1_custom_txt_2">Select Your Booster Shoots</div>');
+      }
+      
+      $('body').on('click', '.bndlr-product .bndlr-add-to-bundle', function(){
+        if ($(this).parent().attr('data-product-id') == '2254901411953' || $(this).parent().attr('data-product-id') == '4472784224369' || $(this).parent().attr('data-product-id') == '2254901477489' || $(this).parent().attr('data-product-id') == '2254901543025' ){
+          $('.bundler-target-element .bndlr-mnm-available-products .bndlr-product[data-product-id="2254901411953"] .bndlr-add-to-bundle').css('display', 'none');
+          $('.bundler-target-element .bndlr-mnm-available-products .bndlr-product[data-product-id="4472784224369"] .bndlr-add-to-bundle').css('display', 'none');
+          $('.bundler-target-element .bndlr-mnm-available-products .bndlr-product[data-product-id="2254901477489"] .bndlr-add-to-bundle').css('display', 'none');
+          $('.bundler-target-element .bndlr-mnm-available-products .bndlr-product[data-product-id="2254901543025"] .bndlr-add-to-bundle').css('display', 'none');
+        }
+        if ($(this).parent().attr('data-product-id') == '4617514745969' || $(this).parent().attr('data-product-id') == '4617514352753' || $(this).parent().attr('data-product-id') == '4617514025073' || $(this).parent().attr('data-product-id') == '4617514975345' || $(this).parent().attr('data-product-id') == '4617511174257' ){
+          $('.bundler-target-element .bndlr-mnm-available-products .bndlr-product[data-product-id="4617514745969"] .bndlr-add-to-bundle').css('display', 'none');
+          $('.bundler-target-element .bndlr-mnm-available-products .bndlr-product[data-product-id="4617514352753"] .bndlr-add-to-bundle').css('display', 'none');
+          $('.bundler-target-element .bndlr-mnm-available-products .bndlr-product[data-product-id="4617514025073"] .bndlr-add-to-bundle').css('display', 'none');
+          $('.bundler-target-element .bndlr-mnm-available-products .bndlr-product[data-product-id="4617514975345"] .bndlr-add-to-bundle').css('display', 'none');
+          $('.bundler-target-element .bndlr-mnm-available-products .bndlr-product[data-product-id="4617511174257"] .bndlr-add-to-bundle').css('display', 'none');
+        }
+      });
+      $('body').on('click', '.bndlr-product .bndlr-close', function(){
+        if ($(this).parent().attr('data-variant-id') == '20728089542769' || $(this).parent().attr('data-variant-id') == '31650203730033' || $(this).parent().attr('data-variant-id') == '20728089608305' || $(this).parent().attr('data-variant-id') == '20728089673841' ){
+          $('.bundler-target-element .bndlr-mnm-available-products .bndlr-product[data-product-id="2254901411953"] .bndlr-add-to-bundle').css('display', 'block');
+          $('.bundler-target-element .bndlr-mnm-available-products .bndlr-product[data-product-id="4472784224369"] .bndlr-add-to-bundle').css('display', 'block');
+          $('.bundler-target-element .bndlr-mnm-available-products .bndlr-product[data-product-id="2254901477489"] .bndlr-add-to-bundle').css('display', 'block');
+          $('.bundler-target-element .bndlr-mnm-available-products .bndlr-product[data-product-id="2254901543025"] .bndlr-add-to-bundle').css('display', 'block');
+        }
+        if ($(this).parent().attr('data-variant-id') == '32196056219761' || $(this).parent().attr('data-variant-id') == '32196055761009' || $(this).parent().attr('data-variant-id') == '32196055400561' || $(this).parent().attr('data-variant-id') == '32196056547441' || $(this).parent().attr('data-variant-id') == '32196051894385' ){
+          $('.bundler-target-element .bndlr-mnm-available-products .bndlr-product[data-product-id="4617514745969"] .bndlr-add-to-bundle').css('display', 'block');
+          $('.bundler-target-element .bndlr-mnm-available-products .bndlr-product[data-product-id="4617514352753"] .bndlr-add-to-bundle').css('display', 'block');
+          $('.bundler-target-element .bndlr-mnm-available-products .bndlr-product[data-product-id="4617514025073"] .bndlr-add-to-bundle').css('display', 'block');
+          $('.bundler-target-element .bndlr-mnm-available-products .bndlr-product[data-product-id="4617514975345"] .bndlr-add-to-bundle').css('display', 'block');
+          $('.bundler-target-element .bndlr-mnm-available-products .bndlr-product[data-product-id="4617511174257"] .bndlr-add-to-bundle').css('display', 'block');
+        }
+      });
+  });
+</script>
+
+{% schema %}
+  {
+    "name": "Bundle Product Widget",
+    "settings": [
+		{
+          "type": "header",
+          "content": "Custom Bundle Product Widget",
+		  "info": "Custom Bundle product widget will come from widget shortcode of custom meta field."
+        }
+	]
+  }
+{% endschema %}

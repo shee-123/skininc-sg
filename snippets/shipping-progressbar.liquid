@@ -1,0 +1,6 @@
+<input type="hidden" value="{{cart.total_price | money_without_currency }}" id="cart_price">
+<input type="hidden" value="{{settings.cart_shipping_min}}" id="cart_min_price">
+
+<h4 class="below100percent"><p style="display: inline;" class="ship_price"></p> {{settings.cart_normal_msg}}</h4>
+<h4 class="fullpercent" style="display:none;">{{settings.cart_success_msg}}</h4>
+<div class="cartshippingprogressbar" id="cartshippingprogressbar"></div>

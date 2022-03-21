@@ -1,0 +1,54 @@
+<!-- hoolah CURRENCY notifier--><script>
+  $( document ).ready(function() {
+
+    function showHoolahInstallmentPrice(){
+      $('.hoolah_product_widget, .hoolah_collection_widget').show();
+    }
+
+    function hideHoolahInstallmentPrice(){
+      $('.hoolah_product_widget, .hoolah_collection_widget').hide();
+    }
+
+
+    // Currency dropdown change
+    var observer = new MutationObserver(fnHandler),
+            elTarget = document.querySelector('.currency-converter-currency-button'),
+            objConfig = {
+                childList: true,
+                subtree : true,
+                attributes: false,
+                characterData : false
+            };
+
+    observer.observe(elTarget, objConfig);
+
+
+     function fnHandler () {
+        var currency = elTarget.getElementsByClassName("currency-converter-currency-button-text")[0].innerHTML.toUpperCase();
+        console.log("Changed currency: " + currency);
+
+        if (currency === 'SGD') {
+            showHoolahInstallmentPrice();
+        } else {
+          hideHoolahInstallmentPrice();
+        }
+    }
+
+
+    // Initial currency
+    var currency = document.querySelector('currency-converter-currency-button-text').getElementsByClassName("name")[0].innerHTML.toUpperCase();
+    console.log("Initial currency: " + currency);
+
+    if (currency === 'SGD') {
+      showHoolahInstallmentPrice();
+    } else {
+      hideHoolahInstallmentPrice();
+    }
+
+  });
+
+
+
+
+
+</script>

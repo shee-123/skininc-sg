@@ -1,0 +1,25 @@
+<!-- hoolah price divider widget V. 1.2 -->
+
+{% comment %}
+
+-------
+
+Important: Do not edit this script.
+The assets have been configured centrally on hoolah CDN.
+
+-------
+
+{% endcomment %}
+
+
+
+{%- assign hoolah-base-price = hoolah_base_price | money_without_currency -%}
+
+
+{%- if type == 'collection' -%}
+  <div class="hoolah_collection_widget" data-price="{{ hoolah-base-price  }}" data-currency="{{ shop.currency }}"></div>
+
+
+{%- else if type == 'product' -%}
+  <div class="hoolah_product_widget" data-price="{{ hoolah-base-price }}" data-currency="{{ shop.currency }}"></div>
+{%- endif -%}
