@@ -989,15 +989,6 @@
       "cart-template": {
         "type": "cart-template",
         "blocks": {
-          "5ea01652-3376-4767-8116-72faa52d130a": {
-            "type": "spend-x-get-y",
-            "settings": {
-              "product_handle": "beauty-jelly-dose",
-              "variant_id": "39660145541233",
-              "min_price": "25000",
-              "message": "Gift item"
-            }
-          },
           "6dffbb24-aa29-43c4-b169-16f5e3817492": {
             "type": "buy-x-get-y-gift",
             "settings": {
@@ -1023,7 +1014,6 @@
           }
         },
         "block_order": [
-          "5ea01652-3376-4767-8116-72faa52d130a",
           "6dffbb24-aa29-43c4-b169-16f5e3817492",
           "be854e5c-7cc0-4339-b15c-0407933fad5a"
         ],
