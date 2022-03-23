@@ -3139,12 +3139,25 @@
               "cta_btn_label": "",
               "cta_btn_link": ""
             }
+          },
+          "c51496e3-da32-4882-aed8-388877476513": {
+            "type": "approach_item",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/QR_Code-ai.png",
+              "img_link": "",
+              "title": "Customise your 360 wellness journey  for your lit from within glow.",
+              "content": "",
+              "direction": "right",
+              "cta_btn_label": "",
+              "cta_btn_link": ""
+            }
           }
         },
         "block_order": [
           "7fd7ff39-0c03-4ca6-854d-efb594556e4f",
           "26345419-6489-4093-ac65-1cdea75b802f",
-          "b08894b8-1f74-4ef3-910f-ac31cc22cde7"
+          "b08894b8-1f74-4ef3-910f-ac31cc22cde7",
+          "c51496e3-da32-4882-aed8-388877476513"
         ],
         "settings": {
         }
