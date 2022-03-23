@@ -767,10 +767,11 @@ p.save {
     padding: 0;
 }
 .our-approach.subscription_today h4 {
-    padding: 0 13px !important;
+    padding: 5px 13px!important;
     width: 200px;
     margin: 0 auto;
     top: -18px;
+    font-size: 16px;
 } 
 .our-approach.subscription_today .content p span {
     font-size: 18px;
