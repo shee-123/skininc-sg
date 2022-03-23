@@ -867,5 +867,9 @@ section.section.spaced.our-approach.subscription_today .row.left:nth-of-type(2) 
     left: 0;
     top: -15px;
 } 
+.Slideshow.Slideshow--fullscreen {
+    height: 380px;
+}  
+  
   
 }
