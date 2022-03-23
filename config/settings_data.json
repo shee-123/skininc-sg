@@ -1329,22 +1329,22 @@
         "blocks": {
           "a4a26230-b0c8-4b81-abb9-61d45e435dc6": {
             "type": "image",
-            "disabled": true,
             "settings": {
-              "image": "shopify:\/\/shop_images\/Web_Banner_SG.jpg",
-              "mobile_image": "shopify:\/\/shop_images\/Mobile_Banner_SG.jpg",
-              "apply_overlay": true,
+              "image": "shopify:\/\/shop_images\/Main_KV_1.png",
+              "mobile_image": "shopify:\/\/shop_images\/Main_KV_1.png",
+              "apply_overlay": false,
               "content_position": "bottomLeft",
               "subheading": "",
               "title": "",
               "button_1_text": "",
-              "button_1_link": "shopify:\/\/collections\/my-daily-dose®-serum",
+              "button_1_link": "",
               "button_2_text": "",
-              "button_2_link": "shopify:\/\/collections\/my-daily-dose®-serum"
+              "button_2_link": ""
             }
           },
           "6925cae8-8ad4-4356-b69f-b44cdb8081f1": {
             "type": "image",
+            "disabled": true,
             "settings": {
               "image": "shopify:\/\/shop_images\/Rosalie_Web_Banner_2_a7b1ac7a-44f2-4d13-b5cf-1a5284af2da4.jpg",
               "mobile_image": "shopify:\/\/shop_images\/Rosalie_Mobile_Banner_2.jpg",
@@ -1360,6 +1360,7 @@
           },
           "cc276c43-4d1d-4153-8117-831a34acdba9": {
             "type": "image",
+            "disabled": true,
             "settings": {
               "image": "shopify:\/\/shop_images\/Teal_Trilight_Banner-_Web_cc52860d-2a1d-4793-876e-1ebb1dffa8e2.jpg",
               "mobile_image": "shopify:\/\/shop_images\/Teal_Trilight_Banner_-_Mobile_b69b7846-6f65-4b08-94ad-248dd39e6d8b.jpg",
@@ -1375,6 +1376,7 @@
           },
           "5d70c14a-c0b2-4d37-b38e-c497138df8ed": {
             "type": "image",
+            "disabled": true,
             "settings": {
               "image": "shopify:\/\/shop_images\/Reset_Your_Stressed_Skin_With_Skin-Tech_Science_Web_Banner.jpg",
               "mobile_image": "shopify:\/\/shop_images\/Reset_Your_Stressed_Skin_With_Skin-Tech_Science_Mobile_Banner.jpg",
@@ -1390,6 +1392,7 @@
           },
           "1597302622185": {
             "type": "image",
+            "disabled": true,
             "settings": {
               "image": "shopify:\/\/shop_images\/Rosalie_Web_Banner_3.jpg",
               "mobile_image": "shopify:\/\/shop_images\/Rosalie_Mobile_Banner_3.jpg",
@@ -1700,50 +1703,6 @@
       },
       "product-bundle-widget": {
         "type": "product-bundle-widget",
-        "settings": {
-        }
-      },
-      "16227928669dce7396": {
-        "type": "marquee-banner",
-        "blocks": {
-          "646791ae-fba9-4f27-87b7-6981bc0c82ca": {
-            "type": "marquee_item",
-            "settings": {
-              "title": "150+ Beauty awards"
-            }
-          },
-          "d58d92d8-0e40-43e3-8454-4eefbcbe1b12": {
-            "type": "marquee_item",
-            "settings": {
-              "title": "Proprietary encapsulation for fresh potency"
-            }
-          },
-          "a7f4eeb4-84a9-444e-8d94-9dafd0fc7b1a": {
-            "type": "marquee_item",
-            "settings": {
-              "title": "Clinically-proven glowing results"
-            }
-          },
-          "f91b14af-a7ec-41b7-ac22-fca93210df4f": {
-            "type": "marquee_item",
-            "settings": {
-              "title": "5% REBATES FOR LOYAL CUSTOMERS"
-            }
-          },
-          "72cb288e-bf2a-49ea-b5a7-b16ccd333c02": {
-            "type": "marquee_item",
-            "settings": {
-              "title": "Free shipping over $40"
-            }
-          }
-        },
-        "block_order": [
-          "646791ae-fba9-4f27-87b7-6981bc0c82ca",
-          "d58d92d8-0e40-43e3-8454-4eefbcbe1b12",
-          "a7f4eeb4-84a9-444e-8d94-9dafd0fc7b1a",
-          "f91b14af-a7ec-41b7-ac22-fca93210df4f",
-          "72cb288e-bf2a-49ea-b5a7-b16ccd333c02"
-        ],
         "settings": {
         }
       },
@@ -2982,8 +2941,6 @@
     },
     "content_for_index": [
       "1574758794229",
-      "homepage-intro",
-      "16227928669dce7396",
       "16046706018733d79b",
       "1544002103271",
       "1545015626607",
