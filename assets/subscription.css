@@ -735,12 +735,12 @@ section.section.spaced.our-approach.tri_light.custom {
     height: 400px;
 }  
 .sabi-section h2.text-center.header {
-    font-size: 18px;
-    letter-spacing: 1px!important;
-}
-.sabi-section h2.text-center.header {
     line-height: 25px;
     font-weight: 500;
+    font-size: 18px;
+    letter-spacing: 1px!important;
+    margin-top: 0;
+    font-size: 22px;
 }
 .sabi-section .row .content>div h4 {
     font-size: 20px;
@@ -758,10 +758,11 @@ section.section.spaced.our-approach.tri_light.custom {
     line-height: 26px;
 }
 p.save {
-    width: 70px;
-    height: 70px;
-    font-size: 18px;
+    width: 60px;
+    height: 60px;
+    font-size: 15px;
     line-height: 1;
+    right: 10px;
 }
 .our-approach.subscription_today .content {
     padding: 0;
