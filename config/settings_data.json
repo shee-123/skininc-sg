@@ -342,6 +342,7 @@
       },
       "1544002093716": {
         "type": "social_media_awards",
+        "disabled": true,
         "blocks": {
           "1544070065822": {
             "type": "content",
@@ -363,6 +364,7 @@
       },
       "1544002103271": {
         "type": "approach",
+        "disabled": true,
         "blocks": {
           "1544002148825": {
             "type": "header",
@@ -431,6 +433,7 @@
       },
       "1544002128879": {
         "type": "featured_in",
+        "disabled": true,
         "blocks": {
           "1579060689961": {
             "type": "text",
@@ -523,6 +526,7 @@
       },
       "1544408691386": {
         "type": "usp",
+        "disabled": true,
         "blocks": {
           "1544408850006": {
             "type": "usp_item",
@@ -1209,6 +1213,7 @@
       },
       "1552376488178": {
         "type": "icon-gallery",
+        "disabled": true,
         "blocks": {
           "1552376539759": {
             "type": "brand_image",
@@ -1425,6 +1430,7 @@
       },
       "1602182928254": {
         "type": "review-carousel",
+        "disabled": true,
         "settings": {
         }
       },
@@ -1671,6 +1677,7 @@
       },
       "161209126258078cf5": {
         "type": "instafeed",
+        "disabled": true,
         "settings": {
           "heading_font": "helvetica_n4",
           "heading_size": 26,
@@ -3186,6 +3193,28 @@
         ],
         "settings": {
         }
+      },
+      "1648041702fd3a7f68": {
+        "type": "sabi-section",
+        "blocks": {
+          "e512814e-7af1-4d4b-9d82-4cd744059831": {
+            "type": "approach_item",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/QR_Code-ai.png",
+              "img_link": "",
+              "title": "Scan the QR code and download now to  curate your wellness journey with .",
+              "content": "",
+              "direction": "right",
+              "cta_btn_label": "",
+              "cta_btn_link": ""
+            }
+          }
+        },
+        "block_order": [
+          "e512814e-7af1-4d4b-9d82-4cd744059831"
+        ],
+        "settings": {
+        }
       }
     },
     "content_for_index": [
@@ -3207,7 +3236,8 @@
       "1544002093716",
       "1544161388661",
       "1603098421166",
-      "161209126258078cf5"
+      "161209126258078cf5",
+      "1648041702fd3a7f68"
     ]
   },
   "presets": {
