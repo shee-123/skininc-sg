@@ -3062,6 +3062,48 @@
         ],
         "settings": {
         }
+      },
+      "1648041130db55ebe9": {
+        "type": "icon-gallery",
+        "blocks": {
+          "6422ca2c-b66f-4e64-8996-66e147597f6b": {
+            "type": "brand_image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/SABI_AI_Prototype-07_1_c36a6129-1c27-4b02-bc88-1e2238835448.png",
+              "text": ""
+            }
+          },
+          "c37c846c-ba22-4739-9e7e-d81486421c0e": {
+            "type": "brand_image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/SABI_AI_Prototype-03_1.png",
+              "text": ""
+            }
+          },
+          "61f78c9d-1ddf-4f40-9ba1-b8ffcdcc7232": {
+            "type": "brand_image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/SABI_AI_Prototype-04_1.png",
+              "text": ""
+            }
+          },
+          "d3567efd-892c-4024-91e5-dee038b325fe": {
+            "type": "brand_image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/SABI_AI_Prototype-08_1.png",
+              "text": ""
+            }
+          }
+        },
+        "block_order": [
+          "6422ca2c-b66f-4e64-8996-66e147597f6b",
+          "c37c846c-ba22-4739-9e7e-d81486421c0e",
+          "61f78c9d-1ddf-4f40-9ba1-b8ffcdcc7232",
+          "d3567efd-892c-4024-91e5-dee038b325fe"
+        ],
+        "settings": {
+          "heading": ""
+        }
       }
     },
     "content_for_index": [
@@ -3080,7 +3122,8 @@
       "1544002093716",
       "1544161388661",
       "1603098421166",
-      "161209126258078cf5"
+      "161209126258078cf5",
+      "1648041130db55ebe9"
     ]
   },
   "presets": {
