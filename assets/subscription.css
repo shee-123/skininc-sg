@@ -203,6 +203,9 @@ section.section.spaced.our-approach.subscription_today {
     border-radius: 15px;
     position: relative;
 }
+.shopify-section--bordered+.shopify-section--bordered {
+    border-top: 0;
+}
 .our-approach.subscription_today .content {
     padding: 0 30px;
     width: 100%;
