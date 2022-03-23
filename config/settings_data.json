@@ -565,6 +565,7 @@
       },
       "1545015626607": {
         "type": "skinid",
+        "disabled": true,
         "settings": {
           "title": "4 steps to glowing, dewy skin",
           "subheading": "Why do 10 steps when you can achieve more with less?",
