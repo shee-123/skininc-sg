@@ -736,6 +736,9 @@ ul.rb-box-contents-list li.trb-box-item p {
     letter-spacing: 1px;
     color: #333;
 }
+.rb-section-header {
+    border-color: #eee;
+}
 
 /* rebundle css */
 
