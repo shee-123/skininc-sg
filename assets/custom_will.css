@@ -680,6 +680,24 @@ a.rb-btn.rb-btn-qty {
     width: 138px;
     margin: 0 auto;
 }
+li.rb-step .rb-step-index--complete {
+    background: #d7b4b5;
+    border-color: #faf6f6;
+}
+.rb-review-order {
+    width: 100%;
+}
+.rb-review-order p.rb-order-line-price.tmb0 ,.rb-review-order p.rb-order-box-price.rb-order-item-price,.rb-review-order p.rb-order-box-variant.rb-order-item-title.tfw7 {
+    display: none;
+}
+h3.rb-order-box-product {
+    color: #99999c;
+    letter-spacing: 1px !important;
+    margin: 0 0 20px;
+    border-color: #99999c;
+    margin-bottom: 30px;
+}
+
 
 /* rebundle css */
 
