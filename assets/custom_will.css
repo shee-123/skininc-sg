@@ -868,7 +868,9 @@ p.rb-extras-description {
     border-bottom: 1px solid #eee;
     margin-bottom: 15px;
 }
-
+.rb-order-totals {
+    padding-top: 20px;
+}
 
 
 
