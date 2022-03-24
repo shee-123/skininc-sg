@@ -1085,7 +1085,10 @@ header.PageHeader.pro_head {
 .PageHeader--withBackground .Heading {
     font-size: 22px;
 }   
-
+.rb-multi-step .rb-frequency--selected {
+    flex-direction: column;
+    align-items: baseline;
+}
 
 }  
 /* wranty app*/
