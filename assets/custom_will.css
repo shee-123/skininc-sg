@@ -1089,6 +1089,34 @@ header.PageHeader.pro_head {
     flex-direction: column;
     align-items: baseline;
 }
-
+.rb-multi-step .rb-frequency--selected {
+    flex-direction: column;
+    align-items: baseline;
+}
+h2.rb-step-title.tf2, h1.rb-extras-title {
+    font-size: 24px;
+}
+p.rb-extras-description {
+    width: 100%;
+    font-size: 16px;
+}
+.rb-items-wrapper .rb-addon-item .rb-item-content {
+    flex-direction: column;
+    align-items: flex-start;
+}
+.rb-items-wrapper .rb-addon-item p.rb-title {
+    width: 100%;
+    text-align: left;
+    font-size: 14px !important;
+}
+.rb-items-wrapper .rb-addon-item p {
+    font-size: 14px;
+    margin: 0 0 5px;
+}
+.rb-extras-sidebar p {
+    font-size: 16px;
+}
+  
+  
 }  
 /* wranty app*/
