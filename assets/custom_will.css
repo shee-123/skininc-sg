@@ -714,7 +714,7 @@ h4.rb-box-contents-title {
 }
 .rb-order-box-info {
     width: 100%;
-    display: block;
+    display: block !important;
 }
 ul.rb-box-contents-list {
     margin-bottom: 20px;
