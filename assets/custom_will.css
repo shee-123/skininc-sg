@@ -776,6 +776,26 @@ p.rb-frequency-price {
     font-size: 14px;
     letter-spacing: 1px;
 }
+h1.rb-extras-title {
+    color: #99999c;
+    letter-spacing: 1px !important;
+    margin: 0 0 20px;
+    text-align: center;
+    font-size: 32px;
+}
+p.rb-extras-description {
+    color: #99999c;
+    letter-spacing: 1px !important;
+    margin: -10px auto 20px;
+    border: 0;
+    margin-bottom: 50px;
+    text-align: center;
+    font-size: 20px;
+    font-style: italic;
+    width: 500px;
+}
+
+
 
 
 /* rebundle css */
