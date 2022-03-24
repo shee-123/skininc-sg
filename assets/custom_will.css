@@ -794,6 +794,80 @@ p.rb-extras-description {
     font-style: italic;
     width: 500px;
 }
+.rb-extras-wrapper {flex-flow: column;padding: 0;}
+.rb-container.rb-extras.rb-multi-step {
+    max-width: 80%;
+}
+.rb-extras-header a.rb-link {
+    background: #d7b4b5;
+    display: inline-block;
+    width: 180px;
+    text-align: center;
+    color: #fff;
+    text-transform: uppercase;
+    font-size: 14px;
+    padding: 8px 0;
+    border-radius: 50px;
+    position: absolute;
+    right: 0;
+    z-index: 1;
+}
+.rb-extras-header {
+    margin-bottom: 120px;
+    position: relative;
+}
+.rb-items-wrapper {display: block;}
+.rb-items-wrapper .rb-addon-item {
+    display: flex;
+    width: 100%;
+    flex-direction: row;
+    align-items: center;
+    border-bottom: 1px solid #eee;
+    border-top: 1px solid #eee;
+    margin-bottom: 20px;
+    padding: 10px 0;
+}
+.rb-items-wrapper .rb-addon-item .rb-item-img {
+    width: 150px;
+}
+.rb-items-wrapper .rb-addon-item .rb-item-content {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+}
+.rb-items-wrapper .rb-addon-item p.rb-title {
+    width: 40%;
+}
+.rb-items-wrapper .rb-addon-item .rb-qty-wrapper {
+    border: 1px solid #eee;
+}
+.rb-items-wrapper .rb-addon-item .rb-qty-wrapper input {
+    border: 0;
+}
+.rb-extras-wrapper >div {
+    width: 100% !important;
+}
+.rb-extras-sidebar h4 {
+    color: #333;
+    font-size: 28px;
+    letter-spacing: 1px !important;
+    margin-bottom: 10px;
+}
+.rb-extras-sidebar .rb-extras-summary {
+    padding: 10px 0 0;
+    width: 100%;
+}
+.rb-extras-sidebar p {
+    color: #333;
+    font-size: 18px;
+    letter-spacing: 1px !important;
+    margin-bottom: 10px;
+}
+.rb-extras-sidebar ul {
+    border-bottom: 1px solid #eee;
+    margin-bottom: 15px;
+}
 
 
 
