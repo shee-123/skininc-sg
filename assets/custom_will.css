@@ -685,7 +685,8 @@ li.rb-step .rb-step-index--complete {
     border-color: #faf6f6;
 }
 .rb-review-order {
-    width: 100%;
+    width: 100% !important;
+    flex-direction: column !important;
 }
 .rb-review-order p.rb-order-line-price.tmb0 ,.rb-review-order p.rb-order-box-price.rb-order-item-price,.rb-review-order p.rb-order-box-variant.rb-order-item-title.tfw7 {
     display: none;
