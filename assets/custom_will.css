@@ -737,7 +737,7 @@ ul.rb-box-contents-list li.trb-box-item p {
     color: #333;
 }
 .rb-section-header {
-    border-color: #eee;
+    border-color: #eee !important;
 }
 
 /* rebundle css */
