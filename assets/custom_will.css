@@ -694,8 +694,12 @@ h3.rb-order-box-product {
     color: #99999c;
     letter-spacing: 1px !important;
     margin: 0 0 20px;
-    border-color: #eee;
-    margin-bottom: 30px;
+    border: 0;
+    margin-bottom: 50px;
+    text-align: center;
+    font-size: 20px;
+    margin-top: -20px !important;
+    font-style: italic;
 }
 .rb-review-order > div {
     width: 100% !important;
@@ -705,6 +709,8 @@ h4.rb-box-contents-title {
     color: #333;
     text-transform: uppercase;
     letter-spacing: 1px !important;
+    border-bottom: 1px solid #eee;
+    padding-bottom: 5px;
 }
 .rb-order-box-info {
     width: 100%;
