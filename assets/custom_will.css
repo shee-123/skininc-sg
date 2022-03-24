@@ -744,6 +744,39 @@ ul.rb-box-contents-list li.trb-box-item p {
 .rb-section-header {
     border-color: #eee !important;
 }
+.rb-order-totals {
+    border-color: #eee !important;
+    padding-top: 20px;
+}
+h3.rb-order-total-label,.rb-order-totals p ,h4.rb-frequency-title {
+    color: #333;
+    font-size: 18px;
+    letter-spacing: 1px !important;
+}
+.rb-multi-step .rb-frequency--selected {
+    background: transparent;
+    border: 1px solid #d7b4b5;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 20px !important;
+}
+select.rb-select.rb-frequency-select {
+    padding: 5px 10px;
+    color: #333;
+    border-color: #eee;
+}
+p.rb-frequency-price {
+    color: #333;
+}
+.rb-footer-actions a.rb-btn {
+    padding: 5px 40px;
+    text-transform: uppercase;
+    border-radius: 30px;
+    font-size: 14px;
+    letter-spacing: 1px;
+}
+
 
 /* rebundle css */
 
