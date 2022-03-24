@@ -655,7 +655,7 @@ p.rb-step-description, p.rb-title {
 h2.rb-section-title {
     margin: 0;
 }
-body, p, span, a , h2, h1, h4{
+section#recharge-bundle p,section#recharge-bundle span,section#recharge-bundle a ,section#recharge-bundle h2,section#recharge-bundle h1,section#recharge-bundle h4,section#recharge-bundle h3{
     font-family: Helvetica,Helvetica Neue,Arial,Lucida Grande,sans-serif !important;
     font-weight: 400;
 }
