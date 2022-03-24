@@ -794,7 +794,7 @@ p.rb-extras-description {
     font-style: italic;
     width: 500px;
 }
-.rb-extras-wrapper {flex-flow: column;padding: 0;}
+.rb-extras-wrapper {flex-direction: column !important;padding: 0;}
 .rb-container.rb-extras.rb-multi-step {
     max-width: 80%;
 }
@@ -813,7 +813,7 @@ p.rb-extras-description {
     z-index: 1;
 }
 .rb-extras-header {
-    margin-bottom: 120px;
+    margin-bottom: 120px !important;
     position: relative;
 }
 .rb-items-wrapper {display: block;}
