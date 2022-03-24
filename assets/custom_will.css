@@ -641,7 +641,7 @@ h2.rb-step-title.tf2, h2.rb-section-title{
     letter-spacing: 1px !important;
     margin: 0 0 20px;
 }
-.rb-step-index--complete {
+.rb-step-index--complete,.rb-step-index--complete {
     background: #d7b4b5;
     border-color: #faf6f6;
 }
