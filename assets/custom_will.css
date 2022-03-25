@@ -1017,6 +1017,10 @@ ul.rb-box-contents-list {
 .rb-items-wrapper .rb-addon-item .rb-qty-wrapper {
     width: 140px;
 }
+p.rb-extras-description {
+    width: 100%;
+}  
+  
 }
 
 /* end css wranty app */
