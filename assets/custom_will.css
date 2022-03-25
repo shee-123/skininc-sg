@@ -995,7 +995,7 @@ div#mpr-product-list td[data-column="Product name"] {
   .rb-container {
     padding: 0 20px;
 }
-h2.rb-step-title.tf2,h1.rb-extras-title {
+h2.rb-step-title.tf2,h1.rb-extras-title:before {
     font-size: 28px;
 }
 p.rb-title {
@@ -1125,7 +1125,7 @@ header.PageHeader.pro_head {
     flex-direction: column;
     align-items: baseline;
 }
-h2.rb-step-title.tf2, h1.rb-extras-title {
+h2.rb-step-title.tf2, h1.rb-extras-title:before {
     font-size: 24px;
 }
 p.rb-extras-description {
