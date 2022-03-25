@@ -782,6 +782,14 @@ h1.rb-extras-title {
     letter-spacing: 1px !important;
     margin: 0 0 20px;
     text-align: center;
+    font-size: 0px;
+}
+h1.rb-extras-title:before {
+    content: "Complete your 360 customized skin program journey with Award-winning Tri-Light +Sabi AI";
+    color: #99999c;
+    letter-spacing: 1px !important;
+    margin: 0 0 20px;
+    text-align: center;
     font-size: 32px;
 }
 p.rb-extras-description {
