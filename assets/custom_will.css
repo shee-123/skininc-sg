@@ -1152,7 +1152,9 @@ p.rb-extras-description:before {
 .rb-extras-sidebar p {
     font-size: 16px;
 }
-  
+.rb-extras-header {
+    margin-bottom: 40px !important;
+}  
   
 }  
 /* wranty app*/
