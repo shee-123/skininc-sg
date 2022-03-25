@@ -905,6 +905,15 @@ p.rb-step-description a {
     content: "Next";
     font-size: 14px;
 }
+.rb-extras-wrapper >div a:nth-of-type(1):after {
+    content: "Add Tri-Light Sabi to your cart";
+    font-size: 14px;
+}
+.rb-extras-wrapper >div a:nth-of-type(1) {
+    font-size: 0;
+    width: 320px;
+    padding: 8px 0;
+}
 
 
 /* rebundle css */
