@@ -822,6 +822,7 @@ p.rb-extras-description:before {content: "8-in-1 Benefits: Sonic, PEMF (Pulsed E
     position: absolute;
     right: 0;
     z-index: 1;
+    display:none;
 }
 .rb-extras-header {
     margin-bottom: 120px !important;
