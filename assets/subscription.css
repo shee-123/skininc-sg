@@ -442,6 +442,9 @@ section.section.spaced.our-approach.subscription_today .row.left:nth-of-type(2) 
 .section.spaced.our-approach.sabi-section .row.right:nth-of-type(3) {
     display: none;
 }
+div#shopify-section-subs_testim {
+    overflow-x: hidden;
+}
 
 
 @media screen and (min-device-width: 1920px) and (max-device-width: 2560px) {
