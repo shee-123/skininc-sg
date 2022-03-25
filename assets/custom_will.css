@@ -886,6 +886,14 @@ p.rb-step-description a {
     font-weight: 700 !important;
     text-decoration: underline;
 }
+.rb-footer-actions a.rb-btn span {
+    font-size: 0;
+}
+.rb-footer-actions a.rb-btn span:before {
+    content: "Next";
+    font-size: 14px;
+}
+
 
 /* rebundle css */
 
