@@ -852,6 +852,7 @@ p.rb-extras-description:before {content: "8-in-1 Benefits: Sonic, PEMF (Pulsed E
 }
 .rb-items-wrapper .rb-addon-item .rb-qty-wrapper {
     border: 1px solid #eee;
+    width: 150px;
 }
 .rb-items-wrapper .rb-addon-item .rb-qty-wrapper input {
     border: 0;
