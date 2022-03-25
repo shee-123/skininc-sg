@@ -1020,6 +1020,10 @@ ul.rb-box-contents-list {
 p.rb-extras-description {
     width: 100%;
 }  
+.rb-container {
+    padding: 0 10px;
+}
+  
   
 }
 
