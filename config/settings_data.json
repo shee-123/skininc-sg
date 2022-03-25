@@ -5,7 +5,7 @@
     "enableCartShipping": false,
     "cart_shipping_min": "0",
     "cart_normal_msg": "away from free shipping",
-    "cart_success_msg": "You are eligible for free shipping",
+    "cart_success_msg": "You are eligible for free shipping", 
     "heading_color": "#333333",
     "text_color": "#333333",
     "text_light_color": "#333333",
@@ -342,6 +342,7 @@
       },
       "1544002093716": {
         "type": "social_media_awards",
+        "disabled": true,
         "blocks": {
           "1544070065822": {
             "type": "content",
@@ -363,6 +364,7 @@
       },
       "1544002103271": {
         "type": "approach",
+        "disabled": true,
         "blocks": {
           "1544002148825": {
             "type": "header",
@@ -431,6 +433,7 @@
       },
       "1544002128879": {
         "type": "featured_in",
+        "disabled": true,
         "blocks": {
           "1579060689961": {
             "type": "text",
@@ -523,6 +526,7 @@
       },
       "1544408691386": {
         "type": "usp",
+        "disabled": true,
         "blocks": {
           "1544408850006": {
             "type": "usp_item",
@@ -561,6 +565,7 @@
       },
       "1545015626607": {
         "type": "skinid",
+        "disabled": true,
         "settings": {
           "title": "4 steps to glowing, dewy skin",
           "subheading": "Why do 10 steps when you can achieve more with less?",
@@ -989,22 +994,13 @@
       "cart-template": {
         "type": "cart-template",
         "blocks": {
-          "5ea01652-3376-4767-8116-72faa52d130a": {
-            "type": "spend-x-get-y",
-            "settings": {
-              "product_handle": "beauty-jelly-dose",
-              "variant_id": "39660145541233",
-              "min_price": "25000",
-              "message": "Gift item"
-            }
-          },
-          "6dffbb24-aa29-43c4-b169-16f5e3817492": {
+          "0ef28b98-2a01-487d-9e5b-3952717fa5a7": {
             "type": "buy-x-get-y-gift",
             "settings": {
               "product_handle": "tri-light-ai-launch-gwp-deepsea-hydrating-mask-30ml-serum-booster-shot-soothe-worth-sgd-120",
-              "variant_id": "6697435005041",
+              "variant_id": "39704471502961",
               "handle": "tri-light-sabi",
-              "message": "Exclusive Gift Item"
+              "message": "Gift item"
             }
           },
           "be854e5c-7cc0-4339-b15c-0407933fad5a": {
@@ -1023,8 +1019,7 @@
           }
         },
         "block_order": [
-          "5ea01652-3376-4767-8116-72faa52d130a",
-          "6dffbb24-aa29-43c4-b169-16f5e3817492",
+          "0ef28b98-2a01-487d-9e5b-3952717fa5a7",
           "be854e5c-7cc0-4339-b15c-0407933fad5a"
         ],
         "settings": {
@@ -1219,6 +1214,7 @@
       },
       "1552376488178": {
         "type": "icon-gallery",
+        "disabled": true,
         "blocks": {
           "1552376539759": {
             "type": "brand_image",
@@ -1339,22 +1335,22 @@
         "blocks": {
           "a4a26230-b0c8-4b81-abb9-61d45e435dc6": {
             "type": "image",
-            "disabled": true,
             "settings": {
-              "image": "shopify:\/\/shop_images\/Web_Banner_SG.jpg",
-              "mobile_image": "shopify:\/\/shop_images\/Mobile_Banner_SG.jpg",
-              "apply_overlay": true,
+              "image": "shopify:\/\/shop_images\/Main_KV_1.png",
+              "mobile_image": "shopify:\/\/shop_images\/Main_KV_1.png",
+              "apply_overlay": false,
               "content_position": "bottomLeft",
               "subheading": "",
               "title": "",
               "button_1_text": "",
-              "button_1_link": "shopify:\/\/collections\/my-daily-dose®-serum",
+              "button_1_link": "https:\/\/www.iloveskininc.com.sg\/products\/tri-light-sabi",
               "button_2_text": "",
-              "button_2_link": "shopify:\/\/collections\/my-daily-dose®-serum"
+              "button_2_link": ""
             }
           },
           "6925cae8-8ad4-4356-b69f-b44cdb8081f1": {
             "type": "image",
+            "disabled": true,
             "settings": {
               "image": "shopify:\/\/shop_images\/Rosalie_Web_Banner_2_a7b1ac7a-44f2-4d13-b5cf-1a5284af2da4.jpg",
               "mobile_image": "shopify:\/\/shop_images\/Rosalie_Mobile_Banner_2.jpg",
@@ -1370,6 +1366,7 @@
           },
           "cc276c43-4d1d-4153-8117-831a34acdba9": {
             "type": "image",
+            "disabled": true,
             "settings": {
               "image": "shopify:\/\/shop_images\/Teal_Trilight_Banner-_Web_cc52860d-2a1d-4793-876e-1ebb1dffa8e2.jpg",
               "mobile_image": "shopify:\/\/shop_images\/Teal_Trilight_Banner_-_Mobile_b69b7846-6f65-4b08-94ad-248dd39e6d8b.jpg",
@@ -1385,6 +1382,7 @@
           },
           "5d70c14a-c0b2-4d37-b38e-c497138df8ed": {
             "type": "image",
+            "disabled": true,
             "settings": {
               "image": "shopify:\/\/shop_images\/Reset_Your_Stressed_Skin_With_Skin-Tech_Science_Web_Banner.jpg",
               "mobile_image": "shopify:\/\/shop_images\/Reset_Your_Stressed_Skin_With_Skin-Tech_Science_Mobile_Banner.jpg",
@@ -1400,6 +1398,7 @@
           },
           "1597302622185": {
             "type": "image",
+            "disabled": true,
             "settings": {
               "image": "shopify:\/\/shop_images\/Rosalie_Web_Banner_3.jpg",
               "mobile_image": "shopify:\/\/shop_images\/Rosalie_Mobile_Banner_3.jpg",
@@ -1432,6 +1431,7 @@
       },
       "1602182928254": {
         "type": "review-carousel",
+        "disabled": true,
         "settings": {
         }
       },
@@ -1468,17 +1468,17 @@
       "16046706018733d79b": {
         "type": "featured-product-dev",
         "blocks": {
-          "9abd3b8a-0a87-4c7b-b756-3790c7146b16": {
-            "type": "product",
-            "settings": {
-              "product": "create-your-own-custom-serum",
-              "type": "best_sellers"
-            }
-          },
           "2ca6304f-0f1b-4076-928f-b4ee9dbd5ccc": {
             "type": "product",
             "settings": {
               "product": "tri-light-sabi",
+              "type": "best_sellers"
+            }
+          },
+          "9abd3b8a-0a87-4c7b-b756-3790c7146b16": {
+            "type": "product",
+            "settings": {
+              "product": "create-your-own-custom-serum",
               "type": "best_sellers"
             }
           },
@@ -1638,8 +1638,8 @@
           }
         },
         "block_order": [
-          "9abd3b8a-0a87-4c7b-b756-3790c7146b16",
           "2ca6304f-0f1b-4076-928f-b4ee9dbd5ccc",
+          "9abd3b8a-0a87-4c7b-b756-3790c7146b16",
           "01c93470-c163-46eb-b499-211b6eaf1d09",
           "308f39ac-6683-4aad-993f-c1c402798ba4",
           "e0919f2b-1041-4fc8-bef1-b60465427aee",
@@ -1678,6 +1678,7 @@
       },
       "161209126258078cf5": {
         "type": "instafeed",
+        "disabled": true,
         "settings": {
           "heading_font": "helvetica_n4",
           "heading_size": 26,
@@ -1710,50 +1711,6 @@
       },
       "product-bundle-widget": {
         "type": "product-bundle-widget",
-        "settings": {
-        }
-      },
-      "16227928669dce7396": {
-        "type": "marquee-banner",
-        "blocks": {
-          "646791ae-fba9-4f27-87b7-6981bc0c82ca": {
-            "type": "marquee_item",
-            "settings": {
-              "title": "150+ Beauty awards"
-            }
-          },
-          "d58d92d8-0e40-43e3-8454-4eefbcbe1b12": {
-            "type": "marquee_item",
-            "settings": {
-              "title": "Proprietary encapsulation for fresh potency"
-            }
-          },
-          "a7f4eeb4-84a9-444e-8d94-9dafd0fc7b1a": {
-            "type": "marquee_item",
-            "settings": {
-              "title": "Clinically-proven glowing results"
-            }
-          },
-          "f91b14af-a7ec-41b7-ac22-fca93210df4f": {
-            "type": "marquee_item",
-            "settings": {
-              "title": "5% REBATES FOR LOYAL CUSTOMERS"
-            }
-          },
-          "72cb288e-bf2a-49ea-b5a7-b16ccd333c02": {
-            "type": "marquee_item",
-            "settings": {
-              "title": "Free shipping over $40"
-            }
-          }
-        },
-        "block_order": [
-          "646791ae-fba9-4f27-87b7-6981bc0c82ca",
-          "d58d92d8-0e40-43e3-8454-4eefbcbe1b12",
-          "a7f4eeb4-84a9-444e-8d94-9dafd0fc7b1a",
-          "f91b14af-a7ec-41b7-ac22-fca93210df4f",
-          "72cb288e-bf2a-49ea-b5a7-b16ccd333c02"
-        ],
         "settings": {
         }
       },
@@ -3048,6 +3005,31 @@
               "img_link": "",
               "title": "5TH MONTH ONWARDS",
               "content": "<b>$125 \/ mont<\/b><i>(billed monthly)<\/i> <span>Save $44<i>on your monthly cocktail serum<\/i><\/span>",
+      "16480391365f31924b": {
+        "type": "being-is-you",
+        "settings": {
+          "text1": "Your skin is your biggest organ and is the barometer of your wellbeing.",
+          "text2": "It is the first place to show signs of other ailments. Our every thought,  lifestyle and environment greatly affects our greater health and well-being,  impacting us emotionally, mentally, and physically.",
+          "text3": "https:\/\/cdn.shopify.com\/s\/files\/1\/0077\/6162\/5201\/files\/Statement-Gif.gif?v=1645175266"
+        }
+      },
+      "16480402579038fbd6": {
+        "type": "sabi-section",
+        "blocks": {
+          "7ea25ccb-2012-4f40-af73-753301481dae": {
+            "type": "header",
+            "settings": {
+              "heading": "INTRODUCING THE WORLD’S FIRST BREAKTHROUGH APP",
+              "logo": "shopify:\/\/shop_images\/SABI_AI_Logo.png"
+            }
+          },
+          "85b16549-2924-4470-b419-946420efd9d2": {
+            "type": "approach_item",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/SABI_AI_Prototype-01_1_1.png",
+              "img_link": "\/products\/tri-light-sabi",
+              "title": "Take a Selfie and get a 360 AI diagnostic & progressive skin report.",
+              "content": "<p>Receive personalized coaching from +SABI AI, your new best friend. Get self-care tips and product recommendations based on computer-vision assessment of your lines, pores, moisture, skin tone, and more.<br\/><br\/>Measure your skin’s hydration level and get precise readings for optimal skin wellness.<\/p>",
               "direction": "left",
               "cta_btn_label": "",
               "cta_btn_link": ""
@@ -3133,6 +3115,11 @@
             "settings": {
               "image": "shopify:\/\/shop_images\/SABI_AI_PDP_Vector_-_For_Van-02_1_85e6eb10-2f1c-438f-b766-fa1b75646d97.png",
               "img_link": "",
+          "3911f340-78e2-449a-b2b8-5bd9cde865e6": {
+            "type": "approach_item",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/SABI_AI_PDP_Vector_-_For_Van-02_1_85e6eb10-2f1c-438f-b766-fa1b75646d97.png",
+              "img_link": "\/products\/tri-light-sabi",
               "title": "",
               "content": "",
               "direction": "right",
@@ -3145,6 +3132,11 @@
             "settings": {
               "image": "shopify:\/\/shop_images\/QR_Code-ai.png",
               "img_link": "",
+          "c1ba4793-8936-4336-ac85-8e94ad6f8564": {
+            "type": "approach_item",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/QR_Code-ai.png",
+              "img_link": "\/products\/tri-light-sabi",
               "title": "Customise your 360 wellness journey  for your lit from within glow.",
               "content": "",
               "direction": "right",
@@ -3158,6 +3150,10 @@
           "26345419-6489-4093-ac65-1cdea75b802f",
           "b08894b8-1f74-4ef3-910f-ac31cc22cde7",
           "c51496e3-da32-4882-aed8-388877476513"
+          "7ea25ccb-2012-4f40-af73-753301481dae",
+          "85b16549-2924-4470-b419-946420efd9d2",
+          "3911f340-78e2-449a-b2b8-5bd9cde865e6",
+          "c1ba4793-8936-4336-ac85-8e94ad6f8564"
         ],
         "settings": {
         }
@@ -3181,12 +3177,65 @@
               "direction": "left",
               "cta_btn_label": "LEARN MORE",
               "cta_btn_link": "\/"
+      "16480405754d676c34": {
+        "type": "video-section",
+        "settings": {
+          "section_size": "large",
+          "text_color": "#ffffff",
+          "subheading": "",
+          "title": "Your video",
+          "video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
+          "video_url_sec": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc"
+        }
+      },
+      "1648040652e58c84be": {
+        "type": "sabi-section",
+        "blocks": {
+          "ca6b8739-10a1-4b9c-8803-e371deaf73ea": {
+            "type": "header",
+            "settings": {
+              "heading": "POWERED BY",
+              "logo": "shopify:\/\/shop_images\/SABI_AI_Logo.png"
+            }
+          },
+          "69ed4a20-fbc6-490b-9939-c17d8e96ac78": {
+            "type": "header",
+            "settings": {
+              "heading": "<span>Step-by-step treatment for transformational results<br> <i>Glow, Revive, Soothe & V-Sculpt with 5 NASA LED Lights<\/i><\/span>",
+              "logo": "shopify:\/\/shop_images\/Full-Packshot_7b2b9f39-4503-49cd-95c5-ad302fbfb723.gif"
+            }
+          },
+          "c3e5bbf2-838f-4a2c-b567-7b9f2197c86d": {
+            "type": "approach_item",
+            "settings": {
+              "img_link": "",
+              "title": "Customize your self-care treatment based on your skin goals.",
+              "content": "<p>Pair +SABI AI app with Tri-Light™ to enjoy a guided and customised LED facial treatments with your selfie & hydro-sensor analysis. Complete the Skin Identity Quiz to get your clinically-proven and award-winning customised cocktail serum and booster. Leveraging on the data of over 1.2 million skin profiles, your self-care treatment is customised based on water intake, sleep, stress, activity level, menstrual cycle, pollution index, and blue light exposure.<\/p>",
+              "direction": "left",
+              "cta_btn_label": "",
+              "cta_btn_link": ""
+            }
+          },
+          "08c2d265-9c65-4680-aca3-2070ec804215": {
+            "type": "approach_item",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/QR_Code-ai.png",
+              "img_link": "\/products\/tri-light-sabi",
+              "title": "Download +SABI AI app, the world’s first 360 wellness skin health coach",
+              "content": "",
+              "direction": "right",
+              "cta_btn_label": "",
+              "cta_btn_link": ""
             }
           }
         },
         "block_order": [
           "58f57312-7e52-4948-b030-6b15bf907321",
           "1b89d9d5-5bd0-4cbc-91e3-7b35088f45ab"
+          "ca6b8739-10a1-4b9c-8803-e371deaf73ea",
+          "69ed4a20-fbc6-490b-9939-c17d8e96ac78",
+          "c3e5bbf2-838f-4a2c-b567-7b9f2197c86d",
+          "08c2d265-9c65-4680-aca3-2070ec804215"
         ],
         "settings": {
         }
@@ -3222,6 +3271,35 @@
               "icon-text": "Effortless Beauty Delivered To Your  Door Monthly",
               "icon-subtext": "",
               "check_text": ""
+      "1648041130db55ebe9": {
+        "type": "icon-gallery",
+        "blocks": {
+          "6422ca2c-b66f-4e64-8996-66e147597f6b": {
+            "type": "brand_image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/SABI_AI_Prototype-07_1_c36a6129-1c27-4b02-bc88-1e2238835448.png",
+              "text": ""
+            }
+          },
+          "c37c846c-ba22-4739-9e7e-d81486421c0e": {
+            "type": "brand_image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/SABI_AI_Prototype-03_1.png",
+              "text": ""
+            }
+          },
+          "61f78c9d-1ddf-4f40-9ba1-b8ffcdcc7232": {
+            "type": "brand_image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/SABI_AI_Prototype-04_1.png",
+              "text": ""
+            }
+          },
+          "d3567efd-892c-4024-91e5-dee038b325fe": {
+            "type": "brand_image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/SABI_AI_Prototype-08_1.png",
+              "text": ""
             }
           }
         },
@@ -3249,11 +3327,116 @@
               "direction": "left",
               "cta_btn_label": "START MY JOURNEY NOW",
               "cta_btn_link": "\/"
+          "6422ca2c-b66f-4e64-8996-66e147597f6b",
+          "c37c846c-ba22-4739-9e7e-d81486421c0e",
+          "61f78c9d-1ddf-4f40-9ba1-b8ffcdcc7232",
+          "d3567efd-892c-4024-91e5-dee038b325fe"
+        ],
+        "settings": {
+          "heading": ""
+        }
+      },
+      "164804125767f97197": {
+        "type": "text-with-image",
+        "settings": {
+          "title": "Less is more.",
+          "content": "<p>You don’t need 20 steps or 20,000<br\/>ingredients for a healthy, glowing you.<br\/>Generate zero waste with No Nasties<br\/>formula customized just for you.<\/p>",
+          "link_text": "",
+          "link_url": ""
+        }
+      },
+      "164804139441235ee1": {
+        "type": "science",
+        "blocks": {
+          "9c250db0-e04a-4b83-9c11-4f5d24c6b848": {
+            "type": "header",
+            "settings": {
+              "heading": "",
+              "logo": "shopify:\/\/shop_images\/SABI_AI_Logo.png"
+            }
+          },
+          "2d2d0788-c7b6-449b-945c-ec6428e98ccd": {
+            "type": "approach_item",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/Blonde_Girl_with_Orange_Light_1_-_Without_Copy.jpg",
+              "s_logo": "shopify:\/\/shop_images\/ss.png",
+              "img_link": "\/products\/tri-light-sabi",
+              "title": "",
+              "content": "<p>Using <em><strong>SCIENCE<\/strong><\/em><em> <\/em>to unlock your full potential.<\/p>",
+              "direction": "left",
+              "cta_btn_label": "",
+              "cta_btn_link": ""
+            }
+          },
+          "89117c2b-a88e-4891-9f4d-8f2b40bbb84f": {
+            "type": "approach_item",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/Asian_Girl_with_No_Light_2.jpg",
+              "s_logo": "shopify:\/\/shop_images\/r.png",
+              "img_link": "\/products\/tri-light-sabi",
+              "title": "",
+              "content": "<p>Powered by <em><strong>AI <\/strong><\/em>to take the guesswork out of your wellness journey.<\/p>",
+              "direction": "left",
+              "cta_btn_label": "",
+              "cta_btn_link": ""
+            }
+          },
+          "cd422762-98c8-4114-9d52-45ed64989732": {
+            "type": "approach_item",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/shutterstock_1960316680.jpg",
+              "s_logo": "shopify:\/\/shop_images\/bb.png",
+              "img_link": "\/products\/tri-light-sabi",
+              "title": "",
+              "content": "<p>Creating the perfect <em><strong>BALANCE <\/strong><\/em><br\/>between your emotional, mental,<br\/>and physical health.<\/p>",
+              "direction": "left",
+              "cta_btn_label": "",
+              "cta_btn_link": ""
+            }
+          },
+          "81bc95c6-1faf-4595-816c-51a5dd44ecf7": {
+            "type": "approach_item",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/Main_KV_2_-_Without_Copy_1.jpg",
+              "s_logo": "shopify:\/\/shop_images\/ii.png",
+              "img_link": "\/products\/tri-light-sabi",
+              "title": "",
+              "content": "<p>Nurturing your <em><strong>INNER-BEING<\/strong><\/em> cause feeling good is the new looking good.<\/p>",
+              "direction": "left",
+              "cta_btn_label": "",
+              "cta_btn_link": ""
             }
           }
         },
         "block_order": [
           "9e9af264-ad88-4242-8983-7daf3f37903f"
+          "9c250db0-e04a-4b83-9c11-4f5d24c6b848",
+          "2d2d0788-c7b6-449b-945c-ec6428e98ccd",
+          "89117c2b-a88e-4891-9f4d-8f2b40bbb84f",
+          "cd422762-98c8-4114-9d52-45ed64989732",
+          "81bc95c6-1faf-4595-816c-51a5dd44ecf7"
+        ],
+        "settings": {
+        }
+      },
+      "1648041702fd3a7f68": {
+        "type": "sabi-section",
+        "blocks": {
+          "e512814e-7af1-4d4b-9d82-4cd744059831": {
+            "type": "approach_item",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/QR_Code-ai.png",
+              "img_link": "\/products\/tri-light-sabi",
+              "title": "Scan the QR code and download now to  curate your wellness journey with .",
+              "content": "",
+              "direction": "right",
+              "cta_btn_label": "",
+              "cta_btn_link": ""
+            }
+          }
+        },
+        "block_order": [
+          "e512814e-7af1-4d4b-9d82-4cd744059831"
         ],
         "settings": {
         }
@@ -3261,9 +3444,14 @@
     },
     "content_for_index": [
       "1574758794229",
-      "homepage-intro",
-      "16227928669dce7396",
+      "16480391365f31924b",
+      "16480405754d676c34",
+      "16480402579038fbd6",
+      "1648040652e58c84be",
+      "1648041130db55ebe9",
+      "164804125767f97197",
       "16046706018733d79b",
+      "164804139441235ee1",
       "1544002103271",
       "1545015626607",
       "1544002128879",
@@ -3273,7 +3461,8 @@
       "1544002093716",
       "1544161388661",
       "1603098421166",
-      "161209126258078cf5"
+      "161209126258078cf5",
+      "1648041702fd3a7f68"
     ]
   },
   "presets": {
@@ -4419,7 +4608,7 @@
             "show_color_carousel": false,
             "show_quantity_selector": true,
             "show_inventory_quantity": false,
-            "inventory_quantity_threshold": 3,
+            "inventory_quantity_threshold": 3, 
             "image_size": "large",
             "enable_image_zoom": true,
             "show_thumbnails": false,
