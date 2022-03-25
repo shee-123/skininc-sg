@@ -3425,6 +3425,7 @@
           "41cbb46d-afed-4950-839a-fc3aae5791bb": {
             "type": "icon_txt",
             "settings": {
+              "image": "shopify:\/\/shop_images\/test1.png",
               "point-text": "",
               "icon-text": "Glow More For Less. Full-sized, Not Full Price. Made Affordable For You.",
               "icon-subtext": "",
@@ -3434,6 +3435,7 @@
           "53fd4f3a-55ab-4c0a-bf53-fff37ef8f11d": {
             "type": "icon_txt",
             "settings": {
+              "image": "shopify:\/\/shop_images\/thumb_1.png",
               "point-text": "",
               "icon-text": "Clinically Proven &  Customized For Effective Results",
               "icon-subtext": "",
@@ -3443,6 +3445,7 @@
           "da4b9b75-2b3f-4323-93c2-bbb4d1154afe": {
             "type": "icon_txt",
             "settings": {
+              "image": "shopify:\/\/shop_images\/test2.png",
               "point-text": "",
               "icon-text": "Effortless Beauty Delivered To Your  Door Monthly",
               "icon-subtext": "",
