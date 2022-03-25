@@ -882,7 +882,10 @@ p.rb-extras-description {
     font-size: 14px;
     letter-spacing: 1px;
 }
-
+p.rb-step-description a {
+    font-weight: 700 !important;
+    text-decoration: underline;
+}
 
 /* rebundle css */
 
