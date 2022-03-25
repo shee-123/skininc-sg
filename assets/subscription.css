@@ -901,5 +901,10 @@ section.section.spaced.our-approach.subscription_today .row.left:nth-of-type(2) 
 .section.spaced.our-approach.sabi-section .row.right:nth-of-type(3) {
     display: block;
 }  
+.Clinically-Proven {
+    padding-bottom: 250px;
+    background-size: contain;
+}
+  
   
 }
