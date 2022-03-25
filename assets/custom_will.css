@@ -1163,6 +1163,11 @@ p.rb-extras-description:before {
 .rb-extras-header {
     margin-bottom: 40px !important;
 }  
+h1.rb-extras-title:before {
+    font-size: 18px;
+    line-height: 25px;
+}
+  
   
 }  
 /* wranty app*/
