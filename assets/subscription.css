@@ -363,6 +363,9 @@ section.section.spaced.our-approach.subscription_today .row.left:nth-of-type(2) 
 .Clinically-Proven ul li:nth-of-type(3) span {
     background: url(https://cdn.shopify.com/s/files/1/0077/6162/5201/files/85.png?v=1648444749)no-repeat;
 }
+.Clinically-Proven ul li:last-child span {
+    background: url(https://cdn.shopify.com/s/files/1/0077/6162/5201/files/81.png?v=1648444749)no-repeat;
+}
 .Clinically-Proven p {
     color: #919295;
     font-size: 27px;
