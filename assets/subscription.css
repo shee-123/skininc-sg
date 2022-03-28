@@ -410,6 +410,14 @@ p.save {
     border-radius: 50%;
     color: #fff;
     top: -40px;
+    flex-direction: column;
+    text-align: center;
+}
+p.save span {
+    font-size: 40px;
+    display: block;
+    width: 100%;
+    font-weight: 600;
 }
 section.section.spaced.our-approach.subscription_today .row.left:nth-of-type(2) p.save {
     display: none;
