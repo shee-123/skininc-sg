@@ -939,6 +939,14 @@ p.save span {
 .spaced.our-approach.tri_light h2 {
     background-position: 40px 0px;
 }
-  
+.Clinically-Proven ul li {
+    padding-left: 70px;
+    position: relative;
+}
+.Clinically-Proven ul li span {
+    position: absolute;
+    left: 0;
+    top: 8px;
+}  
   
 }
