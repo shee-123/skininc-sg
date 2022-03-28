@@ -677,7 +677,9 @@ section.section.spaced.our-approach.tri_light.custom {
 .subs_testim p {
     font-size: 24px;
 }
-  
+.spaced.our-approach.tri_light h2 {
+    background-position: 200px 0px;
+}  
   
 }
 
