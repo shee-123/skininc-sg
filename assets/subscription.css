@@ -680,6 +680,10 @@ section.section.spaced.our-approach.tri_light.custom {
 .spaced.our-approach.tri_light h2 {
     background-position: 200px 0px;
 }  
+.bottom_subs_rew a.ButtonGroup__Item, .des-col .approach-cta {
+    font-size: 14px;
+}
+  
   
 }
 
