@@ -919,6 +919,8 @@ section.section.spaced.our-approach.subscription_today .row.left:nth-of-type(2) 
     background-size: contain;
     background-position: bottom;
 }
-  
+p.save span {
+    font-size: 20px;
+}    
   
 }
