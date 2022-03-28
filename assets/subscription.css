@@ -790,8 +790,8 @@ div#shopify-section-subscription-three-sec h2 {
     margin: 20px 0px;
 }
 .Clinically-Proven ul li span {
-    padding: 35px 30px 40px 40px;
-    background-size: 60px;
+    padding: 35px 30px 40px 40px !important;
+    background-size: 60px!important;
 }
   
   
