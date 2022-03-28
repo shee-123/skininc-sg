@@ -464,6 +464,10 @@ div#shopify-section-subs_testim {
     overflow-x: hidden;
 }
 .subs_testim h4 ,.subs_testim p ,.subs_testim .star-rating {display:none}
+div#shopify-section-subscription-three-sec h2 {
+    margin-bottom: 80px;
+}
+
 
 
 @media screen and (min-device-width: 1920px) and (max-device-width: 2560px) {
