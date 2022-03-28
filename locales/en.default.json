@@ -433,5 +433,86 @@
   "loyalty": {
     "loyalty_rules_title": "Ways to earn points",
     "loyalty_tiers_title": "Your tiers"
+  },
+  "sections": {
+    "recharge-bundle": {
+      "r_html": {
+        "outOfStock": "Out of Stock",
+        "boxContents": "Contents",
+        "subscribeAndSave": "Subscribe & save",
+        "subscriptionPage": {
+          "contentsFor": "Contents for your {nextChargeDate} order",
+          "updateContents": "Update contents",
+          "select": "Select {title} contents",
+          "your": "Your {title}",
+          "save": "Save",
+          "saving": "Saving your changes",
+          "saved": "Your changes have been saved!",
+          "yourNextOrder": "Your next order"
+        },
+        "remainder": {
+          "add": "Choose {remainder}",
+          "remove": "Remove {remainder}"
+        },
+        "boxItem": {
+          "add": "+ Add",
+          "remove": "× Remove"
+        },
+        "alert": {
+          "planChanged": "Plan changed - update your selections to continue",
+          "add": "Choose {remainder} from {collectionTitle} to continue",
+          "remove": "Remove {remainder} from {collectionTitle} to continue",
+          "collectionComplete": "{collectionTitle} selection completed!",
+          "complete": "Bundle completed! You can add to cart now"
+        },
+        "addToCart": {
+          "completed": "Add to cart",
+          "add": "Add {remainder} to continue",
+          "added": "Added",
+          "remove": "Remove {remainder} to continue",
+          "addMore": "Choose more to continue",
+          "removeSome": "Remove some to continue",
+          "soldOut": "Sold out",
+          "error": "Add to cart failed"
+        },
+        "multiStep": {
+          "collectionStep": {
+            "select": "Select {count} {title}"
+          },
+          "summaryStep": {
+            "addons": "Add-ons",
+            "total": "Order total"
+          }
+        },
+        "filters": {
+          "label": "Filters",
+          "clear": "Clear all"
+        },
+        "addOns": {
+          "addOns": "Add-ons",
+          "title": "Feel like a little more?",
+          "description": "Add some delicious extras to your plan. We’ll send these with every delivery, until you tell us not to."
+        },
+        "oneOffExtras": {
+          "extras": "One-off extras",
+          "title": "\"Complete your 360 customized skin program journey with Award-winning Tri-Light +Sabi AI\"",
+          "description": "Products you select here will only be added to your first delivery.",
+          "summary": "Summary",
+          "otherItems": "Regular delivery",
+          "total": "Total cost for your first delivery",
+          "addToCart": "Add extras to cart"
+        },
+        "month": "month | months",
+        "week": "week | weeks",
+        "day": "day | days",
+        "frequency": {
+          "label": "Frequency"
+        },
+        "back": "Go back",
+        "next": "Next",
+        "goToCart": "Proceed to cart",
+        "close": "Close"
+      }
+    }
   }
 }
