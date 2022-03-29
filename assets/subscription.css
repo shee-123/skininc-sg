@@ -961,6 +961,13 @@ section.section.spaced.our-approach.subscription_today .row.left:nth-of-type(2) 
 section.section.spaced.our-approach.subscription_today .row.left:nth-of-type(2) .content span i {
     font-size: 18px;
 }  
-  
+.spaced.our-approach.sabi-section h2 span {
+    display: block;
+    font-weight: normal;
+}
+.spaced.our-approach.sabi-section h2 {
+    font-size: 18px;
+    letter-spacing: 0 !important;
+}  
   
 }
