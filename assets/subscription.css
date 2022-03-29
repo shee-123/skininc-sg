@@ -467,7 +467,9 @@ div#shopify-section-subs_testim {
 div#shopify-section-subscription-three-sec h2 {
     margin-bottom: 80px;
 }
-
+.spaced.our-approach.sabi-section h2 span {
+    font-weight: 600;
+}
 
 
 @media screen and (min-device-width: 1920px) and (max-device-width: 2560px) {
