@@ -955,7 +955,9 @@ section.section.spaced.our-approach.subscription_today .row.left:nth-of-type(2) 
 section.section.spaced.our-approach.subscription_today .row.left:nth-of-type(2) .content img {
     margin: 10px auto 70px;
 }
-  
+section.section.spaced.our-approach.subscription_today .row.left:nth-of-type(2) .content span i {
+    font-size: 18px;
+}  
   
   
 }
