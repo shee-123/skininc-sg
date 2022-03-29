@@ -4,7 +4,8 @@
     {%- if block.type == "header" -%} 
     <h2 class="text-center header">{{block.settings.heading }}</h2> 
     <img class="" src="{{ block.settings.logo | img_url: 'master' }}" alt="{{ block.settings.image.alt | escape }}">
-    
+    <img class="" src="{{ block.settings.logo | img_url: 'master' }}" alt="{{ block.settings.image.alt | escape }}">
+     
     {%- else -%}
     {%- assign image_url = block.settings.image | img_url: 'master' -%}
     <div class="row {{ block.settings.direction }} ">
@@ -49,6 +50,10 @@
       "type": "image_picker",
       "id": "logo",
       "label": "logo"
+    },{
+      "type": "image_picker",
+      "id": "logo2",
+      "label": "logomobile"
     }]
   },
   {
