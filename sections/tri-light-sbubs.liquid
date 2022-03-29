@@ -4,7 +4,7 @@
     {%- if block.type == "header" -%} 
     <h2 class="text-center header">{{block.settings.heading }}</h2> 
     <img class="" src="{{ block.settings.logo | img_url: 'master' }}" alt="{{ block.settings.image.alt | escape }}">
-    <img class="" src="{{ block.settings.logo | img_url: 'master' }}" alt="{{ block.settings.image.alt | escape }}">
+    <img class="" src="{{ block.settings.logo2 | img_url: 'master' }}" class="mobile">
      
     {%- else -%}
     {%- assign image_url = block.settings.image | img_url: 'master' -%}
