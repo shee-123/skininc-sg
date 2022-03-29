@@ -937,7 +937,8 @@ p.save span {
     font-size: 20px;
 }    
 .spaced.our-approach.tri_light h2 {
-    background-position: 40px 0px;
+    background-position: 60px 10px;
+    background-size: 60px;
 }
 .Clinically-Proven ul li {
     padding-left: 70px;
