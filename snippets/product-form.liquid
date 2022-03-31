@@ -33,6 +33,9 @@ for size, we use it to display a size chart (if applicable)
 {%- endif -%}
 
 {%- else -%}
+
+
+
 {%- form 'product', product, data-productid: product.id, class: 'ProductForm' -%}
   {% if product.available %}{% include 'subscription-product' %}{% endif %} 
 
@@ -285,6 +288,11 @@ for size, we use it to display a size chart (if applicable)
   {%- endcomment -%}
 
   <div class="row">
+    {%- if product.template_suffix == 'sabi_subscription_program' -%}
+	<a href="/pages/skin-id" class="Button Button--primary Button--full active" style="margin-bottom:10px">Continue to Skin Check</a>
+ 
+	{%- else -%}
+
     <div class="col-4">
       {%- if section.settings.show_quantity_selector -%}
         <div class="ProductForm__QuantitySelector">
@@ -315,7 +323,10 @@ for size, we use it to display a size chart (if applicable)
           {%- endif -%}
         </button>
       </div>
-    </div>
+    </div>   
+    
+  {%- endif -%}
+    
     <div class="col-2 hide">
       <!-- include 'wishlist-button-collection' with '{{ product.id }}' -->
     </div>
