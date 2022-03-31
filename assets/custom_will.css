@@ -633,6 +633,13 @@ select.rebuy-select {
 #product_form_2191187050609 .HorizontalList--spacingTight>li.HorizontalList__Item:last-child {
     display: inline-block;
 }
+.pro_wranty a.wra_action:hover {
+    color: #d7b4b5;
+    background: #fff;
+}
+.pro_wranty a.wra_action {
+    height: 44px;
+}
 
 
 /* rebundle css */
