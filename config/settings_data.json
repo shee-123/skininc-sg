@@ -703,7 +703,7 @@
         "type": "image-with-text-overlay",
         "settings": {
           "section_size": "normal",
-          "image": "shopify:\/\/shop_images\/Rose_Chrome_Opti_w_MDDs_-_1500_X_800.png",
+          "image": "shopify:\/\/shop_images\/Our_Story_Banner.jpg",
           "text_color": "#454545",
           "overlay_color": "#000000",
           "overlay_opacity": 1,
@@ -747,9 +747,9 @@
           "1552378439252": {
             "type": "grid_item",
             "settings": {
-              "image": "shopify:\/\/shop_images\/custom_beauty_for_every_you.jpg",
+              "image": "shopify:\/\/shop_images\/Our_Story_2.jpg",
               "title": "custom beauty for every you",
-              "content": "<p>From one-size-fits-all to one-size-fits-me! Because everyone&#x27;s skin is different, at Skin Inc we celebrate the uniqueness that makes you, you. Bespoke, fuss-free skincare is at the heart of Skin Inc’s DNA.<\/p><p>With the broadest range of customizable skincare products to date, we make it easy for you to give your skin exactly what it needs, when it needs it.<\/p>",
+              "content": "<p>From one-size-fits-all to one-size-fits-me! Because everyone's skin is different, at Skin Inc we celebrate the uniqueness that makes you, you. Bespoke, fuss-free skincare is at the heart of Skin Inc’s DNA.<\/p><p>With the broadest range of customizable skincare products to date, we make it easy for you to give your skin exactly what it needs, when it needs it.<\/p>",
               "direction": "right"
             }
           },
