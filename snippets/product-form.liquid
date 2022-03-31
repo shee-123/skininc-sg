@@ -287,10 +287,11 @@ for size, we use it to display a size chart (if applicable)
   --------------------------------------------------------------------------------------------------------------------
   {%- endcomment -%}
 
-  <div class="row">
-    {%- if  product.id == 2443806703729 -%}
+{%- if  product.id == 2443806703729 -%}
 	<a href="/pages/skin-id" class="Button Button--primary Button--full active" style="margin-bottom:10px">Continue to Skin Check</a> 
 	{%- else -%}
+
+  <div class="row">    
     <div class="col-4">
       {%- if section.settings.show_quantity_selector -%}
         <div class="ProductForm__QuantitySelector">
@@ -321,14 +322,13 @@ for size, we use it to display a size chart (if applicable)
           {%- endif -%}
         </button>
       </div>
-    </div>   
-    
-  {%- endif -%}
-    
+    </div>  
     <div class="col-2 hide">
       <!-- include 'wishlist-button-collection' with '{{ product.id }}' -->
     </div>
   </div>
+{%- endif -%}
+
 
   {%- if product.metafields.shipmentday != blank -%}
     <div class="shipment-info">{{ product.metafields.shipmentday.estimated_shipment }}</div>
