@@ -1,8 +1,11 @@
 <!doctype html>
 <html class="no-js" lang="{{ shop.locale }}">
 <head>
-  {% if handle contains 'sabi_subscription_program' %}
+  {% if handle contains "360_customized_subscription_program" %}
 <meta name="robots" content="noindex">
+{% endif %}
+  {% if template contains "product" and product.handle == "360_customized_subscription_program" %}
+ <meta name="robots" content="noindex">
 {% endif %}
       <!-- Geo IP Redirect -->
     <script>
