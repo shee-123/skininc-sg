@@ -703,7 +703,7 @@
         "type": "image-with-text-overlay",
         "settings": {
           "section_size": "normal",
-          "image": "shopify:\/\/shop_images\/Our_Story_Banner.jpg",
+          "image": "shopify:\/\/shop_images\/Our_Story.jpg",
           "text_color": "#454545",
           "overlay_color": "#000000",
           "overlay_opacity": 1,
