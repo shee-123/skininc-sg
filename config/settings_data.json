@@ -3225,7 +3225,7 @@
             "type": "image",
             "settings": {
               "image": "shopify:\/\/shop_images\/Subscription_PDP_-_Desktop_Banner.jpg",
-              "mobile_image": "shopify:\/\/shop_images\/Subscription_PDP_-_Mobile_Banner_1.jpg",
+              "mobile_image": "shopify:\/\/shop_images\/Subscription_PDP_-_Mobile_Banner_2.jpg",
               "apply_overlay": true,
               "content_position": "bottomLeft",
               "subheading": "",
