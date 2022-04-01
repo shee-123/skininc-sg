@@ -640,6 +640,10 @@ select.rebuy-select {
 .pro_wranty a.wra_action {
     height: 44px;
 }
+section.Product .Product__Gallery .Product__ActionList {
+    display: none;
+}
+
 
 
 /* rebundle css */
