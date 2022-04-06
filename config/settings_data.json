@@ -1021,8 +1021,8 @@
           "95c81ce0-81d2-4921-bbd8-5fa4480ab971": {
             "type": "spend-x-get-y",
             "settings": {
-              "product_handle": "",
-              "variant_id": "",
+              "product_handle": "april-gwp-mask-liner-nourish-hand-serum-worth-56",
+              "variant_id": "6713597886577",
               "min_price": "25000",
               "message": "Gift item"
             }
