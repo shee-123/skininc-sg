@@ -1017,11 +1017,21 @@
               "pers_stiker": true,
               "pers_stiker_text": "Add a Greeting Card"
             }
+          },
+          "95c81ce0-81d2-4921-bbd8-5fa4480ab971": {
+            "type": "spend-x-get-y",
+            "settings": {
+              "product_handle": "",
+              "variant_id": "",
+              "min_price": "25000",
+              "message": "Gift item"
+            }
           }
         },
         "block_order": [
           "0ef28b98-2a01-487d-9e5b-3952717fa5a7",
-          "be854e5c-7cc0-4339-b15c-0407933fad5a"
+          "be854e5c-7cc0-4339-b15c-0407933fad5a",
+          "95c81ce0-81d2-4921-bbd8-5fa4480ab971"
         ],
         "settings": {
           "show_shipping_estimator": false,
