@@ -1026,12 +1026,22 @@
               "pers_stiker": true,
               "pers_stiker_text": "Add a Greeting Card"
             }
+          },
+          "bd240b0f-19cc-44ce-b069-d4b479ada3dc": {
+            "type": "buy-x-get-y-gift",
+            "settings": {
+              "product_handle": "beauty-jelly-dose",
+              "variant_id": "",
+              "handle": "tri-light-sabi",
+              "message": "Gift item"
+            }
           }
         },
         "block_order": [
           "0ef28b98-2a01-487d-9e5b-3952717fa5a7",
           "95c81ce0-81d2-4921-bbd8-5fa4480ab971",
-          "be854e5c-7cc0-4339-b15c-0407933fad5a"
+          "be854e5c-7cc0-4339-b15c-0407933fad5a",
+          "bd240b0f-19cc-44ce-b069-d4b479ada3dc"
         ],
         "settings": {
           "show_shipping_estimator": false,
