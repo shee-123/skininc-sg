@@ -1004,15 +1004,6 @@
               "message": "Gift item"
             }
           },
-          "95c81ce0-81d2-4921-bbd8-5fa4480ab971": {
-            "type": "spend-x-get-y",
-            "settings": {
-              "product_handle": "april-gwp-mask-liner-nourish-hand-serum-worth-56",
-              "variant_id": "39743738282097",
-              "min_price": "25000",
-              "message": "Gift item"
-            }
-          },
           "be854e5c-7cc0-4339-b15c-0407933fad5a": {
             "type": "personalise_your_gift",
             "settings": {
@@ -1027,21 +1018,24 @@
               "pers_stiker_text": "Add a Greeting Card"
             }
           },
-          "bd240b0f-19cc-44ce-b069-d4b479ada3dc": {
-            "type": "buy-x-get-y-gift",
+          "becb690f-adad-49a3-9ebb-b6eb11c21e44": {
+            "type": "tierspend-x-get-y",
             "settings": {
-              "product_handle": "beauty-jelly-dose",
-              "variant_id": "",
-              "handle": "tri-light-sabi",
-              "message": "Gift item"
+              "product_handle": "april-gwp-mask-liner-nourish-hand-serum-worth-56",
+              "variant_id": "39743738282097",
+              "min_price": "25000",
+              "message": "Gift item",
+              "product_handle2": "april-gwp-2-my-nightly-dose-of-glow-embrace-pouch-worth-196",
+              "variant_id2": "39753965207665",
+              "min_price2": "38000",
+              "message2": "Gift item"
             }
           }
         },
         "block_order": [
           "0ef28b98-2a01-487d-9e5b-3952717fa5a7",
-          "95c81ce0-81d2-4921-bbd8-5fa4480ab971",
           "be854e5c-7cc0-4339-b15c-0407933fad5a",
-          "bd240b0f-19cc-44ce-b069-d4b479ada3dc"
+          "becb690f-adad-49a3-9ebb-b6eb11c21e44"
         ],
         "settings": {
           "show_shipping_estimator": false,
