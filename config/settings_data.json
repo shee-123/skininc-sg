@@ -97,6 +97,17 @@
       "announcement": {
         "type": "announcement",
         "blocks": {
+          "c041b18f-3f0b-421f-8cdf-8ad89f4f29d8": {
+            "type": "banner",
+            "settings": {
+              "background": "#767272",
+              "text_color": "#ffffff",
+              "content": "enjoy gifts worth up to $196! min. spend of $250",
+              "link_label": "shop now",
+              "link_color": "#000000",
+              "link": "shopify:\/\/products\/tri-light-sabi"
+            }
+          },
           "33606483-32c9-489b-93bb-7c1c439e6ae3": {
             "type": "banner",
             "disabled": true,
@@ -108,22 +119,11 @@
               "link_color": "#000000",
               "link": "shopify:\/\/collections"
             }
-          },
-          "c041b18f-3f0b-421f-8cdf-8ad89f4f29d8": {
-            "type": "banner",
-            "settings": {
-              "background": "#767272",
-              "text_color": "#ffffff",
-              "content": "enjoy gifts worth up to $196! min. spend of $250",
-              "link_label": "shop now",
-              "link_color": "#000000",
-              "link": "shopify:\/\/products\/tri-light-sabi"
-            }
           }
         },
         "block_order": [
-          "33606483-32c9-489b-93bb-7c1c439e6ae3",
-          "c041b18f-3f0b-421f-8cdf-8ad89f4f29d8"
+          "c041b18f-3f0b-421f-8cdf-8ad89f4f29d8",
+          "33606483-32c9-489b-93bb-7c1c439e6ae3"
         ],
         "settings": {
           "enable_bar": true,
