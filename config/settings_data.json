@@ -3505,6 +3505,7 @@
       },
       "165044921218a378d9": {
         "type": "instafeed",
+        "disabled": true,
         "settings": {
           "heading_font": "helvetica_n4",
           "heading_size": 20,
@@ -3514,6 +3515,7 @@
       },
       "1650449228389fef86": {
         "type": "instagram-feed",
+        "disabled": true,
         "settings": {
           "subheading": "@iloveskininc",
           "title": "Follow us",
