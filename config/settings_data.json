@@ -3502,6 +3502,24 @@
         ],
         "settings": {
         }
+      },
+      "165044921218a378d9": {
+        "type": "instafeed",
+        "settings": {
+          "heading_font": "helvetica_n4",
+          "heading_size": 20,
+          "feed_width": 100,
+          "html_area": ""
+        }
+      },
+      "1650449228389fef86": {
+        "type": "instagram-feed",
+        "settings": {
+          "subheading": "@iloveskininc",
+          "title": "Follow us",
+          "access_token": "",
+          "image_count": 15
+        }
       }
     },
     "content_for_index": [
@@ -3524,7 +3542,9 @@
       "1544161388661",
       "1603098421166",
       "161209126258078cf5",
-      "1648041702fd3a7f68"
+      "1648041702fd3a7f68",
+      "165044921218a378d9",
+      "1650449228389fef86"
     ]
   },
   "presets": {
