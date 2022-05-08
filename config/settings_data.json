@@ -1008,6 +1008,7 @@
           },
           "becb690f-adad-49a3-9ebb-b6eb11c21e44": {
             "type": "tierspend-x-get-y",
+            "disabled": true,
             "settings": {
               "product_handle": "april-gwp-mask-liner-nourish-hand-serum-worth-56",
               "variant_id": "39743738282097",
