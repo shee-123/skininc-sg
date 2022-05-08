@@ -99,11 +99,10 @@
         "blocks": {
           "c041b18f-3f0b-421f-8cdf-8ad89f4f29d8": {
             "type": "banner",
-            "disabled": true,
             "settings": {
               "background": "#767272",
               "text_color": "#ffffff",
-              "content": "enjoy gifts worth up to $196! min. spend of $250",
+              "content": "Free shipping for orders $40 and above",
               "link_label": "shop now",
               "link_color": "#000000",
               "link": "shopify:\/\/collections\/award-winners"
