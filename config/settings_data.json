@@ -102,7 +102,7 @@
             "settings": {
               "background": "#767272",
               "text_color": "#ffffff",
-              "content": "Free shipping for orders $40 and above",
+              "content": "Free Shipping on all orders above SGD40",
               "link_label": "shop now",
               "link_color": "#000000",
               "link": "shopify:\/\/collections\/award-winners"
