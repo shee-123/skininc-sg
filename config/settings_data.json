@@ -3288,6 +3288,7 @@
           },
           "5154a4df-7f48-472f-829c-0207cb0d59b0": {
             "type": "approach_item",
+            "disabled": true,
             "settings": {
               "image": "shopify:\/\/shop_images\/bottle_42ec38d7-914b-4533-90ff-a9f047ccefe4.png",
               "img_link": "",
