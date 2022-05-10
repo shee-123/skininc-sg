@@ -995,16 +995,6 @@
       "cart-template": {
         "type": "cart-template",
         "blocks": {
-          "0ef28b98-2a01-487d-9e5b-3952717fa5a7": {
-            "type": "buy-x-get-y-gift",
-            "disabled": true,
-            "settings": {
-              "product_handle": "tri-light-ai-launch-gwp-deepsea-hydrating-mask-30ml-serum-booster-shot-soothe-worth-sgd-120",
-              "variant_id": "39704471502961",
-              "handle": "tri-light-sabi",
-              "message": "Gift item"
-            }
-          },
           "becb690f-adad-49a3-9ebb-b6eb11c21e44": {
             "type": "tierspend-x-get-y",
             "disabled": true,
@@ -1032,12 +1022,21 @@
               "pers_stiker": true,
               "pers_stiker_text": "Add a Greeting Card"
             }
+          },
+          "335241ea-129e-47bf-b1ee-6a1564c5d7e7": {
+            "type": "spend-x-get-y",
+            "settings": {
+              "product_handle": "may-2022-gwp",
+              "variant_id": "39776069386353",
+              "min_price": "25000",
+              "message": "Exclusive Gift item"
+            }
           }
         },
         "block_order": [
-          "0ef28b98-2a01-487d-9e5b-3952717fa5a7",
           "becb690f-adad-49a3-9ebb-b6eb11c21e44",
-          "be854e5c-7cc0-4339-b15c-0407933fad5a"
+          "be854e5c-7cc0-4339-b15c-0407933fad5a",
+          "335241ea-129e-47bf-b1ee-6a1564c5d7e7"
         ],
         "settings": {
           "show_shipping_estimator": false,
