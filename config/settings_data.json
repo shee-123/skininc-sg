@@ -97,17 +97,6 @@
       "announcement": {
         "type": "announcement",
         "blocks": {
-          "c041b18f-3f0b-421f-8cdf-8ad89f4f29d8": {
-            "type": "banner",
-            "settings": {
-              "background": "#767272",
-              "text_color": "#ffffff",
-              "content": "Free Shipping on all orders above SGD40",
-              "link_label": "shop now",
-              "link_color": "#000000",
-              "link": "shopify:\/\/collections\/award-winners"
-            }
-          },
           "33606483-32c9-489b-93bb-7c1c439e6ae3": {
             "type": "banner",
             "settings": {
@@ -118,11 +107,22 @@
               "link_color": "#000000",
               "link": "shopify:\/\/collections"
             }
+          },
+          "c041b18f-3f0b-421f-8cdf-8ad89f4f29d8": {
+            "type": "banner",
+            "settings": {
+              "background": "#767272",
+              "text_color": "#ffffff",
+              "content": "Free Shipping on all orders above SGD40",
+              "link_label": "shop now",
+              "link_color": "#000000",
+              "link": "shopify:\/\/collections\/award-winners"
+            }
           }
         },
         "block_order": [
-          "c041b18f-3f0b-421f-8cdf-8ad89f4f29d8",
-          "33606483-32c9-489b-93bb-7c1c439e6ae3"
+          "33606483-32c9-489b-93bb-7c1c439e6ae3",
+          "c041b18f-3f0b-421f-8cdf-8ad89f4f29d8"
         ],
         "settings": {
           "enable_bar": true,
