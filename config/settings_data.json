@@ -110,11 +110,10 @@
           },
           "33606483-32c9-489b-93bb-7c1c439e6ae3": {
             "type": "banner",
-            "disabled": true,
             "settings": {
               "background": "#fbdcce",
               "text_color": "#333333",
-              "content": "enjoy 20% savings sitewide* from now till 8 may 2022!",
+              "content": "Exclusive Gift With Purchase Worth Up to $122*",
               "link_label": "shop now",
               "link_color": "#000000",
               "link": "shopify:\/\/collections"
