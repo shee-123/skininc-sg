@@ -97,18 +97,6 @@
       "announcement": {
         "type": "announcement",
         "blocks": {
-          "33606483-32c9-489b-93bb-7c1c439e6ae3": {
-            "type": "banner",
-            "disabled": true,
-            "settings": {
-              "background": "#fbdcce",
-              "text_color": "#333333",
-              "content": "Now until 14 June: Complimentary Anti-Oxidants Essentials Set (Worth $136) with min. spend of $200 nett",
-              "link_label": "shop now",
-              "link_color": "#000000",
-              "link": "shopify:\/\/collections"
-            }
-          },
           "c041b18f-3f0b-421f-8cdf-8ad89f4f29d8": {
             "type": "banner",
             "settings": {
@@ -119,11 +107,22 @@
               "link_color": "#000000",
               "link": "shopify:\/\/collections\/award-winners"
             }
+          },
+          "33606483-32c9-489b-93bb-7c1c439e6ae3": {
+            "type": "banner",
+            "settings": {
+              "background": "#fbdcce",
+              "text_color": "#333333",
+              "content": "Now until 14 June: Complimentary Anti-Oxidants Essentials Set (Worth $136) with min. spend of $200 nett",
+              "link_label": "shop now",
+              "link_color": "#000000",
+              "link": "shopify:\/\/collections"
+            }
           }
         },
         "block_order": [
-          "33606483-32c9-489b-93bb-7c1c439e6ae3",
-          "c041b18f-3f0b-421f-8cdf-8ad89f4f29d8"
+          "c041b18f-3f0b-421f-8cdf-8ad89f4f29d8",
+          "33606483-32c9-489b-93bb-7c1c439e6ae3"
         ],
         "settings": {
           "enable_bar": true,
