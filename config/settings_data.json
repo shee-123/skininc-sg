@@ -1032,23 +1032,12 @@
               "min_price": "20000",
               "message": "Exclusive Gift item"
             }
-          },
-          "24ac049f-4cd0-4737-a3b7-e023dddbf23c": {
-            "type": "buy-x-get-y-gift",
-            "disabled": true,
-            "settings": {
-              "product_handle": "",
-              "variant_id": "",
-              "handle": "",
-              "message": "Gift item"
-            }
           }
         },
         "block_order": [
           "becb690f-adad-49a3-9ebb-b6eb11c21e44",
           "be854e5c-7cc0-4339-b15c-0407933fad5a",
-          "335241ea-129e-47bf-b1ee-6a1564c5d7e7",
-          "24ac049f-4cd0-4737-a3b7-e023dddbf23c"
+          "335241ea-129e-47bf-b1ee-6a1564c5d7e7"
         ],
         "settings": {
           "show_shipping_estimator": false,
