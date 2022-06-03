@@ -1011,6 +1011,7 @@
           },
           "be854e5c-7cc0-4339-b15c-0407933fad5a": {
             "type": "personalise_your_gift",
+            "disabled": true,
             "settings": {
               "title": "Personalize Your Gift",
               "buy_gift": true,
