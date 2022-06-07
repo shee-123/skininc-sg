@@ -425,9 +425,9 @@ p.CartItem_Metadata i {
 
 /* pre order css */
 
-form#product_form_2191187050609 ul.SizeSwatchList li:first-child {
+/* form#product_form_2191187050609 ul.SizeSwatchList li:first-child {
     display: none;
-}
+} */
 .pro_wranty a {
     position: unset;
 }
