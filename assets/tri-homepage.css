@@ -634,9 +634,7 @@ div#shopify-section-1648041702fd3a7f68 h4:after {
 .tri-vid-custom video {
     width: 100%;
 }
-.Slideshow.Slideshow--fullscreen {
-    height: 660px;
-}
+
 
 
 @media screen and (min-device-width: 1920px) and (max-device-width: 2560px) {
@@ -1003,6 +1001,9 @@ div#shopify-section-1648041702fd3a7f68 .row .content>div {
 }
 
 @media screen and (max-device-width: 667px) {
+.Slideshow.Slideshow--fullscreen {
+    height: 660px;
+}  
 .being-is-you.container {
     padding: 40px;
 }
