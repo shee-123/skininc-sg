@@ -1004,6 +1004,12 @@ div#shopify-section-1648041702fd3a7f68 .row .content>div {
 .Slideshow.Slideshow--fullscreen {
     height: 660px;
 }  
+.AnnouncementBar__Wrapper {
+    padding: 5px 10px;
+}
+p.AnnouncementBar__Content.Heading.u-h5 {
+    font-size: 12px;
+}
 .being-is-you.container {
     padding: 40px;
 }
