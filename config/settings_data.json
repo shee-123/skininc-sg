@@ -97,8 +97,20 @@
       "announcement": {
         "type": "announcement",
         "blocks": {
+          "33606483-32c9-489b-93bb-7c1c439e6ae3": {
+            "type": "banner",
+            "settings": {
+              "background": "#fbdcce",
+              "text_color": "#333333",
+              "content": "Until 14 June: Enjoy gifts worth $136 with min. spend of $200",
+              "link_label": "shop now",
+              "link_color": "#000000",
+              "link": "shopify:\/\/collections"
+            }
+          },
           "c041b18f-3f0b-421f-8cdf-8ad89f4f29d8": {
             "type": "banner",
+            "disabled": true,
             "settings": {
               "background": "#767272",
               "text_color": "#ffffff",
@@ -107,23 +119,11 @@
               "link_color": "#000000",
               "link": "shopify:\/\/collections\/award-winners"
             }
-          },
-          "33606483-32c9-489b-93bb-7c1c439e6ae3": {
-            "type": "banner",
-            "disabled": true,
-            "settings": {
-              "background": "#fbdcce",
-              "text_color": "#333333",
-              "content": "Gifts until 14 June: Anti-Oxidants Essentials Set (Worth $136) with min. spend of $200",
-              "link_label": "shop now",
-              "link_color": "#000000",
-              "link": "shopify:\/\/collections"
-            }
           }
         },
         "block_order": [
-          "c041b18f-3f0b-421f-8cdf-8ad89f4f29d8",
-          "33606483-32c9-489b-93bb-7c1c439e6ae3"
+          "33606483-32c9-489b-93bb-7c1c439e6ae3",
+          "c041b18f-3f0b-421f-8cdf-8ad89f4f29d8"
         ],
         "settings": {
           "enable_bar": true,
