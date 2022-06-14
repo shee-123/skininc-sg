@@ -1026,6 +1026,7 @@
           },
           "335241ea-129e-47bf-b1ee-6a1564c5d7e7": {
             "type": "spend-x-get-y",
+            "disabled": true,
             "settings": {
               "product_handle": "3-14-jun-gift-set-anti-oxidants-essentials-set",
               "variant_id": "39799901192305",
