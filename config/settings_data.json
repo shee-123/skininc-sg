@@ -341,28 +341,6 @@
           "apparition_delay": 6
         }
       },
-      "1544002093716": {
-        "type": "social_media_awards",
-        "disabled": true,
-        "blocks": {
-          "1544070065822": {
-            "type": "content",
-            "settings": {
-              "title": "",
-              "subtitle": "winner of more than 150 beauty awards",
-              "content": "<p>Our products are rock stars. It's no wonder Skin Inc has won over 150 beauty awards and is featured in publications like VOGUE, WWD, Refinery29, and more.<\/p>",
-              "button_text": "view more awards",
-              "button_link": "shopify:\/\/pages\/awards-and-press",
-              "brand": "shopify:\/\/shop_images\/Awards_logo_website.png"
-            }
-          }
-        },
-        "block_order": [
-          "1544070065822"
-        ],
-        "settings": {
-        }
-      },
       "1544002103271": {
         "type": "approach",
         "blocks": {
@@ -522,15 +500,6 @@
         "settings": {
           "image": "shopify:\/\/shop_images\/As_Seen_On_-_Desktop_1.jpg",
           "mobimage": "shopify:\/\/shop_images\/As_Seen_On_-_Mobile_1.jpg"
-        }
-      },
-      "1544161388661": {
-        "type": "newsletter",
-        "disabled": true,
-        "settings": {
-          "subheading": "Get The Latest",
-          "title": "sign up to our newsletter",
-          "content": "<p>Be the first to find out about all the good stuff Skin Inc has to offer. Subscribe now and get 15% off your first purchase.<\/p>"
         }
       },
       "list-collections-template": {
@@ -1478,7 +1447,6 @@
       },
       "1602182928254": {
         "type": "review-carousel",
-        "disabled": true,
         "settings": {
         }
       },
@@ -1501,15 +1469,6 @@
           "show_product_info": true,
           "show_vendor": false,
           "show_color_swatch": false
-        }
-      },
-      "1603098421166": {
-        "type": "newsletter",
-        "disabled": true,
-        "settings": {
-          "subheading": "Sign up for our",
-          "title": "Newsletter",
-          "content": "<p>Be the first to find out about all the good stuff Skin Inc has to offer. Subscribe now and get 15% off your first purchase.<\/p>"
         }
       },
       "16046706018733d79b": {
@@ -1721,16 +1680,6 @@
           "show_category": false,
           "show_author": true,
           "show_share_buttons": true
-        }
-      },
-      "161209126258078cf5": {
-        "type": "instafeed",
-        "disabled": true,
-        "settings": {
-          "heading_font": "helvetica_n4",
-          "heading_size": 26,
-          "feed_width": 100,
-          "html_area": ""
         }
       },
       "product-bundle-template": {
@@ -3543,16 +3492,6 @@
         "settings": {
         }
       },
-      "165044921218a378d9": {
-        "type": "instafeed",
-        "disabled": true,
-        "settings": {
-          "heading_font": "helvetica_n4",
-          "heading_size": 20,
-          "feed_width": 100,
-          "html_area": ""
-        }
-      },
       "1650600462fada49e7": {
         "type": "embrace-slideshow",
         "blocks": {
@@ -3806,6 +3745,15 @@
         ],
         "settings": {
         }
+      },
+      "165531613630685b57": {
+        "type": "instafeed",
+        "settings": {
+          "heading_font": "helvetica_n4",
+          "heading_size": 20,
+          "feed_width": 100,
+          "html_area": ""
+        }
       }
     },
     "content_for_index": [
@@ -3824,16 +3772,12 @@
       "1545015626607",
       "1544002128879",
       "1544408691386",
-      "1602182928254",
-      "1544002093716",
-      "1544161388661",
-      "1603098421166",
-      "161209126258078cf5",
       "1648041702fd3a7f68",
-      "165044921218a378d9",
       "16553147674745b63f",
       "165531517857e25325",
-      "1552376488178"
+      "1552376488178",
+      "1602182928254",
+      "165531613630685b57"
     ]
   },
   "presets": {
