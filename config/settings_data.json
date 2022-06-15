@@ -434,11 +434,12 @@
           "1544002320453"
         ],
         "settings": {
+          "bg-image": "shopify:\/\/shop_images\/Our_Customized_Approach_to_Your_Skin_Health_Web_Banner.jpg",
+          "bg-image-mob": "shopify:\/\/shop_images\/Our_Customized_Approach_to_Your_Skin_Health_Mobile_Banner.jpg"
         }
       },
       "1544002128879": {
         "type": "featured_in",
-        "disabled": true,
         "blocks": {
           "1579060689961": {
             "type": "text",
