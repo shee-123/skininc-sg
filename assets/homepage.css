@@ -599,7 +599,7 @@ footer .payment {
 } 
 .icon-gallery__item:nth-of-type(4) {
     width: 40px;
-    flex-basis: 40px;
+    flex-basis: 40px; 
 }  
 .Slideshow--fullscreen {
     height: 100vh !important;
