@@ -3762,10 +3762,55 @@
           "bg-image": "shopify:\/\/shop_images\/Clinically_Proven_Results_Web_Banner.jpg",
           "bg-image-mob": "shopify:\/\/shop_images\/Clinically_Proven_Results_Mobile_Banner.jpg"
         }
+      },
+      "16553159607d8822ba": {
+        "type": "marquee-banner",
+        "blocks": {
+          "679060cf-efbd-4ebb-a3c9-651af87c103a": {
+            "type": "marquee_item",
+            "settings": {
+              "title": "150+ Beauty awards"
+            }
+          },
+          "4de07a33-a887-4128-aaab-97508735e545": {
+            "type": "marquee_item",
+            "settings": {
+              "title": "Proprietary encapsulation for fresh potency"
+            }
+          },
+          "667c8a97-9fb0-4313-a9fd-a4d0255fb381": {
+            "type": "marquee_item",
+            "settings": {
+              "title": "Clinically-proven glowing results"
+            }
+          },
+          "d7c67ec5-c497-4ccb-af21-ba2e7f49a754": {
+            "type": "marquee_item",
+            "settings": {
+              "title": "5% REBATES FOR LOYAL CUSTOMERS"
+            }
+          },
+          "24d19e2f-dbbd-41b8-a1b6-3624c8e37392": {
+            "type": "marquee_item",
+            "settings": {
+              "title": "Free shipping over $40"
+            }
+          }
+        },
+        "block_order": [
+          "679060cf-efbd-4ebb-a3c9-651af87c103a",
+          "4de07a33-a887-4128-aaab-97508735e545",
+          "667c8a97-9fb0-4313-a9fd-a4d0255fb381",
+          "d7c67ec5-c497-4ccb-af21-ba2e7f49a754",
+          "24d19e2f-dbbd-41b8-a1b6-3624c8e37392"
+        ],
+        "settings": {
+        }
       }
     },
     "content_for_index": [
       "1650600462fada49e7",
+      "16553159607d8822ba",
       "1574758794229",
       "16480391365f31924b",
       "16480405754d676c34",
