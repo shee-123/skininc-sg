@@ -424,6 +424,17 @@
               "cta_btn_label": "Learn More",
               "cta_btn_link": "shopify:\/\/products\/optimizer-voyage-tri-light-usb-chrome-silver"
             }
+          },
+          "412abddc-eec0-46f6-84eb-7921edcbdfbd": {
+            "type": "approach_item",
+            "settings": {
+              "img_link": "",
+              "title": "",
+              "content": "",
+              "direction": "left",
+              "cta_btn_label": "",
+              "cta_btn_link": ""
+            }
           }
         },
         "block_order": [
@@ -431,7 +442,8 @@
           "1544002169839",
           "1544002218467",
           "1544002270415",
-          "1544002320453"
+          "1544002320453",
+          "412abddc-eec0-46f6-84eb-7921edcbdfbd"
         ],
         "settings": {
           "bg-image": "shopify:\/\/shop_images\/Our_Customized_Approach_to_Your_Skin_Health_Web_Banner.jpg",
@@ -3738,6 +3750,29 @@
           "text_color": "#ffffff",
           "button_color": "#363636"
         }
+      },
+      "165531517857e25325": {
+        "type": "approach",
+        "blocks": {
+          "962dd83f-f500-4616-a89c-685ef740ac4f": {
+            "type": "approach_item",
+            "settings": {
+              "img_link": "",
+              "title": "",
+              "content": "",
+              "direction": "left",
+              "cta_btn_label": "",
+              "cta_btn_link": ""
+            }
+          }
+        },
+        "block_order": [
+          "962dd83f-f500-4616-a89c-685ef740ac4f"
+        ],
+        "settings": {
+          "bg-image": "shopify:\/\/shop_images\/Clinically_Proven_Results_Web_Banner.jpg",
+          "bg-image-mob": "shopify:\/\/shop_images\/Clinically_Proven_Results_Mobile_Banner.jpg"
+        }
       }
     },
     "content_for_index": [
@@ -3764,7 +3799,8 @@
       "1648041702fd3a7f68",
       "165044921218a378d9",
       "1650449228389fef86",
-      "16553147674745b63f"
+      "16553147674745b63f",
+      "165531517857e25325"
     ]
   },
   "presets": {
