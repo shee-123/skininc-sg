@@ -1,4 +1,9 @@
-<div class="yotpo yotpo-reviews-carousel" 
+<script type="text/javascript"> (function e(){var e=document.createElement("script");e.type="text/javascript",e.async=!0, e.src="//staticw2.yotpo.com/CjJ2oX1GUq429Loxg2lb5SX0j2LdRtaLGFw8thDp/widget.js";var t=document.getElementsByTagName("script")[0]; t.parentNode.insertBefore(e,t)})(); </script>
+<div class="container custom_review">
+  <h2 class="text-center header">{{section.settings.heading | escape }}</h2>
+</div>
+
+<!--div class="yotpo yotpo-reviews-carousel" 
  data-header-customisation-enabled="1" 
  data-header-customisation-color="#56575f" 
  data-header-customisation-font-size="18" 
@@ -11,12 +16,33 @@
  data-show-bottomline="1" 
  data-autoplay-enabled="1" 
  data-autoplay-speed="3000" 
+ data-show-navigation="1">&nbsp;</div -->
+
+<div class="yotpo yotpo-reviews-carousel" 
+ data-header-customisation-enabled="1" 
+ data-header-customisation-color="#56575f" 
+ data-header-customisation-font-size="18" 
+ data-header-customisation-text="Reviews from Our Skin Inc Community" 
+ data-header-customisation-alignment="left"     
+ data-background-color="transparent" 
+ data-mode="most_recent" 
+ data-type="both" 
+ data-count="9" 
+ data-show-bottomline="1" 
+ data-autoplay-enabled="1" 
+ data-autoplay-speed="3000" 
  data-show-navigation="1">&nbsp;</div>
+
+
 
   {% schema %}
   {
     "name": "review-carousel",
-    "settings": [],
+    "settings": [{
+      "type": "text",
+      "id": "heading",
+      "label": "Header"
+    }],
     "presets": [
       {
         "name": "review-carousel",
