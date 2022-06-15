@@ -5,14 +5,17 @@
           <a id="best-sellers-tab" class="nav-link active" href="#" data-target="#featured-products-best-sellers">Best Sellers</a>
         </li>
         <li class="nav-item">
-          <a id="custom-serums" class="nav-link" href="#"  data-target="#featured-products-custom-serums">Custom Serums</a>
+          <a id="custom-serums" class="nav-link" href="#"  data-target="#featured-products-new">New</a>
+        </li>
+        <li class="nav-item">
+          <a id="custom-serums" class="nav-link" href="#"  data-target="#featured-products-custom-serums">Online Exclusive</a>
         </li>
       </ul>
       <div class="tab-content">
         <div class="tab-pane active" id="featured-products-best-sellers" role="tabpanel" aria-labelledby="best-sellers-tab">
           <div class="list carousel">
             
-            {% paginate collections.all.products by 500 %}
+            {% paginate collections.all.products by 500 %} 
             
             {%- for block in section.blocks -%}
             {% for product in collections.all.products %}
@@ -32,7 +35,28 @@
           
           </div>
         </div>
-        <div class="tab-pane" id="featured-products-custom-serums" role="tabpanel" aria-labelledby="custom-serums-tab">
+        <div class="tab-pane" id="featured-products-new" role="tabpanel" aria-labelledby="new-tab">
+          <div class="list carousel">
+          {% paginate collections.all.products by 500 %}
+            
+            {%- for block in section.blocks -%}
+            {% for product in collections.all.products %}
+              {%- if block.settings.type == "new" -%}
+              	{%- if product.handle == block.settings.product -%}
+                  {%- if product != blank -%}
+                    <div class="item">
+                      {%- include 'product-card', show_add_to_cart: true -%}
+                    </div>
+                  {%- endif -%}
+            	{%- endif -%}
+              {%- endif -%}
+            {%- endfor -%}
+
+            {% endfor %}
+            {% endpaginate %}
+          </div>
+        </div>
+         <div class="tab-pane" id="featured-products-custom-serums" role="tabpanel" aria-labelledby="custom-serums-tab">
           <div class="list carousel">
           {% paginate collections.all.products by 500 %}
             
@@ -42,7 +66,7 @@
               	{%- if product.handle == block.settings.product -%}
                   {%- if product != blank -%}
                     <div class="item">
-                      {%- include 'product-card', show_add_to_cart: true, show_labels: true -%}
+                      {%- include 'product-card', show_add_to_cart: true -%}
                     </div>
                   {%- endif -%}
             	{%- endif -%}
@@ -79,9 +103,13 @@
                  "value": "best_sellers",
                  "label": "Best Sellers"
                },
+			   {
+                 "value": "new",
+                 "label": "New"
+               },
                {
                  "value": "custom_serums",
-                 "label": "Custom Serums"
+                 "label": "Gift Sets"
                }
              ],
              "default": "best_sellers"
@@ -96,4 +124,4 @@
     }
   ]
 }
-{% endschema %}
+{% endschema %}  
