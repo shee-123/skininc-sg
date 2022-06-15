@@ -1261,34 +1261,33 @@
       },
       "1552376488178": {
         "type": "icon-gallery",
-        "disabled": true,
         "blocks": {
           "1552376539759": {
             "type": "brand_image",
             "settings": {
-              "image": "shopify:\/\/shop_images\/No-Phthalate-svg.png",
-              "text": "No Phthalates"
+              "image": "shopify:\/\/shop_images\/logo1.png",
+              "text": "Hypoallergenic Skin Care"
             }
           },
           "1552376575495": {
             "type": "brand_image",
             "settings": {
-              "image": "shopify:\/\/shop_images\/No-Parabens-svg.png",
-              "text": "No Parabens"
+              "image": "shopify:\/\/shop_images\/logo2.png",
+              "text": "Dermatologist Tested"
             }
           },
           "1552376597761": {
             "type": "brand_image",
             "settings": {
-              "image": "shopify:\/\/shop_images\/No-SLS-svg.png",
-              "text": "No SLS"
+              "image": "shopify:\/\/shop_images\/logo3.png",
+              "text": "No Phthalates"
             }
           },
           "1552376622836": {
             "type": "brand_image",
             "settings": {
-              "image": "shopify:\/\/shop_images\/No-Formaldehyde-svg__1.png",
-              "text": "No Formaldehyde"
+              "image": "shopify:\/\/shop_images\/logo4.png",
+              "text": "No SLS"
             }
           }
         },
@@ -3554,16 +3553,6 @@
           "html_area": ""
         }
       },
-      "1650449228389fef86": {
-        "type": "instagram-feed",
-        "disabled": true,
-        "settings": {
-          "subheading": "@iloveskininc",
-          "title": "Follow us",
-          "access_token": "",
-          "image_count": 15
-        }
-      },
       "1650600462fada49e7": {
         "type": "embrace-slideshow",
         "blocks": {
@@ -3790,7 +3779,6 @@
       "1545015626607",
       "1544002128879",
       "1544408691386",
-      "1552376488178",
       "1602182928254",
       "1544002093716",
       "1544161388661",
@@ -3798,9 +3786,9 @@
       "161209126258078cf5",
       "1648041702fd3a7f68",
       "165044921218a378d9",
-      "1650449228389fef86",
       "16553147674745b63f",
-      "165531517857e25325"
+      "165531517857e25325",
+      "1552376488178"
     ]
   },
   "presets": {
