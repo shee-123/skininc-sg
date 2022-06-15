@@ -99,7 +99,6 @@
         "blocks": {
           "33606483-32c9-489b-93bb-7c1c439e6ae3": {
             "type": "banner",
-            "disabled": true,
             "settings": {
               "background": "#fbdcce",
               "text_color": "#333333",
@@ -111,6 +110,7 @@
           },
           "c041b18f-3f0b-421f-8cdf-8ad89f4f29d8": {
             "type": "banner",
+            "disabled": true,
             "settings": {
               "background": "#767272",
               "text_color": "#ffffff",
