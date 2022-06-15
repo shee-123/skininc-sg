@@ -3655,47 +3655,80 @@
           "16553147674745b63f-0": {
             "type": "collection",
             "settings": {
-              "collection": "",
+              "collection": "customize-your-skincare",
+              "image": "shopify:\/\/shop_images\/Customize_your_skincare_1.jpg",
               "image_alignment": "center center",
               "content_position": "bottomLeft",
-              "subheading": "Sub-heading",
+              "subheading": "",
               "title": "",
-              "button_text": "View products",
+              "button_text": "",
               "button_link": "",
-              "apply_overlay": true
+              "apply_overlay": false
             }
           },
           "16553147674745b63f-1": {
             "type": "collection",
             "settings": {
-              "collection": "",
+              "collection": "subscription",
+              "image": "shopify:\/\/shop_images\/Subscription.jpg",
               "image_alignment": "center center",
               "content_position": "bottomLeft",
-              "subheading": "Sub-heading",
-              "title": "",
-              "button_text": "View products",
+              "subheading": "",
+              "title": "Subscription",
+              "button_text": "",
               "button_link": "",
-              "apply_overlay": true
+              "apply_overlay": false
             }
           },
           "16553147674745b63f-2": {
             "type": "collection",
             "settings": {
-              "collection": "",
+              "collection": "devices",
+              "image": "shopify:\/\/shop_images\/Skin_Tech_Devices.jpg",
               "image_alignment": "center center",
               "content_position": "bottomLeft",
-              "subheading": "Sub-heading",
-              "title": "",
-              "button_text": "View products",
+              "subheading": "",
+              "title": "SKIN TECH DEVICES",
+              "button_text": "",
               "button_link": "",
-              "apply_overlay": true
+              "apply_overlay": false
+            }
+          },
+          "fda8b168-e533-4668-85f9-780328c3060c": {
+            "type": "collection",
+            "settings": {
+              "collection": "trial-kits",
+              "image": "shopify:\/\/shop_images\/Rosalie_-_My_First_Experience_Kit_-_Cleanser_MDD_Armour_Moisturiser_Detox_and_Ageproof_Boosters_1.jpg",
+              "image_alignment": "center center",
+              "content_position": "bottomLeft",
+              "subheading": "",
+              "title": "FIRST EXPERIENCE KITS",
+              "button_text": "",
+              "button_link": "",
+              "apply_overlay": false
+            }
+          },
+          "eb944c8e-2780-46f7-8737-9e722802bfe5": {
+            "type": "collection",
+            "settings": {
+              "collection": "wellness",
+              "image": "shopify:\/\/shop_images\/Dry_Dehydrated_4c1439b3-1040-4ead-ba53-a2d5e331442e.jpg",
+              "image_alignment": "center center",
+              "content_position": "bottomLeft",
+              "subheading": "",
+              "title": "wellness",
+              "button_text": "",
+              "button_link": "",
+              "apply_overlay": false
             }
           }
         },
         "block_order": [
           "16553147674745b63f-0",
           "16553147674745b63f-1",
-          "16553147674745b63f-2"
+          "16553147674745b63f-2",
+          "fda8b168-e533-4668-85f9-780328c3060c",
+          "eb944c8e-2780-46f7-8737-9e722802bfe5"
         ],
         "settings": {
           "title": "Shop by Categories",
