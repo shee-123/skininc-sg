@@ -204,22 +204,16 @@
               "content": "",
               "show_social_media": true
             }
-          },
-          "9037b798-132f-45bf-be9e-d872276006db": {
-            "type": "newsletter",
-            "settings": {
-              "title": "CUSTOM BEAUTY FOR EVERY YOU",
-              "content": "<p>Subscribe now and get 10% off your first purchase.<\/p>"
-            }
           }
         },
         "block_order": [
           "footer-1",
-          "footer-0",
-          "9037b798-132f-45bf-be9e-d872276006db"
+          "footer-0"
         ],
         "settings": {
-          "show_payment_methods": true
+          "show_payment_methods": true,
+          "title": "CUSTOM BEAUTY FOR EVERY YOU",
+          "content": "<p>Subscribe now and get 10% off your first purchase.<\/p>"
         }
       },
       "homepage-intro": {
