@@ -593,7 +593,7 @@ footer .payment {
 .icon-gallery__container .icon-gallery__img {
     height: 40px;margin: 0;
 }
-.icon-gallery__container p.icon-gallery__text {
+.icon-gallery__container p.icon-gallery__text {  
     margin: 8px 0;
     line-height: 16px;
 } 
