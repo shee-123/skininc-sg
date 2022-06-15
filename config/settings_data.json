@@ -3746,13 +3746,13 @@
         "settings": {
         }
       },
-      "165531613630685b57": {
-        "type": "instafeed",
+      "1655316276693b1b3a": {
+        "type": "instagram-feed",
         "settings": {
-          "heading_font": "helvetica_n4",
-          "heading_size": 20,
-          "feed_width": 100,
-          "html_area": ""
+          "subheading": "@YourStore",
+          "title": "Follow us",
+          "access_token": "",
+          "image_count": 6
         }
       }
     },
@@ -3777,7 +3777,7 @@
       "165531517857e25325",
       "1552376488178",
       "1602182928254",
-      "165531613630685b57"
+      "1655316276693b1b3a"
     ]
   },
   "presets": {
