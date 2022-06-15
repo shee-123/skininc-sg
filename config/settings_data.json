@@ -1258,13 +1258,37 @@
               "image": "shopify:\/\/shop_images\/logo4.png",
               "text": "No SLS"
             }
+          },
+          "55550c4a-09d2-4160-8a49-2147ac9f35bb": {
+            "type": "brand_image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/logo5.png",
+              "text": "No Parabens"
+            }
+          },
+          "d86198bd-6443-40be-8770-518624f53ae6": {
+            "type": "brand_image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/logo6.png",
+              "text": "No Formaldehyde"
+            }
+          },
+          "66370f44-3ae0-497b-ba2d-c393fa7f6585": {
+            "type": "brand_image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/logo7.png",
+              "text": "No Synthetic Dyes \/ Fragrances"
+            }
           }
         },
         "block_order": [
           "1552376539759",
           "1552376575495",
           "1552376597761",
-          "1552376622836"
+          "1552376622836",
+          "55550c4a-09d2-4160-8a49-2147ac9f35bb",
+          "d86198bd-6443-40be-8770-518624f53ae6",
+          "66370f44-3ae0-497b-ba2d-c393fa7f6585"
         ],
         "settings": {
           "heading": "DESIGNED FOR SENSITIVE SKIN"
