@@ -601,5 +601,10 @@ footer .payment {
     width: 40px;
     flex-basis: 40px;
 }  
+.Slideshow--fullscreen {
+    height: 100vh;
+}  
+  
+  
   
 }  
