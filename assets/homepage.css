@@ -602,7 +602,7 @@ footer .payment {
     flex-basis: 40px;
 }  
 .Slideshow--fullscreen {
-    height: 100vh;
+    height: 100vh !important;
 }  
   
   
