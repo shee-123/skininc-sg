@@ -365,16 +365,17 @@
       },
       "1544002103271": {
         "type": "approach",
-        "disabled": true,
         "blocks": {
           "1544002148825": {
             "type": "header",
+            "disabled": true,
             "settings": {
               "heading": "our approach to skincare"
             }
           },
           "1544002169839": {
             "type": "approach_item",
+            "disabled": true,
             "settings": {
               "image": "shopify:\/\/shop_images\/mdd.sticker_656a34f2-002c-47f7-939d-99354dc4044b.jpg",
               "img_link": "shopify:\/\/pages\/skin-id",
@@ -387,6 +388,7 @@
           },
           "1544002218467": {
             "type": "approach_item",
+            "disabled": true,
             "settings": {
               "image": "shopify:\/\/shop_images\/Skin_Inc___Optimizer_Voyage_Tri-Light_USB_Rose_Gold_Chrome_w_MDDs___Lifestyle_Shot_copy.jpg",
               "img_link": "shopify:\/\/pages\/skin-id",
@@ -399,6 +401,7 @@
           },
           "1544002270415": {
             "type": "approach_item",
+            "disabled": true,
             "settings": {
               "image": "shopify:\/\/shop_images\/ACTIVE_TO_THE_END.jpg",
               "img_link": "shopify:\/\/pages\/skin-id",
@@ -411,6 +414,7 @@
           },
           "1544002320453": {
             "type": "approach_item",
+            "disabled": true,
             "settings": {
               "image": "shopify:\/\/shop_images\/SUPERCHARGE_YOUR_SKINCARE_WITH_LIGHT.jpg",
               "img_link": "\/products\/new-optimizer-voyage-tri-light",
@@ -3159,6 +3163,7 @@
       },
       "164804139441235ee1": {
         "type": "science",
+        "disabled": true,
         "blocks": {
           "9c250db0-e04a-4b83-9c11-4f5d24c6b848": {
             "type": "header",
