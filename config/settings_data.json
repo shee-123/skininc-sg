@@ -3766,6 +3766,7 @@
       },
       "1655316276693b1b3a": {
         "type": "instagram-feed",
+        "disabled": true,
         "settings": {
           "subheading": "@YourStore",
           "title": "Follow us",
