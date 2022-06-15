@@ -191,31 +191,31 @@
       "footer": {
         "type": "footer",
         "blocks": {
-          "footer-0": {
-            "type": "text",
-            "settings": {
-              "title": "Custom Beauty For Every You",
-              "content": "<p>From one-size-fits-all to one-size-fits-me! Because everyone's skin is different, at Skin Inc we celebrate the uniqueness that makes you, you.<\/p><p>Bespoke, fuss-free skincare is at the heart of Skin Inc’s DNA.<\/p>",
-              "show_social_media": true
-            }
-          },
           "footer-1": {
             "type": "links",
             "settings": {
               "menu": "footer"
             }
           },
+          "footer-0": {
+            "type": "text",
+            "settings": {
+              "title": "SOCIAL MEDIA",
+              "content": "",
+              "show_social_media": true
+            }
+          },
           "9037b798-132f-45bf-be9e-d872276006db": {
             "type": "newsletter",
             "settings": {
-              "title": "Newsletter",
+              "title": "CUSTOM BEAUTY FOR EVERY YOU",
               "content": "<p>Subscribe now and get 10% off your first purchase.<\/p>"
             }
           }
         },
         "block_order": [
-          "footer-0",
           "footer-1",
+          "footer-0",
           "9037b798-132f-45bf-be9e-d872276006db"
         ],
         "settings": {
