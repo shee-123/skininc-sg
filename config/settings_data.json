@@ -1466,6 +1466,7 @@
       "1602182928254": {
         "type": "review-carousel",
         "settings": {
+          "heading": ""
         }
       },
       "blog-template": {
@@ -1506,6 +1507,13 @@
               "type": "best_sellers"
             }
           },
+          "170cc4b3-405f-4c6f-9b0e-ca3b25bccba4": {
+            "type": "product",
+            "settings": {
+              "product": "cryo-ice-sake-roller-blush-edition",
+              "type": "best_sellers"
+            }
+          },
           "01c93470-c163-46eb-b499-211b6eaf1d09": {
             "type": "product",
             "settings": {
@@ -1536,6 +1544,7 @@
           },
           "9fb2993c-8894-4d1d-a425-31ae53c2a8a2": {
             "type": "product",
+            "disabled": true,
             "settings": {
               "product": "optimizer-voyage-tri-light-usb-rose-gold-chrome",
               "type": "best_sellers"
@@ -1583,8 +1592,37 @@
               "type": "best_sellers"
             }
           },
+          "846edc1a-9fd9-45aa-bcf1-1bc54a1f2afb": {
+            "type": "product",
+            "settings": {
+              "product": "cryo-ice-sake-roller-blush-edition",
+              "type": "new"
+            }
+          },
+          "107bd9aa-4c53-427b-802b-ab6498077ef9": {
+            "type": "product",
+            "settings": {
+              "product": "bright-eyes-led-massager",
+              "type": "new"
+            }
+          },
+          "1b2ca205-b8b3-4b6d-9cee-d3eaa7d4c570": {
+            "type": "product",
+            "settings": {
+              "product": "beauty-on-the-go-pure-deepsea-hydrating-mask",
+              "type": "new"
+            }
+          },
+          "7031f57d-47f8-4b23-b2bd-c1503d3352ce": {
+            "type": "product",
+            "settings": {
+              "product": "beauty-on-the-go-pure-revival-peel-2",
+              "type": "new"
+            }
+          },
           "34088bac-508a-4d77-9ab6-f77c0e568a78": {
             "type": "product",
+            "disabled": true,
             "settings": {
               "product": "optimizer-voyage-tri-light-usb-chrome-silver",
               "type": "best_sellers"
@@ -1592,6 +1630,7 @@
           },
           "a4c5b7fd-5915-489c-8327-8a0f4c63709f": {
             "type": "product",
+            "disabled": true,
             "settings": {
               "product": "hyaluronic-acid-serum",
               "type": "custom_serums"
@@ -1599,6 +1638,7 @@
           },
           "17d93b34-11f5-4f34-935f-b106f7649b8a": {
             "type": "product",
+            "disabled": true,
             "settings": {
               "product": "vitamin-a-serum",
               "type": "custom_serums"
@@ -1606,6 +1646,7 @@
           },
           "b715ac7e-559b-4616-8f63-6af002d47150": {
             "type": "product",
+            "disabled": true,
             "settings": {
               "product": "vitamin-c-serum-2",
               "type": "custom_serums"
@@ -1613,6 +1654,7 @@
           },
           "7802ee82-7089-46ae-b8ff-9b2a97320b89": {
             "type": "product",
+            "disabled": true,
             "settings": {
               "product": "vitamin-b3-serum",
               "type": "custom_serums"
@@ -1620,6 +1662,7 @@
           },
           "f4320f77-eb92-4c7b-b922-c226b7ff6590": {
             "type": "product",
+            "disabled": true,
             "settings": {
               "product": "ceramide-serum",
               "type": "custom_serums"
@@ -1627,6 +1670,7 @@
           },
           "b157724a-1369-4246-8721-179060cc2094": {
             "type": "product",
+            "disabled": true,
             "settings": {
               "product": "licorice-serum",
               "type": "custom_serums"
@@ -1634,6 +1678,7 @@
           },
           "a19f1f2f-6ed4-4725-8df0-dffbd7f3104c": {
             "type": "product",
+            "disabled": true,
             "settings": {
               "product": "chlorella-serum-1",
               "type": "custom_serums"
@@ -1641,6 +1686,7 @@
           },
           "4d2b99b6-ae01-49d2-83fa-a76eed767bad": {
             "type": "product",
+            "disabled": true,
             "settings": {
               "product": "collagen-serum",
               "type": "custom_serums"
@@ -1648,6 +1694,7 @@
           },
           "dd166008-aaca-4b68-ac30-24b15d0fa0ea": {
             "type": "product",
+            "disabled": true,
             "settings": {
               "product": "coenzyme-q10-serum",
               "type": "custom_serums"
@@ -1655,8 +1702,58 @@
           },
           "ccb2e953-609b-4008-916f-d43360417949": {
             "type": "product",
+            "disabled": true,
             "settings": {
               "product": "french-pine-bark-serum",
+              "type": "custom_serums"
+            }
+          },
+          "675420d5-1ae6-42cf-893a-c24296560765": {
+            "type": "product",
+            "settings": {
+              "product": "facial-in-a-flash-set",
+              "type": "custom_serums"
+            }
+          },
+          "a985e18f-d8e3-4208-8e6d-0e8678471d68": {
+            "type": "product",
+            "settings": {
+              "product": "blemish-free-detox-care-set",
+              "type": "custom_serums"
+            }
+          },
+          "3474e7af-697d-403f-8dc6-7cddd3f513fe": {
+            "type": "product",
+            "settings": {
+              "product": "boost-your-hydration-kit",
+              "type": "custom_serums"
+            }
+          },
+          "f2752230-74bd-4ee4-902a-1f802c2d7770": {
+            "type": "product",
+            "settings": {
+              "product": "your-uplifting-glow-set",
+              "type": "custom_serums"
+            }
+          },
+          "0596b643-8272-41b4-8a49-724c591b64c2": {
+            "type": "product",
+            "settings": {
+              "product": "your-best-defence-acqusition-set-1",
+              "type": "custom_serums"
+            }
+          },
+          "fb62ccb0-1545-44df-b697-7d30e345c770": {
+            "type": "product",
+            "settings": {
+              "product": "detox-trio",
+              "type": "custom_serums"
+            }
+          },
+          "d6f7a4f9-90fc-47f8-ab4d-ada82f8a3d01": {
+            "type": "product",
+            "settings": {
+              "product": "your-dewy-glow-acquisition-set",
               "type": "custom_serums"
             }
           }
@@ -1664,6 +1761,7 @@
         "block_order": [
           "2ca6304f-0f1b-4076-928f-b4ee9dbd5ccc",
           "9abd3b8a-0a87-4c7b-b756-3790c7146b16",
+          "170cc4b3-405f-4c6f-9b0e-ca3b25bccba4",
           "01c93470-c163-46eb-b499-211b6eaf1d09",
           "308f39ac-6683-4aad-993f-c1c402798ba4",
           "e0919f2b-1041-4fc8-bef1-b60465427aee",
@@ -1675,6 +1773,10 @@
           "b4332330-b503-47fa-95cb-902327e0e7d9",
           "d0b774a4-6abd-4dc7-8e46-113212d3e3d2",
           "273c74b1-2b5a-4ea6-a9a2-41eaab3fbfc6",
+          "846edc1a-9fd9-45aa-bcf1-1bc54a1f2afb",
+          "107bd9aa-4c53-427b-802b-ab6498077ef9",
+          "1b2ca205-b8b3-4b6d-9cee-d3eaa7d4c570",
+          "7031f57d-47f8-4b23-b2bd-c1503d3352ce",
           "34088bac-508a-4d77-9ab6-f77c0e568a78",
           "a4c5b7fd-5915-489c-8327-8a0f4c63709f",
           "17d93b34-11f5-4f34-935f-b106f7649b8a",
@@ -1685,7 +1787,14 @@
           "a19f1f2f-6ed4-4725-8df0-dffbd7f3104c",
           "4d2b99b6-ae01-49d2-83fa-a76eed767bad",
           "dd166008-aaca-4b68-ac30-24b15d0fa0ea",
-          "ccb2e953-609b-4008-916f-d43360417949"
+          "ccb2e953-609b-4008-916f-d43360417949",
+          "675420d5-1ae6-42cf-893a-c24296560765",
+          "a985e18f-d8e3-4208-8e6d-0e8678471d68",
+          "3474e7af-697d-403f-8dc6-7cddd3f513fe",
+          "f2752230-74bd-4ee4-902a-1f802c2d7770",
+          "0596b643-8272-41b4-8a49-724c591b64c2",
+          "fb62ccb0-1545-44df-b697-7d30e345c770",
+          "d6f7a4f9-90fc-47f8-ab4d-ada82f8a3d01"
         ],
         "settings": {
         }
@@ -3515,7 +3624,6 @@
         "blocks": {
           "1650600462fada49e7-0": {
             "type": "image",
-            "disabled": true,
             "settings": {
               "image": "shopify:\/\/shop_images\/SG---BJD-_-FPB-GWP-Web-Banner.jpg",
               "mobile_image": "shopify:\/\/shop_images\/SG---BJD-_-FPB-GWP-Mobile-Banner.jpg",
@@ -3531,7 +3639,6 @@
           },
           "0c4c8813-1e00-4408-adc3-5411cd41ffc7": {
             "type": "image",
-            "disabled": true,
             "settings": {
               "image": "shopify:\/\/shop_images\/Sustainability_Web_Banner.jpg",
               "mobile_image": "shopify:\/\/shop_images\/Sustainability_Mobile_Banner.jpg",
