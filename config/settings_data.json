@@ -3873,14 +3873,12 @@
         "settings": {
         }
       },
-      "1655316276693b1b3a": {
-        "type": "instagram-feed",
-        "disabled": true,
+      "1655442093de20d888": {
+        "type": "instafeed",
         "settings": {
-          "subheading": "@YourStore",
-          "title": "Follow us",
-          "access_token": "",
-          "image_count": 6
+          "heading_size": 20,
+          "feed_width": 100,
+          "html_area": "<div id=\"feed-18960\" class=\"instafeed-shopify\"><\/div>"
         }
       }
     },
@@ -3905,7 +3903,7 @@
       "165531517857e25325",
       "1552376488178",
       "1602182928254",
-      "1655316276693b1b3a"
+      "1655442093de20d888"
     ]
   },
   "presets": {
