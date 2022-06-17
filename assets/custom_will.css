@@ -1256,6 +1256,9 @@ footer .Footer__Content {
     margin-top: 20px;
     justify-content: center;
 }  
+footer .Collapsible__Content {
+    padding: 0;
+}  
   
 } 
 
