@@ -632,6 +632,11 @@ div#insta-feed h2 , .instafeed-shopify h2 {
 div#insta-feed h2:before , .instafeed-shopify h2:before {
     font-size: 20px;
 }  
+#insta-feed .instafeed-container, .instafeed-shopify .instafeed-container {
+    width: 30% !important;
+    padding: 16% !important;
+}
+  
   
   
 }  
