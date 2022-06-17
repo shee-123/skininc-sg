@@ -329,7 +329,7 @@ footer#section-footer .copy > .container > .row > .col-12 {
     color: #7D7C7C;
     font-weight: 600;
 }   
-div#insta-feed {
+div#insta-feed , .instafeed-shopify {
     background: linear-gradient(90deg, #f7e0ad 0%, #f4a6a1 25%, #f98cb2 51%, #c0a7cd 75%, #52c2e5 100%);
     padding: 80px 0;
     margin: 80px 0 0;
@@ -409,12 +409,12 @@ footer#section-footer {
 img.icon-gallery__img.mobile {
     display: none;
 }
-div#insta-feed h2 {
+div#insta-feed h2 ,.instafeed-shopify h2 {
     color: #fff;
     position: relative;
     padding-top: 50px;
 }
-div#insta-feed h2:before {
+div#insta-feed h2:before , .instafeed-shopify h2;before {
     content: "\f16d";
     position: absolute;
     font-weight: 100;
@@ -616,14 +616,14 @@ footer .payment {
     width: 40px;
     flex-basis: 40px;
 }  
-div#insta-feed {
+div#insta-feed , .instafeed-shopify {
     padding: 30px 0 40px;
 }
-div#insta-feed h2 {
+div#insta-feed h2 , .instafeed-shopify h2 {
     padding-top: 30px;
     margin-bottom: 20px;
 }
-div#insta-feed h2:before {
+div#insta-feed h2:before , .instafeed-shopify h2:before {
     font-size: 20px;
 }  
   
