@@ -331,7 +331,7 @@ footer#section-footer .copy > .container > .row > .col-12 {
 }   
 div#insta-feed , .instafeed-shopify {
     background: linear-gradient(90deg, #f7e0ad 0%, #f4a6a1 25%, #f98cb2 51%, #c0a7cd 75%, #52c2e5 100%);
-    padding: 80px 0;
+    padding: 60px 0 80px;
     margin: 80px 0 0;
 }
 footer#section-footer {
