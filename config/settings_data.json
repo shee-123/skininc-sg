@@ -977,20 +977,6 @@
       "cart-template": {
         "type": "cart-template",
         "blocks": {
-          "becb690f-adad-49a3-9ebb-b6eb11c21e44": {
-            "type": "tierspend-x-get-y",
-            "disabled": true,
-            "settings": {
-              "product_handle": "april-gwp-mask-liner-nourish-hand-serum-worth-56",
-              "variant_id": "39743738282097",
-              "min_price": "25000",
-              "message": "Gift item",
-              "product_handle2": "april-gwp-2-my-nightly-dose-of-glow-embrace-pouch-worth-196",
-              "variant_id2": "39753965207665",
-              "min_price2": "38000",
-              "message2": "Gift item"
-            }
-          },
           "be854e5c-7cc0-4339-b15c-0407933fad5a": {
             "type": "personalise_your_gift",
             "disabled": true,
@@ -1006,16 +992,6 @@
               "pers_stiker_text": "Add a Greeting Card"
             }
           },
-          "335241ea-129e-47bf-b1ee-6a1564c5d7e7": {
-            "type": "spend-x-get-y",
-            "disabled": true,
-            "settings": {
-              "product_handle": "3-14-jun-gift-set-anti-oxidants-essentials-set",
-              "variant_id": "39799901192305",
-              "min_price": "20000",
-              "message": "Exclusive Gift item"
-            }
-          },
           "ad177d73-9d4c-44e2-a568-acea508d5b25": {
             "type": "spend-x-get-y",
             "settings": {
@@ -1027,9 +1003,7 @@
           }
         },
         "block_order": [
-          "becb690f-adad-49a3-9ebb-b6eb11c21e44",
           "be854e5c-7cc0-4339-b15c-0407933fad5a",
-          "335241ea-129e-47bf-b1ee-6a1564c5d7e7",
           "ad177d73-9d4c-44e2-a568-acea508d5b25"
         ],
         "settings": {
@@ -3874,10 +3848,6 @@
       "1655442093de20d888": {
         "type": "instafeed",
         "settings": {
-          "heading_font": "helvetica_n4",
-          "heading_size": 20,
-          "feed_width": 100,
-          "html_area": "<div id=\"feed-18960\" class=\"instafeed-shopify\"><\/div>"
         }
       }
     },
