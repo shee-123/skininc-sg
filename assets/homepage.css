@@ -409,6 +409,21 @@ footer#section-footer {
 img.icon-gallery__img.mobile {
     display: none;
 }
+div#insta-feed h2 {
+    color: #fff;
+    position: relative;
+    padding-top: 50px;
+}
+div#insta-feed h2:before {
+    content: "\f16d";
+    position: absolute;
+    font-weight: 100;
+    font-family: 'FontAwesome';
+    display: block;
+    width: 100%;
+    top: 0;
+    font-size: 30px;
+}
 
 
 @media only screen and (max-width: 990px) {
@@ -593,18 +608,13 @@ footer .payment {
 .icon-gallery__container .icon-gallery__img {
     height: 40px;margin: 0;
 }
-.icon-gallery__container p.icon-gallery__text {  
+.icon-gallery__container p.icon-gallery__text {
     margin: 8px 0;
     line-height: 16px;
 } 
 .icon-gallery__item:nth-of-type(4) {
     width: 40px;
-    flex-basis: 40px; 
+    flex-basis: 40px;
 }  
-.Slideshow--fullscreen {
-    height: 100vh !important;
-}  
-  
-  
   
 }  
