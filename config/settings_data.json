@@ -3624,7 +3624,6 @@
         "blocks": {
           "1650600462fada49e7-0": {
             "type": "image",
-            "disabled": true,
             "settings": {
               "image": "shopify:\/\/shop_images\/Vitamin_C_Glow_Kit_-_SG_Web_Banner_copy.jpg",
               "mobile_image": "shopify:\/\/shop_images\/Vitamin_C_Glow_Kit_-_SG_Mobile_Banner_copy.jpg",
@@ -3876,6 +3875,7 @@
       "1655442093de20d888": {
         "type": "instafeed",
         "settings": {
+          "heading_font": "helvetica_n4",
           "heading_size": 20,
           "feed_width": 100,
           "html_area": "<div id=\"feed-18960\" class=\"instafeed-shopify\"><\/div>"
