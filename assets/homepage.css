@@ -413,6 +413,9 @@ div#insta-feed h2 ,.instafeed-shopify h2 {
     color: #fff;
     position: relative;
     padding-top: 50px;
+    font-size: 15px;
+    letter-spacing: 2px !important;
+    font-weight: bold;
 }
 div#insta-feed h2:before , .instafeed-shopify h2:before {
     content: "\f16d";
