@@ -1219,7 +1219,43 @@ ul.payment_icon svg {
 .rb-footer-actions a.rb-btn,.rb-extras-sidebar .rb-extras-summary >div:nth-of-type(2) a:nth-of-type(1) {
     width: 100%;
 }
-  
+footer#section-footer {
+    border-top: 0;
+}
+.footer_inner {
+    max-width: 100%;
+}
+footer .SectionHeader__Description p {
+    font-size: 12px;
+    line-height: 20px;
+}
+footer#section-footer .container>.row>div {
+    width: 100%;
+    max-width: 100%;
+    flex: 100%;
+}
+.footer-menu {
+    text-align: center;
+}
+footer .footer-menu .menu {
+    padding: 0;
+}
+
+h2.heading.Footer__Title {
+    display: none;
+}
+footer .payment {
+    display: block!important;
+    text-align: center;
+}
+footer .Footer__Content {
+    text-align: center;
+    padding: 0;
+}
+.payment ul {
+    margin-top: 20px;
+    justify-content: center;
+}  
   
 } 
 
