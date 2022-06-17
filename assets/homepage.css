@@ -428,7 +428,9 @@ div#insta-feed h2:before , .instafeed-shopify h2:before {
     top: 0;
     font-size: 30px;
 }
-
+h1.SectionHeader__Heading.Heading.u-h1 {
+    color: #7d7c7c;
+}
 
 @media only screen and (max-width: 990px) {
  .container {
