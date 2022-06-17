@@ -414,7 +414,7 @@ div#insta-feed h2 ,.instafeed-shopify h2 {
     position: relative;
     padding-top: 50px;
 }
-div#insta-feed h2:before , .instafeed-shopify h2;before {
+div#insta-feed h2:before , .instafeed-shopify h2:before {
     content: "\f16d";
     position: absolute;
     font-weight: 100;
