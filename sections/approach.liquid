@@ -1,7 +1,9 @@
 <section class="section spaced our-approach" data-section-id="{{ section.id }}"  style="background: url('{{ section.settings.bg-image-mob | img_url: 'master'}}')">
- <a href="/">
+
    <div class="app_inner" style="background-image: url('{{ section.settings.bg-image | img_url: 'master'}}')">
-  <div class="container">
+   <a href="/">
+     
+     <div class="container">
     {%- for block in section.blocks -%}
     {%- if block.type == "header" -%}
     <h2 class="text-center header">{{block.settings.heading | escape }}</h2>
@@ -31,8 +33,9 @@
     {%- endif -%}
     {%- endfor -%}
   </div>
+     </a>
   </div>
- </a>
+ 
  </section>
 {% schema %}
 {
