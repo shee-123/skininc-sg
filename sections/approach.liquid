@@ -1,7 +1,7 @@
 <section class="section spaced our-approach" data-section-id="{{ section.id }}"  style="background: url('{{ section.settings.bg-image-mob | img_url: 'master'}}')">
 
    <div class="app_inner" style="background-image: url('{{ section.settings.bg-image | img_url: 'master'}}')">
-   <a href="/">
+   <a href="{{ section.settings.cta_btn_link }}">
      
      <div class="container">
     {%- for block in section.blocks -%}
@@ -33,7 +33,7 @@
     {%- endif -%}
     {%- endfor -%}
   </div>
-     </a>
+    </a>
   </div>
  
  </section>
@@ -51,7 +51,12 @@
   "type": "image_picker",
   "id": "bg-image-mob",
   "label": "Mobile Background Image"
-}
+},
+	{
+      "type": "url",
+      "id": "cta_btn_link",
+      "label": "CTA Button Link"
+    }
 ],
   "blocks": [
   {
