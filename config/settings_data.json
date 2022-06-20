@@ -419,7 +419,8 @@
         ],
         "settings": {
           "bg-image": "shopify:\/\/shop_images\/Our_Customized_Approach_to_Your_Skin_Health_Web_Banner.jpg",
-          "bg-image-mob": "shopify:\/\/shop_images\/Our_Customized_Approach_to_Your_Skin_Health_Mobile_Banner.jpg"
+          "bg-image-mob": "shopify:\/\/shop_images\/Our_Customized_Approach_to_Your_Skin_Health_Mobile_Banner.jpg",
+          "cta_btn_link": "shopify:\/\/collections\/customize-your-skincare"
         }
       },
       "1544002128879": {
@@ -3798,7 +3799,8 @@
         ],
         "settings": {
           "bg-image": "shopify:\/\/shop_images\/Clinically_Proven_Results_Web_Banner.jpg",
-          "bg-image-mob": "shopify:\/\/shop_images\/Clinically_Proven_Results_Mobile_Banner.jpg"
+          "bg-image-mob": "shopify:\/\/shop_images\/Clinically_Proven_Results_Mobile_Banner.jpg",
+          "cta_btn_link": ""
         }
       },
       "16553159607d8822ba": {
