@@ -405,7 +405,7 @@
               "content": "",
               "direction": "left",
               "cta_btn_label": "",
-              "cta_btn_link": ""
+              "cta_btn_link": "shopify:\/\/collections\/customize-your-skincare"
             }
           }
         },
@@ -3848,7 +3848,6 @@
       "1655442093de20d888": {
         "type": "instafeed",
         "settings": {
-          "heading_font": "helvetica_n4",
           "heading_size": 20,
           "feed_width": 100,
           "html_area": "<div id=\"feed-18960\" class=\"instafeed-shopify\"><\/div>"
