@@ -431,6 +431,16 @@ div#insta-feed h2:before , .instafeed-shopify h2:before {
 h1.SectionHeader__Heading.Heading.u-h1 {
     color: #7d7c7c;
 }
+a.approch_link {
+    position: absolute;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+}
+
+
+
 
 @media only screen and (max-width: 990px) {
  .container {
