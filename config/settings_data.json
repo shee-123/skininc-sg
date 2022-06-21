@@ -3597,7 +3597,6 @@
       },
       "1650600462fada49e7": {
         "type": "embrace-slideshow",
-        "disabled": true,
         "blocks": {
           "1650600462fada49e7-0": {
             "type": "image",
@@ -3809,7 +3808,6 @@
       },
       "16553159607d8822ba": {
         "type": "marquee-banner",
-        "disabled": true,
         "blocks": {
           "679060cf-efbd-4ebb-a3c9-651af87c103a": {
             "type": "marquee_item",
