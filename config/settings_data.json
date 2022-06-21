@@ -1349,6 +1349,7 @@
       },
       "1574758794229": {
         "type": "slideshow",
+        "disabled": true,
         "blocks": {
           "a4a26230-b0c8-4b81-abb9-61d45e435dc6": {
             "type": "image",
@@ -3055,6 +3056,7 @@
       },
       "16480391365f31924b": {
         "type": "being-is-you",
+        "disabled": true,
         "settings": {
           "text1": "Your skin is your biggest organ and is the barometer of your wellbeing.",
           "text2": "It is the first place to show signs of other ailments. Our every thought,  lifestyle and environment greatly affects our greater health and well-being,  impacting us emotionally, mentally, and physically.",
@@ -3063,6 +3065,7 @@
       },
       "16480402579038fbd6": {
         "type": "sabi-section",
+        "disabled": true,
         "blocks": {
           "7ea25ccb-2012-4f40-af73-753301481dae": {
             "type": "header",
@@ -3119,6 +3122,7 @@
       },
       "16480405754d676c34": {
         "type": "video-section",
+        "disabled": true,
         "settings": {
           "section_size": "large",
           "text_color": "#ffffff",
@@ -3130,6 +3134,7 @@
       },
       "1648040652e58c84be": {
         "type": "sabi-section",
+        "disabled": true,
         "blocks": {
           "ca6b8739-10a1-4b9c-8803-e371deaf73ea": {
             "type": "header",
@@ -3180,6 +3185,7 @@
       },
       "1648041130db55ebe9": {
         "type": "icon-gallery",
+        "disabled": true,
         "blocks": {
           "6422ca2c-b66f-4e64-8996-66e147597f6b": {
             "type": "brand_image",
@@ -3222,6 +3228,7 @@
       },
       "164804125767f97197": {
         "type": "text-with-image",
+        "disabled": true,
         "settings": {
           "title": "Less is more.",
           "content": "<p>You don’t need 20 steps or 20,000<br\/>ingredients for a healthy, glowing you.<br\/>Generate zero waste with No Nasties<br\/>formula customized just for you.<\/p>",
@@ -3231,6 +3238,7 @@
       },
       "164804139441235ee1": {
         "type": "science",
+        "disabled": true,
         "blocks": {
           "9c250db0-e04a-4b83-9c11-4f5d24c6b848": {
             "type": "header",
