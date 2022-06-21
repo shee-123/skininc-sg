@@ -211,7 +211,9 @@
           "722d5f71-4d67-4241-8a1b-9c9f9a6a01a6"
         ],
         "settings": {
-          "show_payment_methods": true
+          "show_payment_methods": true,
+          "title": "CUSTOM BEAUTY FOR EVERY YOU",
+          "content": "<p>Subscribe now and get 10% off your first purchase.<\/p>"
         }
       },
       "homepage-intro": {
