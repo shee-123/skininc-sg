@@ -343,7 +343,6 @@
       },
       "1544002103271": {
         "type": "approach",
-        "disabled": true,
         "blocks": {
           "1544002148825": {
             "type": "header",
@@ -1207,7 +1206,6 @@
       },
       "1552376488178": {
         "type": "icon-gallery",
-        "disabled": true,
         "blocks": {
           "1552376539759": {
             "type": "brand_image",
@@ -1449,7 +1447,6 @@
       },
       "1602182928254": {
         "type": "review-carousel",
-        "disabled": true,
         "settings": {
           "heading": ""
         }
@@ -3312,6 +3309,7 @@
       },
       "1648041702fd3a7f68": {
         "type": "sabi-section",
+        "disabled": true,
         "blocks": {
           "e512814e-7af1-4d4b-9d82-4cd744059831": {
             "type": "approach_item",
@@ -3700,7 +3698,6 @@
       },
       "16553147674745b63f": {
         "type": "collection-list",
-        "disabled": true,
         "blocks": {
           "16553147674745b63f-0": {
             "type": "collection",
@@ -3791,7 +3788,6 @@
       },
       "165531517857e25325": {
         "type": "approach",
-        "disabled": true,
         "blocks": {
           "962dd83f-f500-4616-a89c-685ef740ac4f": {
             "type": "approach_item",
@@ -3860,7 +3856,6 @@
       },
       "1655442093de20d888": {
         "type": "instafeed",
-        "disabled": true,
         "settings": {
           "heading_size": 20,
           "feed_width": 100,
