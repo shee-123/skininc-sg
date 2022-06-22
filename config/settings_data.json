@@ -994,18 +994,28 @@
               "pers_stiker_text": "Add a Greeting Card"
             }
           },
+          "6808ec6f-e6da-43a8-adca-aef52f98820d": {
+            "type": "spend-x-get-y",
+            "settings": {
+              "product_handle": "gift-vitamin-c-glow-kit-24k-gold-sculpt-lift-bar",
+              "variant_id": "39817902686321",
+              "min_price": "38000",
+              "message": "Complimentary Gift"
+            }
+          },
           "ad177d73-9d4c-44e2-a568-acea508d5b25": {
             "type": "spend-x-get-y",
             "settings": {
               "product_handle": "vitamin-c-glow-kit-worth-101",
               "variant_id": "39812703060081",
               "min_price": "19000",
-              "message": "Gift item"
+              "message": "Gift"
             }
           }
         },
         "block_order": [
           "be854e5c-7cc0-4339-b15c-0407933fad5a",
+          "6808ec6f-e6da-43a8-adca-aef52f98820d",
           "ad177d73-9d4c-44e2-a568-acea508d5b25"
         ],
         "settings": {
