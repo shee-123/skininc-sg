@@ -1006,6 +1006,7 @@
           },
           "ad177d73-9d4c-44e2-a568-acea508d5b25": {
             "type": "spend-x-get-y",
+            "disabled": true,
             "settings": {
               "product_handle": "vitamin-c-glow-kit-worth-101",
               "variant_id": "39812703060081",
