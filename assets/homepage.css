@@ -643,11 +643,11 @@ div#insta-feed h2:before , .instafeed-shopify h2:before {
     padding: 16% !important;
 }
 .Slideshow--fullscreen {
-    height: 640px !important;
-}  
+    height: 100vh !important;
+}    
 .Slideshow--fullscreen .Slideshow__Image {
     object-fit: fill;
     width: 100%;
-}
+}  
   
 }  
