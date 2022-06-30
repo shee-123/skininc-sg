@@ -3627,8 +3627,8 @@
             "type": "image",
             "disabled": true,
             "settings": {
-              "image": "shopify:\/\/shop_images\/Summer_Sale_2022_1st_Web_Banner_791db1d9-a193-4a7c-8797-d0bce9074af4.jpg",
-              "mobile_image": "shopify:\/\/shop_images\/Summer_Sale_2022_1st_Mobile_Banner.jpg",
+              "image": "shopify:\/\/shop_images\/SG_-_Web_Banner_copy.jpg",
+              "mobile_image": "shopify:\/\/shop_images\/SG_-_Mobile_Banner.jpg",
               "apply_overlay": true,
               "content_position": "bottomLeft",
               "subheading": "",
@@ -3643,8 +3643,8 @@
             "type": "image",
             "disabled": true,
             "settings": {
-              "image": "shopify:\/\/shop_images\/SG_-_Vitamin_C_Glow_Kit_Sculpt_Lift_Bar_-_Web_Banner_copy_cd496a04-f2be-4ed3-a649-76bb4840d5cd.jpg",
-              "mobile_image": "shopify:\/\/shop_images\/SG_-_Vitamin_C_Glow_Kit_Sculpt_Lift_Bar_-_SG_Mobile_Banner_copy_89feb34c-7d45-49e4-8151-f541ba19f054.jpg",
+              "image": "shopify:\/\/shop_images\/Customisation_Web_Banner.jpg",
+              "mobile_image": "shopify:\/\/shop_images\/Customisation_Mobile_Banner.jpg",
               "apply_overlay": true,
               "content_position": "bottomLeft",
               "subheading": "",
