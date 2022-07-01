@@ -646,8 +646,8 @@ div#insta-feed h2:before , .instafeed-shopify h2:before {
     height: 100vh !important;
 }    
 .Slideshow--fullscreen .Slideshow__Image {
-    object-fit: fill;
-    width: 100%;
+/* object-fit: fill; 
+    width: 100%;*/
 }  
   
 }  
