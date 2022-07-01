@@ -981,12 +981,12 @@
           "c57c0b8d-4765-4e48-874a-1e1136573d00": {
             "type": "tierspend-x-get-y",
             "settings": {
-              "product_handle": "vitamin-c-glow-kit-worth-101",
-              "variant_id": "39812703060081",
-              "min_price": "19000",
+              "product_handle": "july-gwp-in-store-7-in-1-treatment-voucher-oxy-miracle-infusion-worth-208",
+              "variant_id": "39827301466225",
+              "min_price": "18000",
               "message": "Gift item",
-              "product_handle2": "gift-vitamin-c-glow-kit-24k-gold-sculpt-lift-bar",
-              "variant_id2": "39817902686321",
+              "product_handle2": "july-gwp-preventive-v-lift-aging-set-in-store-7-in-1-treatment-voucher-oxy-miracle-infusion-worth-445",
+              "variant_id2": "39827302842481",
               "min_price2": "38000",
               "message2": "Gift item"
             }
