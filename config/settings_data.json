@@ -3625,7 +3625,6 @@
         "blocks": {
           "1650600462fada49e7-0": {
             "type": "image",
-            "disabled": true,
             "settings": {
               "image": "shopify:\/\/shop_images\/SG_-_Web_Banner_copy.jpg",
               "mobile_image": "shopify:\/\/shop_images\/SG_-_Mobile_Banner.jpg",
@@ -3641,7 +3640,6 @@
           },
           "0c4c8813-1e00-4408-adc3-5411cd41ffc7": {
             "type": "image",
-            "disabled": true,
             "settings": {
               "image": "shopify:\/\/shop_images\/Customisation_Web_Banner.jpg",
               "mobile_image": "shopify:\/\/shop_images\/Customisation_Mobile_Banner.jpg",
