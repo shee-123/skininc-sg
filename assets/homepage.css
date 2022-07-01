@@ -649,6 +649,9 @@ div#insta-feed h2:before , .instafeed-shopify h2:before {
 /* object-fit: fill; 
     width: 100%;*/
 }  
+#announcement-slideshow .AnnouncementBar__Content {
+    line-height: 1.5em;
+}
   
 }  
 
