@@ -656,7 +656,7 @@ div#insta-feed h2:before , .instafeed-shopify h2:before {
 }  
 
 
-@media only screen and (max-width: 400px) {
+@media only screen and (max-width: 480px) {
 .Slideshow--fullscreen {
     height: 75vh !important;
 }
