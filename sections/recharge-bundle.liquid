@@ -78,10 +78,13 @@
   <div id="bundling-app"></div>
 </section>
 
-{% capture product_json %}{% include 'recharge-bundle-product-json', product: box_product %}{% endcapture %}
+{% capture product_json %}
+{{ box_product | json}}
+{% endcapture %}
 <script type="text/javascript">
   window.BoxConfig = {
     template: 'product',
+    layoutTemplate: {{ product.metafields.rc_bundles.layout_template | json }},
     product: {{ product_json }},
     customLocale: {{ 'r_html' | t | json }}
   };
@@ -302,7 +305,6 @@
       "r_html": {
         "outOfStock":"Out of Stock",
         "boxContents":"Contents",
-        "subscribeAndSave":"Subscribe & save",
         "subscriptionPage":{
           "contentsFor":"Contents for your {nextChargeDate} order",
           "updateContents":"Update contents",
@@ -369,314 +371,15 @@
         "week":"week | weeks",
         "day":"day | days",
         "frequency":{
-          "label":"Frequency"
+          "label": "Frequency",
+          "subscriptionLabel": "Subscribe",
+          "oneTimeLabel": "Only once",
+          "option": "Only once|Every {unit}|Every {count} {unit}"
         },
         "back":"Go back",
         "next":"Next",
         "goToCart":"Proceed to cart",
         "close":"Close"
-      }
-    },
-    "es": {
-      "r_html": {
-        "outOfStock":"Agotado",
-        "boxContents": "Contenido",
-        "subscribeAndSave": "Subscríbete y ahorra",
-        "subscriptionPage": {
-          "contentsFor": "Contenido para la order del {nextChargeDate}",
-          "updateContents": "Actualizar contenido",
-          "select": "Selecciona contenido para {title}",
-          "your": "Tu {title}",
-          "save": "Guardar",
-          "saving": "Guardando tus cambios",
-          "saved": "¡Tus cambios han sido guardados!",
-          "yourNextOrder":"Your next order"
-        },
-        "remainder": {
-          "add": "Elige {remainder}",
-          "remove": "Remueve {remainder}"
-        },
-        "boxItem": {
-          "add": "+ Add",
-          "remove": "× Remove"
-        },
-        "alert": {
-          "planChanged": "Plan changed - update your selections to continue",
-          "add": "Choose {remainder} from {collectionTitle} to continue",
-          "remove": "Remove {remainder} from {collectionTitle} to continue",
-          "collectionComplete": "{collectionTitle} selection completed!",
-          "complete": "Bundle completed! You can add to cart now"
-        },
-        "addToCart": {
-          "completed": "Agregar al carro",
-          "add": "Agrega {remainder} para continuar",
-          "added": "Agregado!",
-          "remove": "Remueve {remainder} para continuar",
-          "addMore": "Elige más para continuar",
-          "removeSome": "Remueve algunos para continuar",
-          "soldOut": "Sold out",
-          "error": "Add to cart failed"
-        },
-        "multiStep": {
-          "collectionStep": {
-            "select": "Select {count} {title}"
-          },
-          "summaryStep": {
-            "addons": "Add-ons",
-            "total": "Order total"
-          }
-        },
-        "filters": {
-          "label": "Filters",
-          "clear": "Clear all"
-        },
-         "addOns":{
-          "addOns":"Add-ons",
-          "title":"Feel like a little more?",
-          "description":"Add some delicious extras to your plan. We’ll send these with every delivery, until you tell us not to."
-        },
-        "oneOffExtras":{
-          "extras":"One-off extras",
-          "title":"Your order’s in! Fancy some one-off treats?",
-          "description":"Products you select here will only be added to your first delivery.",
-          "summary":"Summary",
-          "otherItems":"Regular delivery",
-          "total":"Total cost for your first delivery",
-          "addToCart":"Add extras to cart"
-        },
-        "month": "mes | meses",
-        "week": "semana | semanas",
-        "day": "día | días",
-        "frequency": {
-          "label": "Frecuencia"
-        },
-        "back": "Go back",
-        "next": "Next",
-        "goToCart": "Proceed to cart",
-        "close": "Cerrar"
-      }
-    },
-    "it": {
-      "r_html": {
-        "outOfStock":"Out of Stock",
-        "boxContents": "Contenuto",
-        "subscribeAndSave": "Abbonati & salva",
-        "subscriptionPage": {
-          "contentsFor": "Contenuti per il tuo ordine del {nextChargeDate}",
-          "updateContents": "Aggiorna i contenuti",
-          "select": "Seleziona il contenuto {title}",
-          "your": "Il tuo {title}",
-          "save": "Salva",
-          "saving": "Salvataggio delle modifiche",
-          "saved": "Le modifiche sono state salvate!",
-          "yourNextOrder": "Prossimo ordine"
-        },
-        "remainder": {
-          "add": "Scegli {remainder}",
-          "remove": "Rimuovi {remainder}"
-        },
-        "boxItem": {
-          "add": "+ Add",
-          "remove": "× Remove"
-        },
-        "alert": {
-          "planChanged": "Plan changed - update your selections to continue",
-          "add": "Choose {remainder} from {collectionTitle} to continue",
-          "remove": "Remove {remainder} from {collectionTitle} to continue",
-          "collectionComplete": "{collectionTitle} selection completed!",
-          "complete": "Bundle completed! You can add to cart now"
-        },
-        "addToCart": {
-          "completed": "Aggiungi al carrello",
-          "add": "Aggiungi {remainder} per continuare",
-          "added": "Added",
-          "remove": "Rimuovi {remainder} per continuare",
-          "addMore": "Scegli altro per continuare",
-          "removeSome": "Rimuovine alcuni per continuare",
-          "soldOut": "Sold out",
-          "error": "Add to cart failed"
-        },
-        "multiStep": {
-          "collectionStep": {
-            "select": "Select {count} {title}"
-          },
-          "summaryStep": {
-            "addons": "Add-ons",
-            "total": "Order total"
-          }
-        },
-        "filters": {
-          "label": "Filters",
-          "clear": "Clear all"
-        },
-        "addOns":{
-          "addOns":"Add-ons",
-          "title":"Feel like a little more?",
-          "description":"Add some delicious extras to your plan. We’ll send these with every delivery, until you tell us not to."
-        },
-        "oneOffExtras":{
-          "extras":"One-off extras",
-          "title":"Your order’s in! Fancy some one-off treats?",
-          "description":"Products you select here will only be added to your first delivery.",
-          "summary":"Summary",
-          "otherItems":"Regular delivery",
-          "total":"Total cost for your first delivery",
-          "addToCart":"Add extras to cart"
-        },
-        "month": "mese | mesi",
-        "week": "settimana | settimane",
-        "day": "giorno | giorni",
-        "frequency": {
-          "label": "Frequenza"
-        },
-        "back": "Go back",
-        "next": "Next",
-        "goToCart": "Proceed to cart",
-        "close": "Chiudi"
-      }
-    },
-    "ja": {
-      "r_html": {
-        "outOfStock":"Out of Stock",
-        "boxContents": "商品名",
-        "subscribeAndSave": "購読して保存",
-        "subscriptionPage": {
-          "contentsFor": "{nextChargeDate}の注文の内容",
-          "updateContents": "内容の更新:",
-          "select": "商品を選択",
-          "your": "サブスクリプション",
-          "save": "変更内容を保存",
-          "saving": "変更を保存する",
-          "saved": "変更内容が保存されました",
-          "yourNextOrder": "次回お届けする商品"
-        },
-        "remainder": {
-          "add": "{remainder}を選択",
-          "remove": "{remainder}を削除します"
-        },
-        "boxItem": {
-          "add": "+ Add",
-          "remove": "× Remove"
-        },
-        "alert": {
-          "planChanged": "Plan changed - update your selections to continue",
-          "add": "Choose {remainder} from {collectionTitle} to continue",
-          "remove": "Remove {remainder} from {collectionTitle} to continue",
-          "collectionComplete": "{collectionTitle} selection completed!",
-          "complete": "Bundle completed! You can add to cart now"
-        },
-        "addToCart": {
-          "completed": "内容の確認へ",
-          "add": "残り{remainder}アイテム選べます",
-          "added": "Added",
-          "remove": "続行するには{remainder}を削除してください",
-          "addMore": "続行するには、さらに選択してください",
-          "removeSome": "続行するには一部を削除してください",
-          "soldOut": "Sold out",
-          "error": "Add to cart failed"
-        },
-        "multiStep": {
-          "collectionStep": {
-            "select": "アイテムを{count}つ選択"
-          },
-          "summaryStep": {
-            "addons": "Add-ons",
-            "total": "Order total"
-          }
-        },
-        "filters": {
-          "label": "フィルタ",
-          "clear": "すべてクリア"
-        },
-        "addOns":{
-          "addOns":"Add-ons",
-          "title":"Feel like a little more?",
-          "description":"Add some delicious extras to your plan. We’ll send these with every delivery, until you tell us not to."
-        },
-        "oneOffExtras":{
-          "extras":"One-off extras",
-          "title":"Your order’s in! Fancy some one-off treats?",
-          "description":"Products you select here will only be added to your first delivery.",
-          "summary":"Summary",
-          "otherItems":"Regular delivery",
-          "total":"Total cost for your first delivery",
-          "addToCart":"Add extras to cart"
-        },
-        "month": "月 | 月",
-        "week": "週 | 週",
-        "day": "日 | 日",
-        "frequency": {
-          "label": "周波数"
-        },
-        "back": "戻る",
-        "next": "次",
-        "goToCart": "Proceed to cart",
-        "close": "閉じる"
-      }
-    },
-    "fr": {
-      "r_html": {
-        "outOfStock": "Rupture de stock",
-        "boxContents": "Contenu",
-        "subscribeAndSave": "Abonnez-vous et économisez",
-        "subscriptionPage": {
-          "contentsFor": "Contenu de votre commande de {nextChargeDate}",
-          "updateContents": "Sélection du contenu",
-          "select": "Sélectionnez votre contenu",
-          "your": "Votre {title}",
-          "save": "Sauvegarder",
-          "saving": "Enregistrement de vos modifications",
-          "saved": "Vos modifications ont été enregistrées",
-          "yourNextOrder": "Votre prochaine commande"
-        },
-        "remainder": {
-          "add": "Choisir {remainder}",
-          "remove": "Supprimer {remainder}"
-        },
-        "boxItem": {
-          "add": "+ Add",
-          "remove": "× Remove"
-        },
-        "alert": {
-          "planChanged": "Changement de plan - modifiez vos choix pour continuer",
-          "add": "Veuillez choisir {remainder} de {collectionTitle} pour continuer",
-          "remove": "Veuillez retirer {remainder} de {collectionTitle} pour continuer",
-          "collectionComplete": "{collectionTitle} choix complétés!",
-          "complete": "Ensemble complété! Vous pouvez ajouter au panier dès maintenant."
-        },
-        "addToCart": {
-          "completed": "Ajouter au panier",
-          "add": "Ajoutez {remainder} pour continuer",
-          "added": "Added",
-          "remove": "Retirer {remainder} pour continuer",
-          "addMore": "Ajouter d'autres pour continuer",
-          "removeSome": "Retirer",
-          "soldOut": "Sold out",
-          "error": "Add to cart failed"
-        },
-        "multiStep": {
-          "collectionStep": {
-            "select": "Select {count} {title}"
-          },
-          "summaryStep": {
-            "addons": "Add-ons",
-            "total": "Order total"
-          }
-        },
-        "filters": {
-          "label": "Filters",
-          "clear": "Clear all"
-        },
-        "month": "month | months",
-        "week": "week | weeks",
-        "day": "day | days",
-        "frequency": {
-          "label": "Fréquence"
-        },
-        "back": "Précédent",
-        "next": "NextSuivant",
-        "goToCart": "Proceed to cart",
-        "close": "Fermer"
       }
     }
   },
