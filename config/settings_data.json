@@ -3728,7 +3728,7 @@
               "subheading": "",
               "title": "",
               "button_text": "",
-              "button_link": "",
+              "button_link": "shopify:\/\/pages\/skin-id",
               "apply_overlay": false
             }
           },
@@ -3742,7 +3742,7 @@
               "subheading": "",
               "title": "Subscription",
               "button_text": "",
-              "button_link": "",
+              "button_link": "shopify:\/\/pages\/subscription",
               "apply_overlay": false
             }
           },
@@ -3756,7 +3756,7 @@
               "subheading": "",
               "title": "SKIN TECH DEVICES",
               "button_text": "",
-              "button_link": "",
+              "button_link": "shopify:\/\/collections\/devices",
               "apply_overlay": false
             }
           },
@@ -3770,7 +3770,7 @@
               "subheading": "",
               "title": "FIRST EXPERIENCE KITS",
               "button_text": "",
-              "button_link": "",
+              "button_link": "shopify:\/\/collections\/trial-kits",
               "apply_overlay": false
             }
           },
@@ -3784,7 +3784,7 @@
               "subheading": "",
               "title": "wellness",
               "button_text": "",
-              "button_link": "",
+              "button_link": "shopify:\/\/collections\/wellness",
               "apply_overlay": false
             }
           }
