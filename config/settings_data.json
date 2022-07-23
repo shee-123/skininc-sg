@@ -3641,14 +3641,14 @@
           "1650600462fada49e7-0": {
             "type": "image",
             "settings": {
-              "image": "shopify:\/\/shop_images\/SG_-_Web_Banner_copy.jpg",
-              "mobile_image": "shopify:\/\/shop_images\/SG_-_Mobile_Banner.jpg",
+              "image": "shopify:\/\/shop_images\/SG_National_Day_2022_Web_Banner_V1.jpg",
+              "mobile_image": "shopify:\/\/shop_images\/SG_National_Day_2022_Mobile_Banner_V1_1.jpg",
               "apply_overlay": true,
               "content_position": "bottomLeft",
               "subheading": "",
               "title": "",
               "button_1_text": "",
-              "button_1_link": "shopify:\/\/collections\/all",
+              "button_1_link": "shopify:\/\/collections\/best-sellers",
               "button_2_text": "",
               "button_2_link": ""
             }
