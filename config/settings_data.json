@@ -980,6 +980,7 @@
         "blocks": {
           "c57c0b8d-4765-4e48-874a-1e1136573d00": {
             "type": "tierspend-x-get-y",
+            "disabled": true,
             "settings": {
               "product_handle": "july-gwp-in-store-7-in-1-treatment-voucher-oxy-miracle-infusion-worth-208",
               "variant_id": "39827301466225",
