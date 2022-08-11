@@ -994,6 +994,7 @@
           },
           "ddef7559-62f0-4eb9-a0cc-cf7bda6a0371": {
             "type": "tierspend-x-get-y",
+            "disabled": true,
             "settings": {
               "product_handle": "aug-gift-set-1-worth-sgd-139-overnight-recovery-sleep-mask-set",
               "variant_id": "39816134819953",
