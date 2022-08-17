@@ -1040,6 +1040,19 @@
               "min_price": "38000",
               "message": "Complimentary Gift"
             }
+          },
+          "a1b28532-5d04-41d1-8045-16e57aaaf6a3": {
+            "type": "tierspend-x-get-y",
+            "settings": {
+              "product_handle": "sep-gwp-tier-1-soothe-hydrate-set-worth-135",
+              "variant_id": "39871909396593",
+              "min_price": "20000",
+              "message": "Gift item",
+              "product_handle2": "sep-gwp-tier-2-soothe-hydrate-glow-set-worth-213",
+              "variant_id2": "39871912444017",
+              "min_price2": "35000",
+              "message2": "Gift item"
+            }
           }
         },
         "block_order": [
@@ -1047,7 +1060,8 @@
           "ddef7559-62f0-4eb9-a0cc-cf7bda6a0371",
           "be854e5c-7cc0-4339-b15c-0407933fad5a",
           "ad177d73-9d4c-44e2-a568-acea508d5b25",
-          "6808ec6f-e6da-43a8-adca-aef52f98820d"
+          "6808ec6f-e6da-43a8-adca-aef52f98820d",
+          "a1b28532-5d04-41d1-8045-16e57aaaf6a3"
         ],
         "settings": {
           "show_shipping_estimator": false,
@@ -3643,8 +3657,8 @@
             "type": "image",
             "disabled": true,
             "settings": {
-              "image": "shopify:\/\/shop_images\/SG_National_Day_2022_Web_Banner_V1.jpg",
-              "mobile_image": "shopify:\/\/shop_images\/SG_National_Day_2022_Mobile_Banner_V1_1.jpg",
+              "image": "shopify:\/\/shop_images\/The_Great_Skin_Sale_Banner_Web_Banner_Main.jpg",
+              "mobile_image": "shopify:\/\/shop_images\/The_Great_Skin_Sale_Mobile_Banner_Main.jpg",
               "apply_overlay": true,
               "content_position": "bottomLeft",
               "subheading": "",
