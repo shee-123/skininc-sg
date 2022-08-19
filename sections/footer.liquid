@@ -115,6 +115,7 @@
         </div>
         {%- endif -%}
 
+       
         {%- form 'customer', id: 'footer-newsletter', class: 'Footer__Newsletter Form' -%}
         {%- if form.posted_successfully? -%}
         <p class="Form__Alert Alert Alert--success">{{ 'footer.newsletter.success' | t }}</p>
@@ -123,10 +124,10 @@
         <p class="Form__Alert Alert Alert--error">{{ form.errors.messages['email'] }}</p>
         {%- endif -%}
          
+
         <input type="hidden" name="contact[tags]" value="newsletter">
         <input type="email" name="contact[email]" class="Form__Input" aria-label="{{ 'footer.newsletter.input' | t }}" placeholder="{{ 'footer.newsletter.input' | t }}" required>
         <button type="submit" class="Form__Submit Button Button--primary Button--full">{{ 'footer.newsletter.submit' | t }}</button>
-          <div class="klaviyo-form-T5wwrd"></div>
         {%- endif -%}
         {%- endform -%}
         {%- endcase -%}
