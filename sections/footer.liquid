@@ -23,8 +23,14 @@
         {%- else -%}
         {%- if form.errors -%}
         <p class="Form__Alert Alert Alert--error">{{ form.errors.messages['email'] }}</p>
-        {%- endif -%}       
-<html>
+        {%- endif -%}
+        <input type="hidden" name="contact[tags]" value="newsletter">
+        <input type="email" name="contact[email]" class="Form__Input" aria-label="{{ 'footer.newsletter.input' | t }}" placeholder="{{ 'footer.newsletter.input' | t }}" required>
+        <button type="submit" class="Form__Submit Button Button--primary Button--full">{{ 'footer.newsletter.submit' | t }}</button>
+        {%- endif -%}
+        {%- endform -%}
+    </div>
+    <html>
     <head>
         <script type="text/javascript">
             function greeting(){
@@ -42,12 +48,6 @@
 
     </body>
 </html>
-        <input type="hidden" name="contact[tags]" value="newsletter">
-        <input type="email" name="contact[email]" class="Form__Input" aria-label="{{ 'footer.newsletter.input' | t }}" placeholder="{{ 'footer.newsletter.input' | t }}" required>
-        <button type="submit" class="Form__Submit Button Button--primary Button--full">{{ 'footer.newsletter.submit' | t }}</button>
-        {%- endif -%}
-        {%- endform -%}
-    </div>
     
     {%- if section.blocks.size > 0 -%}
     <div class="row">
