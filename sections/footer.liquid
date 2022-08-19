@@ -27,6 +27,12 @@
         <input type="hidden" name="contact[tags]" value="newsletter">
         <input type="email" name="contact[email]" class="Form__Input" aria-label="{{ 'footer.newsletter.input' | t }}" placeholder="{{ 'footer.newsletter.input' | t }}" required>
         <button type="submit" class="Form__Submit Button Button--primary Button--full">{{ 'footer.newsletter.submit' | t }}</button>
+          <script type="text/javascript">
+            document.querySelector('.klaviyo_form_trigger').addEventListener('click', function (){
+                window._klOnsite = window._klOnsite || []; 
+                window._klOnsite.push(['openForm', 'WT44EK']);
+            });
+          </script>
         {%- endif -%}
         {%- endform -%}
     </div>
