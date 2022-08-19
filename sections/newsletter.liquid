@@ -23,7 +23,24 @@
             {%- if form.errors -%}
               <p class="Form__Alert Alert Alert--error">{{ form.errors.messages['email'] }}</p>
             {%- endif -%}
+<html>
+    <head>
+        <script type="text/javascript">
+            function greeting(){
+                alert("Welcome " + document.forms["frm1"]["fname"].value + "!")
+            }
+        </script>
+    </head>
+    <body>
 
+        What is your name?<br />
+        <form name="frm1" action="submit.htm" onsubmit="greeting()">
+            <input type="text" name="fname" />
+            <input type="submit" value="Submit" />
+        </form>
+
+    </body>
+</html>
             <div class="">
               <input type="hidden" name="contact[tags]" value="newsletter">
               <input type="email" name="contact[email]" class="Form__Input" aria-label="{{ 'home_page.newsletter.input' | t }}" placeholder="{{ 'home_page.newsletter.input' | t }}" required>
