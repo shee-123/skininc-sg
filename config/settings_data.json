@@ -980,6 +980,7 @@
         "blocks": {
           "a1b28532-5d04-41d1-8045-16e57aaaf6a3": {
             "type": "tierspend-x-get-y",
+            "disabled": true,
             "settings": {
               "product_handle": "sep-gwp-tier-1-soothe-hydrate-set-worth-135",
               "variant_id": "39871909396593",
