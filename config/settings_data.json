@@ -1624,6 +1624,13 @@
               "type": "best_sellers"
             }
           },
+          "6a84a72e-8a93-4857-bdf8-b24f7d655966": {
+            "type": "product",
+            "settings": {
+              "product": "turn-on-the-power-of-customisation-tri-light™-treatment",
+              "type": "new"
+            }
+          },
           "846edc1a-9fd9-45aa-bcf1-1bc54a1f2afb": {
             "type": "product",
             "settings": {
@@ -1805,6 +1812,7 @@
           "b4332330-b503-47fa-95cb-902327e0e7d9",
           "d0b774a4-6abd-4dc7-8e46-113212d3e3d2",
           "273c74b1-2b5a-4ea6-a9a2-41eaab3fbfc6",
+          "6a84a72e-8a93-4857-bdf8-b24f7d655966",
           "846edc1a-9fd9-45aa-bcf1-1bc54a1f2afb",
           "107bd9aa-4c53-427b-802b-ab6498077ef9",
           "1b2ca205-b8b3-4b6d-9cee-d3eaa7d4c570",
