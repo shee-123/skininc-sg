@@ -3726,16 +3726,16 @@
           "92f6afd7-1b43-4a7f-84b1-896fb65288e3": {
             "type": "image",
             "settings": {
-              "image": "shopify:\/\/shop_images\/Cryo-Ice_Sake_Roller_Blush_Web_Banner_5518fa85-d9ea-44af-b9c0-da511ca3283e.jpg",
-              "mobile_image": "shopify:\/\/shop_images\/Cryo-Ice_Sake_Roller_Blush_Mobile_Banner_1c4debd0-ff3b-45a5-9689-41ccbbef9e4b.jpg",
+              "image": "shopify:\/\/shop_images\/SG_Subscription_Web_Banner.jpg",
+              "mobile_image": "shopify:\/\/shop_images\/SG_Subscription_Mobile_Banner_1.jpg",
               "apply_overlay": true,
               "content_position": "bottomLeft",
               "subheading": "",
               "title": "",
               "button_1_text": "",
-              "button_1_link": "shopify:\/\/products\/cryo-ice-sake-roller-blush-edition",
+              "button_1_link": "shopify:\/\/pages\/skin-inc-subscription-program",
               "button_2_text": "",
-              "button_2_link": "shopify:\/\/products\/cryo-ice-sake-roller-blush-edition"
+              "button_2_link": "shopify:\/\/pages\/skin-inc-subscription-program"
             }
           }
         },
