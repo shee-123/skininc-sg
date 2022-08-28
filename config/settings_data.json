@@ -980,7 +980,6 @@
         "blocks": {
           "a1b28532-5d04-41d1-8045-16e57aaaf6a3": {
             "type": "tierspend-x-get-y",
-            "disabled": true,
             "settings": {
               "product_handle": "sep-gwp-tier-1-soothe-hydrate-set-worth-135",
               "variant_id": "39871909396593",
@@ -3664,7 +3663,6 @@
         "blocks": {
           "1650600462fada49e7-0": {
             "type": "image",
-            "disabled": true,
             "settings": {
               "image": "shopify:\/\/shop_images\/The_Great_Skin_Sale_Banner_Web_Banner_Main.jpg",
               "mobile_image": "shopify:\/\/shop_images\/The_Great_Skin_Sale_Mobile_Banner_Main.jpg",
