@@ -3664,8 +3664,8 @@
           "1650600462fada49e7-0": {
             "type": "image",
             "settings": {
-              "image": "shopify:\/\/shop_images\/The_Great_Skin_Sale_Banner_Web_Banner_Main.jpg",
-              "mobile_image": "shopify:\/\/shop_images\/The_Great_Skin_Sale_Mobile_Banner_Main.jpg",
+              "image": "shopify:\/\/shop_images\/GSS_9.9_-_Web_Banner.jpg",
+              "mobile_image": "shopify:\/\/shop_images\/GSS_9.9_-_Mobile_Banner.jpg",
               "apply_overlay": true,
               "content_position": "bottomLeft",
               "subheading": "",
