@@ -978,6 +978,15 @@
       "cart-template": {
         "type": "cart-template",
         "blocks": {
+          "d9011595-d4ca-4be0-a806-a5f85c3bb3bc": {
+            "type": "spend-x-get-y",
+            "settings": {
+              "product_handle": "july-gwp-in-store-7-in-1-treatment-voucher-oxy-miracle-infusion-worth-208",
+              "variant_id": "39827301466225",
+              "min_price": "111100",
+              "message": "Gift item"
+            }
+          },
           "a1b28532-5d04-41d1-8045-16e57aaaf6a3": {
             "type": "tierspend-x-get-y",
             "settings": {
@@ -989,15 +998,6 @@
               "variant_id2": "39871912444017",
               "min_price2": "35000",
               "message2": "Gift item"
-            }
-          },
-          "d9011595-d4ca-4be0-a806-a5f85c3bb3bc": {
-            "type": "spend-x-get-y",
-            "settings": {
-              "product_handle": "july-gwp-in-store-7-in-1-treatment-voucher-oxy-miracle-infusion-worth-208",
-              "variant_id": "39827301466225",
-              "min_price": "111100",
-              "message": "Gift item"
             }
           },
           "c57c0b8d-4765-4e48-874a-1e1136573d00": {
@@ -1065,8 +1065,8 @@
           }
         },
         "block_order": [
-          "a1b28532-5d04-41d1-8045-16e57aaaf6a3",
           "d9011595-d4ca-4be0-a806-a5f85c3bb3bc",
+          "a1b28532-5d04-41d1-8045-16e57aaaf6a3",
           "c57c0b8d-4765-4e48-874a-1e1136573d00",
           "ddef7559-62f0-4eb9-a0cc-cf7bda6a0371",
           "be854e5c-7cc0-4339-b15c-0407933fad5a",
