@@ -72,8 +72,12 @@
           {%- if section.settings.description_below_add_to_cart -%}
             <div class="ProductMeta__Description Rte">
               {{ product.description }}
-     {% include 'donation' %}         </div>
+            </div>
+            {% if product.tags contains 'donation' %}
+               {% include 'donation' %}
+            {% endif %}
           {%- endif -%}
+          
 
           {%- comment -%}
           {%- if product_aside != blank and image_count > 0 -%}
