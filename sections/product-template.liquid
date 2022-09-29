@@ -64,9 +64,6 @@
 
           {%- if product.template_suffix != 'coming-soon' -%}
             {%- include 'product-form' -%}
-            {% if product.tags contains 'donation' %}
-               {% include 'donation' %}
-            {% endif %}
           {%- endif -%}
 
           
@@ -78,6 +75,9 @@
             </div>
           {%- endif -%}
           
+          {% if product.tags contains 'donation' %}
+             {% include 'donation' %}
+          {% endif %}
 
           {%- comment -%}
           {%- if product_aside != blank and image_count > 0 -%}
