@@ -988,6 +988,15 @@
               "message": "Gift item"
             }
           },
+          "a05554d1-097e-4c22-9e8c-d49f1c5b2d44": {
+            "type": "buy-x-get-y-gift",
+            "settings": {
+              "product_handle": "embrace-peach-pink-pleated-bag",
+              "variant_id": "39829512487025",
+              "handle": "my-daily-dose-of-uplift",
+              "message": "Gift item"
+            }
+          },
           "a1b28532-5d04-41d1-8045-16e57aaaf6a3": {
             "type": "tierspend-x-get-y",
             "settings": {
@@ -1067,6 +1076,7 @@
         },
         "block_order": [
           "d9011595-d4ca-4be0-a806-a5f85c3bb3bc",
+          "a05554d1-097e-4c22-9e8c-d49f1c5b2d44",
           "a1b28532-5d04-41d1-8045-16e57aaaf6a3",
           "c57c0b8d-4765-4e48-874a-1e1136573d00",
           "ddef7559-62f0-4eb9-a0cc-cf7bda6a0371",
@@ -3672,6 +3682,22 @@
       "1650600462fada49e7": {
         "type": "embrace-slideshow",
         "blocks": {
+          "1650600462fada49e7-0": {
+            "type": "image",
+            "disabled": true,
+            "settings": {
+              "image": "shopify:\/\/shop_images\/Nightbirde_Web_Banner.jpg",
+              "mobile_image": "shopify:\/\/shop_images\/Nightbirde_Mobile_Banner.jpg",
+              "apply_overlay": true,
+              "content_position": "bottomLeft",
+              "subheading": "",
+              "title": "",
+              "button_1_text": "",
+              "button_1_link": "shopify:\/\/pages\/nightbirde-x-skin-inc-a-mission-of-strength-healing",
+              "button_2_text": "",
+              "button_2_link": ""
+            }
+          },
           "92f6afd7-1b43-4a7f-84b1-896fb65288e3": {
             "type": "image",
             "settings": {
@@ -3731,30 +3757,14 @@
               "button_2_text": "",
               "button_2_link": ""
             }
-          },
-          "1650600462fada49e7-0": {
-            "type": "image",
-            "disabled": true,
-            "settings": {
-              "image": "shopify:\/\/shop_images\/Nightbirde_Web_Banner.jpg",
-              "mobile_image": "shopify:\/\/shop_images\/Nightbirde_Mobile_Banner.jpg",
-              "apply_overlay": true,
-              "content_position": "bottomLeft",
-              "subheading": "",
-              "title": "",
-              "button_1_text": "",
-              "button_1_link": "shopify:\/\/pages\/nightbirde-x-skin-inc-a-mission-of-strength-healing",
-              "button_2_text": "",
-              "button_2_link": ""
-            }
           }
         },
         "block_order": [
+          "1650600462fada49e7-0",
           "92f6afd7-1b43-4a7f-84b1-896fb65288e3",
           "0c4c8813-1e00-4408-adc3-5411cd41ffc7",
           "448cf593-80ea-46f1-9ce1-c8c823bf93af",
-          "1650600462fada49e7-1",
-          "1650600462fada49e7-0"
+          "1650600462fada49e7-1"
         ],
         "settings": {
           "show_fullscreen": true,
