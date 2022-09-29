@@ -51,26 +51,6 @@
             height: 100%;
           }
         
-        /*  Donation css */
-  .donation .fontpreview #radio_textbox {margin-bottom: 10px; border: 1px solid #000000;}
-  .donation .fontpreview {border: 1px solid #f1f1f1; box-shadow: none;}
-  .donation .radio_amount_section [type="radio"]:checked + label:before, 
-  .donation .radio_amount_section [type="radio"]:not(:checked) + label:before {}
-  .donation .radio_amount_section [type="radio"]:checked + label:after, 
-  .donation .radio_amount_section [type="radio"]:not(:checked) + label:after {width: 12px; height: 12px; top: 4px; left: 4px;}
-  .donation .display_title {
-      font-size: 22px;
-      padding: 10px;
-      text-align: center;
-  }
-  .donation .easy_donation_title {
-      text-align: center;
-  }
-  #donate-popup .popup .donate-close {
-      top: 5px !important;
-  }
-        
-/*  Donation css         */
       </style>
      {% if customer %}<style>
           .js .order-summary--is-collapsed {
@@ -159,11 +139,6 @@
                 <h2 class="section__title">Gift message</h2>
                 <div class="gift-message" id="gift-message"></div>
             </div>
-          <div class='donation' page='cart' shop='{{ shop.permanent_domain }}'>
-          	<div class='donation_loader'>
-          		<img width='130' height='130' src='https://zestardshop.com/shopifyapp/easy_donation/public/image/loader_new.svg'/>
-          	</div>
-          </div>
         </div>
       </div>
     </div>
@@ -202,8 +177,3 @@
 <script async src="https://rebuyengine.com/js/rebuy?shop=skininc-dev.myshopify.com"></script>
 </body>
 </html>
-<script>
-  setTimeout(function(){
-    $.getScript("https://zestardshop.com/shopifyapp/easy_donation/public/js/donation.js");
-  }, 1000);
-</script>
