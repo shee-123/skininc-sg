@@ -64,6 +64,9 @@
 
           {%- if product.template_suffix != 'coming-soon' -%}
             {%- include 'product-form' -%}
+            {% if product.tags contains 'donation' %}
+               {% include 'donation' %}
+            {% endif %}
           {%- endif -%}
 
           
@@ -73,9 +76,6 @@
             <div class="ProductMeta__Description Rte">
               {{ product.description }}
             </div>
-            {% if product.tags contains 'donation' %}
-               {% include 'donation' %}
-            {% endif %}
           {%- endif -%}
           
 
