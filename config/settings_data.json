@@ -3687,21 +3687,6 @@
               "button_2_link": "shopify:\/\/pages\/skin-inc-subscription-program"
             }
           },
-          "448cf593-80ea-46f1-9ce1-c8c823bf93af": {
-            "type": "image",
-            "settings": {
-              "image": "shopify:\/\/shop_images\/SG_Web_Banner_-_September_GWP_copy.jpg",
-              "mobile_image": "shopify:\/\/shop_images\/SG_Mobile_Banner_-_September_GWP_copy.jpg",
-              "apply_overlay": true,
-              "content_position": "bottomLeft",
-              "subheading": "",
-              "title": "",
-              "button_1_text": "",
-              "button_1_link": "shopify:\/\/collections\/all",
-              "button_2_text": "",
-              "button_2_link": ""
-            }
-          },
           "0c4c8813-1e00-4408-adc3-5411cd41ffc7": {
             "type": "image",
             "settings": {
@@ -3713,6 +3698,21 @@
               "title": "",
               "button_1_text": "",
               "button_1_link": "https:\/\/www.iloveskininc.com.sg\/pages\/skin-id",
+              "button_2_text": "",
+              "button_2_link": ""
+            }
+          },
+          "448cf593-80ea-46f1-9ce1-c8c823bf93af": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/SG_Web_Banner_-_September_GWP_copy.jpg",
+              "mobile_image": "shopify:\/\/shop_images\/SG_Mobile_Banner_-_September_GWP_copy.jpg",
+              "apply_overlay": true,
+              "content_position": "bottomLeft",
+              "subheading": "",
+              "title": "",
+              "button_1_text": "",
+              "button_1_link": "shopify:\/\/collections\/all",
               "button_2_text": "",
               "button_2_link": ""
             }
@@ -3734,15 +3734,16 @@
           },
           "1650600462fada49e7-0": {
             "type": "image",
+            "disabled": true,
             "settings": {
-              "image": "shopify:\/\/shop_images\/Cryo-Ice_Sake_Roller_Blush_Web_Banner_5518fa85-d9ea-44af-b9c0-da511ca3283e.jpg",
-              "mobile_image": "shopify:\/\/shop_images\/Cryo-Ice_Sake_Roller_Blush_Mobile_Banner_1c4debd0-ff3b-45a5-9689-41ccbbef9e4b.jpg",
+              "image": "shopify:\/\/shop_images\/Nightbirde_Web_Banner.jpg",
+              "mobile_image": "shopify:\/\/shop_images\/Nightbirde_Mobile_Banner.jpg",
               "apply_overlay": true,
               "content_position": "bottomLeft",
               "subheading": "",
               "title": "",
               "button_1_text": "",
-              "button_1_link": "shopify:\/\/collections\/best-sellers",
+              "button_1_link": "shopify:\/\/products\/my-daily-dose-of-uplift",
               "button_2_text": "",
               "button_2_link": ""
             }
@@ -3750,8 +3751,8 @@
         },
         "block_order": [
           "92f6afd7-1b43-4a7f-84b1-896fb65288e3",
-          "448cf593-80ea-46f1-9ce1-c8c823bf93af",
           "0c4c8813-1e00-4408-adc3-5411cd41ffc7",
+          "448cf593-80ea-46f1-9ce1-c8c823bf93af",
           "1650600462fada49e7-1",
           "1650600462fada49e7-0"
         ],
