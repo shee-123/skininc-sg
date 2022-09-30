@@ -988,6 +988,19 @@
               "message": "Gift item"
             }
           },
+          "c57c0b8d-4765-4e48-874a-1e1136573d00": {
+            "type": "tierspend-x-get-y",
+            "settings": {
+              "product_handle": "oct-gwp-tier-1-skin-barrier-kit-worth-117",
+              "variant_id": "39989094744177",
+              "min_price": "18000",
+              "message": "Gift item",
+              "product_handle2": "oct-gwp-tier-2-overnight-skin-barrier-kit-worth-241",
+              "variant_id2": "39989110341745",
+              "min_price2": "25000",
+              "message2": "Gift item"
+            }
+          },
           "a05554d1-097e-4c22-9e8c-d49f1c5b2d44": {
             "type": "buy-x-get-y-gift",
             "settings": {
@@ -999,6 +1012,7 @@
           },
           "a1b28532-5d04-41d1-8045-16e57aaaf6a3": {
             "type": "tierspend-x-get-y",
+            "disabled": true,
             "settings": {
               "product_handle": "sep-gwp-tier-1-soothe-hydrate-set-worth-135",
               "variant_id": "39871909396593",
@@ -1007,20 +1021,6 @@
               "product_handle2": "sep-gwp-tier-2-soothe-hydrate-glow-set-worth-213",
               "variant_id2": "39871912444017",
               "min_price2": "35000",
-              "message2": "Gift item"
-            }
-          },
-          "c57c0b8d-4765-4e48-874a-1e1136573d00": {
-            "type": "tierspend-x-get-y",
-            "disabled": true,
-            "settings": {
-              "product_handle": "oct-gwp-tier-1-skin-barrier-kit-worth-117",
-              "variant_id": "39989094744177",
-              "min_price": "18000",
-              "message": "Gift item",
-              "product_handle2": "oct-gwp-tier-2-overnight-skin-barrier-kit-worth-241",
-              "variant_id2": "39989110341745",
-              "min_price2": "25000",
               "message2": "Gift item"
             }
           },
@@ -1076,9 +1076,9 @@
         },
         "block_order": [
           "d9011595-d4ca-4be0-a806-a5f85c3bb3bc",
+          "c57c0b8d-4765-4e48-874a-1e1136573d00",
           "a05554d1-097e-4c22-9e8c-d49f1c5b2d44",
           "a1b28532-5d04-41d1-8045-16e57aaaf6a3",
-          "c57c0b8d-4765-4e48-874a-1e1136573d00",
           "ddef7559-62f0-4eb9-a0cc-cf7bda6a0371",
           "be854e5c-7cc0-4339-b15c-0407933fad5a",
           "ad177d73-9d4c-44e2-a568-acea508d5b25",
