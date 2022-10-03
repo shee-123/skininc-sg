@@ -3729,6 +3729,7 @@
           },
           "448cf593-80ea-46f1-9ce1-c8c823bf93af": {
             "type": "image",
+            "disabled": true,
             "settings": {
               "image": "shopify:\/\/shop_images\/SG_Web_Banner_-_October_GWP_copy.jpg",
               "mobile_image": "shopify:\/\/shop_images\/SG_Mobile_Banner_-_October_GWP_copy.jpg",
