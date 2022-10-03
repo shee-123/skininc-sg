@@ -3731,8 +3731,8 @@
             "type": "image",
             "disabled": true,
             "settings": {
-              "image": "shopify:\/\/shop_images\/SG_Web_Banner_-_October_GWP_copy.jpg",
-              "mobile_image": "shopify:\/\/shop_images\/SG_Mobile_Banner_-_October_GWP_copy.jpg",
+              "image": "shopify:\/\/shop_images\/SG_Web_Banner_-_October_GWP_copy_1.jpg",
+              "mobile_image": "shopify:\/\/shop_images\/SG_Mobile_Banner_-_October_GWP_copy_1.jpg",
               "apply_overlay": true,
               "content_position": "bottomLeft",
               "subheading": "",
