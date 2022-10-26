@@ -981,9 +981,9 @@
           "6ff5c2a2-8e7f-4faf-af73-678aa26a0ba0": {
             "type": "spend-x-get-y",
             "settings": {
-              "product_handle": "sep-gwp-tier-1-soothe-hydrate-set-worth-135",
-              "variant_id": "39871909396593",
-              "min_price": "37100",
+              "product_handle": "nov-gwp-tier-3-bonus-5-piece-gift-tier-2-tier-3-total-worth-1111",
+              "variant_id": "40042826465393",
+              "min_price": "111400",
               "message": "Gift item"
             }
           },
