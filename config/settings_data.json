@@ -978,15 +978,6 @@
       "cart-template": {
         "type": "cart-template",
         "blocks": {
-          "6ff5c2a2-8e7f-4faf-af73-678aa26a0ba0": {
-            "type": "spend-x-get-y",
-            "settings": {
-              "product_handle": "nov-gwp-tier-3-bonus-5-piece-gift-tier-2-tier-3-total-worth-1111",
-              "variant_id": "40042826465393",
-              "min_price": "111400",
-              "message": "Gift item"
-            }
-          },
           "c57c0b8d-4765-4e48-874a-1e1136573d00": {
             "type": "tierspend-x-get-y",
             "settings": {
@@ -998,6 +989,15 @@
               "variant_id2": "40042819158129",
               "min_price2": "57100",
               "message2": "Gift item"
+            }
+          },
+          "6ff5c2a2-8e7f-4faf-af73-678aa26a0ba0": {
+            "type": "spend-x-get-y",
+            "settings": {
+              "product_handle": "nov-gwp-tier-3-bonus-5-piece-gift-tier-2-tier-3-total-worth-1111",
+              "variant_id": "40042826465393",
+              "min_price": "111400",
+              "message": "Gift item"
             }
           },
           "a05554d1-097e-4c22-9e8c-d49f1c5b2d44": {
@@ -1084,8 +1084,8 @@
           }
         },
         "block_order": [
-          "6ff5c2a2-8e7f-4faf-af73-678aa26a0ba0",
           "c57c0b8d-4765-4e48-874a-1e1136573d00",
+          "6ff5c2a2-8e7f-4faf-af73-678aa26a0ba0",
           "a05554d1-097e-4c22-9e8c-d49f1c5b2d44",
           "a1b28532-5d04-41d1-8045-16e57aaaf6a3",
           "ddef7559-62f0-4eb9-a0cc-cf7bda6a0371",
