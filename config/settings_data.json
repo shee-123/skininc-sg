@@ -3694,6 +3694,7 @@
         "blocks": {
           "1650600462fada49e7-1": {
             "type": "image",
+            "disabled": true,
             "settings": {
               "image": "shopify:\/\/shop_images\/SG_VIP_11.11_2022_Web_Banner_1.jpg",
               "mobile_image": "shopify:\/\/shop_images\/SG_VIP_11.11_2022_Mobile_Banner_1.jpg",
@@ -3703,6 +3704,22 @@
               "title": "",
               "button_1_text": "",
               "button_1_link": "shopify:\/\/collections",
+              "button_2_text": "",
+              "button_2_link": ""
+            }
+          },
+          "448cf593-80ea-46f1-9ce1-c8c823bf93af": {
+            "type": "image",
+            "disabled": true,
+            "settings": {
+              "image": "shopify:\/\/shop_images\/11.11_SG_Web_Banner_copy.jpg",
+              "mobile_image": "shopify:\/\/shop_images\/11.11_SG_Mobile_Banner_copy_1.jpg",
+              "apply_overlay": true,
+              "content_position": "bottomLeft",
+              "subheading": "",
+              "title": "",
+              "button_1_text": "",
+              "button_1_link": "shopify:\/\/collections\/all",
               "button_2_text": "",
               "button_2_link": ""
             }
@@ -3751,29 +3768,14 @@
               "button_2_text": "",
               "button_2_link": ""
             }
-          },
-          "448cf593-80ea-46f1-9ce1-c8c823bf93af": {
-            "type": "image",
-            "settings": {
-              "image": "shopify:\/\/shop_images\/11.11_SG_Web_Banner_copy.jpg",
-              "mobile_image": "shopify:\/\/shop_images\/11.11_SG_Mobile_Banner_copy_1.jpg",
-              "apply_overlay": true,
-              "content_position": "bottomLeft",
-              "subheading": "",
-              "title": "",
-              "button_1_text": "",
-              "button_1_link": "shopify:\/\/collections\/all",
-              "button_2_text": "",
-              "button_2_link": ""
-            }
           }
         },
         "block_order": [
           "1650600462fada49e7-1",
+          "448cf593-80ea-46f1-9ce1-c8c823bf93af",
           "1650600462fada49e7-0",
           "92f6afd7-1b43-4a7f-84b1-896fb65288e3",
-          "0c4c8813-1e00-4408-adc3-5411cd41ffc7",
-          "448cf593-80ea-46f1-9ce1-c8c823bf93af"
+          "0c4c8813-1e00-4408-adc3-5411cd41ffc7"
         ],
         "settings": {
           "show_fullscreen": true,
