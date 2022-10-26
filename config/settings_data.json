@@ -981,7 +981,7 @@
           "c57c0b8d-4765-4e48-874a-1e1136573d00": {
             "type": "tierspend-x-get-y",
             "settings": {
-              "product_handle": "nov-gwp-tier-1-4-piece-gift-worth-238",
+              "product_handle": "1111-gwp-tier-1-4-piece-gift-worth-238",
               "variant_id": "40042811228273",
               "min_price": "37100",
               "message": "Gift item",
