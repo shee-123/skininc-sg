@@ -34,7 +34,7 @@
     "base_text_font_size": 15,
     "currency_conversion_enabled": false,
     "currency_conversion_round_amounts": true,
-    "currency_conversion_supported_currencies": "USD CAD EUR GBP",
+    "currency_conversion_supported_currencies": "SGD USD CAD EUR GBP",
     "currency_conversion_money_format": "money_format",
     "show_page_transition": true,
     "show_image_zooming": true,
