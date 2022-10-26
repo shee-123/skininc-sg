@@ -87,13 +87,12 @@
           <input type="hidden" name="attributes[collection_desktop_items_per_row]" value="">
                
           {% include 'cart-items' %}
-          {% include 'donation' %}
           {% comment %} {% include 'cart-gift-wrapping' %} {% endcomment %}
             
           <div class="Cart__free">
             {% include 'cart-free-gifts' %}
         </div>  
-   
+   {% include 'donation' %}
           <footer class="Cart__Footer">
      		{%- if settings.cart_enable_notes -%}
               <div class="Cart__NoteContainer">
