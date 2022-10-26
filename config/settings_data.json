@@ -1072,6 +1072,15 @@
               "min_price": "38000",
               "message": "Complimentary Gift"
             }
+          },
+          "6ff5c2a2-8e7f-4faf-af73-678aa26a0ba0": {
+            "type": "spend-x-get-y",
+            "settings": {
+              "product_handle": "sep-gwp-tier-1-soothe-hydrate-set-worth-135",
+              "variant_id": "39871909396593",
+              "min_price": "371",
+              "message": "Gift item"
+            }
           }
         },
         "block_order": [
@@ -1082,7 +1091,8 @@
           "ddef7559-62f0-4eb9-a0cc-cf7bda6a0371",
           "be854e5c-7cc0-4339-b15c-0407933fad5a",
           "ad177d73-9d4c-44e2-a568-acea508d5b25",
-          "6808ec6f-e6da-43a8-adca-aef52f98820d"
+          "6808ec6f-e6da-43a8-adca-aef52f98820d",
+          "6ff5c2a2-8e7f-4faf-af73-678aa26a0ba0"
         ],
         "settings": {
           "show_shipping_estimator": false,
