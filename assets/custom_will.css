@@ -1059,6 +1059,9 @@ ul.Footer__Social svg.Icon {
 #section-list-collections-template .CollectionItem .Heading {
     color: #75787B;
 }
+h1.SectionHeader__Heading.Heading.u-h1 {
+    color: #75787B;
+}
 
 /* end footer */
 
