@@ -1057,7 +1057,7 @@ ul.Footer__Social svg.Icon {
     padding: 2px 0;
 }
 #section-list-collections-template .CollectionItem .Heading {
-    color: #75787B;
+    color: #75787b !important;
 }
 h1.SectionHeader__Heading.Heading.u-h1 {
     color: #75787B;
