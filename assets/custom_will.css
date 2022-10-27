@@ -1044,6 +1044,10 @@ ul.Footer__Social svg.Icon {
 .payment ul li {
     margin: 0 2px;   
 }
+#section-list-collections-template .CollectionItem__Link {
+    border-color: #d7b4b5;
+}
+
 
 /* end footer */
 
