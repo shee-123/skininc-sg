@@ -3740,16 +3740,16 @@
           "92f6afd7-1b43-4a7f-84b1-896fb65288e3": {
             "type": "image",
             "settings": {
-              "image": "shopify:\/\/shop_images\/SG_Subscription_Web_Banner.jpg",
-              "mobile_image": "shopify:\/\/shop_images\/SG_Subscription_Mobile_Banner_1.jpg",
+              "image": "shopify:\/\/shop_images\/Wellness_Trilight_Web_Banner.jpg",
+              "mobile_image": "shopify:\/\/shop_images\/Wellness_Trilight_Mobile_Banner.jpg",
               "apply_overlay": true,
               "content_position": "bottomLeft",
               "subheading": "",
               "title": "",
               "button_1_text": "",
-              "button_1_link": "shopify:\/\/pages\/skin-inc-subscription-program",
+              "button_1_link": "shopify:\/\/products\/tri-light-sabi",
               "button_2_text": "",
-              "button_2_link": "shopify:\/\/pages\/skin-inc-subscription-program"
+              "button_2_link": "shopify:\/\/products\/tri-light-sabi"
             }
           },
           "0c4c8813-1e00-4408-adc3-5411cd41ffc7": {
