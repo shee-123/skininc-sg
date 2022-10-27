@@ -989,13 +989,17 @@
       "cart-template": {
         "type": "cart-template",
         "blocks": {
-          "5ea01652-3376-4767-8116-72faa52d130a": {
-            "type": "spend-x-get-y",
+          "f9982af9-b0a0-4121-9825-605a1e995b85": {
+            "type": "tierspend-x-get-y",
             "settings": {
-              "product_handle": "beauty-jelly-dose",
-              "variant_id": "39660145541233",
-              "min_price": "25000",
-              "message": "Gift item"
+              "product_handle": "1111-gwp-tier-1-4-piece-gift-worth-238",
+              "variant_id": "40042811228273",
+              "min_price": "37100",
+              "message": "Gift item",
+              "product_handle2": "1111-gwp-tier-2-6-piece-gift-worth-537",
+              "variant_id2": "40042819158129",
+              "min_price2": "57100",
+              "message2": "Gift item"
             }
           },
           "6dffbb24-aa29-43c4-b169-16f5e3817492": {
@@ -1023,7 +1027,7 @@
           }
         },
         "block_order": [
-          "5ea01652-3376-4767-8116-72faa52d130a",
+          "f9982af9-b0a0-4121-9825-605a1e995b85",
           "6dffbb24-aa29-43c4-b169-16f5e3817492",
           "be854e5c-7cc0-4339-b15c-0407933fad5a"
         ],
@@ -1679,7 +1683,6 @@
       "161209126258078cf5": {
         "type": "instafeed",
         "settings": {
-          "heading_font": "helvetica_n4",
           "heading_size": 26,
           "feed_width": 100,
           "html_area": ""
