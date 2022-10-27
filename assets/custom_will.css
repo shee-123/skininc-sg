@@ -1056,6 +1056,9 @@ ul.Footer__Social svg.Icon {
     margin-right: 5px;
     padding: 2px 0;
 }
+#section-list-collections-template .CollectionItem .Heading {
+    color: #75787B;
+}
 
 /* end footer */
 
