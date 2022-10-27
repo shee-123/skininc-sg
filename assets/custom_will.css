@@ -1047,7 +1047,15 @@ ul.Footer__Social svg.Icon {
 #section-list-collections-template .CollectionItem__Link {
     border: 0;
 }
-
+.Product__Gallery .ProductItem__LabelList>span.ProductItem__Label:last-child {
+    margin: 0;
+}
+.Product__Gallery .ProductItem__LabelList>span.ProductItem__Label {
+    width: 80px;
+    text-align: center;
+    margin-right: 5px;
+    padding: 2px 0;
+}
 
 /* end footer */
 
