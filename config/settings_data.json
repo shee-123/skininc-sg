@@ -3696,13 +3696,13 @@
             "type": "image",
             "settings": {
               "image": "shopify:\/\/shop_images\/SG_VIP_11.11_2022_Web_Banner_1.jpg",
-              "mobile_image": "shopify:\/\/shop_images\/SG_VIP_11.11_2022_Mobile_Banner_1.jpg",
+              "mobile_image": "shopify:\/\/shop_images\/SG_VIP_11.11_2022_Mobile_Banner_copy.jpg",
               "apply_overlay": true,
               "content_position": "bottomLeft",
               "subheading": "",
               "title": "",
               "button_1_text": "",
-              "button_1_link": "shopify:\/\/collections",
+              "button_1_link": "shopify:\/\/collections\/best-sellers",
               "button_2_text": "",
               "button_2_link": ""
             }
