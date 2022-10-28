@@ -1555,48 +1555,6 @@
       "16046706018733d79b": {
         "type": "featured-product-dev",
         "blocks": {
-          "44f3ce4f-21cb-44ad-9e94-62481dbbee91": {
-            "type": "product",
-            "settings": {
-              "product": "deepcare-flash-facial-spatula",
-              "type": "best_sellers"
-            }
-          },
-          "54ad290e-9dd8-4006-8d17-5b8bbfe306e6": {
-            "type": "product",
-            "settings": {
-              "product": "lit-from-within-holiday-collection-2022",
-              "type": "best_sellers"
-            }
-          },
-          "c6b157fc-cdbb-413d-98aa-80bb51bcf620": {
-            "type": "product",
-            "settings": {
-              "product": "a-glowing-ritual-holiday-collection-2022",
-              "type": "best_sellers"
-            }
-          },
-          "29e464fb-7447-420a-8013-31d669d65fe8": {
-            "type": "product",
-            "settings": {
-              "product": "a-soothing-memory",
-              "type": "best_sellers"
-            }
-          },
-          "0d4669af-7eb4-4019-8618-84f0e1b63241": {
-            "type": "product",
-            "settings": {
-              "product": "a-moment-of-calm",
-              "type": "best_sellers"
-            }
-          },
-          "88444331-9db4-41af-8954-e8806aa719d6": {
-            "type": "product",
-            "settings": {
-              "product": "waking-up-to-bliss",
-              "type": "best_sellers"
-            }
-          },
           "2ca6304f-0f1b-4076-928f-b4ee9dbd5ccc": {
             "type": "product",
             "settings": {
@@ -1611,10 +1569,10 @@
               "type": "best_sellers"
             }
           },
-          "308f39ac-6683-4aad-993f-c1c402798ba4": {
+          "e0919f2b-1041-4fc8-bef1-b60465427aee": {
             "type": "product",
             "settings": {
-              "product": "optimizer-voyage-tri-light-glasses-for-bright-eyes",
+              "product": "my-daily-dose-of-armour",
               "type": "best_sellers"
             }
           },
@@ -1625,17 +1583,10 @@
               "type": "best_sellers"
             }
           },
-          "01c93470-c163-46eb-b499-211b6eaf1d09": {
+          "308f39ac-6683-4aad-993f-c1c402798ba4": {
             "type": "product",
             "settings": {
-              "product": "tri-light-body-sculpt-fit",
-              "type": "best_sellers"
-            }
-          },
-          "e0919f2b-1041-4fc8-bef1-b60465427aee": {
-            "type": "product",
-            "settings": {
-              "product": "my-daily-dose-of-armour",
+              "product": "optimizer-voyage-tri-light-glasses-for-bright-eyes",
               "type": "best_sellers"
             }
           },
@@ -1643,6 +1594,13 @@
             "type": "product",
             "settings": {
               "product": "serum-glow-filter",
+              "type": "best_sellers"
+            }
+          },
+          "01c93470-c163-46eb-b499-211b6eaf1d09": {
+            "type": "product",
+            "settings": {
+              "product": "tri-light-body-sculpt-fit",
               "type": "best_sellers"
             }
           },
@@ -1696,8 +1654,58 @@
               "type": "best_sellers"
             }
           },
+          "44f3ce4f-21cb-44ad-9e94-62481dbbee91": {
+            "type": "product",
+            "settings": {
+              "product": "deepcare-flash-facial-spatula",
+              "type": "new"
+            }
+          },
+          "54ad290e-9dd8-4006-8d17-5b8bbfe306e6": {
+            "type": "product",
+            "settings": {
+              "product": "lit-from-within-holiday-collection-2022",
+              "type": "new"
+            }
+          },
+          "c6b157fc-cdbb-413d-98aa-80bb51bcf620": {
+            "type": "product",
+            "settings": {
+              "product": "a-glowing-ritual-holiday-collection-2022",
+              "type": "new"
+            }
+          },
+          "29e464fb-7447-420a-8013-31d669d65fe8": {
+            "type": "product",
+            "settings": {
+              "product": "a-soothing-memory",
+              "type": "new"
+            }
+          },
+          "0d4669af-7eb4-4019-8618-84f0e1b63241": {
+            "type": "product",
+            "settings": {
+              "product": "a-moment-of-calm",
+              "type": "new"
+            }
+          },
+          "88444331-9db4-41af-8954-e8806aa719d6": {
+            "type": "product",
+            "settings": {
+              "product": "waking-up-to-bliss",
+              "type": "new"
+            }
+          },
+          "766be532-744a-4439-b591-e63dda3df7d3": {
+            "type": "product",
+            "settings": {
+              "product": "flash-facial-starter-kit",
+              "type": "new"
+            }
+          },
           "6a84a72e-8a93-4857-bdf8-b24f7d655966": {
             "type": "product",
+            "disabled": true,
             "settings": {
               "product": "turn-on-the-power-of-customisation-tri-light™-treatment",
               "type": "new"
@@ -1867,22 +1875,30 @@
               "product": "your-dewy-glow-acquisition-set",
               "type": "custom_serums"
             }
+          },
+          "84cd5c72-6f73-44fe-8b09-5033a9dbd205": {
+            "type": "product",
+            "settings": {
+              "product": "my-first-experience-kit",
+              "type": "best_sellers"
+            }
+          },
+          "652084a5-1dcb-4a50-9307-5af2ab0cee55": {
+            "type": "product",
+            "settings": {
+              "product": "pure-serum-infused-o2-cleanser",
+              "type": "best_sellers"
+            }
           }
         },
         "block_order": [
-          "44f3ce4f-21cb-44ad-9e94-62481dbbee91",
-          "54ad290e-9dd8-4006-8d17-5b8bbfe306e6",
-          "c6b157fc-cdbb-413d-98aa-80bb51bcf620",
-          "29e464fb-7447-420a-8013-31d669d65fe8",
-          "0d4669af-7eb4-4019-8618-84f0e1b63241",
-          "88444331-9db4-41af-8954-e8806aa719d6",
           "2ca6304f-0f1b-4076-928f-b4ee9dbd5ccc",
           "9abd3b8a-0a87-4c7b-b756-3790c7146b16",
-          "308f39ac-6683-4aad-993f-c1c402798ba4",
-          "170cc4b3-405f-4c6f-9b0e-ca3b25bccba4",
-          "01c93470-c163-46eb-b499-211b6eaf1d09",
           "e0919f2b-1041-4fc8-bef1-b60465427aee",
+          "170cc4b3-405f-4c6f-9b0e-ca3b25bccba4",
+          "308f39ac-6683-4aad-993f-c1c402798ba4",
           "245797d6-6d7e-4e4c-bc9a-6947ebcb84d3",
+          "01c93470-c163-46eb-b499-211b6eaf1d09",
           "9fb2993c-8894-4d1d-a425-31ae53c2a8a2",
           "ae243db4-2736-4001-afd8-84332d28b1d6",
           "1c017d88-29eb-4965-baad-9cbeae76c122",
@@ -1890,6 +1906,13 @@
           "b4332330-b503-47fa-95cb-902327e0e7d9",
           "d0b774a4-6abd-4dc7-8e46-113212d3e3d2",
           "273c74b1-2b5a-4ea6-a9a2-41eaab3fbfc6",
+          "44f3ce4f-21cb-44ad-9e94-62481dbbee91",
+          "54ad290e-9dd8-4006-8d17-5b8bbfe306e6",
+          "c6b157fc-cdbb-413d-98aa-80bb51bcf620",
+          "29e464fb-7447-420a-8013-31d669d65fe8",
+          "0d4669af-7eb4-4019-8618-84f0e1b63241",
+          "88444331-9db4-41af-8954-e8806aa719d6",
+          "766be532-744a-4439-b591-e63dda3df7d3",
           "6a84a72e-8a93-4857-bdf8-b24f7d655966",
           "846edc1a-9fd9-45aa-bcf1-1bc54a1f2afb",
           "107bd9aa-4c53-427b-802b-ab6498077ef9",
@@ -1912,7 +1935,9 @@
           "f2752230-74bd-4ee4-902a-1f802c2d7770",
           "0596b643-8272-41b4-8a49-724c591b64c2",
           "fb62ccb0-1545-44df-b697-7d30e345c770",
-          "d6f7a4f9-90fc-47f8-ab4d-ada82f8a3d01"
+          "d6f7a4f9-90fc-47f8-ab4d-ada82f8a3d01",
+          "84cd5c72-6f73-44fe-8b09-5033a9dbd205",
+          "652084a5-1dcb-4a50-9307-5af2ab0cee55"
         ],
         "settings": {
         }
