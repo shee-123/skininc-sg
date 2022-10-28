@@ -92,8 +92,9 @@
           <div class="Cart__free">
             {% include 'cart-free-gifts' %}
         </div>  
-   {% render 'donation' %}
+   
           <footer class="Cart__Footer">
+    {% render 'donation' %}
      		{%- if settings.cart_enable_notes -%}
               <div class="Cart__NoteContainer">
                 
