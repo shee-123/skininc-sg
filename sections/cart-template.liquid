@@ -94,11 +94,11 @@
         </div>  
    
           <footer class="Cart__Footer">
-    {% render 'donation' %}
+    
      		{%- if settings.cart_enable_notes -%}
               <div class="Cart__NoteContainer">
                 
-                
+                {% render 'donation' %}
                 {% if section.settings.personalise_your_gift %}                              
                   {% include 'Personalize_gift' %}
                 {% endif %}   
