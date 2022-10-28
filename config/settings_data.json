@@ -1555,6 +1555,48 @@
       "16046706018733d79b": {
         "type": "featured-product-dev",
         "blocks": {
+          "44f3ce4f-21cb-44ad-9e94-62481dbbee91": {
+            "type": "product",
+            "settings": {
+              "product": "deepcare-flash-facial-spatula",
+              "type": "best_sellers"
+            }
+          },
+          "54ad290e-9dd8-4006-8d17-5b8bbfe306e6": {
+            "type": "product",
+            "settings": {
+              "product": "lit-from-within-holiday-collection-2022",
+              "type": "best_sellers"
+            }
+          },
+          "c6b157fc-cdbb-413d-98aa-80bb51bcf620": {
+            "type": "product",
+            "settings": {
+              "product": "a-glowing-ritual-holiday-collection-2022",
+              "type": "best_sellers"
+            }
+          },
+          "29e464fb-7447-420a-8013-31d669d65fe8": {
+            "type": "product",
+            "settings": {
+              "product": "a-soothing-memory",
+              "type": "best_sellers"
+            }
+          },
+          "0d4669af-7eb4-4019-8618-84f0e1b63241": {
+            "type": "product",
+            "settings": {
+              "product": "a-moment-of-calm",
+              "type": "best_sellers"
+            }
+          },
+          "88444331-9db4-41af-8954-e8806aa719d6": {
+            "type": "product",
+            "settings": {
+              "product": "waking-up-to-bliss",
+              "type": "best_sellers"
+            }
+          },
           "2ca6304f-0f1b-4076-928f-b4ee9dbd5ccc": {
             "type": "product",
             "settings": {
@@ -1828,6 +1870,12 @@
           }
         },
         "block_order": [
+          "44f3ce4f-21cb-44ad-9e94-62481dbbee91",
+          "54ad290e-9dd8-4006-8d17-5b8bbfe306e6",
+          "c6b157fc-cdbb-413d-98aa-80bb51bcf620",
+          "29e464fb-7447-420a-8013-31d669d65fe8",
+          "0d4669af-7eb4-4019-8618-84f0e1b63241",
+          "88444331-9db4-41af-8954-e8806aa719d6",
           "2ca6304f-0f1b-4076-928f-b4ee9dbd5ccc",
           "9abd3b8a-0a87-4c7b-b756-3790c7146b16",
           "308f39ac-6683-4aad-993f-c1c402798ba4",
