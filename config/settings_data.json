@@ -1562,10 +1562,31 @@
               "type": "best_sellers"
             }
           },
+          "84cd5c72-6f73-44fe-8b09-5033a9dbd205": {
+            "type": "product",
+            "settings": {
+              "product": "my-first-experience-kit",
+              "type": "best_sellers"
+            }
+          },
+          "652084a5-1dcb-4a50-9307-5af2ab0cee55": {
+            "type": "product",
+            "settings": {
+              "product": "pure-serum-infused-o2-cleanser",
+              "type": "best_sellers"
+            }
+          },
           "9abd3b8a-0a87-4c7b-b756-3790c7146b16": {
             "type": "product",
             "settings": {
               "product": "create-your-own-custom-serum",
+              "type": "best_sellers"
+            }
+          },
+          "e4545c7a-14a2-44f0-b0af-d868608bd95c": {
+            "type": "product",
+            "settings": {
+              "product": "new-oxy-recharge-bubble-mask",
               "type": "best_sellers"
             }
           },
@@ -1576,17 +1597,24 @@
               "type": "best_sellers"
             }
           },
-          "170cc4b3-405f-4c6f-9b0e-ca3b25bccba4": {
-            "type": "product",
-            "settings": {
-              "product": "cryo-ice-sake-roller-blush-edition",
-              "type": "best_sellers"
-            }
-          },
           "308f39ac-6683-4aad-993f-c1c402798ba4": {
             "type": "product",
             "settings": {
               "product": "optimizer-voyage-tri-light-glasses-for-bright-eyes",
+              "type": "best_sellers"
+            }
+          },
+          "d0b774a4-6abd-4dc7-8e46-113212d3e3d2": {
+            "type": "product",
+            "settings": {
+              "product": "pure-revival-peel-1",
+              "type": "best_sellers"
+            }
+          },
+          "170cc4b3-405f-4c6f-9b0e-ca3b25bccba4": {
+            "type": "product",
+            "settings": {
+              "product": "cryo-ice-sake-roller-blush-edition",
               "type": "best_sellers"
             }
           },
@@ -1637,13 +1665,6 @@
             "type": "product",
             "settings": {
               "product": "my-daily-dose-of-vitaminds-abc",
-              "type": "best_sellers"
-            }
-          },
-          "d0b774a4-6abd-4dc7-8e46-113212d3e3d2": {
-            "type": "product",
-            "settings": {
-              "product": "pure-revival-peel-1",
               "type": "best_sellers"
             }
           },
@@ -1875,28 +1896,18 @@
               "product": "your-dewy-glow-acquisition-set",
               "type": "custom_serums"
             }
-          },
-          "84cd5c72-6f73-44fe-8b09-5033a9dbd205": {
-            "type": "product",
-            "settings": {
-              "product": "my-first-experience-kit",
-              "type": "best_sellers"
-            }
-          },
-          "652084a5-1dcb-4a50-9307-5af2ab0cee55": {
-            "type": "product",
-            "settings": {
-              "product": "pure-serum-infused-o2-cleanser",
-              "type": "best_sellers"
-            }
           }
         },
         "block_order": [
           "2ca6304f-0f1b-4076-928f-b4ee9dbd5ccc",
+          "84cd5c72-6f73-44fe-8b09-5033a9dbd205",
+          "652084a5-1dcb-4a50-9307-5af2ab0cee55",
           "9abd3b8a-0a87-4c7b-b756-3790c7146b16",
+          "e4545c7a-14a2-44f0-b0af-d868608bd95c",
           "e0919f2b-1041-4fc8-bef1-b60465427aee",
-          "170cc4b3-405f-4c6f-9b0e-ca3b25bccba4",
           "308f39ac-6683-4aad-993f-c1c402798ba4",
+          "d0b774a4-6abd-4dc7-8e46-113212d3e3d2",
+          "170cc4b3-405f-4c6f-9b0e-ca3b25bccba4",
           "245797d6-6d7e-4e4c-bc9a-6947ebcb84d3",
           "01c93470-c163-46eb-b499-211b6eaf1d09",
           "9fb2993c-8894-4d1d-a425-31ae53c2a8a2",
@@ -1904,7 +1915,6 @@
           "1c017d88-29eb-4965-baad-9cbeae76c122",
           "6c1f68a0-1108-40e5-9658-ff2c927cc434",
           "b4332330-b503-47fa-95cb-902327e0e7d9",
-          "d0b774a4-6abd-4dc7-8e46-113212d3e3d2",
           "273c74b1-2b5a-4ea6-a9a2-41eaab3fbfc6",
           "44f3ce4f-21cb-44ad-9e94-62481dbbee91",
           "54ad290e-9dd8-4006-8d17-5b8bbfe306e6",
@@ -1935,9 +1945,7 @@
           "f2752230-74bd-4ee4-902a-1f802c2d7770",
           "0596b643-8272-41b4-8a49-724c591b64c2",
           "fb62ccb0-1545-44df-b697-7d30e345c770",
-          "d6f7a4f9-90fc-47f8-ab4d-ada82f8a3d01",
-          "84cd5c72-6f73-44fe-8b09-5033a9dbd205",
-          "652084a5-1dcb-4a50-9307-5af2ab0cee55"
+          "d6f7a4f9-90fc-47f8-ab4d-ada82f8a3d01"
         ],
         "settings": {
         }
