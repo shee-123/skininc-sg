@@ -1064,6 +1064,10 @@ h1.SectionHeader__Heading.Heading.u-h1 {
 }
 
 /* end footer */
+span.ProductMeta__Price.Price.Price--compareAt.Text--subdued.u-h4 {
+    text-decoration: line-through;
+}
+
 
 @media screen and (max-width: 1200px){
 div#product-registration {
