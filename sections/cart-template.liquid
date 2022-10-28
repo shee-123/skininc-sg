@@ -21,6 +21,11 @@
   {%- endif -%}
 {%- endfor -%}
 
+{% assign cart_json_info = cart.items | json %}
+{% if cart_json_info contains "CRSM Discount" and cart_json_info contains "MDD Bundle Discount" %}
+	{% assign CRSM_MDD_both = true %}
+{% endif %}
+
 {%- capture cart_info -%}
 {
   "itemCount": {{ cart.item_count }},
@@ -29,6 +34,7 @@
   "gwpp": {{ gift_wrapping_price }}
 }
 {%- endcapture -%}
+
 <section data-section-id="{{ section.id }}" data-section-type="cart" data-section-settings='{{ section_settings }}'>
   {%- if cart.item_count == 0 -%}
     <div class="EmptyState">
@@ -36,7 +42,10 @@
         <h1 class="EmptyState__Title Heading u-h5">{{ 'cart.general.empty' | t }}</h1>
         {%- if settings.cart_show_free_shipping_threshold -%}
           {%- assign threshold_in_cents = settings.cart_free_shipping_threshold | times: 100 -%}
-          {%- capture remaining_amount -%}<span>{{ cart.total_price | minus: threshold_in_cents | abs | money_without_trailing_zeros }}</span>{%- endcapture -%}
+          {%- capture remaining_amount -%}
+<span class="saso-cart-original-total"><span>{{ cart.total_price | minus: threshold_in_cents | abs | money_without_trailing_zeros }}</span></span>
+<span class="saso-cart-total"></span>
+{%- endcapture -%}
           <p class="Text--subdued">{{- 'cart.general.free_shipping_remaining_html' | t: remaining_amount: remaining_amount -}}</p>
         {%- endif -%}
         <a href="/collections/all" class="EmptyState__Action Button Button--primary">{{ 'cart.general.empty_button' | t }}</a>
@@ -55,49 +64,68 @@
                 {%- if cart.total_price >= threshold_in_cents -%}
                   {{- 'cart.general.free_shipping' | t -}}
                 {%- else -%}
-                  {%- capture remaining_amount -%}<span>{{ cart.total_price | minus: threshold_in_cents | abs | money_without_trailing_zeros }}</span>{%- endcapture -%}
+                  {%- capture remaining_amount -%}
+					<span class="saso-cart-original-total"><span>{{ cart.total_price | minus: threshold_in_cents | abs | money_without_trailing_zeros }}</span></span>
+					<span class="saso-cart-total"></span>
+{%- endcapture -%}
                   {{- 'cart.general.free_shipping_remaining_html' | t: remaining_amount: remaining_amount -}}
                 {%- endif -%}
               {% endcomment -%}
-              <div class="PageContent">
-              {%- include 'shipping-progressbar' -%}
-              </div>
+              {% if settings.enableCartShipping %}
+                <div class="PageContent">
+                {%- include 'shipping-progressbar' -%}
+                </div>
+              {% endif %}
 
             </p>
           {%- endif -%}
         </div>
-      </header>
+      </header>   
       <div class="PageContent">
-        <form action="/cart" method="POST" class="Cart Cart--expanded" novalidate  data-cart-info='{{ cart_info }}'>
+        <form action="/cart" method="POST" class="Cart Cart--expanded"  data-cart-info='{{ cart_info }}'>
           <input type="hidden" name="attributes[collection_mobile_items_per_row]" value="">
           <input type="hidden" name="attributes[collection_desktop_items_per_row]" value="">
-          
-          
-          
+               
           {% include 'cart-items' %}
-          {% include 'donation' %}
-          {% include 'cart-gift-wrapping' %}
-
+          {% comment %} {% include 'cart-gift-wrapping' %} {% endcomment %}
+            
           <div class="Cart__free">
             {% include 'cart-free-gifts' %}
-            {% include 'cart-free-samples' %}
-        </div>
-
+        </div>  
+   
           <footer class="Cart__Footer">
-
-            {%- if settings.cart_enable_notes -%}
+     		{%- if settings.cart_enable_notes -%}
               <div class="Cart__NoteContainer">
-
+                
+                
                 {% if section.settings.personalise_your_gift %}                              
                   {% include 'Personalize_gift' %}
-                {% endif %} 
+                {% endif %}   
                 
+                
+              {% assign id = linklists.gift-wrapping.links.first.object.variants.first.id
+%} 
+                
+                {% assign gift_wraps_in_cart = 0 %} 
+                {% assign sticker_in_cart = 0 %}
+                {% for item in cart.items %} 
+                	{% if item.id == id %} 
+                		{% assign gift_wraps_in_cart = item.quantity %} 
+                	{% endif %}
+                	{% if item.id == 40957996007617 or item.id == 40957996040385 or item.id == 40957996073153  %} 
+                		{% assign sticker_in_cart = item.quantity %} 
+                	{% endif %}
+				{% endfor %}
+
+               
                 <span class="Cart__NoteButton">{{ 'cart.general.add_note' | t }}</span>
                 <textarea class="Cart__Note Form__Textarea" name="note" id="cart-note" rows="4" placeholder="{{ 'cart.general.note_placeholder' | t }}">{{ cart.note }}</textarea>
-              </div>
+            </div>
             {%- endif -%}
+            
             <div class="Cart__Recap">
               <div class="cartpage">
+                  
                   <!-- customer's approved (redeemable) points -->
                   {%- if customer -%}
                     <div class="drawer-foot lion-points">
@@ -108,28 +136,32 @@
 
               </div>
               {%- capture shipping_and_taxes_notice -%}{{ 'cart.general.shipping_and_taxes_notice' | t }}{%- endcapture -%}
-              <span class="Cart__Total Heading u-h4">{{ 'cart.general.total' | t }}: <span data-money-convertible class="bundler-cart-price-info-container">{{ cart.total_price | money_without_trailing_zeros }}</span></span>
-              <p class="affirm-as-low-as" data-page-type="cart" data-amount="{{cart.total_price}}"></p>
+              <span class="Cart__Total Heading u-h4">{{ 'cart.general.total' | t }}:
+                <span class="saso-cart-original-total"><span data-money-convertible class="bundler-cart-price-info-container">{{ cart.total_price | money_without_trailing_zeros }}</span></span>
+                <span class="saso-cart-total"></span>
+                </span>
               
-              {% if cart.total_price > 7500 %}
-                <span class="Cart__Taxes Text--subdued">You are qualified for free shipping.</span>
-              {%- elsif shipping_and_taxes_notice != blank -%}
+              {% if CRSM_MDD_both %}
+              	<span class="Cart__dynamic_message Text--subdued">Other discounts and rewards are not available on these bundles.</span>
+              {% endif %}
+              
+              {%- if shipping_and_taxes_notice != blank -%}
                 <span class="Cart__Taxes Text--subdued">{{ shipping_and_taxes_notice }}</span>
               {%- endif -%}
               
-              <div class="cart-promo">
+            <div class="cart-promo">
               <div class="cart-inner_promo">
-                <input type="text" id="devPromo" placeholder="Discount code or Gift Card">
-                <a href="/checkout?discount=none" id="redemDevPromo">Apply</a>
+                <input type="text" id="devPromo" placeholder="Enter a promo code">
+                <a href="/checkout?discount=none" id="redemDevPromo">Apply Coupon</a>
               </div>
             </div>
-
+              
             {%- assign preorder = 0 -%}
             {%- assign nopreorder = 0 -%}
 
             {% if cart.item_count > 0 %}
               {% for item in cart.items %}
-                {% if item.product.tags contains 'Preorder' %}
+  				{% if item.product.tags contains 'Preorder' %}
                     {%- assign preorder = 1 -%}
                 {% else %}
                      {%- assign nopreorder = 1 -%}
@@ -138,14 +170,19 @@
             {% endif %}
 
             {% if preorder > 0 and nopreorder > 0 %}
-              <p class="pre_ord">Your basket includes pre-order items that will be send out as a separate tracked package. Kindly remove other items in your cart and place them as a separate in order to complete checkout.</p>
+              <p class="pre_ord" >Your basket includes pre-order items that will be send out as a separate tracked package. Kindly remove other items in your cart and place them as a separate in order to complete checkout.</p>
             {% else %}
               
               {% if existRechargeItem %}
               <button name="checkout" class="Cart__Checkout Button Button--primary Button--full active">{{ 'cart.general.checkout' | t }}</button>
               {% else %}
-              <a name="checkout"  href="/checkout" class="Cart__Checkout Button Button--primary Button--full active">{{ 'cart.general.checkout' | t }}</a>
-              {% endif %}
+				<input type="submit" name="checkout" class="Cart__Checkout Button Button--primary Button--full active" value="{{ 'cart.general.checkout' | t }}">
+               {% endif %}
+              <span class="additional-checkout-buttons">
+                <div class="additional-checkout-buttons" style="visibility: hidden; position: absolute;">
+                  {{ content_for_additional_checkout_buttons }}
+                </div>
+              </span>
               
               <ul class="payment_icon">
                 {%- for type in shop.enabled_payment_types -%}
@@ -155,10 +192,10 @@
               
             {% endif %}  
               
-              
             </div>
           </footer>
         </form>
+    {% include 'donation' %}
         {%- if section.settings.show_shipping_estimator -%}
           <div class="Section Section--spacingExtraLarge">
             <div class="Panel">
@@ -191,11 +228,228 @@
   {%- endif -%}
 </section>
 
-<style type="text/css">
-  #launcher, #loyaltylion{
-    display: none !important;
+
+<script>
+
+  Shopify.Cart = Shopify.Cart || {};
+
+  Shopify.Cart.GiftWrap = {};
+
+  Shopify.Cart.GiftWrap.set = function() {
+    var headers = new Headers({ 'Content-Type': 'application/json' });
+
+    var request = {
+      method: 'POST',
+      headers: headers,
+      body: JSON.stringify({ updates: { {{ id }}: 1 }, attributes: { 'gift-wrapping': true } })
+    };
+    fetch('/cart/update.js', request)
+    .then(function() {
+      $(".wrap-product-cart").show();
+      //location.href = '/cart';
+    });
   }
-</style>
+
+  Shopify.Cart.GiftWrap.remove = function() {
+    var headers = new Headers({ 'Content-Type': 'application/json' });
+
+    var request = {
+      method: 'POST',
+      headers: headers,
+      body: JSON.stringify({ updates: { {{ id }}: 0 }, attributes: { 'gift-wrapping': '' } })
+    };
+    fetch('/cart/update.js', request)
+    .then(function() { 
+      $(".wrap-product-cart").hide();
+      $(".Cart__ItemList #item-40768713294017").hide();
+      //location.href = '/cart';
+    });
+  }
+
+  // If we have nothing but gift-wrap items in the cart.
+  {% if cart.items.size == 1 and gift_wraps_in_cart > 0 %}
+  console.log("only gift in cart");
+  document.addEventListener("DOMContentLoaded", function(){
+    Shopify.Cart.GiftWrap.remove();
+  });
+  // If we have more than one gift-wrap item in the cart.
+  {% elsif gift_wraps_in_cart > 1 %}
+  console.log("more gift in cart");
+  document.addEventListener("DOMContentLoaded", function(){
+    Shopify.Cart.GiftWrap.set();
+  });
+  // If we have a gift-wrap item in the cart but our gift-wrapping cart attribute has not been set.
+  
+  {% elsif gift_wraps_in_cart > 0 %} 
+     {% if cart.attributes.gift-wrapping == 'no' or cart.attributes.gift-wrapping == blank  %}
+  		console.log("no gift attribute");
+  		document.addEventListener("DOMContentLoaded", function(){
+    		Shopify.Cart.GiftWrap.set();
+        });
+     {% endif %}
+  
+
+  // If we have no gift-wrap item in the cart but our gift-wrapping cart attribute has been set.
+  {% elsif cart.attributes.gift-wrapping != 'no' and cart.attributes.gift-wrapping != blank %}
+  	  {% if gift_wraps_in_cart == 0 %}
+      console.log("no gift in cart");
+      document.addEventListener("DOMContentLoaded", function(){
+        Shopify.Cart.GiftWrap.set();
+      });
+  	{% endif %}
+  {% endif %}
+  
+   
+  
+  
+   $(".gift-wrapping").change(function(){
+        var gift_wrap = $(".gift-wrapping:checked").val();
+        if (gift_wrap == 'yes') {
+        	Shopify.Cart.GiftWrap.set();
+      	} else {
+        	console.log("hbhh");
+        	Shopify.Cart.GiftWrap.remove();
+      	}
+
+   });
+  
+  
+  $(".pers-sticker-img").click(function(){
+      var vid = $(this).attr('id');
+      var image_variant = $("#image_variant").val();
+      var file_url = $(this).attr('src');
+	  $('.main_selc img').attr('src', file_url);
+  	  $('#stickerUrl').val(file_url);
+      var headers = new Headers({ 'Content-Type': 'application/json' });
+      //var vid = 40957996040385;
+      var request = {
+        method: 'POST',
+        headers: headers,
+      	body: JSON.stringify({ updates: { [vid]: 1 }, attributes: { 'personalized-sticker': true } })
+      };
+    
+      if(image_variant == ''){
+        fetch('/cart/update.js', request)
+        .then(function() {
+          console.log(vid);
+          	$("#image_variant").val(vid);
+          	$(".sticker-product").hide();
+   			$(".product-6997142700225").hide();
+          	$("#cart-list #item-"+vid+"-js").show();
+            //location.href = '/cart';
+        });
+      }
+      else{
+        
+        var requestClear = {
+        	method: 'POST',
+        	headers: headers,
+        	body: JSON.stringify({ updates: { [image_variant]: 0}, attributes: { 'personalized-sticker': '' } })
+      	};
+        
+        fetch('/cart/update.js', requestClear)
+    	.then(function() {
+      		fetch('/cart/update.js', request)
+            .then(function() {
+              console.log(vid);
+              	$("#image_variant").val(vid);
+              	$(".sticker-product").hide();
+              	$(".product-6997142700225").hide();
+                $("#cart-list #item-"+vid+"-js").show();
+                //location.href = '/cart';
+          	});
+      	 });
+        
+      }      
+   });
+  
+
+   $("input[name='attributes[personalized-sticker]']").click(function() {
+      if ($("#yes-button4").is(":checked")) {
+        $("#pers_stiker").show();
+        if($('#stickerUrl').val() == ''){
+          
+        }
+        //$('#stickerUrl').val(defaultSticker);
+      } else {
+        removeSticker();
+        $("#pers_stiker").hide();
+        $("#image_variant").val('');
+        $('.main_selc img').attr('src', '');
+  		$('#stickerUrl').val('');
+      }
+   });
+  
+  
+  function removeSticker(){
+    var headers = new Headers({ 'Content-Type': 'application/json' });
+    var image_variant = $("#image_variant").val();
+    var requestClear = {
+      method: 'POST',
+      headers: headers,
+      body: JSON.stringify({ updates: { [image_variant]: 0}, attributes: { 'personalized-sticker': '' } })
+    };
+
+    fetch('/cart/update.js', requestClear)
+    .then(function() {
+    });
+  }
+
+  function addSticker(){
+    var headers = new Headers({ 'Content-Type': 'application/json' });
+    var image_variant = $("#image_variant").val();
+    var request = {
+        method: 'POST',
+        headers: headers,
+      	body: JSON.stringify({ updates: { [image_variant]: 1 }, attributes: { 'personalized-sticker': true } })
+      };
+    
+     fetch('/cart/update.js', request)
+     .then(function() {
+       $(".sticker-product").hide();
+       $("#cart-list #item-"+image_variant+"-js").show();
+       //location.href = '/cart';
+     });
+      
+  }
+
+  
+  // If we have nothing but gift-wrap items in the cart.
+  {% if cart.items.size == 1 and sticker_in_cart > 0 %}
+  console.log("only gift in cart");
+  document.addEventListener("DOMContentLoaded", function(){
+    removeSticker();
+  });
+  
+  // If we have more than one gift-wrap item in the cart.
+  {% elsif sticker_in_cart > 1 %}
+  console.log("more sticker in cart");
+  document.addEventListener("DOMContentLoaded", function(){
+    addSticker();
+  });
+  
+  // If we have a gift-wrap item in the cart but our gift-wrapping cart attribute has not been set.
+  {% elsif cart.attributes.personalized-sticker == 'no' or cart.attributes.personalized-sticker == blank  %}
+  	{% if sticker_in_cart > 0 %} 
+  		console.log("no gift attribute");
+  		document.addEventListener("DOMContentLoaded", function(){
+    		//Shopify.Cart.GiftWrap.set();
+        });
+     {% endif %}
+  
+  
+  // If we have no gift-wrap item in the cart but our gift-wrapping cart attribute has been set.
+  {% elsif cart.attributes.personalized-sticker != 'no' and cart.attributes.personalized-sticker != blank %}
+  	  {% if sticker_in_cart == 0 %}
+      console.log("no gift in cart");
+      document.addEventListener("DOMContentLoaded", function(){
+        addSticker();
+      });
+  	{% endif %}
+  {% endif %}
+  
+ 
+</script>
 
 <style>
   @media screen and (min-width: 767px){
@@ -338,13 +592,24 @@
           "id": "buy_gift",
           "label": "Buy as a gift",
           "default": true
-        },  
+        },
         {
         "type": "text",
         "id": "buy_gift_text",
         "label": "Buy as a gift"
       	},
-        { 
+        {
+          "type": "checkbox",
+          "id": "gift_wrapping",
+          "label": "Gift Wrapping",
+          "default": true
+        },
+        {
+        "type": "text",
+        "id": "gift_wrapping_text",
+        "label": "Gift Wrapping"
+      	},
+        {
           "type": "checkbox",
           "id": "perso_mess",
           "label": "Personalized Message",
@@ -354,7 +619,33 @@
         "type": "text",
         "id": "personalized_message_text",
         "label": "Personalized Message"
-      	}  
+      	},
+        {
+          "type": "checkbox",
+          "id": "pers_stiker",
+          "label": "Personalized Message",
+          "default": true
+        },
+        {
+        "type": "text",
+        "id": "pers_stiker_text",
+        "label": "Personalized Sticker Text"
+      	},
+        {
+          "type": "image_picker",
+          "id": "image1",
+          "label": "Image1"
+        },
+        {
+          "type": "image_picker",
+          "id": "image2",
+          "label": "Image2"
+        },
+        {
+          "type": "image_picker",
+          "id": "image3",
+          "label": "Image3"
+        }
       ]
     },
     {
