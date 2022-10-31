@@ -99,10 +99,11 @@
         "blocks": {
           "33606483-32c9-489b-93bb-7c1c439e6ae3": {
             "type": "banner",
+            "disabled": true,
             "settings": {
               "background": "#fbdcce",
               "text_color": "#333333",
-              "content": "11.11 VIP Member Sales | Enjoy gifts worth up to $1111 with min. nett spend of 780",
+              "content": "11.11 Sales | Enjoy gifts worth up to $1111 with min. nett spend of 780",
               "link_label": "shop now",
               "link_color": "#000000",
               "link": "shopify:\/\/collections"
@@ -981,6 +982,7 @@
         "blocks": {
           "c57c0b8d-4765-4e48-874a-1e1136573d00": {
             "type": "tierspend-x-get-y",
+            "disabled": true,
             "settings": {
               "product_handle": "1111-gwp-tier-1-4-piece-gift-worth-238",
               "variant_id": "40042811228273",
@@ -994,6 +996,7 @@
           },
           "6ff5c2a2-8e7f-4faf-af73-678aa26a0ba0": {
             "type": "spend-x-get-y",
+            "disabled": true,
             "settings": {
               "product_handle": "1111-gwp-tier-3-11-piece-gift-tier-3-worth-1111",
               "variant_id": "40042826465393",
@@ -1014,13 +1017,13 @@
             "type": "tierspend-x-get-y",
             "disabled": true,
             "settings": {
-              "product_handle": "sep-gwp-tier-1-soothe-hydrate-set-worth-135",
-              "variant_id": "39871909396593",
-              "min_price": "20000",
+              "product_handle": "oct-gwp-tier-1-skin-barrier-kit-worth-117",
+              "variant_id": "39989094744177",
+              "min_price": "18000",
               "message": "Gift item",
-              "product_handle2": "sep-gwp-tier-2-soothe-hydrate-glow-set-worth-213",
-              "variant_id2": "39871912444017",
-              "min_price2": "35000",
+              "product_handle2": "oct-gwp-tier-2-overnight-skin-barrier-kit-worth-241",
+              "variant_id2": "39989110341745",
+              "min_price2": "25000",
               "message2": "Gift item"
             }
           },
