@@ -780,6 +780,7 @@
         "blocks": {
           "1545275421623": {
             "type": "store",
+            "disabled": true,
             "settings": {
               "image": "shopify:\/\/shop_images\/st1.jpg",
               "image_large": "shopify:\/\/shop_images\/skin-inc_about_storepicactivate.jpg",
