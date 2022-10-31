@@ -1015,7 +1015,6 @@
           },
           "a1b28532-5d04-41d1-8045-16e57aaaf6a3": {
             "type": "tierspend-x-get-y",
-            "disabled": true,
             "settings": {
               "product_handle": "oct-gwp-tier-1-skin-barrier-kit-worth-117",
               "variant_id": "39989094744177",
