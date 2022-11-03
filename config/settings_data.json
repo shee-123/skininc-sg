@@ -982,7 +982,6 @@
         "blocks": {
           "c57c0b8d-4765-4e48-874a-1e1136573d00": {
             "type": "tierspend-x-get-y",
-            "disabled": true,
             "settings": {
               "product_handle": "1111-gwp-tier-1-4-piece-gift-worth-238",
               "variant_id": "40042811228273",
@@ -996,7 +995,6 @@
           },
           "6ff5c2a2-8e7f-4faf-af73-678aa26a0ba0": {
             "type": "spend-x-get-y",
-            "disabled": true,
             "settings": {
               "product_handle": "1111-gwp-tier-3-11-piece-gift-tier-3-worth-1111",
               "variant_id": "40042826465393",
@@ -1015,6 +1013,7 @@
           },
           "a1b28532-5d04-41d1-8045-16e57aaaf6a3": {
             "type": "tierspend-x-get-y",
+            "disabled": true,
             "settings": {
               "product_handle": "oct-gwp-tier-1-skin-barrier-kit-worth-117",
               "variant_id": "39989094744177",
