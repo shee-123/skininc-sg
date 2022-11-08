@@ -446,7 +446,7 @@ h1.SectionHeader__Heading.Heading.u-h1 {
   
 }
 
-@media only screen and (min-width: 1600px) and (max-width: 1920px)  {
+@media only screen and (min-width: 1400px) and (max-width: 1920px)  {
 .Slideshow--fullscreen {
     height: 70vh!important;
 } 
@@ -454,13 +454,6 @@ h1.SectionHeader__Heading.Heading.u-h1 {
 }
 
 
-
-@media only screen and (min-width: 1400px) and (max-width: 1450px)  {
-.Slideshow--fullscreen {
-    height: 70vh!important;
-}   
-  
-}
 
 
 @media only screen and (max-width: 990px) {
