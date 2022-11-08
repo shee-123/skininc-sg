@@ -1068,7 +1068,7 @@ span.ProductMeta__Price.Price.Price--compareAt.Text--subdued.u-h4 {
     text-decoration: line-through;
 }
 
-@media screen and (max-width: 1200px){
+@media screen and (max-width: 1799px){
 .Slideshow--fullscreen {
     height: 70vh!important;
 }
