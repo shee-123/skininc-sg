@@ -102,7 +102,7 @@
             "settings": {
               "background": "#fbdcce",
               "text_color": "#333333",
-              "content": "11.11 Sales | Enjoy gifts worth up to $1111 with min. spend of $1111 ($780 nett)",
+              "content": "Enjoy gifts worth up to $1111 with min. spend of $1114 ($780 nett)",
               "link_label": "shop now",
               "link_color": "#000000",
               "link": "shopify:\/\/collections"
@@ -113,7 +113,7 @@
             "settings": {
               "background": "#767272",
               "text_color": "#ffffff",
-              "content": "25% off sitewide - Code: Lit25 | 30% off min spend $571 ($400 Nett) - Code: Lit30",
+              "content": "Free Shipping on orders $40 & above",
               "link_label": "shop now",
               "link_color": "#000000",
               "link": "shopify:\/\/collections\/award-winners"
@@ -3777,46 +3777,16 @@
           "1650600462fada49e7-1": {
             "type": "image",
             "settings": {
-              "image": "shopify:\/\/shop_images\/SG_11.11_2022_Web_Banner_1.jpg",
-              "mobile_image": "shopify:\/\/shop_images\/SG_11.11_2022_Mobile_Banner.jpg",
+              "image": "shopify:\/\/shop_images\/SG_Subscription_Web_Banner.jpg",
+              "mobile_image": "shopify:\/\/shop_images\/SG_Subscription_Mobile_Banner_1.jpg",
               "apply_overlay": true,
               "content_position": "bottomLeft",
               "subheading": "",
               "title": "",
               "button_1_text": "",
-              "button_1_link": "shopify:\/\/collections",
+              "button_1_link": "shopify:\/\/pages\/subscription",
               "button_2_text": "",
               "button_2_link": ""
-            }
-          },
-          "448cf593-80ea-46f1-9ce1-c8c823bf93af": {
-            "type": "image",
-            "settings": {
-              "image": "shopify:\/\/shop_images\/11.11_SG_Web_Banner_copy_1.jpg",
-              "mobile_image": "shopify:\/\/shop_images\/11.11_GWP_Mobile_Banner_SG_copy.jpg",
-              "apply_overlay": true,
-              "content_position": "bottomLeft",
-              "subheading": "",
-              "title": "",
-              "button_1_text": "",
-              "button_1_link": "shopify:\/\/collections\/all",
-              "button_2_text": "",
-              "button_2_link": ""
-            }
-          },
-          "92f6afd7-1b43-4a7f-84b1-896fb65288e3": {
-            "type": "image",
-            "settings": {
-              "image": "shopify:\/\/shop_images\/Wellness_Trilight_Web_Banner.jpg",
-              "mobile_image": "shopify:\/\/shop_images\/Wellness_Trilight_Mobile_Banner.jpg",
-              "apply_overlay": true,
-              "content_position": "bottomLeft",
-              "subheading": "",
-              "title": "",
-              "button_1_text": "",
-              "button_1_link": "shopify:\/\/products\/tri-light-sabi",
-              "button_2_text": "",
-              "button_2_link": "shopify:\/\/products\/tri-light-sabi"
             }
           },
           "0c4c8813-1e00-4408-adc3-5411cd41ffc7": {
@@ -3848,14 +3818,44 @@
               "button_2_text": "",
               "button_2_link": ""
             }
+          },
+          "92f6afd7-1b43-4a7f-84b1-896fb65288e3": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/Wellness_Trilight_Web_Banner.jpg",
+              "mobile_image": "shopify:\/\/shop_images\/Wellness_Trilight_Mobile_Banner.jpg",
+              "apply_overlay": true,
+              "content_position": "bottomLeft",
+              "subheading": "",
+              "title": "",
+              "button_1_text": "",
+              "button_1_link": "shopify:\/\/products\/tri-light-sabi",
+              "button_2_text": "",
+              "button_2_link": "shopify:\/\/products\/tri-light-sabi"
+            }
+          },
+          "448cf593-80ea-46f1-9ce1-c8c823bf93af": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/11.11_SG_Web_Banner_copy_1.jpg",
+              "mobile_image": "shopify:\/\/shop_images\/11.11_GWP_Mobile_Banner_SG_copy.jpg",
+              "apply_overlay": true,
+              "content_position": "bottomLeft",
+              "subheading": "",
+              "title": "",
+              "button_1_text": "",
+              "button_1_link": "shopify:\/\/collections\/all",
+              "button_2_text": "",
+              "button_2_link": ""
+            }
           }
         },
         "block_order": [
           "1650600462fada49e7-1",
-          "448cf593-80ea-46f1-9ce1-c8c823bf93af",
-          "92f6afd7-1b43-4a7f-84b1-896fb65288e3",
           "0c4c8813-1e00-4408-adc3-5411cd41ffc7",
-          "1650600462fada49e7-0"
+          "1650600462fada49e7-0",
+          "92f6afd7-1b43-4a7f-84b1-896fb65288e3",
+          "448cf593-80ea-46f1-9ce1-c8c823bf93af"
         ],
         "settings": {
           "show_fullscreen": true,
