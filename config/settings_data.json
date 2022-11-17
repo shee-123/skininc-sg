@@ -1599,6 +1599,13 @@
               "type": "best_sellers"
             }
           },
+          "44f3ce4f-21cb-44ad-9e94-62481dbbee91": {
+            "type": "product",
+            "settings": {
+              "product": "deepcare-flash-facial-spatula",
+              "type": "best_sellers"
+            }
+          },
           "6c1f68a0-1108-40e5-9658-ff2c927cc434": {
             "type": "product",
             "settings": {
@@ -1710,13 +1717,6 @@
             "settings": {
               "product": "pure-deepsea-hydrating-mask-30ml",
               "type": "best_sellers"
-            }
-          },
-          "44f3ce4f-21cb-44ad-9e94-62481dbbee91": {
-            "type": "product",
-            "settings": {
-              "product": "deepcare-flash-facial-spatula",
-              "type": "new"
             }
           },
           "766be532-744a-4439-b591-e63dda3df7d3": {
@@ -1907,6 +1907,7 @@
           "0d4669af-7eb4-4019-8618-84f0e1b63241",
           "c6b157fc-cdbb-413d-98aa-80bb51bcf620",
           "2ca6304f-0f1b-4076-928f-b4ee9dbd5ccc",
+          "44f3ce4f-21cb-44ad-9e94-62481dbbee91",
           "6c1f68a0-1108-40e5-9658-ff2c927cc434",
           "84cd5c72-6f73-44fe-8b09-5033a9dbd205",
           "652084a5-1dcb-4a50-9307-5af2ab0cee55",
@@ -1923,7 +1924,6 @@
           "1c017d88-29eb-4965-baad-9cbeae76c122",
           "b4332330-b503-47fa-95cb-902327e0e7d9",
           "273c74b1-2b5a-4ea6-a9a2-41eaab3fbfc6",
-          "44f3ce4f-21cb-44ad-9e94-62481dbbee91",
           "766be532-744a-4439-b591-e63dda3df7d3",
           "6a84a72e-8a93-4857-bdf8-b24f7d655966",
           "846edc1a-9fd9-45aa-bcf1-1bc54a1f2afb",
