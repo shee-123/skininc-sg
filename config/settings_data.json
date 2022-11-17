@@ -1557,18 +1557,11 @@
       "16046706018733d79b": {
         "type": "featured-product-dev",
         "blocks": {
-          "29e464fb-7447-420a-8013-31d669d65fe8": {
-            "type": "product",
-            "settings": {
-              "product": "a-soothing-memory",
-              "type": "custom_serums"
-            }
-          },
           "88444331-9db4-41af-8954-e8806aa719d6": {
             "type": "product",
             "settings": {
               "product": "waking-up-to-bliss",
-              "type": "custom_serums"
+              "type": "new"
             }
           },
           "54ad290e-9dd8-4006-8d17-5b8bbfe306e6": {
@@ -1578,18 +1571,11 @@
               "type": "custom_serums"
             }
           },
-          "0d4669af-7eb4-4019-8618-84f0e1b63241": {
-            "type": "product",
-            "settings": {
-              "product": "a-moment-of-calm",
-              "type": "custom_serums"
-            }
-          },
           "c6b157fc-cdbb-413d-98aa-80bb51bcf620": {
             "type": "product",
             "settings": {
               "product": "a-glowing-ritual-holiday-collection-2022",
-              "type": "custom_serums"
+              "type": "new"
             }
           },
           "2ca6304f-0f1b-4076-928f-b4ee9dbd5ccc": {
@@ -1606,11 +1592,25 @@
               "type": "best_sellers"
             }
           },
+          "29e464fb-7447-420a-8013-31d669d65fe8": {
+            "type": "product",
+            "settings": {
+              "product": "a-soothing-memory",
+              "type": "best_sellers"
+            }
+          },
           "6c1f68a0-1108-40e5-9658-ff2c927cc434": {
             "type": "product",
             "settings": {
               "product": "my-daily-dose-of-uplift",
               "type": "best_sellers"
+            }
+          },
+          "0d4669af-7eb4-4019-8618-84f0e1b63241": {
+            "type": "product",
+            "settings": {
+              "product": "a-moment-of-calm",
+              "type": "new"
             }
           },
           "766be532-744a-4439-b591-e63dda3df7d3": {
@@ -1901,14 +1901,14 @@
           }
         },
         "block_order": [
-          "29e464fb-7447-420a-8013-31d669d65fe8",
           "88444331-9db4-41af-8954-e8806aa719d6",
           "54ad290e-9dd8-4006-8d17-5b8bbfe306e6",
-          "0d4669af-7eb4-4019-8618-84f0e1b63241",
           "c6b157fc-cdbb-413d-98aa-80bb51bcf620",
           "2ca6304f-0f1b-4076-928f-b4ee9dbd5ccc",
           "44f3ce4f-21cb-44ad-9e94-62481dbbee91",
+          "29e464fb-7447-420a-8013-31d669d65fe8",
           "6c1f68a0-1108-40e5-9658-ff2c927cc434",
+          "0d4669af-7eb4-4019-8618-84f0e1b63241",
           "766be532-744a-4439-b591-e63dda3df7d3",
           "84cd5c72-6f73-44fe-8b09-5033a9dbd205",
           "652084a5-1dcb-4a50-9307-5af2ab0cee55",
