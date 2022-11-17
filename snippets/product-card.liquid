@@ -36,6 +36,13 @@
         {{ product_labels }}
       </div>
       {%- endif -%}
+
+      {% if product.tags contains 'NEW' %}
+        <div class="hidethisasdontneed">
+          {{ product_labels }}
+        </div>        
+      {% endif %}
+    
   	{%- endif -%}
     
     {%- if has_alternate_image -%}
