@@ -103,7 +103,7 @@ $('.img_selc img').click(function(){
     $(this).addClass('active');
 });
 
-
+$( ".ProductListWrapper .product-card span.ProductItem__Label.Heading.Text--subdued:contains('LIMITED EDITION • SPECIAL VALUE')" ).addClass('removethistag');
 $( ".Product__Gallery .ProductItem__LabelList span.ProductItem__Label.Heading.Text--subdued:contains('LIMITED EDITION • SPECIAL VALUE')" ).addClass('removethistag');
 
 /*$('.img_selc img').click(function(){
