@@ -103,6 +103,9 @@ $('.img_selc img').click(function(){
     $(this).addClass('active');
 });
 
+
+$( ".Product__Gallery .ProductItem__LabelList span.ProductItem__Label.Heading.Text--subdued:contains('LIMITED EDITION • SPECIAL VALUE')" ).css( "text-decoration", "underline" );
+
 /*$('.img_selc img').click(function(){
 file_url = $(this).attr('src');
 $('.main_selc img').attr('src', file_url);
