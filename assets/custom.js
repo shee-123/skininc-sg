@@ -104,7 +104,7 @@ $('.img_selc img').click(function(){
 });
 
 
-$( ".Product__Gallery .ProductItem__LabelList span.ProductItem__Label.Heading.Text--subdued:contains('LIMITED EDITION • SPECIAL VALUE')" ).parents('.ProductItem__LabelList').addClass('removethistag').css( "text-decoration", "underline" );
+$( ".Product__Gallery .ProductItem__LabelList span.ProductItem__Label.Heading.Text--subdued:contains('LIMITED EDITION • SPECIAL VALUE')" ).parents('.ProductItem__LabelList').addClass('removethistag');
 
 /*$('.img_selc img').click(function(){
 file_url = $(this).attr('src');
