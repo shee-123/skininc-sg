@@ -1067,6 +1067,10 @@ h1.SectionHeader__Heading.Heading.u-h1 {
 span.ProductMeta__Price.Price.Price--compareAt.Text--subdued.u-h4 {
     text-decoration: line-through;
 }
+span.ProductItem__Label.Heading.Text--subdued.removethistag {
+    display: none;
+}
+
 
 @media screen and (max-width: 1799px){
 .Slideshow--fullscreen {
