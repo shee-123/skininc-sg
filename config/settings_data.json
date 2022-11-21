@@ -1055,9 +1055,9 @@
           "d49efe4a-8a67-4ecc-a71c-caa86fcb3314": {
             "type": "spend-x-get-y",
             "settings": {
-              "product_handle": "",
-              "variant_id": "",
-              "min_price": "",
+              "product_handle": "bfcm-gwp-tier-3-9-piece-gift-worth-948",
+              "variant_id": "40077260292209",
+              "min_price": "104000",
               "message": "Gift item"
             }
           }
