@@ -979,6 +979,30 @@
       "cart-template": {
         "type": "cart-template",
         "blocks": {
+          "daf3a6b6-d912-4dbc-95b7-6a2169d51e1b": {
+            "type": "tierspend-x-get-y",
+            "disabled": true,
+            "settings": {
+              "product_handle": "bfcm-gwp-tier-1-7-piece-gift-worth-285",
+              "variant_id": "40077251248241",
+              "min_price": "37300",
+              "message": "Gift item",
+              "product_handle2": "bfcm-gwp-tier-2-8-piece-gift-worth-424",
+              "variant_id2": "40077256753265",
+              "min_price2": "60000",
+              "message2": "Gift item"
+            }
+          },
+          "d49efe4a-8a67-4ecc-a71c-caa86fcb3314": {
+            "type": "spend-x-get-y",
+            "disabled": true,
+            "settings": {
+              "product_handle": "bfcm-gwp-tier-3-9-piece-gift-worth-948",
+              "variant_id": "40077260292209",
+              "min_price": "104000",
+              "message": "Gift item"
+            }
+          },
           "c57c0b8d-4765-4e48-874a-1e1136573d00": {
             "type": "tierspend-x-get-y",
             "settings": {
@@ -1038,38 +1062,16 @@
               "pers_stiker": true,
               "pers_stiker_text": "Add a Greeting Card"
             }
-          },
-          "daf3a6b6-d912-4dbc-95b7-6a2169d51e1b": {
-            "type": "tierspend-x-get-y",
-            "settings": {
-              "product_handle": "bfcm-gwp-tier-1-7-piece-gift-worth-285",
-              "variant_id": "40077251248241",
-              "min_price": "37300",
-              "message": "Gift item",
-              "product_handle2": "bfcm-gwp-tier-2-8-piece-gift-worth-424",
-              "variant_id2": "40077256753265",
-              "min_price2": "60000",
-              "message2": "Gift item"
-            }
-          },
-          "d49efe4a-8a67-4ecc-a71c-caa86fcb3314": {
-            "type": "spend-x-get-y",
-            "settings": {
-              "product_handle": "bfcm-gwp-tier-3-9-piece-gift-worth-948",
-              "variant_id": "40077260292209",
-              "min_price": "104000",
-              "message": "Gift item"
-            }
           }
         },
         "block_order": [
+          "daf3a6b6-d912-4dbc-95b7-6a2169d51e1b",
+          "d49efe4a-8a67-4ecc-a71c-caa86fcb3314",
           "c57c0b8d-4765-4e48-874a-1e1136573d00",
           "6ff5c2a2-8e7f-4faf-af73-678aa26a0ba0",
           "a05554d1-097e-4c22-9e8c-d49f1c5b2d44",
           "a1b28532-5d04-41d1-8045-16e57aaaf6a3",
-          "be854e5c-7cc0-4339-b15c-0407933fad5a",
-          "daf3a6b6-d912-4dbc-95b7-6a2169d51e1b",
-          "d49efe4a-8a67-4ecc-a71c-caa86fcb3314"
+          "be854e5c-7cc0-4339-b15c-0407933fad5a"
         ],
         "settings": {
           "show_shipping_estimator": false,
