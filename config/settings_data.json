@@ -1556,13 +1556,6 @@
       "16046706018733d79b": {
         "type": "featured-product-dev",
         "blocks": {
-          "54ad290e-9dd8-4006-8d17-5b8bbfe306e6": {
-            "type": "product",
-            "settings": {
-              "product": "lit-from-within-holiday-collection-2022",
-              "type": "custom_serums"
-            }
-          },
           "2ca6304f-0f1b-4076-928f-b4ee9dbd5ccc": {
             "type": "product",
             "settings": {
@@ -1595,6 +1588,13 @@
             "type": "product",
             "settings": {
               "product": "waking-up-to-bliss",
+              "type": "new"
+            }
+          },
+          "54ad290e-9dd8-4006-8d17-5b8bbfe306e6": {
+            "type": "product",
+            "settings": {
+              "product": "lit-from-within-holiday-collection-2022",
               "type": "new"
             }
           },
@@ -1900,12 +1900,12 @@
           }
         },
         "block_order": [
-          "54ad290e-9dd8-4006-8d17-5b8bbfe306e6",
           "2ca6304f-0f1b-4076-928f-b4ee9dbd5ccc",
           "44f3ce4f-21cb-44ad-9e94-62481dbbee91",
           "29e464fb-7447-420a-8013-31d669d65fe8",
           "6c1f68a0-1108-40e5-9658-ff2c927cc434",
           "88444331-9db4-41af-8954-e8806aa719d6",
+          "54ad290e-9dd8-4006-8d17-5b8bbfe306e6",
           "0d4669af-7eb4-4019-8618-84f0e1b63241",
           "c6b157fc-cdbb-413d-98aa-80bb51bcf620",
           "766be532-744a-4439-b591-e63dda3df7d3",
