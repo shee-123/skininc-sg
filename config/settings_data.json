@@ -1584,6 +1584,13 @@
               "type": "best_sellers"
             }
           },
+          "ae243db4-2736-4001-afd8-84332d28b1d6": {
+            "type": "product",
+            "settings": {
+              "product": "pure-serum-infused-moisturizer",
+              "type": "best_sellers"
+            }
+          },
           "88444331-9db4-41af-8954-e8806aa719d6": {
             "type": "product",
             "settings": {
@@ -1672,13 +1679,6 @@
             "type": "product",
             "settings": {
               "product": "cryo-ice-sake-roller-blush-edition",
-              "type": "best_sellers"
-            }
-          },
-          "ae243db4-2736-4001-afd8-84332d28b1d6": {
-            "type": "product",
-            "settings": {
-              "product": "pure-serum-infused-moisturizer",
               "type": "best_sellers"
             }
           },
@@ -1904,6 +1904,7 @@
           "44f3ce4f-21cb-44ad-9e94-62481dbbee91",
           "29e464fb-7447-420a-8013-31d669d65fe8",
           "6c1f68a0-1108-40e5-9658-ff2c927cc434",
+          "ae243db4-2736-4001-afd8-84332d28b1d6",
           "88444331-9db4-41af-8954-e8806aa719d6",
           "54ad290e-9dd8-4006-8d17-5b8bbfe306e6",
           "0d4669af-7eb4-4019-8618-84f0e1b63241",
@@ -1917,7 +1918,6 @@
           "308f39ac-6683-4aad-993f-c1c402798ba4",
           "d0b774a4-6abd-4dc7-8e46-113212d3e3d2",
           "170cc4b3-405f-4c6f-9b0e-ca3b25bccba4",
-          "ae243db4-2736-4001-afd8-84332d28b1d6",
           "245797d6-6d7e-4e4c-bc9a-6947ebcb84d3",
           "01c93470-c163-46eb-b499-211b6eaf1d09",
           "9fb2993c-8894-4d1d-a425-31ae53c2a8a2",
