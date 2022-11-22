@@ -3770,6 +3770,7 @@
           },
           "1650600462fada49e7-0": {
             "type": "image",
+            "disabled": true,
             "settings": {
               "image": "shopify:\/\/shop_images\/Jackson_Wang_Web_Banner.jpg",
               "mobile_image": "shopify:\/\/shop_images\/Jackson_Wang_Mobile_Banner.jpg",
