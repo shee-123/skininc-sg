@@ -981,7 +981,6 @@
         "blocks": {
           "daf3a6b6-d912-4dbc-95b7-6a2169d51e1b": {
             "type": "tierspend-x-get-y",
-            "disabled": true,
             "settings": {
               "product_handle": "bfcm-gwp-tier-1-7-piece-gift-worth-285",
               "variant_id": "40077251248241",
@@ -995,7 +994,6 @@
           },
           "d49efe4a-8a67-4ecc-a71c-caa86fcb3314": {
             "type": "spend-x-get-y",
-            "disabled": true,
             "settings": {
               "product_handle": "bfcm-gwp-tier-3-9-piece-gift-worth-948",
               "variant_id": "40077260292209",
@@ -1005,6 +1003,7 @@
           },
           "c57c0b8d-4765-4e48-874a-1e1136573d00": {
             "type": "tierspend-x-get-y",
+            "disabled": true,
             "settings": {
               "product_handle": "1111-gwp-tier-1-4-piece-gift-worth-238",
               "variant_id": "40042811228273",
@@ -1018,6 +1017,7 @@
           },
           "6ff5c2a2-8e7f-4faf-af73-678aa26a0ba0": {
             "type": "spend-x-get-y",
+            "disabled": true,
             "settings": {
               "product_handle": "1111-gwp-tier-3-11-piece-gift-tier-3-worth-1111",
               "variant_id": "40042826465393",
