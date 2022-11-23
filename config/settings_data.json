@@ -3758,8 +3758,8 @@
             "type": "image",
             "disabled": true,
             "settings": {
-              "image": "shopify:\/\/shop_images\/SG_GWP_BFCM_Web_Banner.jpg",
-              "mobile_image": "shopify:\/\/shop_images\/SG_GWP_BFCM_Mobile_Banner.jpg",
+              "image": "shopify:\/\/shop_images\/SG_GWP_BFCM_Web_Banner_copy.jpg",
+              "mobile_image": "shopify:\/\/shop_images\/SG_GWP_BFCM_Mobile_Banner_copy.jpg",
               "apply_overlay": true,
               "content_position": "bottomLeft",
               "subheading": "",
