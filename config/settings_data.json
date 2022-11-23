@@ -3789,8 +3789,8 @@
             "type": "image",
             "disabled": true,
             "settings": {
-              "image": "shopify:\/\/shop_images\/Jackson_Wang_Web_Banner.jpg",
-              "mobile_image": "shopify:\/\/shop_images\/Jackson_Wang_Mobile_Banner.jpg",
+              "image": "shopify:\/\/shop_images\/Jackson_Wang_Web_Banner_2.jpg",
+              "mobile_image": "shopify:\/\/shop_images\/Jackson_Wang_Mobile_Banner_2.jpg",
               "apply_overlay": true,
               "content_position": "bottomLeft",
               "subheading": "",
