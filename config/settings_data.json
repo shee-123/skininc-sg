@@ -3771,8 +3771,8 @@
           "448cf593-80ea-46f1-9ce1-c8c823bf93af": {
             "type": "image",
             "settings": {
-              "image": "shopify:\/\/shop_images\/SG_GWP_BFCM_Web_Banner_copy.jpg",
-              "mobile_image": "shopify:\/\/shop_images\/SG_GWP_BFCM_Mobile_Banner_copy.jpg",
+              "image": "shopify:\/\/shop_images\/SG_GWP_BFCM_Web_Banner_copy_1.jpg",
+              "mobile_image": "shopify:\/\/shop_images\/SG_GWP_BFCM_Mobile_Banner_copy_1.jpg",
               "apply_overlay": true,
               "content_position": "bottomLeft",
               "subheading": "",
