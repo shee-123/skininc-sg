@@ -982,6 +982,7 @@
         "blocks": {
           "daf3a6b6-d912-4dbc-95b7-6a2169d51e1b": {
             "type": "tierspend-x-get-y",
+            "disabled": true,
             "settings": {
               "product_handle": "bfcm-gwp-tier-1-7-piece-gift-worth-285",
               "variant_id": "40077251248241",
@@ -995,6 +996,7 @@
           },
           "d49efe4a-8a67-4ecc-a71c-caa86fcb3314": {
             "type": "spend-x-get-y",
+            "disabled": true,
             "settings": {
               "product_handle": "bfcm-gwp-tier-3-9-piece-gift-worth-948",
               "variant_id": "40077260292209",
