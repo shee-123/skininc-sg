@@ -201,7 +201,7 @@
             "type": "text",
             "settings": {
               "title": "SOCIAL MEDIA",
-              "content": "",
+              "content": "<p><\/p>",
               "show_social_media": true
             }
           }
@@ -402,7 +402,7 @@
             "settings": {
               "img_link": "",
               "title": "",
-              "content": "",
+              "content": "<p><\/p>",
               "direction": "left",
               "cta_btn_label": "",
               "cta_btn_link": ""
@@ -3241,7 +3241,7 @@
               "image": "shopify:\/\/shop_images\/SABI_AI_PDP_Vector_-_For_Van-02_1_85e6eb10-2f1c-438f-b766-fa1b75646d97.png",
               "img_link": "\/products\/tri-light-sabi",
               "title": "",
-              "content": "",
+              "content": "<p><\/p>",
               "direction": "right",
               "cta_btn_label": "",
               "cta_btn_link": ""
@@ -3253,7 +3253,7 @@
               "image": "shopify:\/\/shop_images\/QR_Code-ai.png",
               "img_link": "\/products\/tri-light-sabi",
               "title": "Customise your 360 wellness journey  for your lit from within glow.",
-              "content": "",
+              "content": "<p><\/p>",
               "direction": "right",
               "cta_btn_label": "",
               "cta_btn_link": ""
@@ -3316,7 +3316,7 @@
               "image": "shopify:\/\/shop_images\/QR_Code-ai.png",
               "img_link": "\/products\/tri-light-sabi",
               "title": "Download +SABI AI app, the world’s first 360 wellness skin health coach",
-              "content": "",
+              "content": "<p><\/p>",
               "direction": "right",
               "cta_btn_label": "",
               "cta_btn_link": ""
@@ -3469,7 +3469,7 @@
               "image": "shopify:\/\/shop_images\/QR_Code-ai.png",
               "img_link": "\/products\/tri-light-sabi",
               "title": "Scan the QR code and download now to  curate your wellness journey with .",
-              "content": "",
+              "content": "<p><\/p>",
               "direction": "right",
               "cta_btn_label": "",
               "cta_btn_link": ""
@@ -3804,16 +3804,16 @@
           "448cf593-80ea-46f1-9ce1-c8c823bf93af": {
             "type": "image",
             "settings": {
-              "image": "shopify:\/\/shop_images\/GSS_9.9_-_Web_Banner.jpg",
-              "mobile_image": "shopify:\/\/shop_images\/GSS_9.9_-_Mobile_Banner.jpg",
+              "image": "shopify:\/\/shop_images\/Embrace_Candles_Web_Banner.jpg",
+              "mobile_image": "shopify:\/\/shop_images\/Embrace_Candles_Mobile_Banner.jpg",
               "apply_overlay": true,
               "content_position": "bottomLeft",
               "subheading": "",
               "title": "",
               "button_1_text": "",
-              "button_1_link": "shopify:\/\/pages\/skin-inc-subscription-program",
+              "button_1_link": "shopify:\/\/collections\/embrace-microsite",
               "button_2_text": "",
-              "button_2_link": "shopify:\/\/pages\/skin-inc-subscription-program"
+              "button_2_link": "shopify:\/\/collections\/embrace-microsite"
             }
           },
           "92f6afd7-1b43-4a7f-84b1-896fb65288e3": {
@@ -3946,7 +3946,7 @@
             "settings": {
               "img_link": "",
               "title": "",
-              "content": "",
+              "content": "<p><\/p>",
               "direction": "left",
               "cta_btn_label": "",
               "cta_btn_link": ""
