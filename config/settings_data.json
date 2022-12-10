@@ -99,14 +99,13 @@
         "blocks": {
           "33606483-32c9-489b-93bb-7c1c439e6ae3": {
             "type": "banner",
-            "disabled": true,
             "settings": {
               "background": "#fbdcce",
               "text_color": "#333333",
-              "content": "BFCM Sale | Use Code: BFCM25 for 25% OFF* | & gifts worth up to $948 with min. spend of $1040 | *Exclusions apply",
+              "content": "12.12 Friends & Family Sale: 20% off sitewide +70% savings on selected items",
               "link_label": "shop now",
               "link_color": "#000000",
-              "link": "shopify:\/\/collections"
+              "link": "shopify:\/\/collections\/friends-family"
             }
           },
           "c041b18f-3f0b-421f-8cdf-8ad89f4f29d8": {
@@ -114,10 +113,10 @@
             "settings": {
               "background": "#767272",
               "text_color": "#ffffff",
-              "content": "Free Shipping on orders $40 & above",
+              "content": "Discount is applied automatically at check out. No code needed",
               "link_label": "shop now",
               "link_color": "#000000",
-              "link": "shopify:\/\/collections\/award-winners"
+              "link": "shopify:\/\/collections\/friends-family"
             }
           }
         },
