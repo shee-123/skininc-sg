@@ -3758,8 +3758,8 @@
           "0c4c8813-1e00-4408-adc3-5411cd41ffc7": {
             "type": "image",
             "settings": {
-              "image": "shopify:\/\/shop_images\/SITEWIDE_20_OFF_ON_REGULAR_ITEMS_AUTOMATICALLY_APPLIED_AT_CHECKOUT_7fd223cd-6bf3-4d35-809e-8b051248873c.jpg",
-              "mobile_image": "shopify:\/\/shop_images\/C12.12-Friends-and-Family-Banner.jpg",
+              "image": "shopify:\/\/shop_images\/12.12_Friends_and_Family_Web_Banner_1.jpg",
+              "mobile_image": "shopify:\/\/shop_images\/12.12_Friends_and_Family_Mobile_Banner_1.jpg",
               "apply_overlay": true,
               "content_position": "bottomLeft",
               "subheading": "",
