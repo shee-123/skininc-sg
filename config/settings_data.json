@@ -102,7 +102,7 @@
             "settings": {
               "background": "#fbdcce",
               "text_color": "#333333",
-              "content": "12.12 Friends & Family Sale: 20% off sitewide +70% savings on selected items",
+              "content": "Free shipping on all orders above $40",
               "link_label": "shop now",
               "link_color": "#000000",
               "link": "shopify:\/\/collections\/friends-family"
@@ -113,7 +113,7 @@
             "settings": {
               "background": "#767272",
               "text_color": "#ffffff",
-              "content": "Discount is applied automatically at check out. No code needed",
+              "content": "",
               "link_label": "shop now",
               "link_color": "#000000",
               "link": "shopify:\/\/collections\/friends-family"
