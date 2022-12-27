@@ -981,10 +981,9 @@
         "blocks": {
           "d49efe4a-8a67-4ecc-a71c-caa86fcb3314": {
             "type": "spend-x-get-y",
-            "disabled": true,
             "settings": {
-              "product_handle": "",
-              "variant_id": "",
+              "product_handle": "boxing-day-gwp",
+              "variant_id": "40104929919089",
               "min_price": "28800",
               "message": "Gift item"
             }
