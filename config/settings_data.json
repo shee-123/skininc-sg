@@ -979,6 +979,16 @@
       "cart-template": {
         "type": "cart-template",
         "blocks": {
+          "d49efe4a-8a67-4ecc-a71c-caa86fcb3314": {
+            "type": "spend-x-get-y",
+            "disabled": true,
+            "settings": {
+              "product_handle": "",
+              "variant_id": "",
+              "min_price": "28800",
+              "message": "Gift item"
+            }
+          },
           "daf3a6b6-d912-4dbc-95b7-6a2169d51e1b": {
             "type": "tierspend-x-get-y",
             "disabled": true,
@@ -991,16 +1001,6 @@
               "variant_id2": "40077256753265",
               "min_price2": "60000",
               "message2": "Gift item"
-            }
-          },
-          "d49efe4a-8a67-4ecc-a71c-caa86fcb3314": {
-            "type": "spend-x-get-y",
-            "disabled": true,
-            "settings": {
-              "product_handle": "bfcm-gwp-tier-3-9-piece-gift-worth-948",
-              "variant_id": "40077260292209",
-              "min_price": "104000",
-              "message": "Gift item"
             }
           },
           "c57c0b8d-4765-4e48-874a-1e1136573d00": {
@@ -1067,8 +1067,8 @@
           }
         },
         "block_order": [
-          "daf3a6b6-d912-4dbc-95b7-6a2169d51e1b",
           "d49efe4a-8a67-4ecc-a71c-caa86fcb3314",
+          "daf3a6b6-d912-4dbc-95b7-6a2169d51e1b",
           "c57c0b8d-4765-4e48-874a-1e1136573d00",
           "6ff5c2a2-8e7f-4faf-af73-678aa26a0ba0",
           "a05554d1-097e-4c22-9e8c-d49f1c5b2d44",
