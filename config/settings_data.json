@@ -3819,16 +3819,16 @@
             "type": "image",
             "disabled": true,
             "settings": {
-              "image": "shopify:\/\/shop_images\/Jackson_Wang_Web_Banner_AFTERPARTY.jpg",
-              "mobile_image": "shopify:\/\/shop_images\/Jackson_Wang_Mobile_Banner_AFTERPARTY.jpg",
+              "image": "shopify:\/\/shop_images\/Jan_GWP_Web_Banner.jpg",
+              "mobile_image": "shopify:\/\/shop_images\/Jan_GWP_Mobile_Banner_IGS.jpg",
               "apply_overlay": true,
               "content_position": "bottomLeft",
               "subheading": "",
               "title": "",
               "button_1_text": "",
-              "button_1_link": "shopify:\/\/collections\/jackson-wang-magicman",
+              "button_1_link": "shopify:\/\/collections\/all",
               "button_2_text": "",
-              "button_2_link": "shopify:\/\/collections\/jackson-wang-magicman"
+              "button_2_link": "shopify:\/\/collections\/all"
             }
           }
         },
