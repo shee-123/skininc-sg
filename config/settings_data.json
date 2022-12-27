@@ -3757,8 +3757,8 @@
           "0c4c8813-1e00-4408-adc3-5411cd41ffc7": {
             "type": "image",
             "settings": {
-              "image": "shopify:\/\/shop_images\/SG_Boxing_Day_Sale_Web_Banner.jpg",
-              "mobile_image": "shopify:\/\/shop_images\/SG_Boxing_Day_Sale_Mobile_Banner.jpg",
+              "image": "shopify:\/\/shop_images\/SG-Boxing-Day-Sale-Banner-Landscape.jpg",
+              "mobile_image": "shopify:\/\/shop_images\/SG-Boxing-Day-Sale-Banner.jpg",
               "apply_overlay": true,
               "content_position": "bottomLeft",
               "subheading": "",
