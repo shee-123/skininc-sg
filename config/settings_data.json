@@ -3773,8 +3773,8 @@
             "type": "image",
             "disabled": true,
             "settings": {
-              "image": "shopify:\/\/shop_images\/Jan_GWP_Web_Banner.jpg",
-              "mobile_image": "shopify:\/\/shop_images\/Jan_GWP_Mobile_Banner_IGS.jpg",
+              "image": "shopify:\/\/shop_images\/Artboard_6.jpg",
+              "mobile_image": "shopify:\/\/shop_images\/Artboard_8.jpg",
               "apply_overlay": true,
               "content_position": "bottomLeft",
               "subheading": "",
