@@ -3757,8 +3757,8 @@
           "0c4c8813-1e00-4408-adc3-5411cd41ffc7": {
             "type": "image",
             "settings": {
-              "image": "shopify:\/\/shop_images\/SG-Boxing-Day-Sale-Banner-Landscape.jpg",
-              "mobile_image": "shopify:\/\/shop_images\/SG-Boxing-Day-Sale-Banner.jpg",
+              "image": "shopify:\/\/shop_images\/New_Year_New_You_Web_Banner_bff660a0-3af6-4188-a2d0-6d61e46c1d7a.jpg",
+              "mobile_image": "shopify:\/\/shop_images\/New_Year_New_You_Mobile_Banner_1544b5f4-9c86-4f1f-84a1-4e411d3edd3f.jpg",
               "apply_overlay": true,
               "content_position": "bottomLeft",
               "subheading": "",
@@ -3771,7 +3771,6 @@
           },
           "1650600462fada49e7-0": {
             "type": "image",
-            "disabled": true,
             "settings": {
               "image": "shopify:\/\/shop_images\/Artboard_6.jpg",
               "mobile_image": "shopify:\/\/shop_images\/Artboard_8.jpg",
