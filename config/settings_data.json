@@ -3801,6 +3801,7 @@
           },
           "1650600462fada49e7-1": {
             "type": "image",
+            "disabled": true,
             "settings": {
               "image": "shopify:\/\/shop_images\/Holiday_2022_Web_Banner.jpg",
               "mobile_image": "shopify:\/\/shop_images\/Holiday_2022_Mobile_Banner.jpg",
