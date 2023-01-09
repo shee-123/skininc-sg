@@ -3803,14 +3803,14 @@
             "type": "image",
             "disabled": true,
             "settings": {
-              "image": "shopify:\/\/shop_images\/Holiday_2022_Web_Banner.jpg",
-              "mobile_image": "shopify:\/\/shop_images\/Holiday_2022_Mobile_Banner.jpg",
+              "image": "shopify:\/\/shop_images\/SG_CNY_2023_Web_Banner_1.jpg",
+              "mobile_image": "shopify:\/\/shop_images\/SG_CNY_2023_Mobile_Banner.jpg",
               "apply_overlay": true,
               "content_position": "bottomLeft",
               "subheading": "",
               "title": "",
               "button_1_text": "",
-              "button_1_link": "shopify:\/\/collections\/gifts-sets",
+              "button_1_link": "shopify:\/\/collections\/best-sellers",
               "button_2_text": "",
               "button_2_link": ""
             }
