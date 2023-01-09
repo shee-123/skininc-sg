@@ -102,7 +102,7 @@
             "settings": {
               "background": "#fbdcce",
               "text_color": "#333333",
-              "content": "Free shipping on all orders above $40",
+              "content": "CNY Sale! Get $28 OFF with min. purchase of $88",
               "link_label": "shop now",
               "link_color": "#000000",
               "link": "shopify:\/\/collections\/friends-family"
@@ -113,7 +113,7 @@
             "settings": {
               "background": "#767272",
               "text_color": "#ffffff",
-              "content": "",
+              "content": "Plus Gift with purchase worth $328!",
               "link_label": "shop now",
               "link_color": "#000000",
               "link": "shopify:\/\/collections\/friends-family"
@@ -3754,6 +3754,21 @@
       "1650600462fada49e7": {
         "type": "embrace-slideshow",
         "blocks": {
+          "1650600462fada49e7-1": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/SG_CNY_2023_Web_Banner_1.jpg",
+              "mobile_image": "shopify:\/\/shop_images\/SG_CNY_2023_Mobile_Banner.jpg",
+              "apply_overlay": true,
+              "content_position": "bottomLeft",
+              "subheading": "",
+              "title": "",
+              "button_1_text": "",
+              "button_1_link": "shopify:\/\/collections\/best-sellers",
+              "button_2_text": "",
+              "button_2_link": ""
+            }
+          },
           "0c4c8813-1e00-4408-adc3-5411cd41ffc7": {
             "type": "image",
             "settings": {
@@ -3799,22 +3814,6 @@
               "button_2_link": "shopify:\/\/collections\/embrace-microsite"
             }
           },
-          "1650600462fada49e7-1": {
-            "type": "image",
-            "disabled": true,
-            "settings": {
-              "image": "shopify:\/\/shop_images\/SG_CNY_2023_Web_Banner_1.jpg",
-              "mobile_image": "shopify:\/\/shop_images\/SG_CNY_2023_Mobile_Banner.jpg",
-              "apply_overlay": true,
-              "content_position": "bottomLeft",
-              "subheading": "",
-              "title": "",
-              "button_1_text": "",
-              "button_1_link": "shopify:\/\/collections\/best-sellers",
-              "button_2_text": "",
-              "button_2_link": ""
-            }
-          },
           "92f6afd7-1b43-4a7f-84b1-896fb65288e3": {
             "type": "image",
             "settings": {
@@ -3832,10 +3831,10 @@
           }
         },
         "block_order": [
+          "1650600462fada49e7-1",
           "0c4c8813-1e00-4408-adc3-5411cd41ffc7",
           "1650600462fada49e7-0",
           "448cf593-80ea-46f1-9ce1-c8c823bf93af",
-          "1650600462fada49e7-1",
           "92f6afd7-1b43-4a7f-84b1-896fb65288e3"
         ],
         "settings": {
