@@ -3758,7 +3758,7 @@
             "type": "image",
             "settings": {
               "image": "shopify:\/\/shop_images\/SG-CNY-2023-Banner-_1.jpg",
-              "mobile_image": "shopify:\/\/shop_images\/SG-CNY-2023-Banner_Mobile_0c179b19-414b-4aea-817d-0d5360badac6.jpg",
+              "mobile_image": "shopify:\/\/shop_images\/SG-CNY-2023-Banner-mobile.jpg",
               "apply_overlay": true,
               "content_position": "bottomLeft",
               "subheading": "",
