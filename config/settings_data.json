@@ -102,10 +102,10 @@
             "settings": {
               "background": "#fbdcce",
               "text_color": "#333333",
-              "content": "CNY Sale! Get $28 OFF with min. purchase of $88",
+              "content": "Receive gift worth $195 with any purchase of $250",
               "link_label": "shop now",
               "link_color": "#000000",
-              "link": "shopify:\/\/collections\/friends-family"
+              "link": "shopify:\/\/collections\/best-sellers"
             }
           },
           "c041b18f-3f0b-421f-8cdf-8ad89f4f29d8": {
@@ -113,10 +113,10 @@
             "settings": {
               "background": "#767272",
               "text_color": "#ffffff",
-              "content": "Plus Gift with purchase worth $328!",
+              "content": "Free shipping for orders above $40",
               "link_label": "shop now",
               "link_color": "#000000",
-              "link": "shopify:\/\/collections\/friends-family"
+              "link": "shopify:\/\/collections\/best-sellers"
             }
           }
         },
