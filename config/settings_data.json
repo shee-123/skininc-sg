@@ -988,15 +988,6 @@
               "message": "Gift item"
             }
           },
-          "a05554d1-097e-4c22-9e8c-d49f1c5b2d44": {
-            "type": "buy-x-get-y-gift",
-            "settings": {
-              "product_handle": "embrace-peach-pink-pleated-bag",
-              "variant_id": "39829512487025",
-              "handle": "my-daily-dose-of-uplift",
-              "message": "Gift item"
-            }
-          },
           "daf3a6b6-d912-4dbc-95b7-6a2169d51e1b": {
             "type": "tierspend-x-get-y",
             "disabled": true,
@@ -1067,7 +1058,6 @@
         },
         "block_order": [
           "d49efe4a-8a67-4ecc-a71c-caa86fcb3314",
-          "a05554d1-097e-4c22-9e8c-d49f1c5b2d44",
           "daf3a6b6-d912-4dbc-95b7-6a2169d51e1b",
           "c57c0b8d-4765-4e48-874a-1e1136573d00",
           "6ff5c2a2-8e7f-4faf-af73-678aa26a0ba0",
