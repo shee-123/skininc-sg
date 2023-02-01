@@ -982,9 +982,9 @@
           "d49efe4a-8a67-4ecc-a71c-caa86fcb3314": {
             "type": "spend-x-get-y",
             "settings": {
-              "product_handle": "boxing-day-gwp",
-              "variant_id": "40104929919089",
-              "min_price": "28800",
+              "product_handle": "feb-2023-2-pcs-gift-worth-180",
+              "variant_id": "40129245577329",
+              "min_price": "25000",
               "message": "Gift item"
             }
           },
