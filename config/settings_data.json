@@ -3807,8 +3807,8 @@
           "448cf593-80ea-46f1-9ce1-c8c823bf93af": {
             "type": "image",
             "settings": {
-              "image": "shopify:\/\/shop_images\/Our_Customized_Approach_to_Your_Skin_Health_Web_Banner_3b502c2b-450b-4c83-abf8-d95854f114cb.jpg",
-              "mobile_image": "shopify:\/\/shop_images\/Our_Customized_Approach_to_Your_Skin_Health_Mobile_Banner_28fff94f-1f6c-49af-be8c-eadb47174036.jpg",
+              "image": "shopify:\/\/shop_images\/Sabi-Web-banner.jpg",
+              "mobile_image": "shopify:\/\/shop_images\/Sabi-Mobile-banner.jpg",
               "apply_overlay": true,
               "content_position": "bottomLeft",
               "subheading": "",
