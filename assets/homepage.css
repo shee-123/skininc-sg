@@ -454,6 +454,10 @@ h1.SectionHeader__Heading.Heading.u-h1 {
     object-fit: contain !important;
     height: 100%;
 }
+.Slideshow--fullscreen .Slideshow__Image {
+    object-fit: fill;
+}
+  
   
 }
 
@@ -464,6 +468,9 @@ h1.SectionHeader__Heading.Heading.u-h1 {
 .Slideshow__ImageContainer {
     object-fit: contain !important;
     height: 100%;
+}
+.Slideshow--fullscreen .Slideshow__Image {
+    object-fit: fill;
 }
   
 }
