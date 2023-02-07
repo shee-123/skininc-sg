@@ -441,15 +441,19 @@ h1.SectionHeader__Heading.Heading.u-h1 {
 } 
 .Slideshow__ImageContainer {
     object-fit: contain !important;
-    height: auto;
+    height: 100%;
 }
   
 }
 
 @media only screen and (min-width: 1200px) and (max-width: 1920px)  {
 .Slideshow--fullscreen {
-    height: 80vh!important;
+    height: 70vh!important;
 } 
+.Slideshow__ImageContainer {
+    object-fit: contain !important;
+    height: 100%;
+}
   
 }
 
