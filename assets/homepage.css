@@ -446,9 +446,9 @@ h1.SectionHeader__Heading.Heading.u-h1 {
   
 }
 
-@media only screen and (min-width: 1200px) and (max-width: 1920px)  {
+@media only screen and (min-width: 1366px) and (max-width: 1920px)  {
 .Slideshow--fullscreen {
-    height: 60vh!important;
+    height: 80vh!important;
 } 
 .Slideshow__ImageContainer {
     object-fit: contain !important;
