@@ -475,7 +475,19 @@ h1.SectionHeader__Heading.Heading.u-h1 {
   
 }
 
-
+@media only screen and (min-width: 950px) and (max-width: 1199px)  {
+.Slideshow--fullscreen {
+    height: 50vh!important;
+} 
+.Slideshow__ImageContainer {
+    object-fit: contain !important;
+    height: 100%;
+}
+.Slideshow--fullscreen .Slideshow__Image {
+    object-fit: fill;
+}
+  
+}
 
 @media only screen and (max-width: 990px) {
  .container {
