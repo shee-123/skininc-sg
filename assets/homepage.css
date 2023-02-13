@@ -446,7 +446,21 @@ h1.SectionHeader__Heading.Heading.u-h1 {
   
 }
 
-@media only screen and (min-width: 1400px) and (max-width: 1920px)  {
+@media only screen and (min-width: 1660px) and (max-width: 1920px)  {
+.Slideshow--fullscreen {
+    height: 65vh!important;
+} 
+.Slideshow__ImageContainer {
+    object-fit: contain !important;
+    height: 100%;
+}
+/* .Slideshow--fullscreen .Slideshow__Image {
+    object-fit: fill;
+} */  
+  
+}
+
+@media only screen and (min-width: 1400px) and (max-width: 1660px)  {
 .Slideshow--fullscreen {
     height: 65vh!important;
 } 
@@ -460,7 +474,6 @@ h1.SectionHeader__Heading.Heading.u-h1 {
   
   
 }
-
 @media only screen and (min-width: 1200px) and (max-width: 1400px)  {
 .Slideshow--fullscreen {
     height: 80vh!important;
