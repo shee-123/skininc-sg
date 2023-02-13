@@ -435,7 +435,7 @@ h1.SectionHeader__Heading.Heading.u-h1 {
     height: 100vh !important;
 }
 
-@media only screen and (min-width: 1920px) and (max-width: 3200px)  {
+@media only screen and (min-width: 1660px) and (max-width: 3200px)  {
 .Slideshow--fullscreen {
     height: 60vh!important;
 } 
@@ -446,23 +446,9 @@ h1.SectionHeader__Heading.Heading.u-h1 {
   
 }
 
-@media only screen and (min-width: 1660px) and (max-width: 1920px)  {
-.Slideshow--fullscreen {
-    height: 65vh!important;
-} 
-.Slideshow__ImageContainer {
-    object-fit: contain !important;
-    height: 100%;
-}
-/* .Slideshow--fullscreen .Slideshow__Image {
-    object-fit: fill;
-} */  
-  
-}
-
 @media only screen and (min-width: 1400px) and (max-width: 1660px)  {
 .Slideshow--fullscreen {
-    height: 65vh!important;
+    height: 60vh!important;
 } 
 .Slideshow__ImageContainer {
     object-fit: contain !important;
