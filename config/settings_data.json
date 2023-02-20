@@ -1532,6 +1532,20 @@
               "type": "best_sellers"
             }
           },
+          "9abd3b8a-0a87-4c7b-b756-3790c7146b16": {
+            "type": "product",
+            "settings": {
+              "product": "create-your-own-custom-serum",
+              "type": "best_sellers"
+            }
+          },
+          "273c74b1-2b5a-4ea6-a9a2-41eaab3fbfc6": {
+            "type": "product",
+            "settings": {
+              "product": "pure-deepsea-hydrating-mask-30ml",
+              "type": "best_sellers"
+            }
+          },
           "44f3ce4f-21cb-44ad-9e94-62481dbbee91": {
             "type": "product",
             "settings": {
@@ -1541,6 +1555,7 @@
           },
           "29e464fb-7447-420a-8013-31d669d65fe8": {
             "type": "product",
+            "disabled": true,
             "settings": {
               "product": "a-soothing-memory-holiday-collection-2022",
               "type": "best_sellers"
@@ -1562,6 +1577,7 @@
           },
           "88444331-9db4-41af-8954-e8806aa719d6": {
             "type": "product",
+            "disabled": true,
             "settings": {
               "product": "waking-up-to-bliss-holiday-collection-2022",
               "type": "new"
@@ -1569,6 +1585,7 @@
           },
           "54ad290e-9dd8-4006-8d17-5b8bbfe306e6": {
             "type": "product",
+            "disabled": true,
             "settings": {
               "product": "lit-from-within-holiday-collection-2022",
               "type": "new"
@@ -1576,6 +1593,7 @@
           },
           "0d4669af-7eb4-4019-8618-84f0e1b63241": {
             "type": "product",
+            "disabled": true,
             "settings": {
               "product": "a-moment-of-calm-holiday-collection-2022",
               "type": "new"
@@ -1583,6 +1601,7 @@
           },
           "c6b157fc-cdbb-413d-98aa-80bb51bcf620": {
             "type": "product",
+            "disabled": true,
             "settings": {
               "product": "a-glowing-ritual-holiday-collection-2022",
               "type": "new"
@@ -1606,20 +1625,6 @@
             "type": "product",
             "settings": {
               "product": "pure-serum-infused-o2-cleanser",
-              "type": "best_sellers"
-            }
-          },
-          "273c74b1-2b5a-4ea6-a9a2-41eaab3fbfc6": {
-            "type": "product",
-            "settings": {
-              "product": "pure-deepsea-hydrating-mask-30ml",
-              "type": "best_sellers"
-            }
-          },
-          "9abd3b8a-0a87-4c7b-b756-3790c7146b16": {
-            "type": "product",
-            "settings": {
-              "product": "create-your-own-custom-serum",
               "type": "best_sellers"
             }
           },
@@ -1867,10 +1872,19 @@
               "product": "your-dewy-glow-acquisition-set",
               "type": "custom_serums"
             }
+          },
+          "03aabcf4-b6c0-48aa-820e-5f818bfcefee": {
+            "type": "product",
+            "settings": {
+              "product": "deepcare-blemish-sos-patch",
+              "type": "new"
+            }
           }
         },
         "block_order": [
           "2ca6304f-0f1b-4076-928f-b4ee9dbd5ccc",
+          "9abd3b8a-0a87-4c7b-b756-3790c7146b16",
+          "273c74b1-2b5a-4ea6-a9a2-41eaab3fbfc6",
           "44f3ce4f-21cb-44ad-9e94-62481dbbee91",
           "29e464fb-7447-420a-8013-31d669d65fe8",
           "6c1f68a0-1108-40e5-9658-ff2c927cc434",
@@ -1882,8 +1896,6 @@
           "766be532-744a-4439-b591-e63dda3df7d3",
           "84cd5c72-6f73-44fe-8b09-5033a9dbd205",
           "652084a5-1dcb-4a50-9307-5af2ab0cee55",
-          "273c74b1-2b5a-4ea6-a9a2-41eaab3fbfc6",
-          "9abd3b8a-0a87-4c7b-b756-3790c7146b16",
           "e4545c7a-14a2-44f0-b0af-d868608bd95c",
           "e0919f2b-1041-4fc8-bef1-b60465427aee",
           "d0b774a4-6abd-4dc7-8e46-113212d3e3d2",
@@ -1916,7 +1928,8 @@
           "f2752230-74bd-4ee4-902a-1f802c2d7770",
           "0596b643-8272-41b4-8a49-724c591b64c2",
           "fb62ccb0-1545-44df-b697-7d30e345c770",
-          "d6f7a4f9-90fc-47f8-ab4d-ada82f8a3d01"
+          "d6f7a4f9-90fc-47f8-ab4d-ada82f8a3d01",
+          "03aabcf4-b6c0-48aa-820e-5f818bfcefee"
         ],
         "settings": {
         }
