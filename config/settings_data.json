@@ -2639,7 +2639,8 @@
         "settings": {
           "title": "Pampering Face Treatments",
           "text": "Indulge in a beauty retreat at Skin Inc. Our 100% personalized face treatments proactively solve your skin woes at the root.",
-          "book": "Book An Appointment"
+          "book": "Book An Appointment",
+          "book_link": "https:\/\/m.me\/iloveskininc"
         }
       },
       "pampering_treatment": {
@@ -2682,7 +2683,8 @@
         "settings": {
           "title": "Fuss Free Power Fix Treatments",
           "text": "Give your skin the breakthrough it deserves. Skin Inc's treatments utilize the latest cutting-edge technology for lasting results.",
-          "book": "Book An Appointment"
+          "book": "Book An Appointment",
+          "book_link": "https:\/\/m.me\/iloveskininc"
         }
       },
       "exclusive_customer": {
