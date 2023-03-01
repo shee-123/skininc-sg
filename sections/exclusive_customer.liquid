@@ -8,6 +8,9 @@
   <h4>{{ section.settings.book_title }}</h4>
   <p>{{ section.settings.book_text }}</p>
 </div>
+<div class="book_an_app">
+  <a href="{{ section.settings.book_link }}">{{ section.settings.book }}</a>
+</div>
 
 {% schema %}
   {
@@ -37,6 +40,16 @@
         "type": "text",
         "id": "book_text",
         "label": "book text"
+      },
+      {
+      "type": "text",
+      "id": "book",
+      "label": "Book An Appointment "
+      },
+    {
+      "type": "url",
+      "id": "book_link",
+      "label": "Book An Appointment url "
       }
   
     ]
