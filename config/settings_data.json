@@ -3608,8 +3608,8 @@
           "448cf593-80ea-46f1-9ce1-c8c823bf93af": {
             "type": "image",
             "settings": {
-              "image": "shopify:\/\/shop_images\/SG_Subscription_Web_Banner.jpg",
-              "mobile_image": "shopify:\/\/shop_images\/SG_Subscription_Mobile_Banner_1.jpg",
+              "image": "shopify:\/\/shop_images\/IWD-Banner.jpg",
+              "mobile_image": "shopify:\/\/shop_images\/IWD-Mobile-Banner.jpg",
               "apply_overlay": true,
               "content_position": "bottomLeft",
               "subheading": "",
@@ -3617,7 +3617,7 @@
               "button_1_text": "",
               "button_1_link": "",
               "button_2_text": "",
-              "button_2_link": "https:\/\/plussabi.onelink.me\/QTty\/vczqzu3w"
+              "button_2_link": "shopify:\/\/collections\/customize-your-skincare"
             }
           },
           "1650600462fada49e7-0": {
