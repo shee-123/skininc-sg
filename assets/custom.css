@@ -4182,6 +4182,18 @@ footer .copy ul > li {
 .content-description .desc_banner_7 .banner-heading{
   background: #DFDBCF;
 }
+.Product__Tabs .Collapsible__Content * {
+    font-family: Futura,sans-serif !important;
+    line-height: 1.4 !important;
+    font-style: normal;
+    color: #333 !important;
+    font-size: 14px !important;
+    font-weight: normal;
+}
+
+
+
+
 /* Responsive Web design for new Body Device product page */
 @media only screen and (max-width: 991px){
   .desc_banner_8 .banner-image .single_item,
