@@ -3622,10 +3622,9 @@
           },
           "1650600462fada49e7-0": {
             "type": "image",
-            "disabled": true,
             "settings": {
-              "image": "shopify:\/\/shop_images\/Valentine_s-Day-WEB-Banner-updated.jpg",
-              "mobile_image": "shopify:\/\/shop_images\/Valentine_s-Day-Mobile-WEB-Banner-updated-_1.jpg",
+              "image": "shopify:\/\/shop_images\/15th-Web-Banner.jpg",
+              "mobile_image": "shopify:\/\/shop_images\/15th---Mobile-Web-Banner.jpg",
               "apply_overlay": true,
               "content_position": "bottomLeft",
               "subheading": "",
