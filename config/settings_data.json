@@ -102,7 +102,7 @@
             "settings": {
               "background": "#fbdcce",
               "text_color": "#333333",
-              "content": "Receive Bright Eyes Set worth $212 with any purchase of $280",
+              "content": "15th Birthday Sale! Use Code THANKYOU20 for 20% off sitewide.",
               "link_label": "shop now",
               "link_color": "#000000",
               "link": "shopify:\/\/collections\/best-sellers"
@@ -113,7 +113,7 @@
             "settings": {
               "background": "#767272",
               "text_color": "#ffffff",
-              "content": "Free shipping for orders above $40",
+              "content": "Code Thankyou25 for 25% off min. spend $400",
               "link_label": "shop now",
               "link_color": "#000000",
               "link": "shopify:\/\/collections\/best-sellers"
@@ -3575,6 +3575,21 @@
       "1650600462fada49e7": {
         "type": "embrace-slideshow",
         "blocks": {
+          "1650600462fada49e7-0": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/15th-Web-Banner.jpg",
+              "mobile_image": "shopify:\/\/shop_images\/15th---Mobile-Web-Banner.jpg",
+              "apply_overlay": true,
+              "content_position": "bottomLeft",
+              "subheading": "",
+              "title": "",
+              "button_1_text": "",
+              "button_1_link": "shopify:\/\/collections\/best-sellers",
+              "button_2_text": "",
+              "button_2_link": "shopify:\/\/products\/tri-light-sabi"
+            }
+          },
           "448cf593-80ea-46f1-9ce1-c8c823bf93af": {
             "type": "image",
             "settings": {
@@ -3620,21 +3635,6 @@
               "button_2_link": "https:\/\/www.iloveskininc.com.sg\/products\/vitamin-b3-serum"
             }
           },
-          "1650600462fada49e7-0": {
-            "type": "image",
-            "settings": {
-              "image": "shopify:\/\/shop_images\/15th-Web-Banner.jpg",
-              "mobile_image": "shopify:\/\/shop_images\/15th---Mobile-Web-Banner.jpg",
-              "apply_overlay": true,
-              "content_position": "bottomLeft",
-              "subheading": "",
-              "title": "",
-              "button_1_text": "",
-              "button_1_link": "shopify:\/\/collections\/best-sellers",
-              "button_2_text": "",
-              "button_2_link": "shopify:\/\/products\/tri-light-sabi"
-            }
-          },
           "0c4c8813-1e00-4408-adc3-5411cd41ffc7": {
             "type": "image",
             "settings": {
@@ -3652,10 +3652,10 @@
           }
         },
         "block_order": [
+          "1650600462fada49e7-0",
           "448cf593-80ea-46f1-9ce1-c8c823bf93af",
           "92f6afd7-1b43-4a7f-84b1-896fb65288e3",
           "1650600462fada49e7-1",
-          "1650600462fada49e7-0",
           "0c4c8813-1e00-4408-adc3-5411cd41ffc7"
         ],
         "settings": {
