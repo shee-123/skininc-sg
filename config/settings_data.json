@@ -102,7 +102,7 @@
             "settings": {
               "background": "#fbdcce",
               "text_color": "#333333",
-              "content": "15th Birthday Sale! Use Code THANKYOU20 for 20% off sitewide.",
+              "content": "Receive 2pcs gift set worth $158 with purchase of $180",
               "link_label": "shop now",
               "link_color": "#000000",
               "link": "shopify:\/\/collections\/best-sellers"
@@ -113,7 +113,7 @@
             "settings": {
               "background": "#767272",
               "text_color": "#ffffff",
-              "content": "Code Thankyou25 for 25% off min. spend $400",
+              "content": "or 2pcs gift set worth $261 with purchase of $300",
               "link_label": "shop now",
               "link_color": "#000000",
               "link": "shopify:\/\/collections\/best-sellers"
@@ -981,6 +981,7 @@
         "blocks": {
           "d49efe4a-8a67-4ecc-a71c-caa86fcb3314": {
             "type": "spend-x-get-y",
+            "disabled": true,
             "settings": {
               "product_handle": "mar-2023-4-pcs-gift-bright-eye-set-worth-212",
               "variant_id": "40149336064113",
@@ -990,7 +991,6 @@
           },
           "daf3a6b6-d912-4dbc-95b7-6a2169d51e1b": {
             "type": "tierspend-x-get-y",
-            "disabled": true,
             "settings": {
               "product_handle": "apr-2023-2-pcs-gift-set-worth-158",
               "variant_id": "40163292938353",
