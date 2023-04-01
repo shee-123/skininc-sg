@@ -992,13 +992,13 @@
             "type": "tierspend-x-get-y",
             "disabled": true,
             "settings": {
-              "product_handle": "bfcm-gwp-tier-1-7-piece-gift-worth-285",
-              "variant_id": "40077251248241",
-              "min_price": "37300",
+              "product_handle": "apr-2023-2-pcs-gift-set-worth-158",
+              "variant_id": "40163292938353",
+              "min_price": "18000",
               "message": "Gift item",
-              "product_handle2": "bfcm-gwp-tier-2-8-piece-gift-worth-424",
-              "variant_id2": "40077256753265",
-              "min_price2": "60000",
+              "product_handle2": "apr-2023-2-pcs-gift-with-purchase",
+              "variant_id2": "40160937214065",
+              "min_price2": "30000",
               "message2": "Gift item"
             }
           },
