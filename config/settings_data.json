@@ -3578,16 +3578,16 @@
           "1650600462fada49e7-0": {
             "type": "image",
             "settings": {
-              "image": "shopify:\/\/shop_images\/15th-Web-Banner.jpg",
-              "mobile_image": "shopify:\/\/shop_images\/15th---Mobile-Web-Banner.jpg",
+              "image": "shopify:\/\/shop_images\/April_Promo_Web_Banner_1.jpg",
+              "mobile_image": "shopify:\/\/shop_images\/April_Promo_mobile_Web_Banner.jpg",
               "apply_overlay": true,
               "content_position": "bottomLeft",
               "subheading": "",
               "title": "",
               "button_1_text": "",
-              "button_1_link": "shopify:\/\/collections\/best-sellers",
+              "button_1_link": "",
               "button_2_text": "",
-              "button_2_link": "shopify:\/\/products\/tri-light-sabi"
+              "button_2_link": ""
             }
           },
           "448cf593-80ea-46f1-9ce1-c8c823bf93af": {
