@@ -2629,12 +2629,22 @@
               "icon-text": "Put Your Best Face Forward Customized Infusion",
               "icon-subtext": "60 Mins I $245"
             }
+          },
+          "f1af277b-ff17-4c47-a358-d2a0f5e8d54d": {
+            "type": "icon_txt",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/RF_Treatment.jpg",
+              "point-text": "A non-surgical radiofrequency (RF) UPLIFTING treatment that tightens your skin for a more youthful glow This painless treatment helps to increase collagen production, contours your face and tightens your skin Low-frequency electromagnetic waves  penetrate deep into your skin to stimulate cell regeneration to help with the appearance of fine lines Prep Skin with Oxy-Recharge Bubble Mask energizes and detoxifies by infusing your skin with oxygen. It removes old keratin and impurities, revealing bright & renewed skin Seal in all the skin goodness Pure Deepsea Hydrating Mask hydrates, clarifies and brightens skin with nutrient-rich Japanese deepsea water",
+              "icon-text": "Age Defying RF Contour and Lift",
+              "icon-subtext": "60 Mins | $288"
+            }
           }
         },
         "block_order": [
           "f902950a-9c02-4a11-9e13-7fec619c5781",
           "76e5b190-6906-42b9-a1c8-5a60b2304c18",
-          "6e083958-d1cc-4245-8ac7-c0061d81c8fe"
+          "6e083958-d1cc-4245-8ac7-c0061d81c8fe",
+          "f1af277b-ff17-4c47-a358-d2a0f5e8d54d"
         ],
         "settings": {
           "title": "Pampering Face Treatments",
