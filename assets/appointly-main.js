@@ -11,8 +11,8 @@ if (!window.appointlyConfig) {
   <script src="https://cdn.jsdelivr.net/npm/vue@2.6.14"></script>
   <script src="https://cdn.jsdelivr.net/npm/vue-select@3.0.0"></script>
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/vue-select@3.0.0/dist/vue-select.css">
-  <script src="https://cdn.jsdelivr.net/npm/vue-tel-input"></script>
-  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/vue-tel-input/dist/vue-tel-input.css"/>
+  <script src="https://cdn.jsdelivr.net/npm/vue-tel-input@5.14.0"></script>
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/vue-tel-input@5.14.0/dist/vue-tel-input.css"/>
   <script src='https://cdn.jsdelivr.net/npm/v-calendar@2.3.2/lib/v-calendar.umd.min.js'></script>
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/vue-cool-select/dist/themes/bootstrap.css">
   <style>
