@@ -3597,7 +3597,22 @@
               "button_1_text": "",
               "button_1_link": "",
               "button_2_text": "",
-              "button_2_link": "shopify:\/\/collections\/my-daily-dose®-serum"
+              "button_2_link": "https:\/\/www.iloveskininc.com.sg\/products\/skin-saviour-dose-kit-glow"
+            }
+          },
+          "1650600462fada49e7-1": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/ver2.jpg",
+              "mobile_image": "shopify:\/\/shop_images\/ver2_vertical.jpg",
+              "apply_overlay": true,
+              "content_position": "bottomLeft",
+              "subheading": "",
+              "title": "",
+              "button_1_text": "",
+              "button_1_link": "",
+              "button_2_text": "",
+              "button_2_link": "https:\/\/www.iloveskininc.com.sg\/products\/skin-saviour-dose-kit-glow"
             }
           },
           "1650600462fada49e7-0": {
@@ -3630,21 +3645,6 @@
               "button_2_link": ""
             }
           },
-          "1650600462fada49e7-1": {
-            "type": "image",
-            "settings": {
-              "image": "shopify:\/\/shop_images\/ver2.jpg",
-              "mobile_image": "shopify:\/\/shop_images\/ver2_vertical.jpg",
-              "apply_overlay": true,
-              "content_position": "bottomLeft",
-              "subheading": "",
-              "title": "",
-              "button_1_text": "",
-              "button_1_link": "",
-              "button_2_text": "",
-              "button_2_link": "https:\/\/www.iloveskininc.com.sg\/products\/skin-saviour-dose-kit-glow"
-            }
-          },
           "0c4c8813-1e00-4408-adc3-5411cd41ffc7": {
             "type": "image",
             "settings": {
@@ -3663,9 +3663,9 @@
         },
         "block_order": [
           "448cf593-80ea-46f1-9ce1-c8c823bf93af",
+          "1650600462fada49e7-1",
           "1650600462fada49e7-0",
           "92f6afd7-1b43-4a7f-84b1-896fb65288e3",
-          "1650600462fada49e7-1",
           "0c4c8813-1e00-4408-adc3-5411cd41ffc7"
         ],
         "settings": {
