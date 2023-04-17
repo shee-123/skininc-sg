@@ -3585,6 +3585,21 @@
       "1650600462fada49e7": {
         "type": "embrace-slideshow",
         "blocks": {
+          "448cf593-80ea-46f1-9ce1-c8c823bf93af": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/Web-banners2.jpg",
+              "mobile_image": "shopify:\/\/shop_images\/Web-banners_1.jpg",
+              "apply_overlay": true,
+              "content_position": "bottomLeft",
+              "subheading": "",
+              "title": "",
+              "button_1_text": "",
+              "button_1_link": "",
+              "button_2_text": "",
+              "button_2_link": "shopify:\/\/collections\/my-daily-dose®-serum"
+            }
+          },
           "1650600462fada49e7-0": {
             "type": "image",
             "settings": {
@@ -3598,22 +3613,6 @@
               "button_1_link": "https:\/\/www.iloveskininc.com.sg\/products\/pure-revival-peel-duo-set-1",
               "button_2_text": "",
               "button_2_link": ""
-            }
-          },
-          "448cf593-80ea-46f1-9ce1-c8c823bf93af": {
-            "type": "image",
-            "disabled": true,
-            "settings": {
-              "image": "shopify:\/\/shop_images\/IWD-Banner.jpg",
-              "mobile_image": "shopify:\/\/shop_images\/IWD-Mobile-Banner.jpg",
-              "apply_overlay": true,
-              "content_position": "bottomLeft",
-              "subheading": "",
-              "title": "",
-              "button_1_text": "",
-              "button_1_link": "",
-              "button_2_text": "",
-              "button_2_link": "shopify:\/\/collections\/my-daily-dose®-serum"
             }
           },
           "92f6afd7-1b43-4a7f-84b1-896fb65288e3": {
@@ -3634,8 +3633,8 @@
           "1650600462fada49e7-1": {
             "type": "image",
             "settings": {
-              "image": "shopify:\/\/shop_images\/MAR-2023-B3-Web-Banner7_1.jpg",
-              "mobile_image": "shopify:\/\/shop_images\/MAR-2023-B3-Web-Banner6_1.jpg",
+              "image": "shopify:\/\/shop_images\/ver2.jpg",
+              "mobile_image": "shopify:\/\/shop_images\/ver2_vertical.jpg",
               "apply_overlay": true,
               "content_position": "bottomLeft",
               "subheading": "",
@@ -3643,7 +3642,7 @@
               "button_1_text": "",
               "button_1_link": "",
               "button_2_text": "",
-              "button_2_link": "https:\/\/www.iloveskininc.com.sg\/products\/vitamin-b3-serum"
+              "button_2_link": "https:\/\/www.iloveskininc.com.sg\/products\/skin-saviour-dose-kit-glow"
             }
           },
           "0c4c8813-1e00-4408-adc3-5411cd41ffc7": {
@@ -3663,8 +3662,8 @@
           }
         },
         "block_order": [
-          "1650600462fada49e7-0",
           "448cf593-80ea-46f1-9ce1-c8c823bf93af",
+          "1650600462fada49e7-0",
           "92f6afd7-1b43-4a7f-84b1-896fb65288e3",
           "1650600462fada49e7-1",
           "0c4c8813-1e00-4408-adc3-5411cd41ffc7"
