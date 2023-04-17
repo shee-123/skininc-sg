@@ -1616,24 +1616,45 @@
               "type": "best_sellers"
             }
           },
+          "310f9c82-1df3-49e4-adb9-d99be0064e76": {
+            "type": "product",
+            "settings": {
+              "product": "skin-saviour-dose-kit-age-proof",
+              "type": "new"
+            }
+          },
+          "170cc4b3-405f-4c6f-9b0e-ca3b25bccba4": {
+            "type": "product",
+            "settings": {
+              "product": "skin-saviour-dose-kit-clarify",
+              "type": "new"
+            }
+          },
+          "1c017d88-29eb-4965-baad-9cbeae76c122": {
+            "type": "product",
+            "settings": {
+              "product": "skin-saviour-dose-kit-detox",
+              "type": "new"
+            }
+          },
+          "33c74b3f-65f3-4a1f-bc4c-45d0cb0a5981": {
+            "type": "product",
+            "settings": {
+              "product": "skin-saviour-dose-kit-glow",
+              "type": "new"
+            }
+          },
           "01c93470-c163-46eb-b499-211b6eaf1d09": {
             "type": "product",
             "settings": {
-              "product": "tri-light-body-sculpt-fit",
-              "type": "best_sellers"
+              "product": "skin-saviour-dose-kit-soothe",
+              "type": "new"
             }
           },
           "03aabcf4-b6c0-48aa-820e-5f818bfcefee": {
             "type": "product",
             "settings": {
               "product": "deepcare-blemish-sos-patch",
-              "type": "new"
-            }
-          },
-          "d58b394f-3b31-408e-9b4a-c7dc2138c4da": {
-            "type": "product",
-            "settings": {
-              "product": "microbiome-booster-starter-kit",
               "type": "new"
             }
           },
@@ -1644,25 +1665,11 @@
               "type": "new"
             }
           },
-          "310f9c82-1df3-49e4-adb9-d99be0064e76": {
+          "d58b394f-3b31-408e-9b4a-c7dc2138c4da": {
             "type": "product",
             "settings": {
-              "product": "vitamin-b3-serum",
+              "product": "microbiome-booster-starter-kit",
               "type": "new"
-            }
-          },
-          "170cc4b3-405f-4c6f-9b0e-ca3b25bccba4": {
-            "type": "product",
-            "settings": {
-              "product": "cryo-ice-sake-roller-blush-edition",
-              "type": "new"
-            }
-          },
-          "1c017d88-29eb-4965-baad-9cbeae76c122": {
-            "type": "product",
-            "settings": {
-              "product": "custom-recovery-sleep-mask",
-              "type": "best_sellers"
             }
           },
           "766be532-744a-4439-b591-e63dda3df7d3": {
@@ -1706,13 +1713,6 @@
               "product": "sos-defends",
               "type": "new"
             }
-          },
-          "33c74b3f-65f3-4a1f-bc4c-45d0cb0a5981": {
-            "type": "product",
-            "settings": {
-              "product": "better-together-hydrate-kit",
-              "type": "custom_serums"
-            }
           }
         },
         "block_order": [
@@ -1729,20 +1729,20 @@
           "b4332330-b503-47fa-95cb-902327e0e7d9",
           "d0b774a4-6abd-4dc7-8e46-113212d3e3d2",
           "245797d6-6d7e-4e4c-bc9a-6947ebcb84d3",
-          "01c93470-c163-46eb-b499-211b6eaf1d09",
-          "03aabcf4-b6c0-48aa-820e-5f818bfcefee",
-          "d58b394f-3b31-408e-9b4a-c7dc2138c4da",
-          "af406135-484a-4923-be3a-07057820c248",
           "310f9c82-1df3-49e4-adb9-d99be0064e76",
           "170cc4b3-405f-4c6f-9b0e-ca3b25bccba4",
           "1c017d88-29eb-4965-baad-9cbeae76c122",
+          "33c74b3f-65f3-4a1f-bc4c-45d0cb0a5981",
+          "01c93470-c163-46eb-b499-211b6eaf1d09",
+          "03aabcf4-b6c0-48aa-820e-5f818bfcefee",
+          "af406135-484a-4923-be3a-07057820c248",
+          "d58b394f-3b31-408e-9b4a-c7dc2138c4da",
           "766be532-744a-4439-b591-e63dda3df7d3",
           "84cd5c72-6f73-44fe-8b09-5033a9dbd205",
           "675420d5-1ae6-42cf-893a-c24296560765",
           "a985e18f-d8e3-4208-8e6d-0e8678471d68",
           "d2e10a25-afc9-445c-93af-864eb70fe694",
-          "2edf2bdf-ae34-47a4-a951-a7930c4fcc16",
-          "33c74b3f-65f3-4a1f-bc4c-45d0cb0a5981"
+          "2edf2bdf-ae34-47a4-a951-a7930c4fcc16"
         ],
         "settings": {
         }
