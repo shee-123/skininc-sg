@@ -3597,6 +3597,21 @@
       "1650600462fada49e7": {
         "type": "embrace-slideshow",
         "blocks": {
+          "0c4c8813-1e00-4408-adc3-5411cd41ffc7": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/WhatsApp_Image_2023-05-01_at_21.17.51.jpg",
+              "mobile_image": "shopify:\/\/shop_images\/WhatsApp_Image_2023-05-01_at_21.17.51_1.jpg",
+              "apply_overlay": true,
+              "content_position": "bottomLeft",
+              "subheading": "",
+              "title": "",
+              "button_1_text": "",
+              "button_1_link": "shopify:\/\/collections\/best-sellers",
+              "button_2_text": "",
+              "button_2_link": "shopify:\/\/collections\/best-sellers"
+            }
+          },
           "448cf593-80ea-46f1-9ce1-c8c823bf93af": {
             "type": "image",
             "settings": {
@@ -3656,29 +3671,14 @@
               "button_2_text": "",
               "button_2_link": ""
             }
-          },
-          "0c4c8813-1e00-4408-adc3-5411cd41ffc7": {
-            "type": "image",
-            "settings": {
-              "image": "shopify:\/\/shop_images\/Final-Hor-APR-2023-GWP-Web-Banner-Edited.jpg",
-              "mobile_image": "shopify:\/\/shop_images\/APR-2023-GWP-Web-Banner-Edited.jpg",
-              "apply_overlay": true,
-              "content_position": "bottomLeft",
-              "subheading": "",
-              "title": "",
-              "button_1_text": "",
-              "button_1_link": "shopify:\/\/collections\/best-sellers",
-              "button_2_text": "",
-              "button_2_link": "shopify:\/\/collections\/best-sellers"
-            }
           }
         },
         "block_order": [
+          "0c4c8813-1e00-4408-adc3-5411cd41ffc7",
           "448cf593-80ea-46f1-9ce1-c8c823bf93af",
           "1650600462fada49e7-1",
           "1650600462fada49e7-0",
-          "92f6afd7-1b43-4a7f-84b1-896fb65288e3",
-          "0c4c8813-1e00-4408-adc3-5411cd41ffc7"
+          "92f6afd7-1b43-4a7f-84b1-896fb65288e3"
         ],
         "settings": {
           "show_fullscreen": true,
