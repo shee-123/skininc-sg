@@ -979,6 +979,15 @@
       "cart-template": {
         "type": "cart-template",
         "blocks": {
+          "b0c3be10-9ddd-4c8a-8c94-1d3432605112": {
+            "type": "spend-x-get-y",
+            "settings": {
+              "product_handle": "may-2023-2pcs-gift-set-worth-146",
+              "variant_id": "40181103132785",
+              "min_price": "18000",
+              "message": "Gift item"
+            }
+          },
           "d49efe4a-8a67-4ecc-a71c-caa86fcb3314": {
             "type": "spend-x-get-y",
             "disabled": true,
@@ -991,6 +1000,7 @@
           },
           "daf3a6b6-d912-4dbc-95b7-6a2169d51e1b": {
             "type": "tierspend-x-get-y",
+            "disabled": true,
             "settings": {
               "product_handle": "apr-2023-2-pcs-gift-set-worth-158",
               "variant_id": "40163292938353",
@@ -1057,6 +1067,7 @@
           }
         },
         "block_order": [
+          "b0c3be10-9ddd-4c8a-8c94-1d3432605112",
           "d49efe4a-8a67-4ecc-a71c-caa86fcb3314",
           "daf3a6b6-d912-4dbc-95b7-6a2169d51e1b",
           "c57c0b8d-4765-4e48-874a-1e1136573d00",
