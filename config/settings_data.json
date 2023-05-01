@@ -102,7 +102,7 @@
             "settings": {
               "background": "#fbdcce",
               "text_color": "#333333",
-              "content": "Receive 2pcs gift set worth $158 with purchase of $180",
+              "content": "Receive 2pcs gift set worth $146 with purchase of $180",
               "link_label": "shop now",
               "link_color": "#000000",
               "link": "shopify:\/\/collections\/best-sellers"
@@ -110,6 +110,7 @@
           },
           "c041b18f-3f0b-421f-8cdf-8ad89f4f29d8": {
             "type": "banner",
+            "disabled": true,
             "settings": {
               "background": "#767272",
               "text_color": "#ffffff",
