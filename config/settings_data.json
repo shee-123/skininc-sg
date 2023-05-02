@@ -110,11 +110,10 @@
           },
           "c041b18f-3f0b-421f-8cdf-8ad89f4f29d8": {
             "type": "banner",
-            "disabled": true,
             "settings": {
               "background": "#767272",
               "text_color": "#ffffff",
-              "content": "or 2pcs gift set worth $261 with purchase of $300",
+              "content": "ADDITIONAL GIFT: FRENCH PINE BARK SERUM 10ML (WORTH $68) WITH PURCHASE OF 20ML SIGNATURE SERUM",
               "link_label": "shop now",
               "link_color": "#000000",
               "link": "shopify:\/\/collections\/best-sellers"
@@ -3645,8 +3644,8 @@
           "1650600462fada49e7-0": {
             "type": "image",
             "settings": {
-              "image": "shopify:\/\/shop_images\/April_Promo_Web_Banner_1.jpg",
-              "mobile_image": "shopify:\/\/shop_images\/April_Promo_mobile_Web_Banner.jpg",
+              "image": "shopify:\/\/shop_images\/Mobile_MDD_1.jpg",
+              "mobile_image": "shopify:\/\/shop_images\/Desktop_MDD.jpg",
               "apply_overlay": true,
               "content_position": "bottomLeft",
               "subheading": "",
