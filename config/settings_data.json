@@ -97,6 +97,17 @@
       "announcement": {
         "type": "announcement",
         "blocks": {
+          "c041b18f-3f0b-421f-8cdf-8ad89f4f29d8": {
+            "type": "banner",
+            "settings": {
+              "background": "#767272",
+              "text_color": "#ffffff",
+              "content": "(5 - 8 MAY) 20% OFF Code: Motherlove20 \/ 25% OFF* Code: Motherlove25",
+              "link_label": "shop now",
+              "link_color": "#000000",
+              "link": "shopify:\/\/collections\/best-sellers"
+            }
+          },
           "33606483-32c9-489b-93bb-7c1c439e6ae3": {
             "type": "banner",
             "settings": {
@@ -107,22 +118,11 @@
               "link_color": "#000000",
               "link": "shopify:\/\/collections\/best-sellers"
             }
-          },
-          "c041b18f-3f0b-421f-8cdf-8ad89f4f29d8": {
-            "type": "banner",
-            "settings": {
-              "background": "#767272",
-              "text_color": "#ffffff",
-              "content": "+ EXTRA GIFT (WORTH $68) WITH PURCHASE OF 20ML SIGNATURE SERUM",
-              "link_label": "shop now",
-              "link_color": "#000000",
-              "link": "shopify:\/\/collections\/best-sellers"
-            }
           }
         },
         "block_order": [
-          "33606483-32c9-489b-93bb-7c1c439e6ae3",
-          "c041b18f-3f0b-421f-8cdf-8ad89f4f29d8"
+          "c041b18f-3f0b-421f-8cdf-8ad89f4f29d8",
+          "33606483-32c9-489b-93bb-7c1c439e6ae3"
         ],
         "settings": {
           "enable_bar": true,
@@ -3596,6 +3596,21 @@
       "1650600462fada49e7": {
         "type": "embrace-slideshow",
         "blocks": {
+          "1650600462fada49e7-1": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/WhatsApp_Image_2023-05-03_at_20.54.14.jpg",
+              "mobile_image": "shopify:\/\/shop_images\/5-8_may_Mother_s_Day_Mobile_Banner_1.jpg",
+              "apply_overlay": true,
+              "content_position": "bottomLeft",
+              "subheading": "",
+              "title": "",
+              "button_1_text": "",
+              "button_1_link": "",
+              "button_2_text": "",
+              "button_2_link": ""
+            }
+          },
           "0c4c8813-1e00-4408-adc3-5411cd41ffc7": {
             "type": "image",
             "settings": {
@@ -3616,21 +3631,6 @@
             "settings": {
               "image": "shopify:\/\/shop_images\/Web-banners2.jpg",
               "mobile_image": "shopify:\/\/shop_images\/Web-banners_1.jpg",
-              "apply_overlay": true,
-              "content_position": "bottomLeft",
-              "subheading": "",
-              "title": "",
-              "button_1_text": "",
-              "button_1_link": "shopify:\/\/collections\/skin-savior-dose",
-              "button_2_text": "",
-              "button_2_link": "shopify:\/\/collections\/skin-savior-dose"
-            }
-          },
-          "1650600462fada49e7-1": {
-            "type": "image",
-            "settings": {
-              "image": "shopify:\/\/shop_images\/ver2.jpg",
-              "mobile_image": "shopify:\/\/shop_images\/ver2_vertical.jpg",
               "apply_overlay": true,
               "content_position": "bottomLeft",
               "subheading": "",
@@ -3673,9 +3673,9 @@
           }
         },
         "block_order": [
+          "1650600462fada49e7-1",
           "0c4c8813-1e00-4408-adc3-5411cd41ffc7",
           "448cf593-80ea-46f1-9ce1-c8c823bf93af",
-          "1650600462fada49e7-1",
           "1650600462fada49e7-0",
           "92f6afd7-1b43-4a7f-84b1-896fb65288e3"
         ],
