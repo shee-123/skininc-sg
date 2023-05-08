@@ -102,10 +102,10 @@
             "settings": {
               "background": "#767272",
               "text_color": "#ffffff",
-              "content": "(5 - 8 MAY) 20% OFF Code: Motherlove20 \/ 25% OFF* Code: Motherlove25",
+              "content": "+ EXTRA GIFT (WORTH $68) WITH PURCHASE OF 20ML SIGNATURE SERUM",
               "link_label": "shop now",
               "link_color": "#000000",
-              "link": "shopify:\/\/collections\/best-sellers"
+              "link": "shopify:\/\/collections\/serums-collection"
             }
           },
           "33606483-32c9-489b-93bb-7c1c439e6ae3": {
@@ -3599,8 +3599,8 @@
           "1650600462fada49e7-1": {
             "type": "image",
             "settings": {
-              "image": "shopify:\/\/shop_images\/WhatsApp_Image_2023-05-03_at_20.54.14.jpg",
-              "mobile_image": "shopify:\/\/shop_images\/5-8_may_Mother_s_Day_Mobile_Banner_1.jpg",
+              "image": "shopify:\/\/shop_images\/ver2_31bb9231-51fc-404c-b103-380f1323ab64.jpg",
+              "mobile_image": "shopify:\/\/shop_images\/ver2_vertical_2.jpg",
               "apply_overlay": true,
               "content_position": "bottomLeft",
               "subheading": "",
