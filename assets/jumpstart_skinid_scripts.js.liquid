@@ -152,11 +152,11 @@ $(function(){
   e.type = "text/javascript",
   e.src = "https://www.googletagmanager.com/gtag/js?id=" + _analytics_id,
   e.setAttribute("async", ""),
-  document.head.append(e);
+  //document.head.append(e);
   var s = document.createElement("script")
     , i = "window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments);}gtag('js', new Date());gtag('config', '" + _analytics_id + "');";
   s.innerHTML = i,
-  document.head.append(s)
+  //document.head.append(s)
 })
 
 setGAEvent = function(e, s) {
