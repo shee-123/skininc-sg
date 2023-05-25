@@ -102,10 +102,10 @@
             "settings": {
               "background": "#767272",
               "text_color": "#ffffff",
-              "content": "+ EXTRA GIFT (WORTH $68) WITH PURCHASE OF 20ML SIGNATURE SERUM",
+              "content": "GSS sale! 20% off  no min spend. 25% off min spend $400",
               "link_label": "shop now",
               "link_color": "#000000",
-              "link": "shopify:\/\/collections\/serums-collection"
+              "link": "shopify:\/\/collections\/best-sellers"
             }
           },
           "33606483-32c9-489b-93bb-7c1c439e6ae3": {
@@ -113,7 +113,7 @@
             "settings": {
               "background": "#fbdcce",
               "text_color": "#333333",
-              "content": "Receive 2pcs gift set worth $146 with purchase of $180",
+              "content": "+Receive 3pcs gift set worth $461 with purchase of $400",
               "link_label": "shop now",
               "link_color": "#000000",
               "link": "shopify:\/\/collections\/best-sellers"
@@ -3658,6 +3658,7 @@
           },
           "1650600462fada49e7-0": {
             "type": "image",
+            "disabled": true,
             "settings": {
               "image": "shopify:\/\/shop_images\/WhatsApp_Image_2023-05-03_at_22.54.39.jpg",
               "mobile_image": "shopify:\/\/shop_images\/WhatsApp_Image_2023-05-03_at_22.54.38.jpg",
