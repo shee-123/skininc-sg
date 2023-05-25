@@ -3596,21 +3596,6 @@
       "1650600462fada49e7": {
         "type": "embrace-slideshow",
         "blocks": {
-          "92f6afd7-1b43-4a7f-84b1-896fb65288e3": {
-            "type": "image",
-            "settings": {
-              "image": "shopify:\/\/shop_images\/Desktop_Baby_Products.jpg",
-              "mobile_image": "shopify:\/\/shop_images\/Mobile_Baby_Product.jpg",
-              "apply_overlay": true,
-              "content_position": "bottomLeft",
-              "subheading": "",
-              "title": "",
-              "button_1_text": "",
-              "button_1_link": "shopify:\/\/collections\/skin-inc-x-motherwork-bundle-of-joy",
-              "button_2_text": "",
-              "button_2_link": ""
-            }
-          },
           "1650600462fada49e7-1": {
             "type": "image",
             "settings": {
@@ -3644,16 +3629,31 @@
           "448cf593-80ea-46f1-9ce1-c8c823bf93af": {
             "type": "image",
             "settings": {
-              "image": "shopify:\/\/shop_images\/Web-banners2.jpg",
-              "mobile_image": "shopify:\/\/shop_images\/Web-banners_1.jpg",
+              "image": "shopify:\/\/shop_images\/May_GWP1_Desktop.jpg",
+              "mobile_image": "shopify:\/\/shop_images\/May_GWP1_Mobile.jpg",
               "apply_overlay": true,
               "content_position": "bottomLeft",
               "subheading": "",
               "title": "",
               "button_1_text": "",
-              "button_1_link": "shopify:\/\/collections\/skin-savior-dose",
+              "button_1_link": "shopify:\/\/collections\/best-sellers",
               "button_2_text": "",
               "button_2_link": "shopify:\/\/collections\/skin-savior-dose"
+            }
+          },
+          "92f6afd7-1b43-4a7f-84b1-896fb65288e3": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/Desktop_Baby_Products.jpg",
+              "mobile_image": "shopify:\/\/shop_images\/Mobile_Baby_Product.jpg",
+              "apply_overlay": true,
+              "content_position": "bottomLeft",
+              "subheading": "",
+              "title": "",
+              "button_1_text": "",
+              "button_1_link": "shopify:\/\/collections\/skin-inc-x-motherwork-bundle-of-joy",
+              "button_2_text": "",
+              "button_2_link": ""
             }
           },
           "1650600462fada49e7-0": {
@@ -3673,10 +3673,10 @@
           }
         },
         "block_order": [
-          "92f6afd7-1b43-4a7f-84b1-896fb65288e3",
           "1650600462fada49e7-1",
           "0c4c8813-1e00-4408-adc3-5411cd41ffc7",
           "448cf593-80ea-46f1-9ce1-c8c823bf93af",
+          "92f6afd7-1b43-4a7f-84b1-896fb65288e3",
           "1650600462fada49e7-0"
         ],
         "settings": {
