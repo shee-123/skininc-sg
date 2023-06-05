@@ -100,9 +100,9 @@
           {% endif %}
       	</div>
       {% endif %}
-      {% if section.settings.banner_4_desc != blank %}
+      {% if section.settings.banner_8_text_abv_title != blank %}
       	<div class="pmr-group" id="gr-4-des">
-          {{ section.settings.banner_4_desc }}
+          {{ section.settings.banner_8_text_abv_title }}
       	</div>
       {% endif %}
       {% if section.settings.banner_8_title != blank %}
@@ -192,6 +192,11 @@
   <!--  Banner 4  -->
   <div class="pmr-group" id="gr-4">
     <div class="pmr-group" id="gr-4-wrap">
+      {% if section.settings.banner_4_desc != blank %}
+      	<div class="pmr-group" id="gr-4-des">
+          {{ section.settings.banner_4_desc }}
+      	</div>
+      {% endif %}
       <div class="pmr-group" id="gr-4-details">
         {% if section.settings.banner_4_image != blank %}
         <div class="pmr-group" id="gr-4-details-img">
