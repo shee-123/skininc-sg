@@ -87,10 +87,9 @@
   </div>
 
     {% endcomment %}
-  
-  <!--  Banner 4  -->
-  <div class="pmr-group" id="gr-4">
-    <div class="pmr-group" id="gr-4-wrap">
+     <!--  Banner 8  -->
+  <div class="pmr-group" id="gr-8">
+    <div class="pmr-group" id="gr-8-wrap">
       {% if section.settings.banner_4_icon != blank or section.settings.banner_4_title != blank %}
       	<div class="pmr-group" id="gr-4-header">
           {% if section.settings.banner_4_title != blank %}
@@ -106,6 +105,93 @@
           {{ section.settings.banner_4_desc }}
       	</div>
       {% endif %}
+      {% if section.settings.banner_8_title != blank %}
+      <h2 class="pmr-group" id="gr-8-wrap-title">{{ section.settings.banner_8_title }}</h2>
+      {% endif %}      
+      <div class="pmr-group pmr-group-before-after-grid">
+        <div class="pmr-group pmr-group-before-after-header">
+          {% if section.settings.banner_8_row_1_icon != blank %}
+            <img alt="{{ section.settings.banner_8_row_1_icon.alt | escape }}" class="pmr-image Image--lazyLoad" data-src="{{ section.settings.banner_8_row_1_icon | img_url: 'master' }}" data-sizes="auto">
+          {% endif %}
+          {% if section.settings.banner_8_row_1_title != blank %}
+          	<h3 style="color: {{ section.settings.banner_8_row_1_title_color }};">{{ section.settings.banner_8_row_1_title }}</h3>
+      	  {% endif %}
+          {% if section.settings.banner_8_row_1_subtitle != blank %}
+          	<p>{{ section.settings.banner_8_row_1_subtitle }}</p>
+          {% endif %}
+        </div>
+        <div class="pmr-group pmr-group-before-after-content">
+          <div class="pmr-group pmr-group-before-cell">
+            {% if section.settings.banner_8_row_1_before != blank %}
+              <img alt="{{ section.settings.banner_8_row_1_before.alt | escape }}" class="pmr-image Image--lazyLoad" data-src="{{ section.settings.banner_8_row_1_before | img_url: 'master' }}" data-sizes="auto">
+            {% endif %}
+          </div>
+          <div class="pmr-group pmr-group-after-cell">
+            {% if section.settings.banner_8_row_1_after != blank %}
+              <img alt="{{ section.settings.banner_8_row_1_after.alt | escape }}" class="pmr-image Image--lazyLoad" data-src="{{ section.settings.banner_8_row_1_after | img_url: 'master' }}" data-sizes="auto">
+            {% endif %}
+          </div>
+        </div>
+      </div>
+      <div class="pmr-group pmr-group-before-after-grid">
+        <div class="pmr-group pmr-group-before-after-header">
+          {% if section.settings.banner_8_row_2_icon != blank %}
+            <img alt="{{ section.settings.banner_8_row_2_icon.alt | escape }}" class="pmr-image Image--lazyLoad" data-src="{{ section.settings.banner_8_row_2_icon | img_url: 'master' }}" data-sizes="auto">
+          {% endif %}
+          {% if section.settings.banner_8_row_2_title != blank %}
+          	<h3 style="color: {{ section.settings.banner_8_row_2_title_color }};">{{ section.settings.banner_8_row_2_title }}</h3>
+      	  {% endif %}
+          {% if section.settings.banner_8_row_2_subtitle != blank %}
+          	<p>{{ section.settings.banner_8_row_2_subtitle }}</p>
+          {% endif %}
+        </div>
+        <div class="pmr-group pmr-group-before-after-content">
+          <div class="pmr-group pmr-group-before-cell">
+            {% if section.settings.banner_8_row_2_before != blank %}
+              <img alt="{{ section.settings.banner_8_row_2_before.alt | escape }}" class="pmr-image Image--lazyLoad" data-src="{{ section.settings.banner_8_row_2_before | img_url: 'master' }}" data-sizes="auto">
+            {% endif %}
+          </div>
+          <div class="pmr-group pmr-group-after-cell">
+            {% if section.settings.banner_8_row_2_after != blank %}
+              <img alt="{{ section.settings.banner_8_row_2_after.alt | escape }}" class="pmr-image Image--lazyLoad" data-src="{{ section.settings.banner_8_row_2_after | img_url: 'master' }}" data-sizes="auto">
+            {% endif %}
+          </div>
+        </div>
+      </div>
+      <div class="pmr-group pmr-group-before-after-grid">
+        <div class="pmr-group pmr-group-before-after-header">
+          {% if section.settings.banner_8_row_3_icon != blank %}
+            <img alt="{{ section.settings.banner_8_row_3_icon.alt | escape }}" class="pmr-image Image--lazyLoad" data-src="{{ section.settings.banner_8_row_3_icon | img_url: 'master' }}" data-sizes="auto">
+          {% endif %}
+          {% if section.settings.banner_8_row_3_title != blank %}
+          	<h3 style="color: {{ section.settings.banner_8_row_3_title_color }};">{{ section.settings.banner_8_row_3_title }}</h3>
+      	  {% endif %}
+          {% if section.settings.banner_8_row_3_subtitle != blank %}
+          	<p>{{ section.settings.banner_8_row_3_subtitle }}</p>
+          {% endif %}
+        </div>
+        <div class="pmr-group pmr-group-before-after-content">
+          <div class="pmr-group pmr-group-before-cell">
+            {% if section.settings.banner_8_row_3_before != blank %}
+              <img alt="{{ section.settings.banner_8_row_3_before.alt | escape }}" class="pmr-image Image--lazyLoad" data-src="{{ section.settings.banner_8_row_3_before | img_url: 'master' }}" data-sizes="auto">
+            {% endif %}
+          </div>
+          <div class="pmr-group pmr-group-after-cell">
+            {% if section.settings.banner_8_row_3_after != blank %}
+              <img alt="{{ section.settings.banner_8_row_3_after.alt | escape }}" class="pmr-image Image--lazyLoad" data-src="{{ section.settings.banner_8_row_3_after | img_url: 'master' }}" data-sizes="auto">
+            {% endif %}
+          </div>
+        </div>
+      </div>
+      
+      {% if section.settings.banner_8_bottom_title != blank %}
+      <div class="pmr-group" id="gr-8-wrap-bottom-title">{{ section.settings.banner_8_bottom_title }}</div>
+      {% endif %}
+    </div>
+  </div>
+  <!--  Banner 4  -->
+  <div class="pmr-group" id="gr-4">
+    <div class="pmr-group" id="gr-4-wrap">
       <div class="pmr-group" id="gr-4-details">
         {% if section.settings.banner_4_image != blank %}
         <div class="pmr-group" id="gr-4-details-img">
@@ -363,93 +449,7 @@
     </div>
   </div>
 
-    <!--  Banner 8  -->
-  <div class="pmr-group" id="gr-8">
-    <div class="pmr-group" id="gr-8-wrap">
-      {% if section.settings.banner_8_title != blank %}
-      <h2 class="pmr-group" id="gr-8-wrap-title">{{ section.settings.banner_8_title }}</h2>
-      {% endif %}      
-      <div class="pmr-group pmr-group-before-after-grid">
-        <div class="pmr-group pmr-group-before-after-header">
-          {% if section.settings.banner_8_row_1_icon != blank %}
-            <img alt="{{ section.settings.banner_8_row_1_icon.alt | escape }}" class="pmr-image Image--lazyLoad" data-src="{{ section.settings.banner_8_row_1_icon | img_url: 'master' }}" data-sizes="auto">
-          {% endif %}
-          {% if section.settings.banner_8_row_1_title != blank %}
-          	<h3 style="color: {{ section.settings.banner_8_row_1_title_color }};">{{ section.settings.banner_8_row_1_title }}</h3>
-      	  {% endif %}
-          {% if section.settings.banner_8_row_1_subtitle != blank %}
-          	<p>{{ section.settings.banner_8_row_1_subtitle }}</p>
-          {% endif %}
-        </div>
-        <div class="pmr-group pmr-group-before-after-content">
-          <div class="pmr-group pmr-group-before-cell">
-            {% if section.settings.banner_8_row_1_before != blank %}
-              <img alt="{{ section.settings.banner_8_row_1_before.alt | escape }}" class="pmr-image Image--lazyLoad" data-src="{{ section.settings.banner_8_row_1_before | img_url: 'master' }}" data-sizes="auto">
-            {% endif %}
-          </div>
-          <div class="pmr-group pmr-group-after-cell">
-            {% if section.settings.banner_8_row_1_after != blank %}
-              <img alt="{{ section.settings.banner_8_row_1_after.alt | escape }}" class="pmr-image Image--lazyLoad" data-src="{{ section.settings.banner_8_row_1_after | img_url: 'master' }}" data-sizes="auto">
-            {% endif %}
-          </div>
-        </div>
-      </div>
-      <div class="pmr-group pmr-group-before-after-grid">
-        <div class="pmr-group pmr-group-before-after-header">
-          {% if section.settings.banner_8_row_2_icon != blank %}
-            <img alt="{{ section.settings.banner_8_row_2_icon.alt | escape }}" class="pmr-image Image--lazyLoad" data-src="{{ section.settings.banner_8_row_2_icon | img_url: 'master' }}" data-sizes="auto">
-          {% endif %}
-          {% if section.settings.banner_8_row_2_title != blank %}
-          	<h3 style="color: {{ section.settings.banner_8_row_2_title_color }};">{{ section.settings.banner_8_row_2_title }}</h3>
-      	  {% endif %}
-          {% if section.settings.banner_8_row_2_subtitle != blank %}
-          	<p>{{ section.settings.banner_8_row_2_subtitle }}</p>
-          {% endif %}
-        </div>
-        <div class="pmr-group pmr-group-before-after-content">
-          <div class="pmr-group pmr-group-before-cell">
-            {% if section.settings.banner_8_row_2_before != blank %}
-              <img alt="{{ section.settings.banner_8_row_2_before.alt | escape }}" class="pmr-image Image--lazyLoad" data-src="{{ section.settings.banner_8_row_2_before | img_url: 'master' }}" data-sizes="auto">
-            {% endif %}
-          </div>
-          <div class="pmr-group pmr-group-after-cell">
-            {% if section.settings.banner_8_row_2_after != blank %}
-              <img alt="{{ section.settings.banner_8_row_2_after.alt | escape }}" class="pmr-image Image--lazyLoad" data-src="{{ section.settings.banner_8_row_2_after | img_url: 'master' }}" data-sizes="auto">
-            {% endif %}
-          </div>
-        </div>
-      </div>
-      <div class="pmr-group pmr-group-before-after-grid">
-        <div class="pmr-group pmr-group-before-after-header">
-          {% if section.settings.banner_8_row_3_icon != blank %}
-            <img alt="{{ section.settings.banner_8_row_3_icon.alt | escape }}" class="pmr-image Image--lazyLoad" data-src="{{ section.settings.banner_8_row_3_icon | img_url: 'master' }}" data-sizes="auto">
-          {% endif %}
-          {% if section.settings.banner_8_row_3_title != blank %}
-          	<h3 style="color: {{ section.settings.banner_8_row_3_title_color }};">{{ section.settings.banner_8_row_3_title }}</h3>
-      	  {% endif %}
-          {% if section.settings.banner_8_row_3_subtitle != blank %}
-          	<p>{{ section.settings.banner_8_row_3_subtitle }}</p>
-          {% endif %}
-        </div>
-        <div class="pmr-group pmr-group-before-after-content">
-          <div class="pmr-group pmr-group-before-cell">
-            {% if section.settings.banner_8_row_3_before != blank %}
-              <img alt="{{ section.settings.banner_8_row_3_before.alt | escape }}" class="pmr-image Image--lazyLoad" data-src="{{ section.settings.banner_8_row_3_before | img_url: 'master' }}" data-sizes="auto">
-            {% endif %}
-          </div>
-          <div class="pmr-group pmr-group-after-cell">
-            {% if section.settings.banner_8_row_3_after != blank %}
-              <img alt="{{ section.settings.banner_8_row_3_after.alt | escape }}" class="pmr-image Image--lazyLoad" data-src="{{ section.settings.banner_8_row_3_after | img_url: 'master' }}" data-sizes="auto">
-            {% endif %}
-          </div>
-        </div>
-      </div>
-      
-      {% if section.settings.banner_8_bottom_title != blank %}
-      <div class="pmr-group" id="gr-8-wrap-bottom-title">{{ section.settings.banner_8_bottom_title }}</div>
-      {% endif %}
-    </div>
-  </div>
+ 
 
   <!--  Banner 1  -->  
   <div class="pmr-group" id="gr-1">
@@ -854,7 +854,7 @@
   }
   #gr-8-wrap{
   	padding-top: 70px;
-    padding-bottom: 120px;
+    padding-bottom: 0px;
   }
   #gr-8-wrap-title{
   	font-family: 'Helvetica Neue', sans-serif !important;
