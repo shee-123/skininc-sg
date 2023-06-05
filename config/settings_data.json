@@ -99,6 +99,7 @@
         "blocks": {
           "c041b18f-3f0b-421f-8cdf-8ad89f4f29d8": {
             "type": "banner",
+            "disabled": true,
             "settings": {
               "background": "#767272",
               "text_color": "#ffffff",
@@ -113,7 +114,7 @@
             "settings": {
               "background": "#fbdcce",
               "text_color": "#333333",
-              "content": "+Receive 3pcs gift set worth $461 with purchase of $400",
+              "content": "Enjoy gifts worth $146 with purchase of $180",
               "link_label": "shop now",
               "link_color": "#000000",
               "link": "shopify:\/\/collections\/best-sellers"
@@ -3611,6 +3612,21 @@
               "button_2_link": ""
             }
           },
+          "1650600462fada49e7-1": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/Web-banners2_1.jpg",
+              "mobile_image": "shopify:\/\/shop_images\/Web-banners_1_96dfcf12-d38a-44c9-97c0-ce9666b6832c.jpg",
+              "apply_overlay": true,
+              "content_position": "bottomLeft",
+              "subheading": "",
+              "title": "",
+              "button_1_text": "",
+              "button_1_link": "shopify:\/\/collections\/skin-savior-dose",
+              "button_2_text": "",
+              "button_2_link": ""
+            }
+          },
           "0c4c8813-1e00-4408-adc3-5411cd41ffc7": {
             "type": "image",
             "settings": {
@@ -3641,22 +3657,6 @@
               "button_2_link": "shopify:\/\/collections\/serums-collection"
             }
           },
-          "1650600462fada49e7-1": {
-            "type": "image",
-            "disabled": true,
-            "settings": {
-              "image": "shopify:\/\/shop_images\/Web-banners2_1.jpg",
-              "mobile_image": "shopify:\/\/shop_images\/Web-banners_1_96dfcf12-d38a-44c9-97c0-ce9666b6832c.jpg",
-              "apply_overlay": true,
-              "content_position": "bottomLeft",
-              "subheading": "",
-              "title": "",
-              "button_1_text": "",
-              "button_1_link": "shopify:\/\/collections\/skin-savior-dose",
-              "button_2_text": "",
-              "button_2_link": ""
-            }
-          },
           "448cf593-80ea-46f1-9ce1-c8c823bf93af": {
             "type": "image",
             "disabled": true,
@@ -3676,9 +3676,9 @@
         },
         "block_order": [
           "92f6afd7-1b43-4a7f-84b1-896fb65288e3",
+          "1650600462fada49e7-1",
           "0c4c8813-1e00-4408-adc3-5411cd41ffc7",
           "1650600462fada49e7-0",
-          "1650600462fada49e7-1",
           "448cf593-80ea-46f1-9ce1-c8c823bf93af"
         ],
         "settings": {
