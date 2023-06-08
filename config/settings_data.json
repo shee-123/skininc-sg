@@ -3628,11 +3628,26 @@
               "button_2_link": ""
             }
           },
+          "1650600462fada49e7-0": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/Web-banners_3.jpg",
+              "mobile_image": "shopify:\/\/shop_images\/Web-banners-ver_1.jpg",
+              "apply_overlay": true,
+              "content_position": "bottomLeft",
+              "subheading": "",
+              "title": "",
+              "button_1_text": "",
+              "button_1_link": "",
+              "button_2_text": "",
+              "button_2_link": "https:\/\/www.iloveskininc.com.sg\/products\/deepcare-blemish-sos-patch"
+            }
+          },
           "0c4c8813-1e00-4408-adc3-5411cd41ffc7": {
             "type": "image",
             "settings": {
-              "image": "shopify:\/\/shop_images\/WhatsApp_Image_2023-05-01_at_21.17.51.jpg",
-              "mobile_image": "shopify:\/\/shop_images\/WhatsApp_Image_2023-05-01_at_21.17.51_1.jpg",
+              "image": "shopify:\/\/shop_images\/June_dotcom_Web_banners_Desktop_GWP.jpg",
+              "mobile_image": "shopify:\/\/shop_images\/June_dotcom_Web_banners_Mobile_GWP.jpg",
               "apply_overlay": true,
               "content_position": "bottomLeft",
               "subheading": "",
@@ -3643,27 +3658,11 @@
               "button_2_link": "shopify:\/\/collections\/best-sellers"
             }
           },
-          "1650600462fada49e7-0": {
-            "type": "image",
-            "settings": {
-              "image": "shopify:\/\/shop_images\/WhatsApp_Image_2023-05-03_at_22.54.39.jpg",
-              "mobile_image": "shopify:\/\/shop_images\/WhatsApp_Image_2023-05-03_at_22.54.38.jpg",
-              "apply_overlay": true,
-              "content_position": "bottomLeft",
-              "subheading": "",
-              "title": "",
-              "button_1_text": "",
-              "button_1_link": "shopify:\/\/collections\/serums-collection",
-              "button_2_text": "",
-              "button_2_link": "shopify:\/\/collections\/serums-collection"
-            }
-          },
           "448cf593-80ea-46f1-9ce1-c8c823bf93af": {
             "type": "image",
-            "disabled": true,
             "settings": {
-              "image": "shopify:\/\/shop_images\/May_GWP1_Desktop.jpg",
-              "mobile_image": "shopify:\/\/shop_images\/May_GWP1_Mobile.jpg",
+              "image": "shopify:\/\/shop_images\/May_GWP1_Desktop_1.jpg",
+              "mobile_image": "shopify:\/\/shop_images\/May_GWP1_Mobile_1.jpg",
               "apply_overlay": true,
               "content_position": "bottomLeft",
               "subheading": "",
@@ -3678,8 +3677,8 @@
         "block_order": [
           "92f6afd7-1b43-4a7f-84b1-896fb65288e3",
           "1650600462fada49e7-1",
-          "0c4c8813-1e00-4408-adc3-5411cd41ffc7",
           "1650600462fada49e7-0",
+          "0c4c8813-1e00-4408-adc3-5411cd41ffc7",
           "448cf593-80ea-46f1-9ce1-c8c823bf93af"
         ],
         "settings": {
