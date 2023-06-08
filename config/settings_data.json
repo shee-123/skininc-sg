@@ -97,24 +97,23 @@
       "announcement": {
         "type": "announcement",
         "blocks": {
-          "c041b18f-3f0b-421f-8cdf-8ad89f4f29d8": {
-            "type": "banner",
-            "disabled": true,
-            "settings": {
-              "background": "#767272",
-              "text_color": "#ffffff",
-              "content": "GSS sale! 20% off  no min spend. 25% off min spend $400",
-              "link_label": "shop now",
-              "link_color": "#000000",
-              "link": "shopify:\/\/collections\/best-sellers"
-            }
-          },
           "33606483-32c9-489b-93bb-7c1c439e6ae3": {
             "type": "banner",
             "settings": {
               "background": "#fbdcce",
               "text_color": "#333333",
-              "content": "Enjoy gifts worth $146 with purchase of $180",
+              "content": "Enjoy gifts (worth $96) with $180 spend",
+              "link_label": "shop now",
+              "link_color": "#000000",
+              "link": "shopify:\/\/collections\/best-sellers"
+            }
+          },
+          "c041b18f-3f0b-421f-8cdf-8ad89f4f29d8": {
+            "type": "banner",
+            "settings": {
+              "background": "#767272",
+              "text_color": "#ffffff",
+              "content": "+EXTRA GIFT: FACIAL TREATMENT (WORTH $315) WITH $400 SPEND",
               "link_label": "shop now",
               "link_color": "#000000",
               "link": "shopify:\/\/collections\/best-sellers"
@@ -122,8 +121,8 @@
           }
         },
         "block_order": [
-          "c041b18f-3f0b-421f-8cdf-8ad89f4f29d8",
-          "33606483-32c9-489b-93bb-7c1c439e6ae3"
+          "33606483-32c9-489b-93bb-7c1c439e6ae3",
+          "c041b18f-3f0b-421f-8cdf-8ad89f4f29d8"
         ],
         "settings": {
           "enable_bar": true,
@@ -3598,51 +3597,6 @@
       "1650600462fada49e7": {
         "type": "embrace-slideshow",
         "blocks": {
-          "92f6afd7-1b43-4a7f-84b1-896fb65288e3": {
-            "type": "image",
-            "settings": {
-              "image": "shopify:\/\/shop_images\/Desktop_Baby_Products.jpg",
-              "mobile_image": "shopify:\/\/shop_images\/Mobile_Baby_Product.jpg",
-              "apply_overlay": true,
-              "content_position": "bottomLeft",
-              "subheading": "",
-              "title": "",
-              "button_1_text": "",
-              "button_1_link": "shopify:\/\/collections\/skin-inc-x-motherwork-bundle-of-joy",
-              "button_2_text": "",
-              "button_2_link": ""
-            }
-          },
-          "1650600462fada49e7-1": {
-            "type": "image",
-            "settings": {
-              "image": "shopify:\/\/shop_images\/Web-banners2_1.jpg",
-              "mobile_image": "shopify:\/\/shop_images\/Web-banners_1_96dfcf12-d38a-44c9-97c0-ce9666b6832c.jpg",
-              "apply_overlay": true,
-              "content_position": "bottomLeft",
-              "subheading": "",
-              "title": "",
-              "button_1_text": "",
-              "button_1_link": "shopify:\/\/collections\/skin-savior-dose",
-              "button_2_text": "",
-              "button_2_link": ""
-            }
-          },
-          "1650600462fada49e7-0": {
-            "type": "image",
-            "settings": {
-              "image": "shopify:\/\/shop_images\/Web-banners_3.jpg",
-              "mobile_image": "shopify:\/\/shop_images\/Web-banners-ver_1.jpg",
-              "apply_overlay": true,
-              "content_position": "bottomLeft",
-              "subheading": "",
-              "title": "",
-              "button_1_text": "",
-              "button_1_link": "",
-              "button_2_text": "",
-              "button_2_link": "https:\/\/www.iloveskininc.com.sg\/products\/deepcare-blemish-sos-patch"
-            }
-          },
           "0c4c8813-1e00-4408-adc3-5411cd41ffc7": {
             "type": "image",
             "settings": {
@@ -3672,14 +3626,59 @@
               "button_2_text": "",
               "button_2_link": "shopify:\/\/collections\/skin-savior-dose"
             }
+          },
+          "1650600462fada49e7-1": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/Web-banners2_1.jpg",
+              "mobile_image": "shopify:\/\/shop_images\/Web-banners_1_96dfcf12-d38a-44c9-97c0-ce9666b6832c.jpg",
+              "apply_overlay": true,
+              "content_position": "bottomLeft",
+              "subheading": "",
+              "title": "",
+              "button_1_text": "",
+              "button_1_link": "shopify:\/\/collections\/skin-savior-dose",
+              "button_2_text": "",
+              "button_2_link": ""
+            }
+          },
+          "92f6afd7-1b43-4a7f-84b1-896fb65288e3": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/Desktop_Baby_Products.jpg",
+              "mobile_image": "shopify:\/\/shop_images\/Mobile_Baby_Product.jpg",
+              "apply_overlay": true,
+              "content_position": "bottomLeft",
+              "subheading": "",
+              "title": "",
+              "button_1_text": "",
+              "button_1_link": "shopify:\/\/collections\/skin-inc-x-motherwork-bundle-of-joy",
+              "button_2_text": "",
+              "button_2_link": ""
+            }
+          },
+          "1650600462fada49e7-0": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/Web-banners_3.jpg",
+              "mobile_image": "shopify:\/\/shop_images\/Web-banners-ver_1.jpg",
+              "apply_overlay": true,
+              "content_position": "bottomLeft",
+              "subheading": "",
+              "title": "",
+              "button_1_text": "",
+              "button_1_link": "",
+              "button_2_text": "",
+              "button_2_link": "https:\/\/www.iloveskininc.com.sg\/products\/deepcare-blemish-sos-patch"
+            }
           }
         },
         "block_order": [
-          "92f6afd7-1b43-4a7f-84b1-896fb65288e3",
-          "1650600462fada49e7-1",
-          "1650600462fada49e7-0",
           "0c4c8813-1e00-4408-adc3-5411cd41ffc7",
-          "448cf593-80ea-46f1-9ce1-c8c823bf93af"
+          "448cf593-80ea-46f1-9ce1-c8c823bf93af",
+          "1650600462fada49e7-1",
+          "92f6afd7-1b43-4a7f-84b1-896fb65288e3",
+          "1650600462fada49e7-0"
         ],
         "settings": {
           "show_fullscreen": true,
