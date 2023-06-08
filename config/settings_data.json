@@ -1017,12 +1017,12 @@
           "c57c0b8d-4765-4e48-874a-1e1136573d00": {
             "type": "tierspend-x-get-y",
             "settings": {
-              "product_handle": "may-2023-2pcs-gift-set-worth-146",
-              "variant_id": "40181103132785",
+              "product_handle": "june-2023-2pcs-gift-set-worth-96",
+              "variant_id": "40203760238705",
               "min_price": "18000",
               "message": "Gift item",
-              "product_handle2": "may-2023-2pcs-gift-set-worth-461",
-              "variant_id2": "40196781342833",
+              "product_handle2": "june-2023-3pcs-gift-set-worth-411",
+              "variant_id2": "40203766595697",
               "min_price2": "40000",
               "message2": "Gift item"
             }
