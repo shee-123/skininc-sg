@@ -250,7 +250,11 @@
 {{ 'yotpo-full-css.css' | asset_url | stylesheet_tag }}
 {%- endif -%}
 {% include 'sca.freegifts' %}
-</head>
+
+        <!-- SlideRule Script Start -->
+        {% include 'sliderule-data' %}
+        <!-- SlideRule Script End -->
+        </head>
 
   <body class="template-{{ template | split: '.' | first }}">
 {{ content_for_layout }}
