@@ -1543,17 +1543,17 @@
               "type": "best_sellers"
             }
           },
+          "273c74b1-2b5a-4ea6-a9a2-41eaab3fbfc6": {
+            "type": "product",
+            "settings": {
+              "product": "new-deepcare-o2-hydro-facial-pore-refiner-device",
+              "type": "best_sellers"
+            }
+          },
           "9abd3b8a-0a87-4c7b-b756-3790c7146b16": {
             "type": "product",
             "settings": {
               "product": "create-your-own-custom-serum",
-              "type": "best_sellers"
-            }
-          },
-          "273c74b1-2b5a-4ea6-a9a2-41eaab3fbfc6": {
-            "type": "product",
-            "settings": {
-              "product": "skin-saviour-dose-kit-age-proof",
               "type": "best_sellers"
             }
           },
@@ -1728,8 +1728,8 @@
         },
         "block_order": [
           "2ca6304f-0f1b-4076-928f-b4ee9dbd5ccc",
-          "9abd3b8a-0a87-4c7b-b756-3790c7146b16",
           "273c74b1-2b5a-4ea6-a9a2-41eaab3fbfc6",
+          "9abd3b8a-0a87-4c7b-b756-3790c7146b16",
           "44f3ce4f-21cb-44ad-9e94-62481dbbee91",
           "6c1f68a0-1108-40e5-9658-ff2c927cc434",
           "652084a5-1dcb-4a50-9307-5af2ab0cee55",
