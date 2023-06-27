@@ -1536,17 +1536,17 @@
       "16046706018733d79b": {
         "type": "featured-product-dev",
         "blocks": {
-          "2ca6304f-0f1b-4076-928f-b4ee9dbd5ccc": {
-            "type": "product",
-            "settings": {
-              "product": "tri-light-sabi",
-              "type": "best_sellers"
-            }
-          },
           "273c74b1-2b5a-4ea6-a9a2-41eaab3fbfc6": {
             "type": "product",
             "settings": {
               "product": "new-deepcare-o2-hydro-facial-pore-refiner-device",
+              "type": "best_sellers"
+            }
+          },
+          "2ca6304f-0f1b-4076-928f-b4ee9dbd5ccc": {
+            "type": "product",
+            "settings": {
+              "product": "tri-light-sabi",
               "type": "best_sellers"
             }
           },
@@ -1630,14 +1630,14 @@
           "310f9c82-1df3-49e4-adb9-d99be0064e76": {
             "type": "product",
             "settings": {
-              "product": "skin-saviour-dose-kit-age-proof",
+              "product": "new-deepcare-o2-hydro-facial-pore-refiner-device",
               "type": "new"
             }
           },
           "170cc4b3-405f-4c6f-9b0e-ca3b25bccba4": {
             "type": "product",
             "settings": {
-              "product": "skin-saviour-dose-kit-clarify",
+              "product": "new-deepcare-o2-hydro-facial-treatment-with-onsen-water-set",
               "type": "new"
             }
           },
@@ -1727,8 +1727,8 @@
           }
         },
         "block_order": [
-          "2ca6304f-0f1b-4076-928f-b4ee9dbd5ccc",
           "273c74b1-2b5a-4ea6-a9a2-41eaab3fbfc6",
+          "2ca6304f-0f1b-4076-928f-b4ee9dbd5ccc",
           "9abd3b8a-0a87-4c7b-b756-3790c7146b16",
           "44f3ce4f-21cb-44ad-9e94-62481dbbee91",
           "6c1f68a0-1108-40e5-9658-ff2c927cc434",
