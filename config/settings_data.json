@@ -1015,6 +1015,7 @@
           },
           "c57c0b8d-4765-4e48-874a-1e1136573d00": {
             "type": "tierspend-x-get-y",
+            "disabled": true,
             "settings": {
               "product_handle": "june-2023-2pcs-gift-set-worth-96",
               "variant_id": "40203760238705",
