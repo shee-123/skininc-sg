@@ -3597,6 +3597,36 @@
       "1650600462fada49e7": {
         "type": "embrace-slideshow",
         "blocks": {
+          "92f6afd7-1b43-4a7f-84b1-896fb65288e3": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/hydro_22.png",
+              "mobile_image": "shopify:\/\/shop_images\/hydro_2.png",
+              "apply_overlay": true,
+              "content_position": "bottomLeft",
+              "subheading": "",
+              "title": "",
+              "button_1_text": "",
+              "button_1_link": "shopify:\/\/products\/new-deepcare-o2-hydro-facial-treatment-with-onsen-water-set",
+              "button_2_text": "",
+              "button_2_link": "shopify:\/\/products\/new-deepcare-o2-hydro-facial-treatment-with-onsen-water-set"
+            }
+          },
+          "1650600462fada49e7-0": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/hydro_1.png",
+              "mobile_image": "shopify:\/\/shop_images\/hydro_11.png",
+              "apply_overlay": true,
+              "content_position": "bottomLeft",
+              "subheading": "",
+              "title": "",
+              "button_1_text": "",
+              "button_1_link": "shopify:\/\/products\/new-deepcare-o2-hydro-facial-treatment-with-onsen-water-set",
+              "button_2_text": "",
+              "button_2_link": "shopify:\/\/products\/new-deepcare-o2-hydro-facial-treatment-with-onsen-water-set"
+            }
+          },
           "0c4c8813-1e00-4408-adc3-5411cd41ffc7": {
             "type": "image",
             "settings": {
@@ -3641,44 +3671,14 @@
               "button_2_text": "",
               "button_2_link": ""
             }
-          },
-          "92f6afd7-1b43-4a7f-84b1-896fb65288e3": {
-            "type": "image",
-            "settings": {
-              "image": "shopify:\/\/shop_images\/Desktop_Baby_Products.jpg",
-              "mobile_image": "shopify:\/\/shop_images\/Mobile_Baby_Product.jpg",
-              "apply_overlay": true,
-              "content_position": "bottomLeft",
-              "subheading": "",
-              "title": "",
-              "button_1_text": "",
-              "button_1_link": "shopify:\/\/collections\/skin-inc-x-motherwork-bundle-of-joy",
-              "button_2_text": "",
-              "button_2_link": ""
-            }
-          },
-          "1650600462fada49e7-0": {
-            "type": "image",
-            "settings": {
-              "image": "shopify:\/\/shop_images\/Web-banners_3.jpg",
-              "mobile_image": "shopify:\/\/shop_images\/Web-banners-ver_1.jpg",
-              "apply_overlay": true,
-              "content_position": "bottomLeft",
-              "subheading": "",
-              "title": "",
-              "button_1_text": "",
-              "button_1_link": "",
-              "button_2_text": "",
-              "button_2_link": "https:\/\/www.iloveskininc.com.sg\/products\/deepcare-blemish-sos-patch"
-            }
           }
         },
         "block_order": [
+          "92f6afd7-1b43-4a7f-84b1-896fb65288e3",
+          "1650600462fada49e7-0",
           "0c4c8813-1e00-4408-adc3-5411cd41ffc7",
           "448cf593-80ea-46f1-9ce1-c8c823bf93af",
-          "1650600462fada49e7-1",
-          "92f6afd7-1b43-4a7f-84b1-896fb65288e3",
-          "1650600462fada49e7-0"
+          "1650600462fada49e7-1"
         ],
         "settings": {
           "show_fullscreen": true,
