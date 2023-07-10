@@ -3645,6 +3645,7 @@
           },
           "0c4c8813-1e00-4408-adc3-5411cd41ffc7": {
             "type": "image",
+            "disabled": true,
             "settings": {
               "image": "shopify:\/\/shop_images\/July_dotcom_GWP_banners_Desktop_GWP.jpg",
               "mobile_image": "shopify:\/\/shop_images\/July_dotcom_GWP_banners_Mobile_GWP.jpg",
