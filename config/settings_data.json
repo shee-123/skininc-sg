@@ -110,11 +110,10 @@
           },
           "c041b18f-3f0b-421f-8cdf-8ad89f4f29d8": {
             "type": "banner",
-            "disabled": true,
             "settings": {
               "background": "#767272",
               "text_color": "#ffffff",
-              "content": "",
+              "content": "ENJOY GIFT SET (WORTH $76) WITH $280 NETT SPEND",
               "link_label": "shop now",
               "link_color": "#000000",
               "link": "shopify:\/\/collections\/best-sellers"
@@ -3647,7 +3646,7 @@
             "type": "image",
             "settings": {
               "image": "shopify:\/\/shop_images\/Screenshot_2023-07-19_at_3.37.15_PM.png",
-              "mobile_image": "shopify:\/\/shop_images\/Screenshot_2023-07-19_at_3.37.42_PM.png",
+              "mobile_image": "shopify:\/\/shop_images\/Screenshot_2023-07-20_at_10.42.05_AM.png",
               "apply_overlay": true,
               "content_position": "bottomLeft",
               "subheading": "",
