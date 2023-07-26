@@ -1910,9 +1910,9 @@
                             if (s.isLoading) return "";
                             var a = s.result.bottles[s.selectedBottle],
                                 u = null != o && o.dailyDose ? F(Se(), o.dailyDose.description, o.dailyDose.discountedPrice, o.dailyDose.originalPrice) : "",
-                                c = s.products[a ? a[t].nodeId : ""],
+                                c = s.products[a ? "gid://shopify/ProductVariant/"+a[t].id : ""],
                                 l = s.result.marks[0],
-                                d = s.products[l ? l[t].nodeId : ""],
+                                d = s.products[l ? "gid://shopify/ProductVariant/"+l[t].id : ""],
                                 p = null != o && o.nightlyDose ? F(Ce(), o.nightlyDose.description, o.nightlyDose.discountedPrice, o.nightlyDose.originalPrice) : "";
                             return c && Number.parseFloat(c.priceV2.amount), F(we(), s.firstName, s.result.serums.map((function(e) {
                                 return F(ke(), function(e) {
