@@ -1910,9 +1910,9 @@
                             if (s.isLoading) return "";
                             var a = s.result.bottles[s.selectedBottle],
                                 u = null != o && o.dailyDose ? F(Se(), o.dailyDose.description, o.dailyDose.discountedPrice, o.dailyDose.originalPrice) : "",
-                                c = s.products[a ? "gid://shopify/ProductVariant/"+a[t].id : ""],
+                                c = s.products[a ? a[t].nodeId : ""],
                                 l = s.result.marks[0],
-                                d = s.products[l ? "gid://shopify/ProductVariant/"+l[t].id : ""],
+                                d = s.products[l ? l[t].nodeId : ""],
                                 p = null != o && o.nightlyDose ? F(Ce(), o.nightlyDose.description, o.nightlyDose.discountedPrice, o.nightlyDose.originalPrice) : "";
                             return c && Number.parseFloat(c.priceV2.amount), F(we(), s.firstName, s.result.serums.map((function(e) {
                                 return F(ke(), function(e) {
@@ -1924,7 +1924,7 @@
                                     desc: e.diagnosisDetail
                                 }))
                             })), s.result.serums.map((function(e, n) {
-                                var i = "gid://shopify/ProductVariant/"+e[t].id,
+                                var i = e[t].nodeId,
                                     r = s.products[i];
                                     console.log(r);
                                     console.log(s);
@@ -1934,7 +1934,7 @@
                             })), c ? F(ye(), c.image ? c.image.originalSrc : "", a.Name, a.benefit, u) : "", s.result.bottles.map((function(e, t) {
                                 return F(ge(), n(t), e.bottleColor, s.selectedBottle === t ? "skinid23-select-colors__round--selected" : "")
                             })), r, i("daily"), s.result.boosters.map((function(e, n) {
-                                var i = "gid://shopify/ProductVariant/"+e[t].id,
+                                var i = e[t].nodeId,
                                     r = s.products[i];
                                 return F(ve(), r.image ? r.image.originalSrc : "", e.Name, e.ingredient, e.benefit, 0 === n ? F(me()) : "")
                             })), d ? F(he(), d.image ? d.image.originalSrc : "", l.Name, l.ingredient, l.benefit, p) : "", r, i("nightly"))
