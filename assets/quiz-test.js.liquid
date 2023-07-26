@@ -1823,7 +1823,7 @@
                                         },
                                         method: "post",
                                         url: t.api.storeGraphql,
-                                        data: "\n{\n  nodes(ids: ".concat(JSON.stringify(e), ") {\n    ... on ProductVariant {\n         title\n      image {\n          originalSrc\n      }\n      product {\n          title\n      }\n      priceV2 {\n        amount\n        currencyCode\n      }\n      compareAtPriceV2 {\n        amount\n        currencyCode\n      }\n    }\n  }\n}\n")
+                                        data: "\n{\n  nodes(ids: ".concat(JSON.stringify(e), ") {\n    ... on ProductVariant {\n      id\n      title\n      image {\n          originalSrc\n      }\n      product {\n          title\n      }\n      priceV2 {\n        amount\n        currencyCode\n      }\n      compareAtPriceV2 {\n        amount\n        currencyCode\n      }\n    }\n  }\n}\n")
                                     }).then((function(e) {
                                         n(e.data.data.nodes)
                                     })).catch((function(e) {
@@ -1924,13 +1924,12 @@
                                     desc: e.diagnosisDetail
                                 }))
                             })), s.result.serums.map((function(e, n) {
-                                var i = e[t].nodeId,
-                                    r = s.products;
+                                var i = e[t].id,
+                                    r = s.products[i];
                                     console.log(r);
                                     console.log(s);
                                     console.log(e);
                                     console.log(t);
-                                    console.log(typeof s.products);
                                 return r.priceV2.amount && Number.parseFloat(r.priceV2.amount), F(_e(), r.image ? r.image.originalSrc : "", e.Name, e.benefit, 0 === n || 1 === n ? F(be()) : "")
                             })), c ? F(ye(), c.image ? c.image.originalSrc : "", a.Name, a.benefit, u) : "", s.result.bottles.map((function(e, t) {
                                 return F(ge(), n(t), e.bottleColor, s.selectedBottle === t ? "skinid23-select-colors__round--selected" : "")
