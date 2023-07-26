@@ -1934,7 +1934,7 @@
                             })), c ? F(ye(), c.image ? c.image.originalSrc : "", a.Name, a.benefit, u) : "", s.result.bottles.map((function(e, t) {
                                 return F(ge(), n(t), e.bottleColor, s.selectedBottle === t ? "skinid23-select-colors__round--selected" : "")
                             })), r, i("daily"), s.result.boosters.map((function(e, n) {
-                                var i = e[t].nodeId,
+                                var i = "gid://shopify/ProductVariant/"+e[t].id,
                                     r = s.products[i];
                                 return F(ve(), r.image ? r.image.originalSrc : "", e.Name, e.ingredient, e.benefit, 0 === n ? F(me()) : "")
                             })), d ? F(he(), d.image ? d.image.originalSrc : "", l.Name, l.ingredient, l.benefit, p) : "", r, i("nightly"))
