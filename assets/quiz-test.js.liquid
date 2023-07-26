@@ -1923,7 +1923,9 @@
                                     benefit: e.benefit,
                                     desc: e.diagnosisDetail
                                 }))
-                            })), s.result.serums.map((function(e, n) {
+                            })), 
+                            s.result.serums.map((function(e, n) {
+                                console.log(s.result.serums)
                                 console.log(s);
                                 var i = e[t].nodeId,
                                     r = s.products[i];
