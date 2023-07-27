@@ -1016,13 +1016,13 @@
             "type": "tierspend-x-get-y",
             "disabled": true,
             "settings": {
-              "product_handle": "june-2023-2pcs-gift-set-worth-96",
-              "variant_id": "40203760238705",
-              "min_price": "18000",
+              "product_handle": "aug-2023-wellness-gift-set-worth-236",
+              "variant_id": "6875787624561",
+              "min_price": "28000",
               "message": "Gift item",
-              "product_handle2": "june-2023-3pcs-gift-set-worth-411",
-              "variant_id2": "40203766595697",
-              "min_price2": "40000",
+              "product_handle2": "aug-2023-wellness-gift-set-worth-551",
+              "variant_id2": "6875788345457",
+              "min_price2": "38000",
               "message2": "Gift item"
             }
           },
