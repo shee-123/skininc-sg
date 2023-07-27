@@ -3630,14 +3630,14 @@
           "1650600462fada49e7-1": {
             "type": "image",
             "settings": {
-              "image": "shopify:\/\/shop_images\/Web-banners2_1.jpg",
-              "mobile_image": "shopify:\/\/shop_images\/Web-banners_1_96dfcf12-d38a-44c9-97c0-ce9666b6832c.jpg",
-              "apply_overlay": true,
+              "image": "shopify:\/\/shop_images\/Treatment_Desktop_2.jpg",
+              "mobile_image": "shopify:\/\/shop_images\/TGSS_Mobile_2.jpg",
+              "apply_overlay": false,
               "content_position": "bottomLeft",
               "subheading": "",
               "title": "",
               "button_1_text": "",
-              "button_1_link": "shopify:\/\/collections\/skin-savior-dose",
+              "button_1_link": "shopify:\/\/collections\/best-sellers",
               "button_2_text": "",
               "button_2_link": ""
             }
@@ -3645,8 +3645,8 @@
           "0c4c8813-1e00-4408-adc3-5411cd41ffc7": {
             "type": "image",
             "settings": {
-              "image": "shopify:\/\/shop_images\/Screenshot_2023-07-19_at_3.37.15_PM.png",
-              "mobile_image": "shopify:\/\/shop_images\/Screenshot_2023-07-20_at_10.42.05_AM.png",
+              "image": "shopify:\/\/shop_images\/Desktop_GWP.jpg",
+              "mobile_image": "shopify:\/\/shop_images\/Mobile_GWP.jpg",
               "apply_overlay": true,
               "content_position": "bottomLeft",
               "subheading": "",
