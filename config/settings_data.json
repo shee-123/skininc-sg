@@ -3600,8 +3600,8 @@
           "1650600462fada49e7-1": {
             "type": "image",
             "settings": {
-              "image": "shopify:\/\/shop_images\/Treatment_Desktop_2.jpg",
-              "mobile_image": "shopify:\/\/shop_images\/TGSS_Mobile_2.jpg",
+              "image": "shopify:\/\/shop_images\/Screenshot_2023-08-01_at_12.14.55_AM.png",
+              "mobile_image": "shopify:\/\/shop_images\/Screenshot_2023-08-01_at_12.15.04_AM.png",
               "apply_overlay": false,
               "content_position": "bottomLeft",
               "subheading": "",
@@ -3610,36 +3610,6 @@
               "button_1_link": "shopify:\/\/collections\/best-sellers",
               "button_2_text": "",
               "button_2_link": ""
-            }
-          },
-          "92f6afd7-1b43-4a7f-84b1-896fb65288e3": {
-            "type": "image",
-            "settings": {
-              "image": "shopify:\/\/shop_images\/hydro_22.png",
-              "mobile_image": "shopify:\/\/shop_images\/hydro_2.png",
-              "apply_overlay": true,
-              "content_position": "bottomLeft",
-              "subheading": "",
-              "title": "",
-              "button_1_text": "",
-              "button_1_link": "shopify:\/\/products\/new-deepcare-o2-hydro-facial-treatment-with-onsen-water-set",
-              "button_2_text": "",
-              "button_2_link": "shopify:\/\/products\/new-deepcare-o2-hydro-facial-treatment-with-onsen-water-set"
-            }
-          },
-          "1650600462fada49e7-0": {
-            "type": "image",
-            "settings": {
-              "image": "shopify:\/\/shop_images\/hydro_1.png",
-              "mobile_image": "shopify:\/\/shop_images\/hydro_11.png",
-              "apply_overlay": true,
-              "content_position": "bottomLeft",
-              "subheading": "",
-              "title": "",
-              "button_1_text": "",
-              "button_1_link": "shopify:\/\/products\/new-deepcare-o2-hydro-facial-pore-refiner-device",
-              "button_2_text": "",
-              "button_2_link": "shopify:\/\/products\/new-deepcare-o2-hydro-facial-pore-refiner-device"
             }
           },
           "0c4c8813-1e00-4408-adc3-5411cd41ffc7": {
@@ -3671,14 +3641,44 @@
               "button_2_text": "",
               "button_2_link": "shopify:\/\/collections\/skin-savior-dose"
             }
+          },
+          "92f6afd7-1b43-4a7f-84b1-896fb65288e3": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/hydro_22.png",
+              "mobile_image": "shopify:\/\/shop_images\/hydro_2.png",
+              "apply_overlay": true,
+              "content_position": "bottomLeft",
+              "subheading": "",
+              "title": "",
+              "button_1_text": "",
+              "button_1_link": "shopify:\/\/products\/new-deepcare-o2-hydro-facial-treatment-with-onsen-water-set",
+              "button_2_text": "",
+              "button_2_link": "shopify:\/\/products\/new-deepcare-o2-hydro-facial-treatment-with-onsen-water-set"
+            }
+          },
+          "1650600462fada49e7-0": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/hydro_1.png",
+              "mobile_image": "shopify:\/\/shop_images\/hydro_11.png",
+              "apply_overlay": true,
+              "content_position": "bottomLeft",
+              "subheading": "",
+              "title": "",
+              "button_1_text": "",
+              "button_1_link": "shopify:\/\/products\/new-deepcare-o2-hydro-facial-pore-refiner-device",
+              "button_2_text": "",
+              "button_2_link": "shopify:\/\/products\/new-deepcare-o2-hydro-facial-pore-refiner-device"
+            }
           }
         },
         "block_order": [
           "1650600462fada49e7-1",
-          "92f6afd7-1b43-4a7f-84b1-896fb65288e3",
-          "1650600462fada49e7-0",
           "0c4c8813-1e00-4408-adc3-5411cd41ffc7",
-          "448cf593-80ea-46f1-9ce1-c8c823bf93af"
+          "448cf593-80ea-46f1-9ce1-c8c823bf93af",
+          "92f6afd7-1b43-4a7f-84b1-896fb65288e3",
+          "1650600462fada49e7-0"
         ],
         "settings": {
           "show_fullscreen": true,
