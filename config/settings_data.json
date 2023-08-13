@@ -217,7 +217,6 @@
       },
       "homepage-intro": {
         "type": "homepage-intro",
-        "disabled": true,
         "blocks": {
           "1544065128710": {
             "type": "homepage_intro_item",
@@ -244,6 +243,7 @@
           "1544065128710",
           "1544065202172"
         ],
+        "disabled": true,
         "settings": {
         }
       },
@@ -424,7 +424,6 @@
       },
       "1544002128879": {
         "type": "featured_in",
-        "disabled": true,
         "blocks": {
           "1579060689961": {
             "type": "text",
@@ -492,6 +491,7 @@
           "1551280700199",
           "1579060738984"
         ],
+        "disabled": true,
         "settings": {
           "image": "shopify:\/\/shop_images\/As_Seen_On_-_Desktop_1.jpg",
           "mobimage": "shopify:\/\/shop_images\/As_Seen_On_-_Mobile_1.jpg"
@@ -510,7 +510,6 @@
       },
       "1544408691386": {
         "type": "usp",
-        "disabled": true,
         "blocks": {
           "1544408850006": {
             "type": "usp_item",
@@ -542,6 +541,7 @@
           "1544408876551",
           "1544408823034"
         ],
+        "disabled": true,
         "settings": {
           "heading": "A BEAUTY DISRUPTOR",
           "background_color": "#fbdcce"
@@ -1408,7 +1408,6 @@
       },
       "1574758794229": {
         "type": "slideshow",
-        "disabled": true,
         "blocks": {
           "a4a26230-b0c8-4b81-abb9-61d45e435dc6": {
             "type": "image",
@@ -1497,6 +1496,7 @@
           "5d70c14a-c0b2-4d37-b38e-c497138df8ed",
           "1597302622185"
         ],
+        "disabled": true,
         "settings": {
           "show_fullscreen": false,
           "show_arrow": false,
@@ -3055,7 +3055,6 @@
       },
       "16480402579038fbd6": {
         "type": "sabi-section",
-        "disabled": true,
         "blocks": {
           "7ea25ccb-2012-4f40-af73-753301481dae": {
             "type": "header",
@@ -3107,6 +3106,7 @@
           "3911f340-78e2-449a-b2b8-5bd9cde865e6",
           "c1ba4793-8936-4336-ac85-8e94ad6f8564"
         ],
+        "disabled": true,
         "settings": {
         }
       },
@@ -3124,7 +3124,6 @@
       },
       "1648040652e58c84be": {
         "type": "sabi-section",
-        "disabled": true,
         "blocks": {
           "ca6b8739-10a1-4b9c-8803-e371deaf73ea": {
             "type": "header",
@@ -3170,12 +3169,12 @@
           "c3e5bbf2-838f-4a2c-b567-7b9f2197c86d",
           "08c2d265-9c65-4680-aca3-2070ec804215"
         ],
+        "disabled": true,
         "settings": {
         }
       },
       "1648041130db55ebe9": {
         "type": "icon-gallery",
-        "disabled": true,
         "blocks": {
           "6422ca2c-b66f-4e64-8996-66e147597f6b": {
             "type": "brand_image",
@@ -3212,6 +3211,7 @@
           "61f78c9d-1ddf-4f40-9ba1-b8ffcdcc7232",
           "d3567efd-892c-4024-91e5-dee038b325fe"
         ],
+        "disabled": true,
         "settings": {
           "heading": ""
         }
@@ -3228,7 +3228,6 @@
       },
       "164804139441235ee1": {
         "type": "science",
-        "disabled": true,
         "blocks": {
           "9c250db0-e04a-4b83-9c11-4f5d24c6b848": {
             "type": "header",
@@ -3297,12 +3296,12 @@
           "cd422762-98c8-4114-9d52-45ed64989732",
           "81bc95c6-1faf-4595-816c-51a5dd44ecf7"
         ],
+        "disabled": true,
         "settings": {
         }
       },
       "1648041702fd3a7f68": {
         "type": "sabi-section",
-        "disabled": true,
         "blocks": {
           "e512814e-7af1-4d4b-9d82-4cd744059831": {
             "type": "approach_item",
@@ -3320,6 +3319,7 @@
         "block_order": [
           "e512814e-7af1-4d4b-9d82-4cd744059831"
         ],
+        "disabled": true,
         "settings": {
         }
       },
@@ -3599,6 +3599,7 @@
         "blocks": {
           "1650600462fada49e7-1": {
             "type": "image",
+            "disabled": true,
             "settings": {
               "image": "shopify:\/\/shop_images\/Screenshot_2023-08-01_at_12.14.55_AM.png",
               "mobile_image": "shopify:\/\/shop_images\/Screenshot_2023-08-01_at_12.15.04_AM.png",
