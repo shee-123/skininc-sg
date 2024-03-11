@@ -1,19 +1,21 @@
-{% if template == 'product' %} 
-<div class='donation' id='zeIHF3JU9rnZE' page='cart' productid='{{ product.id }}'>
+{% if template contains 'product' and product.vendor == 'zestard-easy-donation' %} 
+<div class='donation' page='product' productid='{{ product.id }}' shop='{{ shop.permanent_domain }}'>
 	<div class='donation_loader'>
-		<img width='130' height='130' src='https://zestardshop.com/shopifyapp/easy_donation/public/image/loader_new.svg'/>
+		<img width='130' height='130' src='https://{{ shop.permanent_domain }}/apps/easyDonationApp/image/loader_new.svg'/>
 	</div>
 </div>
 {% endif %}
-{% if template == 'cart' %}
-<div class='donation' id='zeIHF3JU9rnZE' page='cart'>
+{% if template contains 'product' and product.vendor != 'zestard-easy-donation' %} 
+<div class='donation' page='cart' shop='{{ shop.permanent_domain }}'>
 	<div class='donation_loader'>
-		<img width='130' height='130' src='https://zestardshop.com/shopifyapp/easy_donation/public/image/loader_new.svg'/>
+		<img width='130' height='130' src='https://{{ shop.permanent_domain }}/apps/easyDonationApp/image/loader_new.svg'/>
 	</div>
 </div>
-{% endif %}<script src="https://zestardshop.com/shopifyapp/easy_donation/public/js/donation.js"></script>
-
-<!-- Custom CSS -->
-<style>
-  
-</style>
+{% endif %}
+{% if template contains 'cart' %}
+<div class='donation' page='cart' shop='{{ shop.permanent_domain }}'>
+	<div class='donation_loader'>
+		<img width='130' height='130' src='https://{{ shop.permanent_domain }}/apps/easyDonationApp/image/loader_new.svg'/>
+	</div>
+</div>
+{% endif %}<script src="https://{{ shop.permanent_domain }}/apps/easyDonationApp/js/donation.js" defer></script>
