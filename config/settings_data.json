@@ -1,3 +1,12 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "current": {
     "cart_product": "optimizer-voyage-tri-light-usb-rose-gold-chrome",
@@ -5,7 +14,7 @@
     "enableCartShipping": false,
     "cart_shipping_min": "0",
     "cart_normal_msg": "away from free shipping",
-    "cart_success_msg": "You are eligible for free shipping", 
+    "cart_success_msg": "You are eligible for free shipping",
     "heading_color": "#333333",
     "text_color": "#333333",
     "text_light_color": "#333333",
@@ -52,18 +61,18 @@
     "cart_show_free_shipping_threshold": true,
     "cart_free_shipping_threshold": 10,
     "share_image": "",
-    "social_facebook": "https:\/\/www.facebook.com\/iloveskininc\/",
-    "social_twitter": "https:\/\/twitter.com\/iloveskininc",
+    "social_facebook": "https://www.facebook.com/iloveskininc/",
+    "social_twitter": "https://twitter.com/iloveskininc",
     "social_google_plus": "",
     "social_pinterest": "",
-    "social_instagram": "https:\/\/www.instagram.com\/iloveskininc",
+    "social_instagram": "https://www.instagram.com/iloveskininc",
     "social_vimeo": "",
     "social_tumblr": "",
-    "social_youtube": "https:\/\/www.youtube.com\/user\/loveskininc",
+    "social_youtube": "https://www.youtube.com/user/loveskininc",
     "social_linkedin": "",
     "social_snapchat": "",
     "social_fancy": "",
-    "favicon": "shopify:\/\/shop_images\/skin_inc_favicon.png",
+    "favicon": "shopify://shop_images/skin_inc_favicon.png",
     "app_wk_enabled": false,
     "app_wk_login_required": false,
     "app_wk_icon": "heart",
@@ -71,7 +80,7 @@
     "app_wk_share_position": "top",
     "app_wk_products_per_row": "4",
     "checkout_header_image": "",
-    "checkout_logo_image": "shopify:\/\/shop_images\/logo-skininc.png",
+    "checkout_logo_image": "shopify://shop_images/logo-skininc.png",
     "checkout_logo_position": "left",
     "checkout_logo_size": "medium",
     "checkout_body_background_image": "",
@@ -105,7 +114,7 @@
               "content": "OUR ION STORE HAS FINISHED UPGRADING AND IS NOW OPEN!",
               "link_label": "",
               "link_color": "#000000",
-              "link": "shopify:\/\/collections"
+              "link": "shopify://collections"
             }
           },
           "c041b18f-3f0b-421f-8cdf-8ad89f4f29d8": {
@@ -116,7 +125,7 @@
               "content": "enjoy a 28 day beauty jelly dose with a min. purchase of $250",
               "link_label": "shop now",
               "link_color": "#000000",
-              "link": "shopify:\/\/collections\/best-sellers"
+              "link": "shopify://collections/best-sellers"
             }
           }
         },
@@ -136,14 +145,14 @@
             "type": "mega_menu",
             "settings": {
               "navigation_mega_menu": "shop",
-              "push_1_image": "shopify:\/\/shop_images\/Booster.png",
+              "push_1_image": "shopify://shop_images/Booster.png",
               "push_1_heading": "SERUM BOOSTER SHOT",
               "push_1_subheading": "Intensive treatment for clinically-proven healthy, glowing skin",
-              "push_1_url": "shopify:\/\/collections\/my-nightly-dose™-mask",
-              "push_2_image": "shopify:\/\/shop_images\/CustomSerum.png",
+              "push_1_url": "shopify://collections/my-nightly-dose™-mask",
+              "push_2_image": "shopify://shop_images/CustomSerum.png",
               "push_2_heading": "CUSTOM FOR YOU",
               "push_2_subheading": "Best suited to your unique skin concerns with a 3-min quiz",
-              "push_2_url": "shopify:\/\/pages\/skin-id",
+              "push_2_url": "shopify://pages/skin-id",
               "push_3_heading": "Example heading",
               "push_3_subheading": "Example sub-heading",
               "push_3_url": ""
@@ -153,10 +162,10 @@
             "type": "mega_menu",
             "settings": {
               "navigation_mega_menu": "create your serum",
-              "push_1_image": "shopify:\/\/shop_images\/our_approach_to_skincare.png",
+              "push_1_image": "shopify://shop_images/our_approach_to_skincare.png",
               "push_1_heading": "BUILD YOUR OWN",
               "push_1_subheading": "Custom Serum",
-              "push_1_url": "shopify:\/\/pages\/skin-id",
+              "push_1_url": "shopify://pages/skin-id",
               "push_2_heading": "Example heading",
               "push_2_subheading": "Example sub-heading",
               "push_2_url": "",
@@ -172,7 +181,7 @@
         ],
         "settings": {
           "use_sticky_header": true,
-          "logo": "shopify:\/\/shop_images\/Skin_Inc_Logo.png",
+          "logo": "shopify://shop_images/Skin_Inc_Logo.png",
           "logo_max_width": 140,
           "mobile_logo_max_width": 90,
           "navigation_menu": "main-menu",
@@ -180,7 +189,7 @@
           "enable_transparent_header": false,
           "enable_transparent_header_collection": false,
           "transparent_text_color": "#ffffff",
-          "transparent_logo": "shopify:\/\/shop_images\/WEBSITE.MDD.LABEL2.NAILS.jpg",
+          "transparent_logo": "shopify://shop_images/WEBSITE.MDD.LABEL2.NAILS.jpg",
           "custom_cta_title": "Speak to Us",
           "support_center_heading": "Chat with us?",
           "c_option_zendesk_heading": "Chat with customer service for online and other general questions.",
@@ -194,7 +203,7 @@
             "type": "text",
             "settings": {
               "title": "Custom Beauty For Every You",
-              "content": "<p>From one-size-fits-all to one-size-fits-me! Because everyone's skin is different, at Skin Inc we celebrate the uniqueness that makes you, you.<\/p><p>Bespoke, fuss-free skincare is at the heart of Skin Inc’s DNA.<\/p>",
+              "content": "<p>From one-size-fits-all to one-size-fits-me! Because everyone's skin is different, at Skin Inc we celebrate the uniqueness that makes you, you.</p><p>Bespoke, fuss-free skincare is at the heart of Skin Inc’s DNA.</p>",
               "show_social_media": true
             }
           },
@@ -208,7 +217,7 @@
             "type": "newsletter",
             "settings": {
               "title": "Newsletter",
-              "content": "<p>Subscribe now and get 10% off your first purchase.<\/p>"
+              "content": "<p>Subscribe now and get 10% off your first purchase.</p>"
             }
           }
         },
@@ -223,26 +232,25 @@
       },
       "homepage-intro": {
         "type": "homepage-intro",
-        "disabled": true,
         "blocks": {
           "1544065128710": {
             "type": "homepage_intro_item",
             "settings": {
-              "image": "shopify:\/\/shop_images\/Website_OVTL-Glasses-for-Bright-Eyes_2_8effecc5-7dbe-49f9-9f85-d77975727bff.jpg",
+              "image": "shopify://shop_images/Website_OVTL-Glasses-for-Bright-Eyes_2_8effecc5-7dbe-49f9-9f85-d77975727bff.jpg",
               "heading": "LED Eye Treatment Glasses",
               "subheading": "Optimizer Voyage Tri-Light",
               "button_text": "SHOP NOW",
-              "button_link": "shopify:\/\/products\/optimizer-voyage-tri-light-glasses-for-bright-eyes"
+              "button_link": "shopify://products/optimizer-voyage-tri-light-glasses-for-bright-eyes"
             }
           },
           "1544065202172": {
             "type": "homepage_intro_item",
             "settings": {
-              "image": "shopify:\/\/shop_images\/2_f7ff64f5-9b10-4471-86ef-d90fdefd3a78.jpg",
+              "image": "shopify://shop_images/2_f7ff64f5-9b10-4471-86ef-d90fdefd3a78.jpg",
               "heading": "UNLOCK YOUR",
               "subheading": "UNIQUE SKIN IDENTITY",
               "button_text": "START CUSTOMIZING",
-              "button_link": "\/pages\/skin-id"
+              "button_link": "/pages/skin-id"
             }
           }
         },
@@ -250,8 +258,8 @@
           "1544065128710",
           "1544065202172"
         ],
-        "settings": {
-        }
+        "disabled": true,
+        "settings": {}
       },
       "collection-template": {
         "type": "collection-template",
@@ -291,7 +299,7 @@
           "text_color": "#ffffff",
           "apply_overlay": true,
           "title": "Our story",
-          "content": "<p>Add your own custom content to explain your processes...<\/p>"
+          "content": "<p>Add your own custom content to explain your processes...</p>"
         }
       },
       "product-template": {
@@ -335,36 +343,33 @@
           "show_only_for_visitors": true,
           "show_only_once": true,
           "title": "Popup",
-          "content": "<p>FREE<\/p>",
+          "content": "<p>FREE</p>",
           "show_newsletter": true,
           "apparition_delay": 6
         }
       },
       "1544002093716": {
         "type": "social_media_awards",
-        "disabled": true,
         "blocks": {
           "1544070065822": {
             "type": "content",
             "settings": {
               "title": "",
               "subtitle": "winner of more than 150 beauty awards",
-              "content": "<p>Our products are rock stars. It's no wonder Skin Inc has won over 150 beauty awards and is featured in publications like VOGUE, WWD, Refinery29, and more.<\/p>",
+              "content": "<p>Our products are rock stars. It's no wonder Skin Inc has won over 150 beauty awards and is featured in publications like VOGUE, WWD, Refinery29, and more.</p>",
               "button_text": "view more awards",
-              "button_link": "shopify:\/\/pages\/awards-and-press",
-              "brand": "shopify:\/\/shop_images\/Awards_logo_website.png"
+              "button_link": "shopify://pages/awards-and-press",
+              "brand": "shopify://shop_images/Awards_logo_website.png"
             }
           }
         },
         "block_order": [
           "1544070065822"
         ],
-        "settings": {
-        }
+        "settings": {}
       },
       "1544002103271": {
         "type": "approach",
-        "disabled": true,
         "blocks": {
           "1544002148825": {
             "type": "header",
@@ -375,49 +380,49 @@
           "1544002169839": {
             "type": "approach_item",
             "settings": {
-              "image": "shopify:\/\/shop_images\/mdd.sticker_656a34f2-002c-47f7-939d-99354dc4044b.jpg",
-              "img_link": "shopify:\/\/pages\/skin-id",
+              "image": "shopify://shop_images/mdd.sticker_656a34f2-002c-47f7-939d-99354dc4044b.jpg",
+              "img_link": "shopify://pages/skin-id",
               "title": "customize, don’t compromise",
-              "content": "<p>Stop the guesswork from your skincare routine! Decode your unique skin concerns with the Skin Identity Check and customize your personal skincare solution for superior results. There's a custom beauty for every you, starting with My Daily Dose® Serums, to the award-winning Optimizer Voyage Tri-Light devices, and our latest #Skinnovation,  the world’s first custom sleeping mask My Nightly Dose®. <\/p>",
+              "content": "<p>Stop the guesswork from your skincare routine! Decode your unique skin concerns with the Skin Identity Check and customize your personal skincare solution for superior results. There's a custom beauty for every you, starting with My Daily Dose® Serums, to the award-winning Optimizer Voyage Tri-Light devices, and our latest #Skinnovation,  the world’s first custom sleeping mask My Nightly Dose®. </p>",
               "direction": "right",
               "cta_btn_label": "Learn More",
-              "cta_btn_link": "shopify:\/\/pages\/skin-id"
+              "cta_btn_link": "shopify://pages/skin-id"
             }
           },
           "1544002218467": {
             "type": "approach_item",
             "settings": {
-              "image": "shopify:\/\/shop_images\/Skin_Inc___Optimizer_Voyage_Tri-Light_USB_Rose_Gold_Chrome_w_MDDs___Lifestyle_Shot_copy.jpg",
-              "img_link": "shopify:\/\/pages\/skin-id",
+              "image": "shopify://shop_images/Skin_Inc___Optimizer_Voyage_Tri-Light_USB_Rose_Gold_Chrome_w_MDDs___Lifestyle_Shot_copy.jpg",
+              "img_link": "shopify://pages/skin-id",
               "title": "less is more",
-              "content": "<p>You don&#x27;t need 20 steps or 20,000 ingredients for beautiful skin. Our scientists have selected ingredients in optimal concentrations as the building blocks for our custom-blended My Daily Dose® and My Nightly Dose™ serums. Turning on the power of customization, our Optimizer Voyage Tri-Light ++ is a multi-tasking 5-in-1 LED device that boosts the performance of your skincare by 300%. <\/p>",
+              "content": "<p>You don&#x27;t need 20 steps or 20,000 ingredients for beautiful skin. Our scientists have selected ingredients in optimal concentrations as the building blocks for our custom-blended My Daily Dose® and My Nightly Dose™ serums. Turning on the power of customization, our Optimizer Voyage Tri-Light ++ is a multi-tasking 5-in-1 LED device that boosts the performance of your skincare by 300%. </p>",
               "direction": "left",
               "cta_btn_label": "Learn More",
-              "cta_btn_link": "shopify:\/\/pages\/skin-id"
+              "cta_btn_link": "shopify://pages/skin-id"
             }
           },
           "1544002270415": {
             "type": "approach_item",
             "settings": {
-              "image": "shopify:\/\/shop_images\/ACTIVE_TO_THE_END.jpg",
-              "img_link": "shopify:\/\/pages\/skin-id",
+              "image": "shopify://shop_images/ACTIVE_TO_THE_END.jpg",
+              "img_link": "shopify://pages/skin-id",
               "title": "CLINICALLY-PROVEN",
-              "content": "<p>Our Japanese proprietary encapsulation technology in our formula protects active ingredients from exposure to light and oxidation, ensuring supreme freshness and maximum absorption into your skin for optimal results.<\/p>",
+              "content": "<p>Our Japanese proprietary encapsulation technology in our formula protects active ingredients from exposure to light and oxidation, ensuring supreme freshness and maximum absorption into your skin for optimal results.</p>",
               "direction": "right",
               "cta_btn_label": "Learn More",
-              "cta_btn_link": "shopify:\/\/pages\/skin-id"
+              "cta_btn_link": "shopify://pages/skin-id"
             }
           },
           "1544002320453": {
             "type": "approach_item",
             "settings": {
-              "image": "shopify:\/\/shop_images\/SUPERCHARGE_YOUR_SKINCARE_WITH_LIGHT.jpg",
-              "img_link": "\/products\/new-optimizer-voyage-tri-light",
+              "image": "shopify://shop_images/SUPERCHARGE_YOUR_SKINCARE_WITH_LIGHT.jpg",
+              "img_link": "/products/new-optimizer-voyage-tri-light",
               "title": "Supercharge your skincare with light",
-              "content": "<p>Pair your custom serum with our Optimizer Voyage Tri-Light devices and use LED chromotherapy and low-frequency ultrasound stimulation to enhance results, increasing the efficiency and performance of your skincare by 300%.<\/p>",
+              "content": "<p>Pair your custom serum with our Optimizer Voyage Tri-Light devices and use LED chromotherapy and low-frequency ultrasound stimulation to enhance results, increasing the efficiency and performance of your skincare by 300%.</p>",
               "direction": "left",
               "cta_btn_label": "Learn More",
-              "cta_btn_link": "shopify:\/\/products\/optimizer-voyage-tri-light-usb-chrome-silver"
+              "cta_btn_link": "shopify://products/optimizer-voyage-tri-light-usb-chrome-silver"
             }
           }
         },
@@ -428,65 +433,63 @@
           "1544002270415",
           "1544002320453"
         ],
-        "settings": {
-        }
+        "settings": {}
       },
       "1544002128879": {
         "type": "featured_in",
-        "disabled": true,
         "blocks": {
           "1579060689961": {
             "type": "text",
             "settings": {
-              "image": "shopify:\/\/shop_images\/Harper_s_BAZAAR_Beauty_Awards_Logo_2021.png"
+              "image": "shopify://shop_images/Harper_s_BAZAAR_Beauty_Awards_Logo_2021.png"
             }
           },
           "1545674296179": {
             "type": "text",
             "settings": {
-              "image": "shopify:\/\/shop_images\/vogue_86d9e2e2-5585-4f49-84bc-e6fa09ce9b22.jpg"
+              "image": "shopify://shop_images/vogue_86d9e2e2-5585-4f49-84bc-e6fa09ce9b22.jpg"
             }
           },
           "1545674309650": {
             "type": "text",
             "settings": {
-              "image": "shopify:\/\/shop_images\/wwd.jpg"
+              "image": "shopify://shop_images/wwd.jpg"
             }
           },
           "1545674266961": {
             "type": "text",
             "settings": {
-              "image": "shopify:\/\/shop_images\/New_York_Time.png"
+              "image": "shopify://shop_images/New_York_Time.png"
             }
           },
           "1545674284134": {
             "type": "text",
             "settings": {
-              "image": "shopify:\/\/shop_images\/Refinery_29.png"
+              "image": "shopify://shop_images/Refinery_29.png"
             }
           },
           "1545674258066": {
             "type": "text",
             "settings": {
-              "image": "shopify:\/\/shop_images\/byrdie_3fdb3710-89ab-428c-b803-67524902ad7e.jpg"
+              "image": "shopify://shop_images/byrdie_3fdb3710-89ab-428c-b803-67524902ad7e.jpg"
             }
           },
           "1545674200692": {
             "type": "text",
             "settings": {
-              "image": "shopify:\/\/shop_images\/elle.jpg"
+              "image": "shopify://shop_images/elle.jpg"
             }
           },
           "1551280700199": {
             "type": "text",
             "settings": {
-              "image": "shopify:\/\/shop_images\/Forbes.png"
+              "image": "shopify://shop_images/Forbes.png"
             }
           },
           "1579060738984": {
             "type": "text",
             "settings": {
-              "image": "shopify:\/\/shop_images\/82124750_617916602299035_6221504894147231744_n.png"
+              "image": "shopify://shop_images/82124750_617916602299035_6221504894147231744_n.png"
             }
           }
         },
@@ -501,8 +504,7 @@
           "1551280700199",
           "1579060738984"
         ],
-        "settings": {
-        }
+        "settings": {}
       },
       "1544161388661": {
         "type": "newsletter",
@@ -510,7 +512,7 @@
         "settings": {
           "subheading": "Get The Latest",
           "title": "sign up to our newsletter",
-          "content": "<p>Be the first to find out about all the good stuff Skin Inc has to offer. Subscribe now and get 15% off your first purchase.<\/p>"
+          "content": "<p>Be the first to find out about all the good stuff Skin Inc has to offer. Subscribe now and get 15% off your first purchase.</p>"
         }
       },
       "list-collections-template": {
@@ -526,12 +528,11 @@
       },
       "1544408691386": {
         "type": "usp",
-        "disabled": true,
         "blocks": {
           "1544408850006": {
             "type": "usp_item",
             "settings": {
-              "icon": "shopify:\/\/shop_images\/Skin_Inc_Big_Data.png",
+              "icon": "shopify://shop_images/Skin_Inc_Big_Data.png",
               "title": "big data is our secret sauce",
               "subtitle": "We create products that you actually need through our database of over 1 million skin profiles."
             }
@@ -539,7 +540,7 @@
           "1544408876551": {
             "type": "usp_item",
             "settings": {
-              "icon": "shopify:\/\/shop_images\/Skin_Inc_Proprietary-Tech_6d309a51-d8de-4995-b14f-b2b14e36bc32.png",
+              "icon": "shopify://shop_images/Skin_Inc_Proprietary-Tech_6d309a51-d8de-4995-b14f-b2b14e36bc32.png",
               "title": "Proprietary Japanese Technology",
               "subtitle": "Cutting edge technology from our labs in Japan."
             }
@@ -547,7 +548,7 @@
           "1544408823034": {
             "type": "usp_item",
             "settings": {
-              "icon": "shopify:\/\/shop_images\/Skin_Inc_Mixology.png",
+              "icon": "shopify://shop_images/Skin_Inc_Mixology.png",
               "title": "BE YOUR OWN MIXOLOGIST",
               "subtitle": "Mix-n-Match without worrying about a negative chemical reaction on your skin!"
             }
@@ -565,13 +566,12 @@
       },
       "1545015626607": {
         "type": "skinid",
-        "disabled": true,
         "settings": {
           "title": "4 steps to glowing, dewy skin",
           "subheading": "Why do 10 steps when you can achieve more with less?",
           "button_text": "create yours now",
-          "button_link": "\/pages\/skin-id",
-          "image": "shopify:\/\/shop_images\/Jurada_Image_small_1783cefc-8f05-421c-8607-fa97511eff50.jpg"
+          "button_link": "/pages/skin-id",
+          "image": "shopify://shop_images/Jurada_Image_small_1783cefc-8f05-421c-8607-fa97511eff50.jpg"
         }
       },
       "product-ritual": {
@@ -586,7 +586,7 @@
           "1545020745050": {
             "type": "usp_item",
             "settings": {
-              "icon": "shopify:\/\/shop_images\/Untitled-3.png",
+              "icon": "shopify://shop_images/Untitled-3.png",
               "title": "SKIN INC LOYALTY",
               "subtitle": "For every $1 spent, earn 1 loyalty point and more"
             }
@@ -594,7 +594,7 @@
           "1545020788207": {
             "type": "usp_item",
             "settings": {
-              "icon": "shopify:\/\/shop_images\/Untitled-3.jpg",
+              "icon": "shopify://shop_images/Untitled-3.jpg",
               "title": "free shipping over $40",
               "subtitle": "Spend over $40 and receive free shipping."
             }
@@ -602,7 +602,7 @@
           "1545020820734": {
             "type": "usp_item",
             "settings": {
-              "icon": "shopify:\/\/shop_images\/7.png",
+              "icon": "shopify://shop_images/7.png",
               "title": "secure payments",
               "subtitle": "Shop worry free."
             }
@@ -680,8 +680,7 @@
           "1545126514775",
           "1545126529744"
         ],
-        "settings": {
-        }
+        "settings": {}
       },
       "newsletter": {
         "type": "newsletter",
@@ -702,7 +701,7 @@
         "type": "image-with-text-overlay",
         "settings": {
           "section_size": "normal",
-          "image": "shopify:\/\/shop_images\/Rose_Chrome_Opti_w_MDDs_-_1500_X_800.png",
+          "image": "shopify://shop_images/Rose_Chrome_Opti_w_MDDs_-_1500_X_800.png",
           "text_color": "#454545",
           "overlay_color": "#000000",
           "overlay_opacity": 1,
@@ -718,18 +717,17 @@
             "settings": {
               "title": "winning beauty",
               "subtitle": "winner of more than 150 beauty awards",
-              "content": "<p>Our products are rock stars. It's no wonder Skin Inc has won over 150 beauty awards and is featured in publications like VOGUE, WWD, Refinery29, and more.<\/p>",
+              "content": "<p>Our products are rock stars. It's no wonder Skin Inc has won over 150 beauty awards and is featured in publications like VOGUE, WWD, Refinery29, and more.</p>",
               "button_text": "",
               "button_link": "",
-              "brand": "shopify:\/\/shop_images\/Awards_logo_website.png"
+              "brand": "shopify://shop_images/Awards_logo_website.png"
             }
           }
         },
         "block_order": [
           "1545207367882"
         ],
-        "settings": {
-        }
+        "settings": {}
       },
       "text-with-image": {
         "type": "text-with-image",
@@ -746,27 +744,27 @@
           "1552378439252": {
             "type": "grid_item",
             "settings": {
-              "image": "shopify:\/\/shop_images\/custom_beauty_for_every_you.jpg",
+              "image": "shopify://shop_images/custom_beauty_for_every_you.jpg",
               "title": "custom beauty for every you",
-              "content": "<p>From one-size-fits-all to one-size-fits-me! Because everyone&#x27;s skin is different, at Skin Inc we celebrate the uniqueness that makes you, you. Bespoke, fuss-free skincare is at the heart of Skin Inc’s DNA.<\/p><p>With the broadest range of customizable skincare products to date, we make it easy for you to give your skin exactly what it needs, when it needs it.<\/p>",
+              "content": "<p>From one-size-fits-all to one-size-fits-me! Because everyone&#x27;s skin is different, at Skin Inc we celebrate the uniqueness that makes you, you. Bespoke, fuss-free skincare is at the heart of Skin Inc’s DNA.</p><p>With the broadest range of customizable skincare products to date, we make it easy for you to give your skin exactly what it needs, when it needs it.</p>",
               "direction": "right"
             }
           },
           "1545209171610": {
             "type": "grid_item",
             "settings": {
-              "image": "shopify:\/\/shop_images\/skintech_40b5fe9a-3919-4b12-bb83-30fa61222c36.jpg",
+              "image": "shopify://shop_images/skintech_40b5fe9a-3919-4b12-bb83-30fa61222c36.jpg",
               "title": "Skin and Technology = SkinTech",
-              "content": "<p>Skin Inc fuses the latest technology, decades of skin-aging research and your current environmental and lifestyle factors to determine what your skin truly needs.<\/p><p>Up to 80% of your skin condition is affected by lifestyle and environmental factors. &#x27;My Skin Identity’ – Skin Inc’s proprietary self-diagnostic tool developed by Skin Inc scientists based on decades of skin aging research evaluates your skin through a quick and intuitive quiz. Our nifty algorithm recommends a customized serum cocktail known as ‘My Daily Dose’ (MDD) – a bespoke custom-blended serum that delivers your skin goals in one bottle. <\/p>",
+              "content": "<p>Skin Inc fuses the latest technology, decades of skin-aging research and your current environmental and lifestyle factors to determine what your skin truly needs.</p><p>Up to 80% of your skin condition is affected by lifestyle and environmental factors. &#x27;My Skin Identity’ – Skin Inc’s proprietary self-diagnostic tool developed by Skin Inc scientists based on decades of skin aging research evaluates your skin through a quick and intuitive quiz. Our nifty algorithm recommends a customized serum cocktail known as ‘My Daily Dose’ (MDD) – a bespoke custom-blended serum that delivers your skin goals in one bottle. </p>",
               "direction": "left"
             }
           },
           "1545209474095": {
             "type": "grid_item",
             "settings": {
-              "image": "shopify:\/\/shop_images\/proprieatary_tech_from_japan.jpg",
+              "image": "shopify://shop_images/proprieatary_tech_from_japan.jpg",
               "title": "PROPRIETARY TECHNOLOGY FROM JAPAN",
-              "content": "<p>All of our signature serums boast our proprietary encapsulation technology from Japan. These caviar-inspired capsules protect pure ingredients from exposure to light and oxidation, keeping them fresh and potent till the moment they kiss your skin for maximum results.<\/p><p>0% paraben, 0% scent, and 0 ingredients that your skin doesn’t need. That’s what makes our serums suitable for all skin types, including sensitive skin.<\/p><p>Our custom serum doses are versatile and compatible with any skincare and makeup product. The possibilities are endless!<\/p>",
+              "content": "<p>All of our signature serums boast our proprietary encapsulation technology from Japan. These caviar-inspired capsules protect pure ingredients from exposure to light and oxidation, keeping them fresh and potent till the moment they kiss your skin for maximum results.</p><p>0% paraben, 0% scent, and 0 ingredients that your skin doesn’t need. That’s what makes our serums suitable for all skin types, including sensitive skin.</p><p>Our custom serum doses are versatile and compatible with any skincare and makeup product. The possibilities are endless!</p>",
               "direction": "right"
             }
           }
@@ -776,19 +774,18 @@
           "1545209171610",
           "1545209474095"
         ],
-        "settings": {
-        }
+        "settings": {}
       },
       "text-with-image-horizontal": {
         "type": "text-with-image-horizontal",
         "settings": {
           "subheading": "",
           "title": "a brand loved by millions across the globe",
-          "image": "shopify:\/\/shop_images\/world_map_in_peach_pink.jpg",
+          "image": "shopify://shop_images/world_map_in_peach_pink.jpg",
           "image_position": "left",
-          "content": "<p>Skin Inc is present in over 78 cities in Asia, Europe and the United States. With more than 200 retail distribution points across our Skin Inc concept stores, Sephora and Nordstrom outlets and our selected online partners, fuss-free customizable skin care is always within your reach.<\/p><p><\/p><p><\/p>",
+          "content": "<p>Skin Inc is present in over 78 cities in Asia, Europe and the United States. With more than 200 retail distribution points across our Skin Inc concept stores, Sephora and Nordstrom outlets and our selected online partners, fuss-free customizable skin care is always within your reach.</p><p></p><p></p>",
           "link_text": "find a store",
-          "link_url": "shopify:\/\/pages\/store-locator"
+          "link_url": "shopify://pages/store-locator"
         }
       },
       "stores": {
@@ -797,21 +794,21 @@
           "1545275421623": {
             "type": "store",
             "settings": {
-              "image": "shopify:\/\/shop_images\/st1.jpg",
-              "image_large": "shopify:\/\/shop_images\/skin-inc_about_storepicactivate.jpg",
+              "image": "shopify://shop_images/st1.jpg",
+              "image_large": "shopify://shop_images/skin-inc_about_storepicactivate.jpg",
               "name": "Skin Inc Institute - Singapore",
-              "address": "Scotts Square, 6 Scotts Road, #03-14\/15  Singapore 228209",
-              "direction": "https:\/\/www.google.com\/maps\/dir\/\/03,+6+Scotts+Rd,+Singapore+228209\/@1.3058957,103.797711,13z\/data=!3m1!4b1!4m9!4m8!1m0!1m5!1m1!1s0x31da198d796369cd:0x2609e34d255a515e!2m2!1d103.8327305!2d1.3058101!3e3"
+              "address": "Scotts Square, 6 Scotts Road, #03-14/15  Singapore 228209",
+              "direction": "https://www.google.com/maps/dir//03,+6+Scotts+Rd,+Singapore+228209/@1.3058957,103.797711,13z/data=!3m1!4b1!4m9!4m8!1m0!1m5!1m1!1s0x31da198d796369cd:0x2609e34d255a515e!2m2!1d103.8327305!2d1.3058101!3e3"
             }
           },
           "1545275572584": {
             "type": "store",
             "settings": {
-              "image": "shopify:\/\/shop_images\/DSC_7901.jpg",
-              "image_large": "shopify:\/\/shop_images\/skin-inc_about_storepicactivate.jpg",
+              "image": "shopify://shop_images/DSC_7901.jpg",
+              "image_large": "shopify://shop_images/skin-inc_about_storepicactivate.jpg",
               "name": "Skin Inc Concept Store - Singapore",
               "address": "ION Orchard, 2 Orchard Turn, #B3-43  Singapore 238801",
-              "direction": "https:\/\/www.google.com\/maps\/dir\/\/Food+Opera+@+ION+Orchard,+Orchard+Turn+%23B4-03%2F04,+2,+ION+Orchard+No,+238801\/@1.3043029,103.7964811,13z\/data=!3m2!4b1!5s0x31da198dc1b3b41b:0x1c5546ca1e2dc3d0!4m9!4m8!1m0!1m5!1m1!1s0x31da198de91512c9:0x8ae2cc7a0247b502!2m2!1d103.8315006!2d1.3042173!3e3"
+              "direction": "https://www.google.com/maps/dir//Food+Opera+@+ION+Orchard,+Orchard+Turn+%23B4-03%2F04,+2,+ION+Orchard+No,+238801/@1.3043029,103.7964811,13z/data=!3m2!4b1!5s0x31da198dc1b3b41b:0x1c5546ca1e2dc3d0!4m9!4m8!1m0!1m5!1m1!1s0x31da198de91512c9:0x8ae2cc7a0247b502!2m2!1d103.8315006!2d1.3042173!3e3"
             }
           }
         },
@@ -829,67 +826,67 @@
           "1552379842322": {
             "type": "grid_3_3",
             "settings": {
-              "image_1": "shopify:\/\/shop_images\/396_x_495_Award_and_press_2.png",
-              "large_image_1": "shopify:\/\/shop_images\/396_x_495_Award_and_press_2.png",
-              "image_2": "shopify:\/\/shop_images\/396_x_495_Award_and_press_3.png",
-              "large_image_2": "shopify:\/\/shop_images\/396_x_495_Award_and_press_1.png",
-              "image_3": "shopify:\/\/shop_images\/396_x_495_Award_and_press_4.png",
-              "large_image_3": "shopify:\/\/shop_images\/396_x_495_Award_and_press_4_b0e8bcd7-bf48-4d87-9fc5-c5c2f506a59d.png"
+              "image_1": "shopify://shop_images/396_x_495_Award_and_press_2.png",
+              "large_image_1": "shopify://shop_images/396_x_495_Award_and_press_2.png",
+              "image_2": "shopify://shop_images/396_x_495_Award_and_press_3.png",
+              "large_image_2": "shopify://shop_images/396_x_495_Award_and_press_1.png",
+              "image_3": "shopify://shop_images/396_x_495_Award_and_press_4.png",
+              "large_image_3": "shopify://shop_images/396_x_495_Award_and_press_4_b0e8bcd7-bf48-4d87-9fc5-c5c2f506a59d.png"
             }
           },
           "1552381427558": {
             "type": "grid_3_3",
             "settings": {
-              "image_1": "shopify:\/\/shop_images\/396_x_495_Award_and_press_7.png",
-              "large_image_1": "shopify:\/\/shop_images\/396_x_495_Award_and_press_7.png",
-              "image_2": "shopify:\/\/shop_images\/396_x_495_Award_and_press_6.png",
-              "large_image_2": "shopify:\/\/shop_images\/396_x_495_Award_and_press_6.png",
-              "image_3": "shopify:\/\/shop_images\/396_x_495_Award_and_press_5.png",
-              "large_image_3": "shopify:\/\/shop_images\/396_x_495_Award_and_press_5.png"
+              "image_1": "shopify://shop_images/396_x_495_Award_and_press_7.png",
+              "large_image_1": "shopify://shop_images/396_x_495_Award_and_press_7.png",
+              "image_2": "shopify://shop_images/396_x_495_Award_and_press_6.png",
+              "large_image_2": "shopify://shop_images/396_x_495_Award_and_press_6.png",
+              "image_3": "shopify://shop_images/396_x_495_Award_and_press_5.png",
+              "large_image_3": "shopify://shop_images/396_x_495_Award_and_press_5.png"
             }
           },
           "1545284590342": {
             "type": "grid_3_3",
             "settings": {
-              "image_1": "shopify:\/\/shop_images\/allure.jpg",
-              "large_image_1": "shopify:\/\/shop_images\/allure.jpg",
-              "image_2": "shopify:\/\/shop_images\/fast_company.jpg",
-              "large_image_2": "shopify:\/\/shop_images\/fast_company.jpg",
-              "image_3": "shopify:\/\/shop_images\/vogue.jpg",
-              "large_image_3": "shopify:\/\/shop_images\/vogue.jpg"
+              "image_1": "shopify://shop_images/allure.jpg",
+              "large_image_1": "shopify://shop_images/allure.jpg",
+              "image_2": "shopify://shop_images/fast_company.jpg",
+              "large_image_2": "shopify://shop_images/fast_company.jpg",
+              "image_3": "shopify://shop_images/vogue.jpg",
+              "large_image_3": "shopify://shop_images/vogue.jpg"
             }
           },
           "1545284815516": {
             "type": "grid_4_8",
             "settings": {
-              "image": "shopify:\/\/shop_images\/her_world_spa_awards_2016.jpg",
-              "large_image": "shopify:\/\/shop_images\/her_world_spa_awards_2016.jpg",
+              "image": "shopify://shop_images/her_world_spa_awards_2016.jpg",
+              "large_image": "shopify://shop_images/her_world_spa_awards_2016.jpg",
               "heading_1": "pure serum mist onsen healing infusion treatment",
               "subheading_1": "best hydrating facial 2016",
-              "icon_1": "shopify:\/\/shop_images\/spa_awards.jpg",
+              "icon_1": "shopify://shop_images/spa_awards.jpg",
               "heading_2": "best do-it-all facial 2016",
               "subheading_2": "OPTIMIZER VOYAGE TRI-LIGHT TREATMENT",
-              "icon_2": "shopify:\/\/shop_images\/spa_awards.jpg"
+              "icon_2": "shopify://shop_images/spa_awards.jpg"
             }
           },
           "1545285137595": {
             "type": "grid_3_3",
             "settings": {
-              "image_1": "shopify:\/\/shop_images\/byrdie.jpg",
-              "large_image_1": "shopify:\/\/shop_images\/byrdie.jpg",
-              "image_2": "shopify:\/\/shop_images\/the_huffington_post.jpg",
-              "large_image_2": "shopify:\/\/shop_images\/the_huffington_post.jpg",
-              "image_3": "shopify:\/\/shop_images\/poeple.jpg",
-              "large_image_3": "shopify:\/\/shop_images\/poeple.jpg"
+              "image_1": "shopify://shop_images/byrdie.jpg",
+              "large_image_1": "shopify://shop_images/byrdie.jpg",
+              "image_2": "shopify://shop_images/the_huffington_post.jpg",
+              "large_image_2": "shopify://shop_images/the_huffington_post.jpg",
+              "image_3": "shopify://shop_images/poeple.jpg",
+              "large_image_3": "shopify://shop_images/poeple.jpg"
             }
           },
           "1545285291463": {
             "type": "grid_7_5",
             "settings": {
-              "image_1": "shopify:\/\/shop_images\/d_722f7955-e8a2-48fd-a9fb-4c1a379d556d.jpg",
-              "large_image_1": "shopify:\/\/shop_images\/d_722f7955-e8a2-48fd-a9fb-4c1a379d556d.jpg",
-              "image_2": "shopify:\/\/shop_images\/cosmopolitan.jpg",
-              "large_image_2": "shopify:\/\/shop_images\/cosmopolitan.jpg"
+              "image_1": "shopify://shop_images/d_722f7955-e8a2-48fd-a9fb-4c1a379d556d.jpg",
+              "large_image_1": "shopify://shop_images/d_722f7955-e8a2-48fd-a9fb-4c1a379d556d.jpg",
+              "image_2": "shopify://shop_images/cosmopolitan.jpg",
+              "large_image_2": "shopify://shop_images/cosmopolitan.jpg"
             }
           }
         },
@@ -901,8 +898,7 @@
           "1545285137595",
           "1545285291463"
         ],
-        "settings": {
-        }
+        "settings": {}
       },
       "product-awards": {
         "type": "product-awards",
@@ -922,7 +918,7 @@
           "1545372846136": {
             "type": "product",
             "settings": {
-              "product": "pure-deepsea-hydrating-mask-30ml"
+              "product": "pure-deepsea-hydrating-mask-jar"
             }
           },
           "1545372862576": {
@@ -955,15 +951,15 @@
           "1545379877883": {
             "type": "banner",
             "settings": {
-              "image": "shopify:\/\/shop_images\/TRI-LIGHT_AWARD.png",
-              "link": "shopify:\/\/products\/products-devices-optimizer-voyage-tri-light-white-us"
+              "image": "shopify://shop_images/TRI-LIGHT_AWARD.png",
+              "link": "shopify://products/products-devices-optimizer-voyage-tri-light-white-us"
             }
           },
           "1545380713031": {
             "type": "banner",
             "settings": {
-              "image": "shopify:\/\/shop_images\/MDD_AWARD.png",
-              "link": "shopify:\/\/products\/create-your-own-custom-serum"
+              "image": "shopify://shop_images/MDD_AWARD.png",
+              "link": "shopify://products/create-your-own-custom-serum"
             }
           }
         },
@@ -971,36 +967,43 @@
           "1545379877883",
           "1545380713031"
         ],
-        "settings": {
-        }
+        "settings": {}
       },
       "yotpo": {
         "type": "yotpo",
-        "settings": {
-        }
+        "settings": {}
       },
       "not-found": {
         "type": "not-found",
         "settings": {
-          "image": "shopify:\/\/shop_images\/404.jpg",
+          "image": "shopify://shop_images/404.jpg",
           "heading": "page not found",
           "subheading": "We're sorry, but the page you requested could not be found.",
           "button_1_text": "Back to homepage",
-          "button_1_link": "\/",
+          "button_1_link": "/",
           "button_2_text": "view our best sellers",
-          "button_2_link": "shopify:\/\/collections\/best-sellers"
+          "button_2_link": "shopify://collections/best-sellers"
         }
       },
       "cart-template": {
         "type": "cart-template",
         "blocks": {
-          "0ef28b98-2a01-487d-9e5b-3952717fa5a7": {
+          "5ea01652-3376-4767-8116-72faa52d130a": {
+            "type": "spend-x-get-y",
+            "settings": {
+              "product_handle": "beauty-jelly-dose",
+              "variant_id": "39660145541233",
+              "min_price": "25000",
+              "message": "Gift item"
+            }
+          },
+          "6dffbb24-aa29-43c4-b169-16f5e3817492": {
             "type": "buy-x-get-y-gift",
             "settings": {
               "product_handle": "tri-light-ai-launch-gwp-deepsea-hydrating-mask-30ml-serum-booster-shot-soothe-worth-sgd-120",
-              "variant_id": "39704471502961",
+              "variant_id": "6697435005041",
               "handle": "tri-light-sabi",
-              "message": "Gift item"
+              "message": "Exclusive Gift Item"
             }
           },
           "be854e5c-7cc0-4339-b15c-0407933fad5a": {
@@ -1019,7 +1022,8 @@
           }
         },
         "block_order": [
-          "0ef28b98-2a01-487d-9e5b-3952717fa5a7",
+          "5ea01652-3376-4767-8116-72faa52d130a",
+          "6dffbb24-aa29-43c4-b169-16f5e3817492",
           "be854e5c-7cc0-4339-b15c-0407933fad5a"
         ],
         "settings": {
@@ -1053,8 +1057,7 @@
       },
       "product-associated": {
         "type": "product-associated",
-        "settings": {
-        }
+        "settings": {}
       },
       "page-faq-template": {
         "type": "page-faq-template",
@@ -1069,21 +1072,21 @@
             "type": "question",
             "settings": {
               "title": "Do you ship overseas?",
-              "answer": "<p>Yes, we ship all over the world. Shipping costs will apply, and will be added at checkout. We run discounts and promotions all year, so stay tuned for exclusive deals.<\/p>"
+              "answer": "<p>Yes, we ship all over the world. Shipping costs will apply, and will be added at checkout. We run discounts and promotions all year, so stay tuned for exclusive deals.</p>"
             }
           },
           "page-faq-template-2": {
             "type": "question",
             "settings": {
               "title": "How long will it take to get my order?",
-              "answer": "<p>It depends on where you are. Orders processed here will take 5-7 business days to arrive. Overseas deliveries can take anywhere from 7-16 days. Delivery details will be provided in your confirmation email.<\/p>"
+              "answer": "<p>It depends on where you are. Orders processed here will take 5-7 business days to arrive. Overseas deliveries can take anywhere from 7-16 days. Delivery details will be provided in your confirmation email.</p>"
             }
           },
           "page-faq-template-3": {
             "type": "question",
             "settings": {
               "title": "What shipping carriers do you use?",
-              "answer": "<p>We use all major carriers, and local courier partners. You’ll be asked to select a delivery method during checkout.<\/p>"
+              "answer": "<p>We use all major carriers, and local courier partners. You’ll be asked to select a delivery method during checkout.</p>"
             }
           },
           "page-faq-template-4": {
@@ -1096,28 +1099,28 @@
             "type": "question",
             "settings": {
               "title": "Are Skin Inc products safe for use during pregnancy?",
-              "answer": "<p>All of our products are safe for use during pregnancy with the exception of our Optimizer Voyage devices because of the low frequency technology. You may wish to consult your gynae for advice as well. However, it is a great device which you can use post pregnancy to achieve the coveted healthy and glowing skin.<\/p>"
+              "answer": "<p>All of our products are safe for use during pregnancy with the exception of our Optimizer Voyage devices because of the low frequency technology. You may wish to consult your gynae for advice as well. However, it is a great device which you can use post pregnancy to achieve the coveted healthy and glowing skin.</p>"
             }
           },
           "1551350632764": {
             "type": "question",
             "settings": {
               "title": "Are Skin Inc products vegan and Halal?",
-              "answer": "<p>All of our products are&nbsp;vegan with the exception of French Pine Bark and Collagen Serums which contain fish extracts, Pure Recovery Dew, and Pure Nano Hydrating Gel which both&nbsp;contain pearl extracts. Our products have no pork and lard derived ingredients but are not certified halal.<\/p>"
+              "answer": "<p>All of our products are&nbsp;vegan with the exception of French Pine Bark and Collagen Serums which contain fish extracts, Pure Recovery Dew, and Pure Nano Hydrating Gel which both&nbsp;contain pearl extracts. Our products have no pork and lard derived ingredients but are not certified halal.</p>"
             }
           },
           "1551341732784": {
             "type": "question",
             "settings": {
               "title": "Are all Skin Inc products gluten-free?",
-              "answer": "<p>Yes, all of our products gluten-free.<\/p>"
+              "answer": "<p>Yes, all of our products gluten-free.</p>"
             }
           },
           "1551342316278": {
             "type": "question",
             "settings": {
               "title": "Does Skin Inc test products on animals?",
-              "answer": "<p>No, we do not conduct any&nbsp;animal testing<\/p>"
+              "answer": "<p>No, we do not conduct any&nbsp;animal testing</p>"
             }
           },
           "1551353720931": {
@@ -1130,21 +1133,21 @@
             "type": "question",
             "settings": {
               "title": "How do I know which serums are the best for me?",
-              "answer": "<p>Taking into account on your skin concerns, background, and lifestyle, our Skin ID Check uses proprietary&nbsp;technology to suggest the best serums&nbsp;to meet your needs. You can take our Skin ID Check&nbsp;by clicking the Create Your Serum tab at the top of the page.<\/p>"
+              "answer": "<p>Taking into account on your skin concerns, background, and lifestyle, our Skin ID Check uses proprietary&nbsp;technology to suggest the best serums&nbsp;to meet your needs. You can take our Skin ID Check&nbsp;by clicking the Create Your Serum tab at the top of the page.</p>"
             }
           },
           "1551341621644": {
             "type": "question",
             "settings": {
               "title": "What are the colored beads in Skin Inc Serums?",
-              "answer": "<p>The colored \"beads\" that you see in our serums are encapsulations of the active ingredients. The encapsulation is made up of natural seaweed that envelops and protects the active ingredients, keeping them pure, fresh and free from oxidation. Upon application, the encapsulation breaks and releases the active ingredients into your skin.<\/p>"
+              "answer": "<p>The colored \"beads\" that you see in our serums are encapsulations of the active ingredients. The encapsulation is made up of natural seaweed that envelops and protects the active ingredients, keeping them pure, fresh and free from oxidation. Upon application, the encapsulation breaks and releases the active ingredients into your skin.</p>"
             }
           },
           "1551341496676": {
             "type": "question",
             "settings": {
               "title": "Can I mix more than 3 serums in a bottle?",
-              "answer": "<p>Yes you can. Skin Inc serums are encapsulated and that is the reason why we are able to mix and match. The encapsulation keeps the active ingredients fresh, separate, and prevents oxidation. However, 3 serums is an optimal number to start off and we do recommend layering on additonal serums such as Vitamin A Serum around the eye area to reduce dark circles.<\/p>"
+              "answer": "<p>Yes you can. Skin Inc serums are encapsulated and that is the reason why we are able to mix and match. The encapsulation keeps the active ingredients fresh, separate, and prevents oxidation. However, 3 serums is an optimal number to start off and we do recommend layering on additonal serums such as Vitamin A Serum around the eye area to reduce dark circles.</p>"
             }
           },
           "1551353843910": {
@@ -1157,14 +1160,14 @@
             "type": "question",
             "settings": {
               "title": "What is the power of the low frequency and the wavelengths of the LED lights for the Optimizer Voyage Tri-Light device?",
-              "answer": "<p>The device uses 3MHZ low frequency stimulation that help to gently regenerate skin cells to increase their metabolism and encourage blood and lymphatic circulation. It also helps enhance penetration of topical application of products and active ingredients to up to 90%.&nbsp; The device also uses LED chromotherapy that activates&nbsp;light&nbsp;receptors in skin cells and stimulates them to improve skin quality. The&nbsp;wavelengths&nbsp;for our Red&nbsp;light&nbsp;is 625nm, Yellow&nbsp;light&nbsp;is 590mm and Blue&nbsp;light&nbsp;460nm.&nbsp;<\/p>"
+              "answer": "<p>The device uses 3MHZ low frequency stimulation that help to gently regenerate skin cells to increase their metabolism and encourage blood and lymphatic circulation. It also helps enhance penetration of topical application of products and active ingredients to up to 90%.&nbsp; The device also uses LED chromotherapy that activates&nbsp;light&nbsp;receptors in skin cells and stimulates them to improve skin quality. The&nbsp;wavelengths&nbsp;for our Red&nbsp;light&nbsp;is 625nm, Yellow&nbsp;light&nbsp;is 590mm and Blue&nbsp;light&nbsp;460nm.&nbsp;</p>"
             }
           },
           "1551341886223": {
             "type": "question",
             "settings": {
               "title": "What kind of batteries should be used with the Optimizer Voyage devices?",
-              "answer": "<p>The Optimizer Voyage devices require the use of 3 AAA batteries. Please use ordinary alkaline batteries with no claims of extra strength. Avoid using Energizer batteries.<\/p>"
+              "answer": "<p>The Optimizer Voyage devices require the use of 3 AAA batteries. Please use ordinary alkaline batteries with no claims of extra strength. Avoid using Energizer batteries.</p>"
             }
           },
           "page-faq-template-7": {
@@ -1177,14 +1180,14 @@
             "type": "question",
             "settings": {
               "title": "Can I return my product?",
-              "answer": "<p>We always aim for make sure our customers love our products, but if you do need to return an order, we’re happy to help. Just email us directly and we’ll take you through the process.<\/p>"
+              "answer": "<p>We always aim for make sure our customers love our products, but if you do need to return an order, we’re happy to help. Just email us directly and we’ll take you through the process.</p>"
             }
           },
           "page-faq-template-8": {
             "type": "question",
             "settings": {
               "title": "More questions?",
-              "answer": "<p>You can contact us through our contact page! We will be happy to assist you.<\/p>"
+              "answer": "<p>You can contact us through our contact page! We will be happy to assist you.</p>"
             }
           }
         },
@@ -1209,38 +1212,36 @@
           "page-faq-template-5",
           "page-faq-template-8"
         ],
-        "settings": {
-        }
+        "settings": {}
       },
       "1552376488178": {
         "type": "icon-gallery",
-        "disabled": true,
         "blocks": {
           "1552376539759": {
             "type": "brand_image",
             "settings": {
-              "image": "shopify:\/\/shop_images\/No-Phthalate-svg.png",
+              "image": "shopify://shop_images/No-Phthalate-svg.png",
               "text": "No Phthalates"
             }
           },
           "1552376575495": {
             "type": "brand_image",
             "settings": {
-              "image": "shopify:\/\/shop_images\/No-Parabens-svg.png",
+              "image": "shopify://shop_images/No-Parabens-svg.png",
               "text": "No Parabens"
             }
           },
           "1552376597761": {
             "type": "brand_image",
             "settings": {
-              "image": "shopify:\/\/shop_images\/No-SLS-svg.png",
+              "image": "shopify://shop_images/No-SLS-svg.png",
               "text": "No SLS"
             }
           },
           "1552376622836": {
             "type": "brand_image",
             "settings": {
-              "image": "shopify:\/\/shop_images\/No-Formaldehyde-svg__1.png",
+              "image": "shopify://shop_images/No-Formaldehyde-svg__1.png",
               "text": "No Formaldehyde"
             }
           }
@@ -1258,14 +1259,14 @@
       "password-template": {
         "type": "password-template",
         "settings": {
-          "logo": "shopify:\/\/shop_images\/logo_skininc_32d7fa76-4ca8-4c90-9637-507fd7694a3c.png",
+          "logo": "shopify://shop_images/logo_skininc_32d7fa76-4ca8-4c90-9637-507fd7694a3c.png",
           "logo_max_width": 140,
           "mobile_logo_max_width": 90,
-          "background_image": "shopify:\/\/shop_images\/home_banner7_full.jpg",
+          "background_image": "shopify://shop_images/home_banner7_full.jpg",
           "text_color": "#ffffff",
           "heading": "Opening Soon",
           "show_newsletter_signup": true,
-          "newsletter_text": "<p>We are currently upgrading our site for a better shopping experience.<\/p>\n<p>Be Right Back!<\/p>",
+          "newsletter_text": "<p>We are currently upgrading our site for a better shopping experience.</p>\n<p>Be Right Back!</p>",
           "show_social_sharing": true,
           "social_message": "Spread the word"
         }
@@ -1273,7 +1274,7 @@
       "loyalty-top-banner": {
         "type": "loyalty-top-banner",
         "settings": {
-          "image": "shopify:\/\/shop_images\/loyalty.png",
+          "image": "shopify://shop_images/loyalty.png",
           "title_first_row": "SKIN INC",
           "title_second_row": "INSIDER PROGRAM",
           "text_color": "#ffffff",
@@ -1286,8 +1287,8 @@
         "type": "loyalty-earn-points",
         "settings": {
           "title": "EARN POINTS",
-          "image": "shopify:\/\/shop_images\/Redeem_with_100_points_1.png",
-          "img_url": "shopify:\/\/collections\/best-sellers",
+          "image": "shopify://shop_images/Redeem_with_100_points_1.png",
+          "img_url": "shopify://collections/best-sellers",
           "offer_name": "Monthly Insider Program"
         }
       },
@@ -1297,7 +1298,7 @@
           "1569932179410": {
             "type": "loyalty_offer",
             "settings": {
-              "image": "shopify:\/\/shop_images\/Redeem_with_100_points_2.png",
+              "image": "shopify://shop_images/Redeem_with_100_points_2.png",
               "img_url": "",
               "offer_name": "MONTHLY SPECIALS"
             }
@@ -1306,11 +1307,11 @@
             "type": "loyalty_offer_3_img",
             "disabled": true,
             "settings": {
-              "image1": "shopify:\/\/shop_images\/Frenchbark.png",
-              "img_url1": "shopify:\/\/products\/french-pine-bark-serum",
-              "image2": "shopify:\/\/shop_images\/Collagen.jpg",
-              "img_url2": "shopify:\/\/products\/collagen-serum",
-              "image3": "shopify:\/\/shop_images\/Hyaluronic.png",
+              "image1": "shopify://shop_images/Frenchbark.png",
+              "img_url1": "shopify://products/french-pine-bark-serum",
+              "image2": "shopify://shop_images/Collagen.jpg",
+              "img_url2": "shopify://products/collagen-serum",
+              "image3": "shopify://shop_images/Hyaluronic.png",
               "img_url3": ""
             }
           },
@@ -1335,81 +1336,78 @@
         "blocks": {
           "a4a26230-b0c8-4b81-abb9-61d45e435dc6": {
             "type": "image",
-            "settings": {
-              "image": "shopify:\/\/shop_images\/Main_KV_1.png",
-              "mobile_image": "shopify:\/\/shop_images\/Main_KV_1.png",
-              "apply_overlay": false,
-              "content_position": "bottomLeft",
-              "subheading": "",
-              "title": "",
-              "button_1_text": "",
-              "button_1_link": "https:\/\/www.iloveskininc.com.sg\/products\/tri-light-sabi",
-              "button_2_text": "",
-              "button_2_link": ""
-            }
-          },
-          "6925cae8-8ad4-4356-b69f-b44cdb8081f1": {
-            "type": "image",
             "disabled": true,
             "settings": {
-              "image": "shopify:\/\/shop_images\/Rosalie_Web_Banner_2_a7b1ac7a-44f2-4d13-b5cf-1a5284af2da4.jpg",
-              "mobile_image": "shopify:\/\/shop_images\/Rosalie_Mobile_Banner_2.jpg",
-              "apply_overlay": false,
-              "content_position": "bottomLeft",
-              "subheading": "",
-              "title": "",
-              "button_1_text": "",
-              "button_1_link": "shopify:\/\/collections\/award-winners",
-              "button_2_text": "",
-              "button_2_link": "shopify:\/\/collections\/award-winners"
-            }
-          },
-          "cc276c43-4d1d-4153-8117-831a34acdba9": {
-            "type": "image",
-            "disabled": true,
-            "settings": {
-              "image": "shopify:\/\/shop_images\/Teal_Trilight_Banner-_Web_cc52860d-2a1d-4793-876e-1ebb1dffa8e2.jpg",
-              "mobile_image": "shopify:\/\/shop_images\/Teal_Trilight_Banner_-_Mobile_b69b7846-6f65-4b08-94ad-248dd39e6d8b.jpg",
+              "image": "shopify://shop_images/Web_Banner_SG.jpg",
+              "mobile_image": "shopify://shop_images/Mobile_Banner_SG.jpg",
               "apply_overlay": true,
               "content_position": "bottomLeft",
               "subheading": "",
               "title": "",
               "button_1_text": "",
-              "button_1_link": "shopify:\/\/products\/optimizer-voyage-tri-light-usb-chrome-teal",
+              "button_1_link": "shopify://collections/my-daily-dose®-serum",
+              "button_2_text": "",
+              "button_2_link": "shopify://collections/my-daily-dose®-serum"
+            }
+          },
+          "6925cae8-8ad4-4356-b69f-b44cdb8081f1": {
+            "type": "image",
+            "settings": {
+              "image": "shopify://shop_images/Rosalie_Web_Banner_2_a7b1ac7a-44f2-4d13-b5cf-1a5284af2da4.jpg",
+              "mobile_image": "shopify://shop_images/Rosalie_Mobile_Banner_2.jpg",
+              "apply_overlay": false,
+              "content_position": "bottomLeft",
+              "subheading": "",
+              "title": "",
+              "button_1_text": "",
+              "button_1_link": "shopify://collections/award-winners",
+              "button_2_text": "",
+              "button_2_link": "shopify://collections/award-winners"
+            }
+          },
+          "cc276c43-4d1d-4153-8117-831a34acdba9": {
+            "type": "image",
+            "settings": {
+              "image": "shopify://shop_images/Teal_Trilight_Banner-_Web_cc52860d-2a1d-4793-876e-1ebb1dffa8e2.jpg",
+              "mobile_image": "shopify://shop_images/Teal_Trilight_Banner_-_Mobile_b69b7846-6f65-4b08-94ad-248dd39e6d8b.jpg",
+              "apply_overlay": true,
+              "content_position": "bottomLeft",
+              "subheading": "",
+              "title": "",
+              "button_1_text": "",
+              "button_1_link": "shopify://products/optimizer-voyage-tri-light-usb-chrome-teal",
               "button_2_text": "",
               "button_2_link": ""
             }
           },
           "5d70c14a-c0b2-4d37-b38e-c497138df8ed": {
             "type": "image",
-            "disabled": true,
             "settings": {
-              "image": "shopify:\/\/shop_images\/Reset_Your_Stressed_Skin_With_Skin-Tech_Science_Web_Banner.jpg",
-              "mobile_image": "shopify:\/\/shop_images\/Reset_Your_Stressed_Skin_With_Skin-Tech_Science_Mobile_Banner.jpg",
+              "image": "shopify://shop_images/Reset_Your_Stressed_Skin_With_Skin-Tech_Science_Web_Banner.jpg",
+              "mobile_image": "shopify://shop_images/Reset_Your_Stressed_Skin_With_Skin-Tech_Science_Mobile_Banner.jpg",
               "apply_overlay": true,
               "content_position": "bottomLeft",
               "subheading": "",
               "title": "",
               "button_1_text": "",
-              "button_1_link": "shopify:\/\/collections\/devices",
+              "button_1_link": "shopify://collections/devices",
               "button_2_text": "",
-              "button_2_link": "shopify:\/\/collections\/devices"
+              "button_2_link": "shopify://collections/devices"
             }
           },
           "1597302622185": {
             "type": "image",
-            "disabled": true,
             "settings": {
-              "image": "shopify:\/\/shop_images\/Rosalie_Web_Banner_3.jpg",
-              "mobile_image": "shopify:\/\/shop_images\/Rosalie_Mobile_Banner_3.jpg",
+              "image": "shopify://shop_images/Rosalie_Web_Banner_3.jpg",
+              "mobile_image": "shopify://shop_images/Rosalie_Mobile_Banner_3.jpg",
               "apply_overlay": false,
               "content_position": "bottomLeft",
               "subheading": "",
               "title": "",
               "button_1_text": "",
-              "button_1_link": "shopify:\/\/collections\/best-sellers",
+              "button_1_link": "shopify://collections/best-sellers",
               "button_2_text": "",
-              "button_2_link": "shopify:\/\/collections\/best-sellers"
+              "button_2_link": "shopify://collections/best-sellers"
             }
           }
         },
@@ -1431,9 +1429,7 @@
       },
       "1602182928254": {
         "type": "review-carousel",
-        "disabled": true,
-        "settings": {
-        }
+        "settings": {}
       },
       "blog-template": {
         "type": "blog-template",
@@ -1462,23 +1458,23 @@
         "settings": {
           "subheading": "Sign up for our",
           "title": "Newsletter",
-          "content": "<p>Be the first to find out about all the good stuff Skin Inc has to offer. Subscribe now and get 15% off your first purchase.<\/p>"
+          "content": "<p>Be the first to find out about all the good stuff Skin Inc has to offer. Subscribe now and get 15% off your first purchase.</p>"
         }
       },
       "16046706018733d79b": {
         "type": "featured-product-dev",
         "blocks": {
-          "2ca6304f-0f1b-4076-928f-b4ee9dbd5ccc": {
-            "type": "product",
-            "settings": {
-              "product": "tri-light-sabi",
-              "type": "best_sellers"
-            }
-          },
           "9abd3b8a-0a87-4c7b-b756-3790c7146b16": {
             "type": "product",
             "settings": {
               "product": "create-your-own-custom-serum",
+              "type": "best_sellers"
+            }
+          },
+          "2ca6304f-0f1b-4076-928f-b4ee9dbd5ccc": {
+            "type": "product",
+            "settings": {
+              "product": "tri-light-sabi",
               "type": "best_sellers"
             }
           },
@@ -1555,7 +1551,7 @@
           "273c74b1-2b5a-4ea6-a9a2-41eaab3fbfc6": {
             "type": "product",
             "settings": {
-              "product": "pure-deepsea-hydrating-mask-30ml",
+              "product": "pure-deepsea-hydrating-mask-jar",
               "type": "best_sellers"
             }
           },
@@ -1638,8 +1634,8 @@
           }
         },
         "block_order": [
-          "2ca6304f-0f1b-4076-928f-b4ee9dbd5ccc",
           "9abd3b8a-0a87-4c7b-b756-3790c7146b16",
+          "2ca6304f-0f1b-4076-928f-b4ee9dbd5ccc",
           "01c93470-c163-46eb-b499-211b6eaf1d09",
           "308f39ac-6683-4aad-993f-c1c402798ba4",
           "e0919f2b-1041-4fc8-bef1-b60465427aee",
@@ -1663,8 +1659,7 @@
           "dd166008-aaca-4b68-ac30-24b15d0fa0ea",
           "ccb2e953-609b-4008-916f-d43360417949"
         ],
-        "settings": {
-        }
+        "settings": {}
       },
       "article-template": {
         "type": "article-template",
@@ -1678,9 +1673,7 @@
       },
       "161209126258078cf5": {
         "type": "instafeed",
-        "disabled": true,
         "settings": {
-          "heading_font": "helvetica_n4",
           "heading_size": 26,
           "feed_width": 100,
           "html_area": ""
@@ -1711,8 +1704,50 @@
       },
       "product-bundle-widget": {
         "type": "product-bundle-widget",
-        "settings": {
-        }
+        "settings": {}
+      },
+      "16227928669dce7396": {
+        "type": "marquee-banner",
+        "blocks": {
+          "646791ae-fba9-4f27-87b7-6981bc0c82ca": {
+            "type": "marquee_item",
+            "settings": {
+              "title": "150+ Beauty awards"
+            }
+          },
+          "d58d92d8-0e40-43e3-8454-4eefbcbe1b12": {
+            "type": "marquee_item",
+            "settings": {
+              "title": "Proprietary encapsulation for fresh potency"
+            }
+          },
+          "a7f4eeb4-84a9-444e-8d94-9dafd0fc7b1a": {
+            "type": "marquee_item",
+            "settings": {
+              "title": "Clinically-proven glowing results"
+            }
+          },
+          "f91b14af-a7ec-41b7-ac22-fca93210df4f": {
+            "type": "marquee_item",
+            "settings": {
+              "title": "5% REBATES FOR LOYAL CUSTOMERS"
+            }
+          },
+          "72cb288e-bf2a-49ea-b5a7-b16ccd333c02": {
+            "type": "marquee_item",
+            "settings": {
+              "title": "Free shipping over $40"
+            }
+          }
+        },
+        "block_order": [
+          "646791ae-fba9-4f27-87b7-6981bc0c82ca",
+          "d58d92d8-0e40-43e3-8454-4eefbcbe1b12",
+          "a7f4eeb4-84a9-444e-8d94-9dafd0fc7b1a",
+          "f91b14af-a7ec-41b7-ac22-fca93210df4f",
+          "72cb288e-bf2a-49ea-b5a7-b16ccd333c02"
+        ],
+        "settings": {}
       },
       "product-body-device-template": {
         "type": "product-body-device-template",
@@ -1742,100 +1777,100 @@
         "settings": {
           "description_title": "Tri-Light™ Body Sculpt Fit",
           "banner1_title": "Your At-home 360 Body Workout Reinvented.",
-          "banner1_desc": "<p>Detox, smooth, lift and enhance your way to your best body with 6 synergistic benefits including advanced Micro-Vibration, Micro-Current, Heating and 3 NASA-inspired LED lights.<\/p>",
-          "banner1_image": "shopify:\/\/shop_images\/banner1.jpg",
+          "banner1_desc": "<p>Detox, smooth, lift and enhance your way to your best body with 6 synergistic benefits including advanced Micro-Vibration, Micro-Current, Heating and 3 NASA-inspired LED lights.</p>",
+          "banner1_image": "shopify://shop_images/banner1.jpg",
           "banner1_cart_btn": "ADD TO BAG",
           "banner2_title": "One Device With 4-in-1 Treatments",
-          "banner2_image": "shopify:\/\/shop_images\/banner2.jpg",
+          "banner2_image": "shopify://shop_images/banner2.jpg",
           "banner2_cart_btn": "ADD TO BAG",
           "banner3_title": "Smooth, Lift, Detox & Glow<br>Your Way To Healthy Skin",
-          "banner3_desc": "<p>Customize your treatment to allow for targeted body concerns to be addressed in the safest and most comfortable manner, while still generating the quickest results in the comfort of your own home.<\/p>",
-          "banner3_image": "shopify:\/\/shop_images\/banner3.jpg",
+          "banner3_desc": "<p>Customize your treatment to allow for targeted body concerns to be addressed in the safest and most comfortable manner, while still generating the quickest results in the comfort of your own home.</p>",
+          "banner3_image": "shopify://shop_images/banner3.jpg",
           "banner3_cart_btn": "ADD TO BAG",
           "banner4_title": "Chin Up",
-          "banner4_desc": "Like a palm-sized personal trainer, this device will help tone and contour the neck and chin. Loose skin, lines and wrinkles, will be thing of the past.<div class=\"content_divided\"><\/div><span class=\"strong_red\">Lift Mode<\/span> stimulates lymphatic drainage, tightens sagging skin, improves, the appearance of fine line and wrinkles.",
-          "banner4_heading_img": "shopify:\/\/shop_images\/u-1-op.png",
-          "banner4_image": "shopify:\/\/shop_images\/banner4.jpg",
+          "banner4_desc": "Like a palm-sized personal trainer, this device will help tone and contour the neck and chin. Loose skin, lines and wrinkles, will be thing of the past.<div class=\"content_divided\"></div><span class=\"strong_red\">Lift Mode</span> stimulates lymphatic drainage, tightens sagging skin, improves, the appearance of fine line and wrinkles.",
+          "banner4_heading_img": "shopify://shop_images/u-1-op.png",
+          "banner4_image": "shopify://shop_images/banner4.jpg",
           "banner4_cart_btn": "ADD TO BAG",
           "banner5_title": "Detox From The Inside Out",
-          "banner5_desc": "Treat yourself to a full workout, without all the work, effort or time, with the synergistic effects of Micro-Current, Micro-Vibration &amp; Green LED Light Therapy.<div class=\"content_divided\"><\/div><span class=\"strong_glow\">Glow Mode<\/span> helps with lymphatic circulation and detoxification, whilst targeting tonality concerns such post-pregnancy stretch marks, dullness and pigmentation.",
-          "banner5_heading_img": "shopify:\/\/shop_images\/u-2-op.png",
-          "banner5_image": "shopify:\/\/shop_images\/banner5.jpg",
+          "banner5_desc": "Treat yourself to a full workout, without all the work, effort or time, with the synergistic effects of Micro-Current, Micro-Vibration &amp; Green LED Light Therapy.<div class=\"content_divided\"></div><span class=\"strong_glow\">Glow Mode</span> helps with lymphatic circulation and detoxification, whilst targeting tonality concerns such post-pregnancy stretch marks, dullness and pigmentation.",
+          "banner5_heading_img": "shopify://shop_images/u-2-op.png",
+          "banner5_image": "shopify://shop_images/banner5.jpg",
           "banner5_cart_btn": "ADD TO BAG",
           "banner6_title": "We've Got Your Back",
-          "banner6_desc": "To help you banish backne, soothe inflammation, drain, toxins, repair skin, tone and sculpt contours switch to Smooth Mode.<div class=\"content_divided\"><\/div><span class=\"strong_smooth\">Smooth Mode<\/span> tackles bacteria, soothes skin and improves elasticity with Red and Blue LED lights. Micro-current stimulates collagen, and micro-vibrations promote blood circulation.",
-          "banner6_heading_img": "shopify:\/\/shop_images\/u-3-op.png",
-          "banner6_image": "shopify:\/\/shop_images\/banner6.jpg",
+          "banner6_desc": "To help you banish backne, soothe inflammation, drain, toxins, repair skin, tone and sculpt contours switch to Smooth Mode.<div class=\"content_divided\"></div><span class=\"strong_smooth\">Smooth Mode</span> tackles bacteria, soothes skin and improves elasticity with Red and Blue LED lights. Micro-current stimulates collagen, and micro-vibrations promote blood circulation.",
+          "banner6_heading_img": "shopify://shop_images/u-3-op.png",
+          "banner6_image": "shopify://shop_images/banner6.jpg",
           "banner6_cart_btn": "ADD TO BAG",
-          "banner7_title": "Mood Boosting With 42°C \/ 108°F",
-          "banner7_desc": "Emblematic of our Japanese roots and paying homage to ganbanyoku (bedrock bathing) to simulate a hot-stone massage, warming up your muscles.<div class=\"content_divided\"><\/div><span class=\"strong_heat\">Heat Mode<\/span> introduces a warm touch within your body care routine, boosting your overall well-being and relaxing your body for better sleep.",
-          "banner7_heading_img": "shopify:\/\/shop_images\/u-4-op.png",
-          "banner7_image": "shopify:\/\/shop_images\/banner7.jpg",
+          "banner7_title": "Mood Boosting With 42°C / 108°F",
+          "banner7_desc": "Emblematic of our Japanese roots and paying homage to ganbanyoku (bedrock bathing) to simulate a hot-stone massage, warming up your muscles.<div class=\"content_divided\"></div><span class=\"strong_heat\">Heat Mode</span> introduces a warm touch within your body care routine, boosting your overall well-being and relaxing your body for better sleep.",
+          "banner7_heading_img": "shopify://shop_images/u-4-op.png",
+          "banner7_image": "shopify://shop_images/banner7.jpg",
           "banner7_cart_btn": "ADD TO BAG",
           "banner8_title": "Treat Yourself To A Full Body Workout",
-          "banner8_desc": "<p>.... Without all the work, effort or time, with the synergistic effects of Micro-Current, Micro-Vibration & LED Light Therapy.<\/p>",
-          "banner8_item1_image": "shopify:\/\/shop_images\/banner8_item_1.jpg",
-          "banner8_item1_detail": "<p><strong>Lift Mode<\/strong> for tightening sagging skin like the tummy area, arms & thigh by helping to simulate lymphatic circulation.<\/p>",
-          "banner8_item2_image": "shopify:\/\/shop_images\/banner8_item_2.jpg",
-          "banner8_item2_detail": "<p><strong>Smooth Mode<\/strong> for dimpled skin & assne.<\/p><p><strong>Lift Mode<\/strong> to help tighten for firmer skin.<\/p><p><strong>Glow Mode<\/strong> for stretch marks.<\/p>",
-          "banner8_item3_image": "shopify:\/\/shop_images\/banner8_item_3.jpg",
-          "banner8_item3_detail": "<p><strong>Glow Mode<\/strong> for areas with tonality concerns such marks and dullness. Especially helpful on the armpits!<\/p>",
+          "banner8_desc": "<p>.... Without all the work, effort or time, with the synergistic effects of Micro-Current, Micro-Vibration & LED Light Therapy.</p>",
+          "banner8_item1_image": "shopify://shop_images/banner8_item_1.jpg",
+          "banner8_item1_detail": "<p><strong>Lift Mode</strong> for tightening sagging skin like the tummy area, arms & thigh by helping to simulate lymphatic circulation.</p>",
+          "banner8_item2_image": "shopify://shop_images/banner8_item_2.jpg",
+          "banner8_item2_detail": "<p><strong>Smooth Mode</strong> for dimpled skin & assne.</p><p><strong>Lift Mode</strong> to help tighten for firmer skin.</p><p><strong>Glow Mode</strong> for stretch marks.</p>",
+          "banner8_item3_image": "shopify://shop_images/banner8_item_3.jpg",
+          "banner8_item3_detail": "<p><strong>Glow Mode</strong> for areas with tonality concerns such marks and dullness. Especially helpful on the armpits!</p>",
           "banner8_cart_btn": "ADD TO BAG",
-          "banner9_image": "shopify:\/\/shop_images\/banner9.jpg",
-          "banner9_icon": "shopify:\/\/shop_images\/banner9-icon.png",
+          "banner9_image": "shopify://shop_images/banner9.jpg",
+          "banner9_icon": "shopify://shop_images/banner9-icon.png",
           "banner9_title": "Similar to warming up your body before a workout, your skin needs to warm up too!",
-          "banner9_desc": "<p>Soothe and relax tense muscles by giving them a warm massage before starting any treatments. The heat of 42°C \/ 108°F can help to facilitate your body metabolism, preparing it for your at home spa treatment.<\/p>",
+          "banner9_desc": "<p>Soothe and relax tense muscles by giving them a warm massage before starting any treatments. The heat of 42°C / 108°F can help to facilitate your body metabolism, preparing it for your at home spa treatment.</p>",
           "banner10_title": "'Waking Up Your Skin' With A Glide",
-          "banner10_desc": "<p>Studies have shown that microcurrent can help to 'work out' the muscles, tighten skin and stimulate blood and lymphatic circulation to provide oxygen to the cells and eliminate toxins.<\/p>",
-          "banner10_item1_image": "shopify:\/\/shop_images\/banner10_item_1.jpg",
-          "banner10_item1_detail": "<p><strong>Galvanic<\/strong><\/p><p>Increase skincare absorption rate with consistent wave pattern<\/p>",
-          "banner10_item2_image": "shopify:\/\/shop_images\/banner10_item_2.jpg",
-          "banner10_item2_detail": "<p><strong>Rectangular<\/strong><\/p><p>Smooth skin with longer alternating wave pattern<\/p>",
-          "banner10_item3_image": "shopify:\/\/shop_images\/banner10_item_3.jpg",
-          "banner10_item3_detail": "<p><strong>Sine<\/strong><\/p><p>Firm skin with oscillating wave pattern<\/p>",
+          "banner10_desc": "<p>Studies have shown that microcurrent can help to 'work out' the muscles, tighten skin and stimulate blood and lymphatic circulation to provide oxygen to the cells and eliminate toxins.</p>",
+          "banner10_item1_image": "shopify://shop_images/banner10_item_1.jpg",
+          "banner10_item1_detail": "<p><strong>Galvanic</strong></p><p>Increase skincare absorption rate with consistent wave pattern</p>",
+          "banner10_item2_image": "shopify://shop_images/banner10_item_2.jpg",
+          "banner10_item2_detail": "<p><strong>Rectangular</strong></p><p>Smooth skin with longer alternating wave pattern</p>",
+          "banner10_item3_image": "shopify://shop_images/banner10_item_3.jpg",
+          "banner10_item3_detail": "<p><strong>Sine</strong></p><p>Firm skin with oscillating wave pattern</p>",
           "banner10_cart_btn": "ADD TO BAG",
-          "banner11_bg_image": "shopify:\/\/shop_images\/banner11-bg.jpg",
-          "banner11_icon": "shopify:\/\/shop_images\/banner11-icon.png",
+          "banner11_bg_image": "shopify://shop_images/banner11-bg.jpg",
+          "banner11_icon": "shopify://shop_images/banner11-icon.png",
           "banner11_title": "Smart Micro-Vibrations For A Lifting Effect",
-          "banner11_desc": "<p>Address the appearance of sagging skin, lines, skin dimpling and areas like saddlebags, love handles and belly bulge by helping improve blood circulation and skin care product absorption rate.<\/p>",
-          "banner11_details_img": "shopify:\/\/shop_images\/u-5-op.png",
-          "banner11_img": "shopify:\/\/shop_images\/banner11.png",
+          "banner11_desc": "<p>Address the appearance of sagging skin, lines, skin dimpling and areas like saddlebags, love handles and belly bulge by helping improve blood circulation and skin care product absorption rate.</p>",
+          "banner11_details_img": "shopify://shop_images/u-5-op.png",
+          "banner11_img": "shopify://shop_images/banner11.png",
           "banner12_title": "Led Color Therapy",
-          "banner12_item1_image": "shopify:\/\/shop_images\/banner12_item_1.png",
-          "banner12_item1_detail": "<div class=\"item_title blue_led\">Blue Led<\/div>\n<p class=\"sub_item_title\">Smooth Mode<\/p>\n<p>Purifies and calms skin thanks to its ability to remove bacteria and soothe inflammation.\nAlso helps regulate oil production to treat backne, chestne and assne.<\/p>",
-          "banner12_item2_image": "shopify:\/\/shop_images\/banner12_item_2.png",
-          "banner12_item2_detail": "<div class=\"item_title green_led\">Green Led<\/div>\n<p class=\"sub_item_title\">Glow Mode<\/p>\n<p>Brightens skin tone by regulating melanin overproduction. Also tackles dark marks, stretch marks and broken capillaries. Can also help with wound healing.<\/p>",
-          "banner12_item3_image": "shopify:\/\/shop_images\/banner12_item_3.png",
-          "banner12_item3_detail": "<div class=\"item_title red_led\">Red Led<\/div>\n<p class=\"sub_item_title\">Lift Mode<\/p>\n<p>Helps promote blood circulation and accelerates skin repair, which results in improved skin elasticity. Dimpled skin looks less bumpy, fine lines are softer and skin looks taut.<\/p>",
+          "banner12_item1_image": "shopify://shop_images/banner12_item_1.png",
+          "banner12_item1_detail": "<div class=\"item_title blue_led\">Blue Led</div>\n<p class=\"sub_item_title\">Smooth Mode</p>\n<p>Purifies and calms skin thanks to its ability to remove bacteria and soothe inflammation.\nAlso helps regulate oil production to treat backne, chestne and assne.</p>",
+          "banner12_item2_image": "shopify://shop_images/banner12_item_2.png",
+          "banner12_item2_detail": "<div class=\"item_title green_led\">Green Led</div>\n<p class=\"sub_item_title\">Glow Mode</p>\n<p>Brightens skin tone by regulating melanin overproduction. Also tackles dark marks, stretch marks and broken capillaries. Can also help with wound healing.</p>",
+          "banner12_item3_image": "shopify://shop_images/banner12_item_3.png",
+          "banner12_item3_detail": "<div class=\"item_title red_led\">Red Led</div>\n<p class=\"sub_item_title\">Lift Mode</p>\n<p>Helps promote blood circulation and accelerates skin repair, which results in improved skin elasticity. Dimpled skin looks less bumpy, fine lines are softer and skin looks taut.</p>",
           "banner12_cart_btn": "ADD TO BAG",
-          "banner13_bg_image": "shopify:\/\/shop_images\/banner13-bg-img.jpg",
+          "banner13_bg_image": "shopify://shop_images/banner13-bg-img.jpg",
           "banner13_title": "High-Performance & Instant Relief From First Contact",
-          "banner13_desc": "<p>Made with Titanium*, a premium material that is safe, durable and synonymous with usage within the aerospace and biomedical industries.<\/p><p><em>*Rhodium-coated for strength and corrosion-resistance<\/em><\/p>",
+          "banner13_desc": "<p>Made with Titanium*, a premium material that is safe, durable and synonymous with usage within the aerospace and biomedical industries.</p><p><em>*Rhodium-coated for strength and corrosion-resistance</em></p>",
           "banner14_title": "Your Customized Body Treatment In the Palm of Your Hand",
-          "banner14_desc": "<p>The intuitive design feels comfortable in your hand, allowing you to channel your inner esthetician and easily control every mode with the click of a button.<\/p>",
-          "banner14_image": "shopify:\/\/shop_images\/banner14.png",
-          "banner15_image": "shopify:\/\/shop_images\/banner15.png",
+          "banner14_desc": "<p>The intuitive design feels comfortable in your hand, allowing you to channel your inner esthetician and easily control every mode with the click of a button.</p>",
+          "banner14_image": "shopify://shop_images/banner14.png",
+          "banner15_image": "shopify://shop_images/banner15.png",
           "banner15_title_1": "Fuss-Free Recharging",
-          "banner15_desc_1": "Recharge your Tri-Light™ Body Sculpt Fit anytime &amp; anywhere with the USB cable.\n<p class=\"important\">\n*Recharging: <span class=\"red\">RED<\/span>\n<\/p>\n<p class=\"important\">\n*Fully Charged: <span class=\"green\">GREEN<\/span>\n<\/p>",
+          "banner15_desc_1": "Recharge your Tri-Light™ Body Sculpt Fit anytime &amp; anywhere with the USB cable.\n<p class=\"important\">\n*Recharging: <span class=\"red\">RED</span>\n</p>\n<p class=\"important\">\n*Fully Charged: <span class=\"green\">GREEN</span>\n</p>",
           "banner15_title_2": "Easy To Check Battery Life",
-          "banner15_desc_2": "The color of the charging\/status LED indicator changes depending on the battery level in the order of\n<p><span class=\"green\">Green<\/span> → <span class=\"yellow\">Yellow<\/span> → <span class=\"orange\">Orange<\/span> → <span class=\"red\">Red.<\/span><\/p>",
-          "banner15_item1_image": "shopify:\/\/shop_images\/banner15_item_1.png",
-          "banner15_item1_detail": "<span class=\"green\">GREEN<\/span>: The battery is fully charged or close to being fully charged.",
-          "banner15_item2_image": "shopify:\/\/shop_images\/banner15_item_2.png",
-          "banner15_item2_detail": "<span class=\"yellow\">YELLOW<\/span>: The battery is enough.",
-          "banner15_item3_image": "shopify:\/\/shop_images\/banner15_item_3.png",
-          "banner15_item3_detail": "<span class=\"orange\">ORANGE<\/span>: The battery is running low.",
-          "banner15_item4_image": "shopify:\/\/shop_images\/banner15_item_4.png",
-          "banner15_item4_detail": "<span class=\"red\">RED<\/span>: The battery needs to be charged.",
+          "banner15_desc_2": "The color of the charging/status LED indicator changes depending on the battery level in the order of\n<p><span class=\"green\">Green</span> → <span class=\"yellow\">Yellow</span> → <span class=\"orange\">Orange</span> → <span class=\"red\">Red.</span></p>",
+          "banner15_item1_image": "shopify://shop_images/banner15_item_1.png",
+          "banner15_item1_detail": "<span class=\"green\">GREEN</span>: The battery is fully charged or close to being fully charged.",
+          "banner15_item2_image": "shopify://shop_images/banner15_item_2.png",
+          "banner15_item2_detail": "<span class=\"yellow\">YELLOW</span>: The battery is enough.",
+          "banner15_item3_image": "shopify://shop_images/banner15_item_3.png",
+          "banner15_item3_detail": "<span class=\"orange\">ORANGE</span>: The battery is running low.",
+          "banner15_item4_image": "shopify://shop_images/banner15_item_4.png",
+          "banner15_item4_detail": "<span class=\"red\">RED</span>: The battery needs to be charged.",
           "banner15_cart_btn": "ADD TO BAG",
           "banner16_title": "Triple Temperature Control For Your Safety",
-          "banner16_sub_title_1": "Maintained at a constant of 42°C \/ 108°F",
-          "banner16_sub_desc_1": "<p>Thermistor resistance error is +- 5%, with a temperature error controlled to be less than +- 0.5°C \/ 32.9°F<\/p>",
+          "banner16_sub_title_1": "Maintained at a constant of 42°C / 108°F",
+          "banner16_sub_desc_1": "<p>Thermistor resistance error is +- 5%, with a temperature error controlled to be less than +- 0.5°C / 32.9°F</p>",
           "banner16_sub_title_2": "Automatic Shut Down for Temperature Control",
-          "banner16_sub_desc_2": "<p>Device shuts down power by Biemetal when temperature exceeds internal standard to prevent various issues with battery, motor & other parts.<\/p>",
+          "banner16_sub_desc_2": "<p>Device shuts down power by Biemetal when temperature exceeds internal standard to prevent various issues with battery, motor & other parts.</p>",
           "banner16_sub_title_3": "Automatic Shut Down When Not In Use",
-          "banner16_sub_desc_3": "<p>Device shuts down power when it is left idle for 3 minutes while the power is on.<\/p>",
-          "banner16_image": "shopify:\/\/shop_images\/banner16.png",
+          "banner16_sub_desc_3": "<p>Device shuts down power when it is left idle for 3 minutes while the power is on.</p>",
+          "banner16_image": "shopify://shop_images/banner16.png",
           "banner16_cart_btn": "ADD TO BAG"
         }
       },
@@ -1845,15 +1880,15 @@
           "16850251-e2a2-4989-a0bb-10cdec63f283": {
             "type": "image",
             "settings": {
-              "image": "shopify:\/\/shop_images\/banner_8cadc58b-e900-43dc-84ba-609800e409cd.jpg",
+              "image": "shopify://shop_images/banner_8cadc58b-e900-43dc-84ba-609800e409cd.jpg",
               "apply_overlay": true,
               "content_position": "bottomLeft",
               "subheading": "",
               "title": "",
               "button_1_text": "",
-              "button_1_link": "shopify:\/\/products\/tri-light-body-sculpt-fit",
+              "button_1_link": "shopify://products/tri-light-body-sculpt-fit",
               "button_2_text": "",
-              "button_2_link": "shopify:\/\/products\/tri-light-body-sculpt-fit"
+              "button_2_link": "shopify://products/tri-light-body-sculpt-fit"
             }
           }
         },
@@ -1881,9 +1916,9 @@
           "b5f35b8d-9e3a-4925-806f-bdbd60e0a30a": {
             "type": "approach_item",
             "settings": {
-              "image": "shopify:\/\/shop_images\/banner3.jpg",
+              "image": "shopify://shop_images/banner3.jpg",
               "title": "",
-              "content": "<p>Feel healthy and happy, in all sizes and shapes<\/p>",
+              "content": "<p>Feel healthy and happy, in all sizes and shapes</p>",
               "direction": "left",
               "cta_btn_label": ""
             }
@@ -1893,14 +1928,13 @@
           "941b0ca3-81a5-40d3-bf63-027cb0eff9fd",
           "b5f35b8d-9e3a-4925-806f-bdbd60e0a30a"
         ],
-        "settings": {
-        }
+        "settings": {}
       },
       "background_vid_homepage": {
         "type": "background_vid_homepage",
         "settings": {
           "section_size": "large",
-          "video_url": "https:\/\/youtu.be\/64S_pXODPik"
+          "video_url": "https://youtu.be/64S_pXODPik"
         }
       },
       "celebrate-your-every-curve": {
@@ -1909,10 +1943,10 @@
           "9dce0133-f1b8-4fc0-85ad-23bae0aab6bb": {
             "type": "approach_item",
             "settings": {
-              "image": "shopify:\/\/shop_images\/banner1.jpg",
-              "img_link": "shopify:\/\/products\/tri-light-body-sculpt-fit",
+              "image": "shopify://shop_images/banner1.jpg",
+              "img_link": "shopify://products/tri-light-body-sculpt-fit",
               "title": "",
-              "content": "<p>Celebrate your every curve and embrace body positivity through wellness and self-care<\/p>",
+              "content": "<p>Celebrate your every curve and embrace body positivity through wellness and self-care</p>",
               "direction": "right",
               "cta_btn_label": ""
             }
@@ -1920,10 +1954,10 @@
           "2d70263c-8e48-4d38-ab47-b020c12d10f6": {
             "type": "approach_item",
             "settings": {
-              "image": "shopify:\/\/shop_images\/0527-skin-inc0846-Edit.png",
-              "img_link": "shopify:\/\/products\/tri-light-body-sculpt-fit",
+              "image": "shopify://shop_images/0527-skin-inc0846-Edit.png",
+              "img_link": "shopify://products/tri-light-body-sculpt-fit",
               "title": "",
-              "content": "<p>Dear Body,<br\/>Here’s a reminder: Self-Love is Self-Care<\/p>",
+              "content": "<p>Dear Body,<br/>Here’s a reminder: Self-Love is Self-Care</p>",
               "direction": "left",
               "cta_btn_label": ""
             }
@@ -1931,10 +1965,10 @@
           "9645a1b0-b347-4764-bd39-37e2009e214e": {
             "type": "approach_item",
             "settings": {
-              "image": "shopify:\/\/shop_images\/0527-skin-inc0539-Edit.png",
-              "img_link": "shopify:\/\/products\/tri-light-body-sculpt-fit",
+              "image": "shopify://shop_images/0527-skin-inc0539-Edit.png",
+              "img_link": "shopify://products/tri-light-body-sculpt-fit",
               "title": "",
-              "content": "<p>How time melts away with a warm touch<\/p>",
+              "content": "<p>How time melts away with a warm touch</p>",
               "direction": "right",
               "cta_btn_label": ""
             }
@@ -1942,8 +1976,8 @@
           "5a417c00-5a9a-4db0-bd15-ccd1e5e5962a": {
             "type": "approach_item",
             "settings": {
-              "image": "shopify:\/\/shop_images\/0527-skin-inc3540-Edit.png",
-              "img_link": "shopify:\/\/products\/tri-light-body-sculpt-fit",
+              "image": "shopify://shop_images/0527-skin-inc3540-Edit.png",
+              "img_link": "shopify://products/tri-light-body-sculpt-fit",
               "title": "",
               "content": "",
               "direction": "left",
@@ -1953,10 +1987,10 @@
           "20f37b9e-0753-4b6a-8aca-b9f7aa029d1b": {
             "type": "approach_item",
             "settings": {
-              "image": "shopify:\/\/shop_images\/banner6.jpg",
-              "img_link": "shopify:\/\/products\/tri-light-body-sculpt-fit",
+              "image": "shopify://shop_images/banner6.jpg",
+              "img_link": "shopify://products/tri-light-body-sculpt-fit",
               "title": "",
-              "content": "<p>Share a bonding moment with someone who has your back<br\/><br\/>... with Ganbanyoku, a relaxing Japanese hot stone massage<\/p>",
+              "content": "<p>Share a bonding moment with someone who has your back<br/><br/>... with Ganbanyoku, a relaxing Japanese hot stone massage</p>",
               "direction": "right",
               "cta_btn_label": ""
             }
@@ -1969,18 +2003,17 @@
           "5a417c00-5a9a-4db0-bd15-ccd1e5e5962a",
           "20f37b9e-0753-4b6a-8aca-b9f7aa029d1b"
         ],
-        "settings": {
-        }
+        "settings": {}
       },
       "letting-your-inner-glow": {
         "type": "letting-your-inner-glow",
         "settings": {
           "title": "Letting your inner glow from within shine",
-          "image": "shopify:\/\/shop_images\/skin_one.png",
-          "image_mobile": "shopify:\/\/shop_images\/banner8_item_3.jpg",
+          "image": "shopify://shop_images/skin_one.png",
+          "image_mobile": "shopify://shop_images/banner8_item_3.jpg",
           "content": "",
           "link_text": "",
-          "link_url": "shopify:\/\/products\/tri-light-body-sculpt-fit"
+          "link_url": "shopify://products/tri-light-body-sculpt-fit"
         }
       },
       "love-your-body": {
@@ -1989,10 +2022,10 @@
           "375525e9-cfdf-4000-9c1f-f10855007f68": {
             "type": "approach_item",
             "settings": {
-              "image": "shopify:\/\/shop_images\/bne.png",
-              "img_link": "shopify:\/\/collections\/new",
+              "image": "shopify://shop_images/bne.png",
+              "img_link": "shopify://collections/new",
               "title": "",
-              "content": "<p>Love your body because you only have one<\/p>",
+              "content": "<p>Love your body because you only have one</p>",
               "direction": "left",
               "cta_btn_label": ""
             }
@@ -2001,8 +2034,7 @@
         "block_order": [
           "375525e9-cfdf-4000-9c1f-f10855007f68"
         ],
-        "settings": {
-        }
+        "settings": {}
       },
       "embrace-icon-gallery": {
         "type": "embrace-icon-gallery",
@@ -2010,14 +2042,14 @@
           "1249035c-7677-45cf-8241-8d203858f02c": {
             "type": "brand_image",
             "settings": {
-              "image": "shopify:\/\/shop_images\/skin3_c015cf13-7614-43b7-826c-62c4a544ad08.png",
+              "image": "shopify://shop_images/skin3_c015cf13-7614-43b7-826c-62c4a544ad08.png",
               "text": ""
             }
           },
           "b19a8f54-c1c0-409b-ac72-6c00fa773720": {
             "type": "brand_image",
             "settings": {
-              "image": "shopify:\/\/shop_images\/skkin2.jpg",
+              "image": "shopify://shop_images/skkin2.jpg",
               "text": ""
             }
           }
@@ -2042,10 +2074,10 @@
           "3de40dfc-3f0d-4ba0-b22c-4f85fcd6f49f": {
             "type": "approach_item",
             "settings": {
-              "image": "shopify:\/\/shop_images\/skin-inc.jpg",
-              "img_link": "shopify:\/\/products\/beauty-jelly-dose",
+              "image": "shopify://shop_images/skin-inc.jpg",
+              "img_link": "shopify://products/beauty-jelly-dose",
               "title": "",
-              "content": "<p>Follow your intuitions and eat what nourishes the body<\/p>",
+              "content": "<p>Follow your intuitions and eat what nourishes the body</p>",
               "direction": "left",
               "cta_btn_label": ""
             }
@@ -2053,10 +2085,10 @@
           "545f7cec-ef5b-42be-b03b-38780844f239": {
             "type": "approach_item",
             "settings": {
-              "image": "shopify:\/\/shop_images\/Jelly_Dose-Zen_0697-final.jpg",
-              "img_link": "shopify:\/\/products\/beauty-jelly-dose",
+              "image": "shopify://shop_images/Jelly_Dose-Zen_0697-final.jpg",
+              "img_link": "shopify://products/beauty-jelly-dose",
               "title": "",
-              "content": "<p>A dose of jelly a day for that luminous inside out glow.<\/p>",
+              "content": "<p>A dose of jelly a day for that luminous inside out glow.</p>",
               "direction": "right",
               "cta_btn_label": ""
             }
@@ -2067,18 +2099,17 @@
           "3de40dfc-3f0d-4ba0-b22c-4f85fcd6f49f",
           "545f7cec-ef5b-42be-b03b-38780844f239"
         ],
-        "settings": {
-        }
+        "settings": {}
       },
       "heal-by-releasing": {
         "type": "heal-by-releasing",
         "settings": {
           "title": "Heal by releasing anything  that does not serve you",
-          "image": "shopify:\/\/shop_images\/0527-skin-inc0418-Edit.jpg",
-          "image_mobile": "shopify:\/\/shop_images\/banner9.jpg",
+          "image": "shopify://shop_images/0527-skin-inc0418-Edit.jpg",
+          "image_mobile": "shopify://shop_images/banner9.jpg",
           "content": "",
           "link_text": "",
-          "link_url": "shopify:\/\/products\/tri-light-body-sculpt-fit"
+          "link_url": "shopify://products/tri-light-body-sculpt-fit"
         }
       },
       "cloud-of-sensorial": {
@@ -2087,9 +2118,9 @@
           "5c1be92e-1345-48f0-be43-06fe7628670f": {
             "type": "approach_item",
             "settings": {
-              "image": "shopify:\/\/shop_images\/skin4.png",
+              "image": "shopify://shop_images/skin4.png",
               "title": "",
-              "content": "<p>A cloud of sensorial escape with the uplifting scent of Bergamot & Yuzu<\/p>",
+              "content": "<p>A cloud of sensorial escape with the uplifting scent of Bergamot & Yuzu</p>",
               "direction": "left",
               "cta_btn_label": ""
             }
@@ -2098,15 +2129,14 @@
         "block_order": [
           "5c1be92e-1345-48f0-be43-06fe7628670f"
         ],
-        "settings": {
-        }
+        "settings": {}
       },
       "feeling-good": {
         "type": "feeling-good",
         "settings": {
           "title": "Feeling good is the new looking good,  and it looks different on everyone!",
-          "image": "shopify:\/\/shop_images\/banner_8cadc58b-e900-43dc-84ba-609800e409cd.jpg",
-          "image_mobile": "shopify:\/\/shop_images\/banner_8cadc58b-e900-43dc-84ba-609800e409cd.jpg",
+          "image": "shopify://shop_images/banner_8cadc58b-e900-43dc-84ba-609800e409cd.jpg",
+          "image_mobile": "shopify://shop_images/banner_8cadc58b-e900-43dc-84ba-609800e409cd.jpg",
           "content": "",
           "link_text": ""
         }
@@ -2117,8 +2147,8 @@
           "c5417210-ad0d-4f15-beea-eca483dd2b32": {
             "type": "approach_item",
             "settings": {
-              "image": "shopify:\/\/shop_images\/skin5.jpg",
-              "title": "Your <span>Body, <\/span> <br>Your <span>Rules<\/span>",
+              "image": "shopify://shop_images/skin5.jpg",
+              "title": "Your <span>Body, </span> <br>Your <span>Rules</span>",
               "content": "",
               "direction": "right",
               "cta_btn_label": ""
@@ -2127,7 +2157,7 @@
           "82426c39-5dd8-46f4-8830-c8f283f75e4b": {
             "type": "approach_item",
             "settings": {
-              "image": "shopify:\/\/shop_images\/skin3_c015cf13-7614-43b7-826c-62c4a544ad08.png",
+              "image": "shopify://shop_images/skin3_c015cf13-7614-43b7-826c-62c4a544ad08.png",
               "title": "",
               "content": "",
               "direction": "left",
@@ -2139,8 +2169,7 @@
           "c5417210-ad0d-4f15-beea-eca483dd2b32",
           "82426c39-5dd8-46f4-8830-c8f283f75e4b"
         ],
-        "settings": {
-        }
+        "settings": {}
       },
       "your-360-home": {
         "type": "your-360-home",
@@ -2148,14 +2177,14 @@
           "title": "Your 360 Home Body Workout Reinvented.  Glow. Lift. Smooth. NASA-Inspired.",
           "content": "",
           "link_text": "CELEBRATE YOUR BODY",
-          "link_url": "shopify:\/\/products\/tri-light-body-sculpt-fit"
+          "link_url": "shopify://products/tri-light-body-sculpt-fit"
         }
       },
       "spotify_link": {
         "type": "spotify_link",
         "settings": {
-          "image": "shopify:\/\/shop_images\/Asset_8.png",
-          "link_url": "https:\/\/open.spotify.com\/artist\/1NGw9PFXqYTMGVpjX7s2pz?si=a0yEsB4iTluW44TVypJEDQ&utm_source=copy-link&dl_branch=1"
+          "image": "shopify://shop_images/Asset_8.png",
+          "link_url": "https://open.spotify.com/artist/1NGw9PFXqYTMGVpjX7s2pz?si=a0yEsB4iTluW44TVypJEDQ&utm_source=copy-link&dl_branch=1"
         }
       },
       "product-cart-bundle-template": {
@@ -2183,8 +2212,7 @@
       },
       "product-custom-recovery-mask-widget": {
         "type": "product-custom-recovery-mask-widget",
-        "settings": {
-        }
+        "settings": {}
       },
       "rewards-three-sec": {
         "type": "rewards-three-sec",
@@ -2192,41 +2220,41 @@
           "79e0bd69-826e-498b-bb04-4362f961a1dc": {
             "type": "icon_txt",
             "settings": {
-              "image": "shopify:\/\/shop_images\/Subscribers.png",
+              "image": "shopify://shop_images/Subscribers.png",
               "point-text": "1 point per $1",
               "icon-text": "",
-              "icon-subtext": "<i class=\"fa fa-check-circle-o\" aria-hidden=\"true\"><\/i> 10% off first purchase. <br><i class=\"fa fa-check-circle-o\" aria-hidden=\"true\"><\/i> $30 gift voucher on your birthday month",
+              "icon-subtext": "<i class=\"fa fa-check-circle-o\" aria-hidden=\"true\"></i> 10% off first purchase. <br><i class=\"fa fa-check-circle-o\" aria-hidden=\"true\"></i> $30 gift voucher on your birthday month",
               "check_text": ""
             }
           },
           "4881acd4-d96d-4e93-88b0-ec65bcddf908": {
             "type": "icon_txt",
             "settings": {
-              "image": "shopify:\/\/shop_images\/Gold.png",
+              "image": "shopify://shop_images/Gold.png",
               "point-text": "1 point per $1",
               "icon-text": "",
-              "icon-subtext": "<i class=\"fa fa-check-circle-o\" aria-hidden=\"true\"><\/i> 20% off storewide on birthday month <br><i class=\"fa fa-check-circle-o\" aria-hidden=\"true\"><\/i> 500 points  when refer a friend",
+              "icon-subtext": "<i class=\"fa fa-check-circle-o\" aria-hidden=\"true\"></i> 20% off storewide on birthday month <br><i class=\"fa fa-check-circle-o\" aria-hidden=\"true\"></i> 500 points  when refer a friend",
               "check_text": ""
             }
           },
           "e20b20ae-4315-4715-b412-f00ea7f2f0b8": {
             "type": "icon_txt",
             "settings": {
-              "image": "shopify:\/\/shop_images\/Platinum.png",
+              "image": "shopify://shop_images/Platinum.png",
               "point-text": "1 point per $1",
               "icon-text": "",
-              "icon-subtext": "<i class=\"fa fa-check-circle-o\" aria-hidden=\"true\"><\/i> 500 bonus points for tier upgrade <br><i class=\"fa fa-check-circle-o\" aria-hidden=\"true\"><\/i> 25% off storewide on birthday month<br><i class=\"fa fa-check-circle-o\" aria-hidden=\"true\"><\/i> 500 points when refer a friend",
-              "check_text": "<i class=\"fa fa-check-circle-o\" aria-hidden=\"true\"><\/i> Skin Inc Exclusive launch preview<br>        \t\t <i class=\"fa fa-check-circle-o\" aria-hidden=\"true\"><\/i> Skin Inc Event"
+              "icon-subtext": "<i class=\"fa fa-check-circle-o\" aria-hidden=\"true\"></i> 500 bonus points for tier upgrade <br><i class=\"fa fa-check-circle-o\" aria-hidden=\"true\"></i> 25% off storewide on birthday month<br><i class=\"fa fa-check-circle-o\" aria-hidden=\"true\"></i> 500 points when refer a friend",
+              "check_text": "<i class=\"fa fa-check-circle-o\" aria-hidden=\"true\"></i> Skin Inc Exclusive launch preview<br>        \t\t <i class=\"fa fa-check-circle-o\" aria-hidden=\"true\"></i> Skin Inc Event"
             }
           },
           "c5f4a5e8-e35e-47cc-9d89-c3f0a8d7ac33": {
             "type": "icon_txt",
             "settings": {
-              "image": "shopify:\/\/shop_images\/Solitarie.png",
+              "image": "shopify://shop_images/Solitarie.png",
               "point-text": "1 point per $1",
               "icon-text": "",
-              "icon-subtext": "<i class=\"fa fa-check-circle-o\" aria-hidden=\"true\"><\/i> 1000 bonus points for tier upgrade <br><i class=\"fa fa-check-circle-o\" aria-hidden=\"true\"><\/i> 25% off storewide on birthday month<br><i class=\"fa fa-check-circle-o\" aria-hidden=\"true\"><\/i> 500 points when refer a friend",
-              "check_text": "<i class=\"fa fa-check-circle-o\" aria-hidden=\"true\"><\/i> Skin Inc Exclusive launch preview<br>        \t\t <i class=\"fa fa-check-circle-o\" aria-hidden=\"true\"><\/i> Skin Inc Event"
+              "icon-subtext": "<i class=\"fa fa-check-circle-o\" aria-hidden=\"true\"></i> 1000 bonus points for tier upgrade <br><i class=\"fa fa-check-circle-o\" aria-hidden=\"true\"></i> 25% off storewide on birthday month<br><i class=\"fa fa-check-circle-o\" aria-hidden=\"true\"></i> 500 points when refer a friend",
+              "check_text": "<i class=\"fa fa-check-circle-o\" aria-hidden=\"true\"></i> Skin Inc Exclusive launch preview<br>        \t\t <i class=\"fa fa-check-circle-o\" aria-hidden=\"true\"></i> Skin Inc Event"
             }
           }
         },
@@ -2360,7 +2388,7 @@
             "settings": {
               "sectionid": "",
               "faq_question": "Where can I report a problem or give feedback?",
-              "faq_answer": "Please email to us at <a href=\"mailto:support@iloveskininc.com\">support@iloveskininc.com<\/a>"
+              "faq_answer": "Please email to us at <a href=\"mailto:support@iloveskininc.com\">support@iloveskininc.com</a>"
             }
           }
         },
@@ -2381,8 +2409,7 @@
           "ee2b35ba-6f65-4aa4-9a51-ee95b6d4d08e",
           "c4e39102-a9f3-4ed5-84ef-9f97d77590d1"
         ],
-        "settings": {
-        }
+        "settings": {}
       },
       "banner_reward": {
         "type": "banner_reward",
@@ -2390,7 +2417,7 @@
           "98b00566-0f48-467b-9b27-b9c4f0a682e5": {
             "type": "icon_txt",
             "settings": {
-              "image": "shopify:\/\/shop_images\/mind.png",
+              "image": "shopify://shop_images/mind.png",
               "heading": "Create Account",
               "icon-text": "Join the Skin Inc community and instantly receive +200 points!"
             }
@@ -2398,7 +2425,7 @@
           "4b5ec4a7-0b6f-49bf-9048-6a5dbe40c2d0": {
             "type": "icon_txt",
             "settings": {
-              "image": "shopify:\/\/shop_images\/vottal.png",
+              "image": "shopify://shop_images/vottal.png",
               "heading": "Earn Points",
               "icon-text": "Get 1 point for every $1 spent online and in-stores"
             }
@@ -2406,7 +2433,7 @@
           "a7879d6a-9a68-4743-b958-87739c953c69": {
             "type": "icon_txt",
             "settings": {
-              "image": "shopify:\/\/shop_images\/gift.png",
+              "image": "shopify://shop_images/gift.png",
               "heading": "Get Rewards",
               "icon-text": "Redeem your points to enjoy special rewards and exciting perks!"
             }
@@ -2414,7 +2441,7 @@
           "f1906efb-88d8-4db5-bb43-4b84c727778a": {
             "type": "icon_txt",
             "settings": {
-              "image": "shopify:\/\/shop_images\/dia.png",
+              "image": "shopify://shop_images/dia.png",
               "heading": "Upgrade Tier",
               "icon-text": "Advance to the next tier to receive more rewards and benefits."
             }
@@ -2437,7 +2464,7 @@
           "d24475f8-c8ea-4c91-9c89-488606495336": {
             "type": "icon_txt",
             "settings": {
-              "image": "shopify:\/\/shop_images\/Path.png",
+              "image": "shopify://shop_images/Path.png",
               "heading": "A New Beginning",
               "icon-text": "Skin Inc is well known for combining tech and skincare. Now, we want to make skincare as well as overall good health a lifestyle."
             }
@@ -2445,7 +2472,7 @@
           "2b57f98f-a675-41e0-97b4-cc74b8b8fe01": {
             "type": "icon_txt",
             "settings": {
-              "image": "shopify:\/\/shop_images\/Compound_Path.png",
+              "image": "shopify://shop_images/Compound_Path.png",
               "heading": "Choose To Put Yourself First",
               "icon-text": "Healthy eating, exercise, meditation, and self-care rituals can provide a therapeutic experience to combat stress, anxiety, help calm the mind and make you feel good. Let's do it together, you got this!"
             }
@@ -2453,7 +2480,7 @@
           "a613523b-5207-422d-bcc5-0a7fb69272ec": {
             "type": "icon_txt",
             "settings": {
-              "image": "shopify:\/\/shop_images\/Group.png",
+              "image": "shopify://shop_images/Group.png",
               "heading": "Knowing Your Worth",
               "icon-text": "You are beautiful and enough in your own way,  be confident and just Embrace it (with us)."
             }
@@ -2466,7 +2493,7 @@
         ],
         "settings": {
           "title": "",
-          "image": "shopify:\/\/shop_images\/embrace-logo.png",
+          "image": "shopify://shop_images/embrace-logo.png",
           "banner_text": "Wellness is something that many strive to achieve but it is easier said than done. It is a journey that is different for everyone, but know that we're here to Embrace every step of the way with you.",
           "banner_url": "",
           "show_collection_info": false,
@@ -2495,21 +2522,21 @@
             "type": "icon_txt",
             "settings": {
               "heading": "Ozone Therapy",
-              "text": "<b>Cleanse, Detox, Peel<\/b><br>Unclog pores, detox skin of impurities and kills acne-causing bacteria. Promotes blood circulation to oxygenate and re-activate every cell in the skin."
+              "text": "<b>Cleanse, Detox, Peel</b><br>Unclog pores, detox skin of impurities and kills acne-causing bacteria. Promotes blood circulation to oxygenate and re-activate every cell in the skin."
             }
           },
           "b9a7c813-edd5-4a6e-b153-bedd3b07eaa8": {
             "type": "icon_txt",
             "settings": {
               "heading": "Anion Therapy",
-              "text": "<b>Re-energize, Hydrate, Nourish<\/b><br>Deep infusion of negative anions and your customized serum cocktail to nourish, re-energize and promote cells regeneration."
+              "text": "<b>Re-energize, Hydrate, Nourish</b><br>Deep infusion of negative anions and your customized serum cocktail to nourish, re-energize and promote cells regeneration."
             }
           },
           "ffe71a8e-530b-446b-b836-81cb1e111fac": {
             "type": "icon_txt",
             "settings": {
               "heading": "Oxygen Mask Therapy",
-              "text": "<b>Heal, Repair, Revive<\/b><br>Delivers close to 100% medical-grade oxygen to enhance collagen formation and revive damaged skin tissues to achieve smooth, youthful glass-skin."
+              "text": "<b>Heal, Repair, Revive</b><br>Delivers close to 100% medical-grade oxygen to enhance collagen formation and revive damaged skin tissues to achieve smooth, youthful glass-skin."
             }
           }
         },
@@ -2520,7 +2547,7 @@
         ],
         "settings": {
           "title": "Discover your best skin with our revolutionary customized treatments.",
-          "image": "shopify:\/\/shop_images\/1._Skin_Inc_Oxy-Cryo_Glow_Infusion_Treatment.jpg",
+          "image": "shopify://shop_images/1._Skin_Inc_Oxy-Cryo_Glow_Infusion_Treatment.jpg",
           "img_heading": "Skin Inc Oxy-Cryo Glow Infusion Treatment <br>60 minutes $288",
           "img_text": "Get skin bouncing back to health with Skin Inc's newest customized Oxy­Cryo Glow Infusion Treatment, a state-of-art Korean Gangnam most popular aesthetic treatment for post surgery healing, instant soothing, firming and glow benefits.<br> Completely non-invasive, it is specifically designed to encourage skin recovery and promote skin regeneration. The magic ingredient? Oxygen. Working with something that's vital to the body, coupled with a Skin Inc serum customized to your unique skin needs, this OxyCryo Glow Infusion Treatment is best for congested, sensitive, and ageing skin and helps decongest,improve blood circulation, boost cell renewal & collagen production for well-rested, smoother, firmer, younger looking glass skin today!",
           "oxyheading": "OxyCryo 3-in-1",
@@ -2533,8 +2560,8 @@
           "f902950a-9c02-4a11-9e13-7fec619c5781": {
             "type": "icon_txt",
             "settings": {
-              "image": "shopify:\/\/shop_images\/2._7-in-1_Treatment.jpg",
-              "image2": "shopify:\/\/shop_images\/SpaAward.jpg",
+              "image": "shopify://shop_images/2._7-in-1_Treatment.jpg",
+              "image2": "shopify://shop_images/SpaAward.jpg",
               "point-text": "This massively popular multiple-award winning 2-step treatment starts followed by a calming infusion of oxygen, our signature customized serum cocktail and Onsen water. Tired skin is revived and given an Instant perk-me-up. This treatment is so relaxing it also serves as the perfect opportunity to catch a power nap!",
               "icon-text": "7-in-1 Treatment - cleanse, Moisturise, Repair, Boost  <br>Oxy Miracle Infusion",
               "icon-subtext": "60 Mins | $208"
@@ -2543,7 +2570,7 @@
           "76e5b190-6906-42b9-a1c8-5a60b2304c18": {
             "type": "icon_txt",
             "settings": {
-              "image": "shopify:\/\/shop_images\/3._Perfect_Party-Ready.jpg",
+              "image": "shopify://shop_images/3._Perfect_Party-Ready.jpg",
               "point-text": "This 3-step facial begins with a gentle blast of 99% oxygen to revive skin cells and rev up microcirculation. Skin appears brighter and smoother instantly without the need for painful extraction or post-facial redness. Once skin has been optimally prepped, it is then infused with Skin Inc's signature encapsulated serum to calm sensitized skin and accelerate healing from UV damage and pollution. To complete the treatment, a generous layer of Get Glowin Brightening Mask is applied to skin to instantly brighten skin and refine pores. A treat suitable for all skin types.",
               "icon-text": "Perfect Party-Ready Radiance Instant Glow Infusion",
               "icon-subtext": "60 Mins I $218"
@@ -2552,7 +2579,7 @@
           "6e083958-d1cc-4245-8ac7-c0061d81c8fe": {
             "type": "icon_txt",
             "settings": {
-              "image": "shopify:\/\/shop_images\/4._Put_Your_Best_Face_Forward.jpg",
+              "image": "shopify://shop_images/4._Put_Your_Best_Face_Forward.jpg",
               "point-text": "First, we select a mix of our award-winning serums containing active ingredients to suit your skin's needs at the time of your treatment. This ensures that you will see the results you most desire. Using state-of-the-art No-Needle Mesotherapy technology, your customized serum cocktail is delivered straight to the dermis layer, treating skin problems head-on, right at the source, Instant gratification and sustainable results.",
               "icon-text": "Put Your Best Face Forward Customized Infusion",
               "icon-subtext": "60 Mins I $228"
@@ -2576,7 +2603,7 @@
           "0f90f693-b085-473d-bb29-663b17d4727a": {
             "type": "icon_txt",
             "settings": {
-              "image": "shopify:\/\/shop_images\/5._Bye_Bye_Acne.jpg",
+              "image": "shopify://shop_images/5._Bye_Bye_Acne.jpg",
               "point-text": "We know beauty is not just skin deep. This is why we go deeper. Hailed as the \"no-knife face lift\", this LED light intensity is safe and non invasive yet effective in encouraging your skin to produce collagen, banish lines, wrinkles, acne scarring and minimize pores. The Blue LED mask contains pure Blue 410 nm light that gets right down into the core of your pores, cleansing it of harmful bacteria which causes spots and reduce inflammation.",
               "icon-text": "Bye Bye Acne <br>Anti-Pore Power Fix Mask Treatment",
               "icon-subtext": "45 Mins I $188"
@@ -2585,8 +2612,8 @@
           "024fc5eb-ba93-4d35-aac4-fb7414b1c447": {
             "type": "icon_txt",
             "settings": {
-              "image": "shopify:\/\/shop_images\/7._Works_Better_Than_a_Miracle.jpg",
-              "image2": "shopify:\/\/shop_images\/SpaAward.jpg",
+              "image": "shopify://shop_images/7._Works_Better_Than_a_Miracle.jpg",
+              "image2": "shopify://shop_images/SpaAward.jpg",
               "point-text": "Dehydrated and blemish-prone skin will love this calming and soothing treatment using mineral-Hui Onsen thermal water. Skin is nourished from within as the Onsen thermal water cools, calms and moisturizes and repairs the natural moisture barrier. To complete, Licorice serum is applied and optimized with Blue LED Anti-Pore Power Fix Mask to calm down roughness caused by allergies, inflamed pimples and sunburn.",
               "icon-text": "Works Better Than a Miracle <br>Pure Serum Mist (Onsen) Calming Infusion",
               "icon-subtext": "45 Mins I $188"
@@ -2595,7 +2622,7 @@
           "a5742be6-79a1-431a-ac64-7dfcfdf85dba": {
             "type": "icon_txt",
             "settings": {
-              "image": "shopify:\/\/shop_images\/6._Turn_on_the_power_of_Customisation.jpg",
+              "image": "shopify://shop_images/6._Turn_on_the_power_of_Customisation.jpg",
               "point-text": "A ray of light for your skin Inc, we want our skincare products to exceed their potential. That's why we use optimizer to enhance the effects of skincare products by stimulating skin cells and increasing circulation  By LED Chromotherapy* and Low Frequency Therapy. By speeding up the absorption of acting ingredients into the receptive layer of the skin, we ensure products work harder, giving you sensational skin faster.<br>*Choose between three colors (Red,Yellow and Blue) to treat different skin needs  or customize your  own facial treatment.",
               "icon-text": "Turn on the power of Customisation Optimiser  Voyage Tri-Light treatment",
               "icon-subtext": "30 Mins | $118"
@@ -2627,234 +2654,234 @@
         "type": "product-voyage-tri-light-usb-chrome-silver-tabs",
         "settings": {
           "tab_title": "Optimizer Voyage Tri-light++",
-          "tab_desc": "<p>Revive, Glow, Soothe, Optimize & V-Sculpt in just 3 mins, to tackle multiple skin concerns for healthy, glowing skin.<\/p>",
+          "tab_desc": "<p>Revive, Glow, Soothe, Optimize & V-Sculpt in just 3 mins, to tackle multiple skin concerns for healthy, glowing skin.</p>",
           "banner1_title": "At-Home Skin Care, Reinvented",
-          "banner1_desc": "<p>3000 Flash Facials in 1 Device<br\/>to destress, smooth, lift and glow your way to the best skin of your life.<\/p>",
+          "banner1_desc": "<p>3000 Flash Facials in 1 Device<br/>to destress, smooth, lift and glow your way to the best skin of your life.</p>",
           "banner1_btn_label": "ADD TO BAG",
-          "banner1_desktop_image": "shopify:\/\/shop_images\/hero-desktop.png",
-          "banner1_mobile_image": "shopify:\/\/shop_images\/hero-mobile.png",
+          "banner1_desktop_image": "shopify://shop_images/hero-desktop.png",
+          "banner1_mobile_image": "shopify://shop_images/hero-mobile.png",
           "banner2_title": "BELOVED BY...",
-          "brand_image1": "shopify:\/\/shop_images\/asi-vogue2.png",
-          "brand_image2": "shopify:\/\/shop_images\/asi-allure2.png",
-          "brand_image3": "shopify:\/\/shop_images\/asi-glamour3.png",
-          "brand_image4": "shopify:\/\/shop_images\/asi-oprah.png",
-          "brand_image5": "shopify:\/\/shop_images\/asi-cosmo2.png",
-          "brand_image6": "shopify:\/\/shop_images\/asi-bustle.png",
+          "brand_image1": "shopify://shop_images/asi-vogue2.png",
+          "brand_image2": "shopify://shop_images/asi-allure2.png",
+          "brand_image3": "shopify://shop_images/asi-glamour3.png",
+          "brand_image4": "shopify://shop_images/asi-oprah.png",
+          "brand_image5": "shopify://shop_images/asi-cosmo2.png",
+          "brand_image6": "shopify://shop_images/asi-bustle.png",
           "banner3_title": "Self-Care is the Best Care",
-          "banner3_desc": "<p>LED chromotherapy & sonic massage help you feel beautiful from the inside out.<\/p>",
-          "banner3_desktop_image": "shopify:\/\/shop_images\/4modes-desktop.jpg",
-          "banner3_mobile_image": "shopify:\/\/shop_images\/4modes-mobile.jpg",
+          "banner3_desc": "<p>LED chromotherapy & sonic massage help you feel beautiful from the inside out.</p>",
+          "banner3_desktop_image": "shopify://shop_images/4modes-desktop.jpg",
+          "banner3_mobile_image": "shopify://shop_images/4modes-mobile.jpg",
           "banner3_btn_label": "ADD TO BAG",
-          "banner4_icon": "shopify:\/\/shop_images\/icons-heat.png",
+          "banner4_icon": "shopify://shop_images/icons-heat.png",
           "banner4_title": "Clinically Proven Results",
-          "banner4_desc_1": "<p>Based on a clinical study after using the Optimizer Voyage Tri-Light™:<\/p>",
-          "banner4_details_1": "<p>95% agrees that skin is clearer with a more refined texture<\/p>",
-          "banner4_details_2": "<p>95% agrees that skin looks hydrated<\/p>",
-          "banner4_details_3": "<p>85% agrees that skin looks revived and radiant<\/p>",
-          "banner4_details_4": "<p>81% agrees that lines & wrinkles appear less visible<\/p>",
-          "banner4_desc_2": "<p>Pair with our custom <a href=\"https:\/\/www.iloveskininc.com.sg\/pages\/skin-id\" target=\"_blank\" title=\"Skin ID\"><strong>MyDailyDose<\/strong><\/a> serums for a truly personalized skincare routine.<\/p>",
+          "banner4_desc_1": "<p>Based on a clinical study after using the Optimizer Voyage Tri-Light™:</p>",
+          "banner4_details_1": "<p>95% agrees that skin is clearer with a more refined texture</p>",
+          "banner4_details_2": "<p>95% agrees that skin looks hydrated</p>",
+          "banner4_details_3": "<p>85% agrees that skin looks revived and radiant</p>",
+          "banner4_details_4": "<p>81% agrees that lines & wrinkles appear less visible</p>",
+          "banner4_desc_2": "<p>Pair with our custom <a href=\"https://www.iloveskininc.com.sg/pages/skin-id\" target=\"_blank\" title=\"Skin ID\"><strong>MyDailyDose</strong></a> serums for a truly personalized skincare routine.</p>",
           "banner4_btn_label": "ADD TO BAG",
-          "banner4_image": "shopify:\/\/shop_images\/hotinhere.jpg",
-          "banner5_image": "shopify:\/\/shop_images\/supercharge.jpg",
-          "banner5_icon": "shopify:\/\/shop_images\/icons-vibration.png",
+          "banner4_image": "shopify://shop_images/hotinhere.jpg",
+          "banner5_image": "shopify://shop_images/supercharge.jpg",
+          "banner5_icon": "shopify://shop_images/icons-vibration.png",
           "banner5_title": "Supercharge Your Skincare",
-          "banner5_desc_1": "<p>The Optimizer Voyage Tri-Light™ uses clinically proven, NASA-inspired chromotherapy and sonic massage to:<\/p>",
-          "banner5_details_1": "<p>Enhance performance of skincare<\/p>",
-          "banner5_details_2": "<p>Reduce the appearance of fine lines and wrinkles<\/p>",
-          "banner5_details_3": "<p>Fade dark spots and even out skin tone<\/p>",
+          "banner5_desc_1": "<p>The Optimizer Voyage Tri-Light™ uses clinically proven, NASA-inspired chromotherapy and sonic massage to:</p>",
+          "banner5_details_1": "<p>Enhance performance of skincare</p>",
+          "banner5_details_2": "<p>Reduce the appearance of fine lines and wrinkles</p>",
+          "banner5_details_3": "<p>Fade dark spots and even out skin tone</p>",
           "banner5_btn_label": "ADD TO BAG",
-          "banner6_icon": "shopify:\/\/shop_images\/icons-rocket.png",
+          "banner6_icon": "shopify://shop_images/icons-rocket.png",
           "banner6_title": "3...2...1...Lift Off!",
-          "banner6_subheading": "<p>Our NASA-inspired LED Therapy, Explained<\/p>",
-          "banner6_desc": "<p>On space missions, NASA uses LED Light Therapy <em>(a.k.a. chromotherapy)<\/em> to encourage cells to become <strong>healthier<\/strong> and <strong>function at a much higher rate<\/strong>. We integrated 5 different LED light wavelengths into one device. Use each setting alone or combine colors to help treat your unique skin!<\/p>",
-          "banner6_red_product_image": "shopify:\/\/shop_images\/lights-red.png",
+          "banner6_subheading": "<p>Our NASA-inspired LED Therapy, Explained</p>",
+          "banner6_desc": "<p>On space missions, NASA uses LED Light Therapy <em>(a.k.a. chromotherapy)</em> to encourage cells to become <strong>healthier</strong> and <strong>function at a much higher rate</strong>. We integrated 5 different LED light wavelengths into one device. Use each setting alone or combine colors to help treat your unique skin!</p>",
+          "banner6_red_product_image": "shopify://shop_images/lights-red.png",
           "banner6_red_product_label": "RED LED",
           "banner6_red_product_sub_label": "revive",
-          "banner6_red_product_desc": "<p>Helps to reduce the appearance of fine lines for a more youthful appearance. <\/p>",
-          "banner6_yellow_product_image": "shopify:\/\/shop_images\/lights-yellow.png",
+          "banner6_red_product_desc": "<p>Helps to reduce the appearance of fine lines for a more youthful appearance. </p>",
+          "banner6_yellow_product_image": "shopify://shop_images/lights-yellow.png",
           "banner6_yellow_product_label": "YELLOW LED",
           "banner6_yellow_product_sub_label": "glow",
-          "banner6_yellow_product_desc": "<p>Helps to revive dull skin for a brighter complexion and reduce the appearance of dark spots.<\/p>",
-          "banner6_blue_product_image": "shopify:\/\/shop_images\/lights-blue.png",
+          "banner6_yellow_product_desc": "<p>Helps to revive dull skin for a brighter complexion and reduce the appearance of dark spots.</p>",
+          "banner6_blue_product_image": "shopify://shop_images/lights-blue.png",
           "banner6_blue_product_label": "BLUE LED",
           "banner6_blue_product_sub_label": "soothe",
-          "banner6_blue_product_desc": "<p>Helps to tackle acne-causing bacteria and address oily or congested skin.<\/p>",
-          "banner6_orange_product_image": "shopify:\/\/shop_images\/lights-orange.png",
+          "banner6_blue_product_desc": "<p>Helps to tackle acne-causing bacteria and address oily or congested skin.</p>",
+          "banner6_orange_product_image": "shopify://shop_images/lights-orange.png",
           "banner6_orange_product_label": "ORANGE LED",
           "banner6_orange_product_sub_label": "power combo",
-          "banner6_orange_product_desc": "<p>Combines the benefits of Yellow and Red Lights to help reduce dullness, fine lines, and wrinkles.<\/p>",
-          "banner6_purple_product_image": "shopify:\/\/shop_images\/lights-purple.png",
+          "banner6_orange_product_desc": "<p>Combines the benefits of Yellow and Red Lights to help reduce dullness, fine lines, and wrinkles.</p>",
+          "banner6_purple_product_image": "shopify://shop_images/lights-purple.png",
           "banner6_purple_product_label": "PURPLE LED",
           "banner6_purple_product_sub_label": "power combo",
-          "banner6_purple_product_desc": "<p>Combines the benefits of Red and Blue Lights to help with anti-aging concerns like oxidative stress.<\/p>",
+          "banner6_purple_product_desc": "<p>Combines the benefits of Red and Blue Lights to help with anti-aging concerns like oxidative stress.</p>",
           "banner6_btn_label": "ADD TO BAG",
           "banner7_title": "",
           "banner7_desc": "",
           "banner7_product_title": "",
           "banner7_btn_label": "",
-          "banner8_mark_image": "shopify:\/\/shop_images\/award.png",
+          "banner8_mark_image": "shopify://shop_images/award.png",
           "banner8_title": "Confidence From the Inside Out",
-          "banner8_reviews_desktop_image": "shopify:\/\/shop_images\/reviews-desktop.gif",
-          "banner8_reviews_mobile_image": "shopify:\/\/shop_images\/reviews-mobile.gif",
+          "banner8_reviews_desktop_image": "shopify://shop_images/reviews-desktop.gif",
+          "banner8_reviews_mobile_image": "shopify://shop_images/reviews-mobile.gif",
           "banner8_btn_label": "ADD TO BAG",
-          "banner8_desktop_bg_image": "shopify:\/\/shop_images\/reviews-desktop-bg.jpg",
-          "banner8_mobile_bg_image": "shopify:\/\/shop_images\/reviews-mobile-bg.jpg"
+          "banner8_desktop_bg_image": "shopify://shop_images/reviews-desktop-bg.jpg",
+          "banner8_mobile_bg_image": "shopify://shop_images/reviews-mobile-bg.jpg"
         }
       },
       "product-voyage-tri-light-usb-light-white-tabs": {
         "type": "product-voyage-tri-light-usb-light-white-tabs",
         "settings": {
           "tab_title": "Optimizer Voyage Tri-light++",
-          "tab_desc": "<p>Revive, Glow, Soothe, Optimize & V-Sculpt in just 3 mins, to tackle multiple skin concerns for healthy, glowing skin.<\/p>",
+          "tab_desc": "<p>Revive, Glow, Soothe, Optimize & V-Sculpt in just 3 mins, to tackle multiple skin concerns for healthy, glowing skin.</p>",
           "banner1_title": "At-Home Skin Care, Reinvented",
-          "banner1_desc": "<p>3000 Flash Facials in 1 Device<br\/>to destress, smooth, lift and glow your way to the best skin of your life.<\/p>",
+          "banner1_desc": "<p>3000 Flash Facials in 1 Device<br/>to destress, smooth, lift and glow your way to the best skin of your life.</p>",
           "banner1_btn_label": "ADD TO BAG",
-          "banner1_desktop_image": "shopify:\/\/shop_images\/hero-desktop.png",
-          "banner1_mobile_image": "shopify:\/\/shop_images\/hero-mobile.png",
+          "banner1_desktop_image": "shopify://shop_images/hero-desktop.png",
+          "banner1_mobile_image": "shopify://shop_images/hero-mobile.png",
           "banner2_title": "BELOVED BY...",
-          "brand_image1": "shopify:\/\/shop_images\/asi-vogue2.png",
-          "brand_image2": "shopify:\/\/shop_images\/asi-allure2.png",
-          "brand_image3": "shopify:\/\/shop_images\/asi-glamour3.png",
-          "brand_image4": "shopify:\/\/shop_images\/asi-oprah.png",
-          "brand_image5": "shopify:\/\/shop_images\/asi-cosmo2.png",
-          "brand_image6": "shopify:\/\/shop_images\/asi-bustle.png",
+          "brand_image1": "shopify://shop_images/asi-vogue2.png",
+          "brand_image2": "shopify://shop_images/asi-allure2.png",
+          "brand_image3": "shopify://shop_images/asi-glamour3.png",
+          "brand_image4": "shopify://shop_images/asi-oprah.png",
+          "brand_image5": "shopify://shop_images/asi-cosmo2.png",
+          "brand_image6": "shopify://shop_images/asi-bustle.png",
           "banner3_title": "Self-Care is the Best Care",
-          "banner3_desc": "<p>LED chromotherapy & sonic massage help you feel beautiful from the inside out.<\/p>",
-          "banner3_desktop_image": "shopify:\/\/shop_images\/4modes-desktop.jpg",
-          "banner3_mobile_image": "shopify:\/\/shop_images\/4modes-mobile.jpg",
+          "banner3_desc": "<p>LED chromotherapy & sonic massage help you feel beautiful from the inside out.</p>",
+          "banner3_desktop_image": "shopify://shop_images/4modes-desktop.jpg",
+          "banner3_mobile_image": "shopify://shop_images/4modes-mobile.jpg",
           "banner3_btn_label": "ADD TO BAG",
-          "banner4_icon": "shopify:\/\/shop_images\/icons-heat.png",
+          "banner4_icon": "shopify://shop_images/icons-heat.png",
           "banner4_title": "Clinically Proven Results",
-          "banner4_desc_1": "<p>Based on a clinical study after using the Optimizer Voyage Tri-Light™:<\/p>",
-          "banner4_details_1": "<p>95% agrees that skin is clearer with a more refined texture<\/p>",
-          "banner4_details_2": "<p>95% agrees that skin looks hydrated<\/p>",
-          "banner4_details_3": "<p>85% agrees that skin looks revived and radiant<\/p>",
-          "banner4_details_4": "<p>81% agrees that lines & wrinkles appear less visible<\/p>",
-          "banner4_desc_2": "<p>Pair with our custom <a href=\"\/products\/create-your-own-custom-serum\" target=\"_blank\" title=\"My Daily Dose® Cocktail Serum\"><strong>MyDailyDose<\/strong><\/a> serums for a truly personalized skincare routine.<\/p>",
+          "banner4_desc_1": "<p>Based on a clinical study after using the Optimizer Voyage Tri-Light™:</p>",
+          "banner4_details_1": "<p>95% agrees that skin is clearer with a more refined texture</p>",
+          "banner4_details_2": "<p>95% agrees that skin looks hydrated</p>",
+          "banner4_details_3": "<p>85% agrees that skin looks revived and radiant</p>",
+          "banner4_details_4": "<p>81% agrees that lines & wrinkles appear less visible</p>",
+          "banner4_desc_2": "<p>Pair with our custom <a href=\"/products/create-your-own-custom-serum\" target=\"_blank\" title=\"My Daily Dose® Cocktail Serum\"><strong>MyDailyDose</strong></a> serums for a truly personalized skincare routine.</p>",
           "banner4_btn_label": "ADD TO BAG",
-          "banner4_image": "shopify:\/\/shop_images\/hotinhere.jpg",
-          "banner5_image": "shopify:\/\/shop_images\/supercharge.jpg",
-          "banner5_icon": "shopify:\/\/shop_images\/icons-vibration.png",
+          "banner4_image": "shopify://shop_images/hotinhere.jpg",
+          "banner5_image": "shopify://shop_images/supercharge.jpg",
+          "banner5_icon": "shopify://shop_images/icons-vibration.png",
           "banner5_title": "Supercharge Your Skincare",
-          "banner5_desc_1": "<p>The Optimizer Voyage Tri-Light™ uses clinically proven, NASA-inspired chromotherapy and sonic massage to:<\/p>",
-          "banner5_details_1": "<p>Enhance performance of skincare<\/p>",
-          "banner5_details_2": "<p>Reduce the appearance of fine lines and wrinkles<\/p>",
-          "banner5_details_3": "<p>Fade dark spots and even out skin tone<\/p>",
+          "banner5_desc_1": "<p>The Optimizer Voyage Tri-Light™ uses clinically proven, NASA-inspired chromotherapy and sonic massage to:</p>",
+          "banner5_details_1": "<p>Enhance performance of skincare</p>",
+          "banner5_details_2": "<p>Reduce the appearance of fine lines and wrinkles</p>",
+          "banner5_details_3": "<p>Fade dark spots and even out skin tone</p>",
           "banner5_btn_label": "ADD TO BAG",
-          "banner6_icon": "shopify:\/\/shop_images\/icons-rocket.png",
+          "banner6_icon": "shopify://shop_images/icons-rocket.png",
           "banner6_title": "3...2...1...Lift Off!",
-          "banner6_subheading": "<p>Our NASA-inspired LED Therapy, Explained<\/p>",
-          "banner6_desc": "<p>On space missions, NASA uses LED Light Therapy <em>(a.k.a. chromotherapy)<\/em> to encourage cells to become <strong>healthier<\/strong> and <strong>function at a much higher rate<\/strong>. We integrated 5 different LED light wavelengths into one device. Use each setting alone or combine colors to help treat your unique skin!<\/p>",
-          "banner6_red_product_image": "shopify:\/\/shop_images\/lights-red.png",
+          "banner6_subheading": "<p>Our NASA-inspired LED Therapy, Explained</p>",
+          "banner6_desc": "<p>On space missions, NASA uses LED Light Therapy <em>(a.k.a. chromotherapy)</em> to encourage cells to become <strong>healthier</strong> and <strong>function at a much higher rate</strong>. We integrated 5 different LED light wavelengths into one device. Use each setting alone or combine colors to help treat your unique skin!</p>",
+          "banner6_red_product_image": "shopify://shop_images/lights-red.png",
           "banner6_red_product_label": "RED LED",
           "banner6_red_product_sub_label": "revive",
-          "banner6_red_product_desc": "<p>Helps to reduce the appearance of fine lines for a more youthful appearance.<\/p>",
-          "banner6_yellow_product_image": "shopify:\/\/shop_images\/lights-yellow.png",
+          "banner6_red_product_desc": "<p>Helps to reduce the appearance of fine lines for a more youthful appearance.</p>",
+          "banner6_yellow_product_image": "shopify://shop_images/lights-yellow.png",
           "banner6_yellow_product_label": "YELLOW LED",
           "banner6_yellow_product_sub_label": "glow",
-          "banner6_yellow_product_desc": "<p>Helps to revive dull skin for a brighter complexion and reduce the appearance of dark spots<\/p>",
-          "banner6_blue_product_image": "shopify:\/\/shop_images\/lights-blue.png",
+          "banner6_yellow_product_desc": "<p>Helps to revive dull skin for a brighter complexion and reduce the appearance of dark spots</p>",
+          "banner6_blue_product_image": "shopify://shop_images/lights-blue.png",
           "banner6_blue_product_label": "BLUE LED",
           "banner6_blue_product_sub_label": "soothe",
-          "banner6_blue_product_desc": "<p>Helps to tackle acne-causing bacteria and address oily or congested skin.<\/p>",
-          "banner6_orange_product_image": "shopify:\/\/shop_images\/lights-orange.png",
+          "banner6_blue_product_desc": "<p>Helps to tackle acne-causing bacteria and address oily or congested skin.</p>",
+          "banner6_orange_product_image": "shopify://shop_images/lights-orange.png",
           "banner6_orange_product_label": "ORANGE LED",
           "banner6_orange_product_sub_label": "power combo",
-          "banner6_orange_product_desc": "<p>Combines the benefits of Yellow and Red Lights to help reduce dullness, fine lines, and wrinkles.<\/p>",
-          "banner6_purple_product_image": "shopify:\/\/shop_images\/lights-purple.png",
+          "banner6_orange_product_desc": "<p>Combines the benefits of Yellow and Red Lights to help reduce dullness, fine lines, and wrinkles.</p>",
+          "banner6_purple_product_image": "shopify://shop_images/lights-purple.png",
           "banner6_purple_product_label": "PURPLE LED",
           "banner6_purple_product_sub_label": "power combo",
-          "banner6_purple_product_desc": "<p>Combines the benefits of Red and Blue Lights to help with anti-aging concerns like oxidative stress.<\/p>",
+          "banner6_purple_product_desc": "<p>Combines the benefits of Red and Blue Lights to help with anti-aging concerns like oxidative stress.</p>",
           "banner6_btn_label": "ADD TO BAG",
           "banner7_title": "",
           "banner7_desc": "",
           "banner7_product_title": "",
           "banner7_btn_label": "",
-          "banner8_mark_image": "shopify:\/\/shop_images\/award.png",
+          "banner8_mark_image": "shopify://shop_images/award.png",
           "banner8_title": "Confidence From the Inside Out",
-          "banner8_reviews_desktop_image": "shopify:\/\/shop_images\/reviews-desktop.gif",
-          "banner8_reviews_mobile_image": "shopify:\/\/shop_images\/reviews-mobile.gif",
+          "banner8_reviews_desktop_image": "shopify://shop_images/reviews-desktop.gif",
+          "banner8_reviews_mobile_image": "shopify://shop_images/reviews-mobile.gif",
           "banner8_btn_label": "ADD TO BAG",
-          "banner8_desktop_bg_image": "shopify:\/\/shop_images\/reviews-desktop-bg.jpg",
-          "banner8_mobile_bg_image": "shopify:\/\/shop_images\/reviews-mobile-bg.jpg"
+          "banner8_desktop_bg_image": "shopify://shop_images/reviews-desktop-bg.jpg",
+          "banner8_mobile_bg_image": "shopify://shop_images/reviews-mobile-bg.jpg"
         }
       },
       "product-voyage-tri-light-usb-rose-gold-tabs": {
         "type": "product-voyage-tri-light-usb-rose-gold-tabs",
         "settings": {
           "tab_title": "OPTIMIZER VOYAGE TRI-LIGHT++",
-          "tab_desc": "<p>Revive, Glow, Soothe, Optimize & V-Sculpt in just 3 mins, to tackle multiple skin concerns for healthy, glowing skin.<\/p>",
+          "tab_desc": "<p>Revive, Glow, Soothe, Optimize & V-Sculpt in just 3 mins, to tackle multiple skin concerns for healthy, glowing skin.</p>",
           "banner1_title": "At-Home Skin Care, Reinvented",
-          "banner1_desc": "<p>3000 Flash Facials in 1 Device<br\/>to destress, smooth, lift and glow your way to the best skin of your life.<\/p>",
+          "banner1_desc": "<p>3000 Flash Facials in 1 Device<br/>to destress, smooth, lift and glow your way to the best skin of your life.</p>",
           "banner1_btn_label": "ADD TO BAG",
-          "banner1_desktop_image": "shopify:\/\/shop_images\/hero-desktop.png",
-          "banner1_mobile_image": "shopify:\/\/shop_images\/hero-mobile.png",
+          "banner1_desktop_image": "shopify://shop_images/hero-desktop.png",
+          "banner1_mobile_image": "shopify://shop_images/hero-mobile.png",
           "banner2_title": "BELOVED BY...",
-          "brand_image1": "shopify:\/\/shop_images\/asi-vogue2.png",
-          "brand_image2": "shopify:\/\/shop_images\/asi-allure2.png",
-          "brand_image3": "shopify:\/\/shop_images\/asi-glamour3.png",
-          "brand_image4": "shopify:\/\/shop_images\/asi-oprah.png",
-          "brand_image5": "shopify:\/\/shop_images\/asi-cosmo2.png",
-          "brand_image6": "shopify:\/\/shop_images\/asi-bustle.png",
+          "brand_image1": "shopify://shop_images/asi-vogue2.png",
+          "brand_image2": "shopify://shop_images/asi-allure2.png",
+          "brand_image3": "shopify://shop_images/asi-glamour3.png",
+          "brand_image4": "shopify://shop_images/asi-oprah.png",
+          "brand_image5": "shopify://shop_images/asi-cosmo2.png",
+          "brand_image6": "shopify://shop_images/asi-bustle.png",
           "banner3_title": "Self-Care is the Best Care",
-          "banner3_desc": "<p>LED chromotherapy & sonic massage help you feel beautiful from the inside out.<\/p>",
-          "banner3_desktop_image": "shopify:\/\/shop_images\/4modes-desktop.jpg",
-          "banner3_mobile_image": "shopify:\/\/shop_images\/4modes-mobile.jpg",
+          "banner3_desc": "<p>LED chromotherapy & sonic massage help you feel beautiful from the inside out.</p>",
+          "banner3_desktop_image": "shopify://shop_images/4modes-desktop.jpg",
+          "banner3_mobile_image": "shopify://shop_images/4modes-mobile.jpg",
           "banner3_btn_label": "ADD TO BAG",
-          "banner4_icon": "shopify:\/\/shop_images\/icons-heat.png",
+          "banner4_icon": "shopify://shop_images/icons-heat.png",
           "banner4_title": "Clinically Proven Results",
-          "banner4_desc_1": "<p>Based on a clinical study after using the Optimizer Voyage Tri-Light™:<\/p>",
-          "banner4_details_1": "<p>95% agrees that skin is clearer with a more refined texture<\/p>",
-          "banner4_details_2": "<p>95% agrees that skin looks hydrated<\/p>",
-          "banner4_details_3": "<p>85% agrees that skin looks revived and radiant<\/p>",
-          "banner4_details_4": "<p>81% agrees that lines & wrinkles appear less visible<\/p>",
-          "banner4_desc_2": "<p>Pair with our custom <a href=\"https:\/\/www.iloveskininc.com.sg\/pages\/skin-id\" target=\"_blank\" title=\"Skin ID\"><strong>MyDailyDose<\/strong><\/a> serums for a truly personalized skincare routine.<\/p>",
+          "banner4_desc_1": "<p>Based on a clinical study after using the Optimizer Voyage Tri-Light™:</p>",
+          "banner4_details_1": "<p>95% agrees that skin is clearer with a more refined texture</p>",
+          "banner4_details_2": "<p>95% agrees that skin looks hydrated</p>",
+          "banner4_details_3": "<p>85% agrees that skin looks revived and radiant</p>",
+          "banner4_details_4": "<p>81% agrees that lines & wrinkles appear less visible</p>",
+          "banner4_desc_2": "<p>Pair with our custom <a href=\"https://www.iloveskininc.com.sg/pages/skin-id\" target=\"_blank\" title=\"Skin ID\"><strong>MyDailyDose</strong></a> serums for a truly personalized skincare routine.</p>",
           "banner4_btn_label": "ADD TO BAG",
-          "banner4_image": "shopify:\/\/shop_images\/hotinhere.jpg",
-          "banner5_image": "shopify:\/\/shop_images\/supercharge.jpg",
-          "banner5_icon": "shopify:\/\/shop_images\/icons-vibration.png",
+          "banner4_image": "shopify://shop_images/hotinhere.jpg",
+          "banner5_image": "shopify://shop_images/supercharge.jpg",
+          "banner5_icon": "shopify://shop_images/icons-vibration.png",
           "banner5_title": "Supercharge Your Skincare",
-          "banner5_desc_1": "<p>The Optimizer Voyage Tri-Light™ uses clinically proven, NASA-inspired chromotherapy and sonic massage to:<\/p>",
-          "banner5_details_1": "<p>Enhance performance of skincare<\/p>",
-          "banner5_details_2": "<p>Reduce the appearance of fine lines and wrinkles<\/p>",
-          "banner5_details_3": "<p>Fade dark spots and even out skin tone<\/p>",
+          "banner5_desc_1": "<p>The Optimizer Voyage Tri-Light™ uses clinically proven, NASA-inspired chromotherapy and sonic massage to:</p>",
+          "banner5_details_1": "<p>Enhance performance of skincare</p>",
+          "banner5_details_2": "<p>Reduce the appearance of fine lines and wrinkles</p>",
+          "banner5_details_3": "<p>Fade dark spots and even out skin tone</p>",
           "banner5_btn_label": "ADD TO BAG",
-          "banner6_icon": "shopify:\/\/shop_images\/icons-rocket.png",
+          "banner6_icon": "shopify://shop_images/icons-rocket.png",
           "banner6_title": "3...2...1...Lift Off!",
-          "banner6_subheading": "<p>Our NASA-inspired LED Therapy, Explained<\/p>",
-          "banner6_desc": "<p>On space missions, NASA uses LED Light Therapy <em>(a.k.a. chromotherapy)<\/em> to encourage cells to become <strong>healthier<\/strong> and <strong>function at a much higher rate<\/strong>. We integrated 5 different LED light wavelengths into one device. Use each setting alone or combine colors to help treat your unique skin!<\/p>",
-          "banner6_red_product_image": "shopify:\/\/shop_images\/lights-red.png",
+          "banner6_subheading": "<p>Our NASA-inspired LED Therapy, Explained</p>",
+          "banner6_desc": "<p>On space missions, NASA uses LED Light Therapy <em>(a.k.a. chromotherapy)</em> to encourage cells to become <strong>healthier</strong> and <strong>function at a much higher rate</strong>. We integrated 5 different LED light wavelengths into one device. Use each setting alone or combine colors to help treat your unique skin!</p>",
+          "banner6_red_product_image": "shopify://shop_images/lights-red.png",
           "banner6_red_product_label": "RED LED",
           "banner6_red_product_sub_label": "revive",
-          "banner6_red_product_desc": "<p>Helps to reduce the appearance of fine lines for a more youthful appearance.<\/p>",
-          "banner6_yellow_product_image": "shopify:\/\/shop_images\/lights-orange.png",
+          "banner6_red_product_desc": "<p>Helps to reduce the appearance of fine lines for a more youthful appearance.</p>",
+          "banner6_yellow_product_image": "shopify://shop_images/lights-orange.png",
           "banner6_yellow_product_label": "YELLOW LED",
           "banner6_yellow_product_sub_label": "glow",
-          "banner6_yellow_product_desc": "<p>Helps to revive dull skin for a brighter complexion and reduce the appearance of dark spots.<\/p>",
-          "banner6_blue_product_image": "shopify:\/\/shop_images\/lights-blue.png",
+          "banner6_yellow_product_desc": "<p>Helps to revive dull skin for a brighter complexion and reduce the appearance of dark spots.</p>",
+          "banner6_blue_product_image": "shopify://shop_images/lights-blue.png",
           "banner6_blue_product_label": "BLUE LED",
           "banner6_blue_product_sub_label": "soothe",
-          "banner6_blue_product_desc": "<p>Helps to tackle acne-causing bacteria and address oily or congested skin.<\/p>",
-          "banner6_orange_product_image": "shopify:\/\/shop_images\/lights-orange.png",
+          "banner6_blue_product_desc": "<p>Helps to tackle acne-causing bacteria and address oily or congested skin.</p>",
+          "banner6_orange_product_image": "shopify://shop_images/lights-orange.png",
           "banner6_orange_product_label": "ORANGE LED",
           "banner6_orange_product_sub_label": "power combo",
-          "banner6_orange_product_desc": "<p>Combines the benefits of Yellow and Red Lights to help reduce dullness, fine lines, and wrinkles.<\/p>",
-          "banner6_purple_product_image": "shopify:\/\/shop_images\/lights-purple.png",
+          "banner6_orange_product_desc": "<p>Combines the benefits of Yellow and Red Lights to help reduce dullness, fine lines, and wrinkles.</p>",
+          "banner6_purple_product_image": "shopify://shop_images/lights-purple.png",
           "banner6_purple_product_label": "PURPLE LED",
           "banner6_purple_product_sub_label": "power combo",
-          "banner6_purple_product_desc": "<p>Combines the benefits of Red and Blue Lights to help with anti-aging concerns like oxidative stress.<\/p>",
+          "banner6_purple_product_desc": "<p>Combines the benefits of Red and Blue Lights to help with anti-aging concerns like oxidative stress.</p>",
           "banner6_btn_label": "ADD TO BAG",
           "banner7_title": "",
           "banner7_desc": "",
           "banner7_product_title": "",
           "banner7_btn_label": "",
-          "banner8_mark_image": "shopify:\/\/shop_images\/award.png",
+          "banner8_mark_image": "shopify://shop_images/award.png",
           "banner8_title": "Confidence From the Inside Out",
-          "banner8_reviews_desktop_image": "shopify:\/\/shop_images\/reviews-desktop.gif",
-          "banner8_reviews_mobile_image": "shopify:\/\/shop_images\/reviews-mobile.gif",
+          "banner8_reviews_desktop_image": "shopify://shop_images/reviews-desktop.gif",
+          "banner8_reviews_mobile_image": "shopify://shop_images/reviews-mobile.gif",
           "banner8_btn_label": "ADD TO BAG",
-          "banner8_desktop_bg_image": "shopify:\/\/shop_images\/reviews-desktop-bg.jpg",
-          "banner8_mobile_bg_image": "shopify:\/\/shop_images\/reviews-mobile-bg.jpg"
+          "banner8_desktop_bg_image": "shopify://shop_images/reviews-desktop-bg.jpg",
+          "banner8_mobile_bg_image": "shopify://shop_images/reviews-mobile-bg.jpg"
         }
       },
       "product-pari-sabi-tri-light--tabs": {
@@ -2863,85 +2890,85 @@
           "tab_title": "",
           "tab_desc": "",
           "banner1_title": "",
-          "banner1_desktop_image": "shopify:\/\/shop_images\/Main_KV_1.png",
-          "banner1_mobile_image": "shopify:\/\/shop_images\/Main_KV_1.png",
+          "banner1_desktop_image": "shopify://shop_images/Main_KV_1.png",
+          "banner1_mobile_image": "shopify://shop_images/Main_KV_1.png",
           "banner_2_title": "",
-          "banner_2_logo_image": "shopify:\/\/shop_images\/tri-light-xsabi-logo.png",
+          "banner_2_logo_image": "shopify://shop_images/tri-light-xsabi-logo.png",
           "banner_2_content": "Pair +SABI AI app with Tri-Light™ to enjoy a guided and customised LED facial treatments with your selfie & hydro-sensor analysis. Complete the Skin Identity Quiz to get your clinically-proven and award-winning customised cocktail serum and\nbooster. Leveraging on the data of over 1.2 million skin profiles, your self-care treatment is customised based on water intake, sleep, stress, activity level, menstrual cycle, pollution index, and blue light exposure.",
-          "banner_2_image": "shopify:\/\/shop_images\/Full-Packshot_0b04acaa-2bf5-475d-a177-69c1451e7f99.gif",
+          "banner_2_image": "shopify://shop_images/Full-Packshot_0b04acaa-2bf5-475d-a177-69c1451e7f99.gif",
           "banner_3_title": "",
-          "banner_3_video_icon": "shopify:\/\/shop_images\/video-icon.png",
-          "banner_3_video_desktop_image": "shopify:\/\/shop_images\/compressed-final-trilight-ai-desktop__final.jpg",
-          "banner_3_video_desktop_link": "https:\/\/cdn.shopify.com\/s\/files\/1\/0077\/6162\/5201\/files\/compressed_final_trilight_ai_desktop_final.mp4?v=1647241920",
-          "banner_3_video_mobile_image": "shopify:\/\/shop_images\/compressed-final-trilight-ai-video-mobile_final.jpg",
-          "banner_3_video_mobile_link": "https:\/\/cdn.shopify.com\/s\/files\/1\/0077\/6162\/5201\/files\/compressed_final_trilight_ai_video_Mobile_final.mp4?v=1647241920",
+          "banner_3_video_icon": "shopify://shop_images/video-icon.png",
+          "banner_3_video_desktop_image": "shopify://shop_images/compressed-final-trilight-ai-desktop__final.jpg",
+          "banner_3_video_desktop_link": "https://cdn.shopify.com/s/files/1/0077/6162/5201/files/compressed_final_trilight_ai_desktop_final.mp4?v=1647241920",
+          "banner_3_video_mobile_image": "shopify://shop_images/compressed-final-trilight-ai-video-mobile_final.jpg",
+          "banner_3_video_mobile_link": "https://cdn.shopify.com/s/files/1/0077/6162/5201/files/compressed_final_trilight_ai_video_Mobile_final.mp4?v=1647241920",
           "banner_3_btn_label": "ADD TO BAG",
-          "banner_4_icon": "shopify:\/\/shop_images\/tri-light-logo.png",
+          "banner_4_icon": "shopify://shop_images/tri-light-logo.png",
           "banner_4_title": "New!",
-          "banner_4_desc": "<p>The NEW Tri-Light™ combines 8-in-1 advanced technologies to empower you to customize a regime that addresses multiple skin concerns synergistically.<\/p><p>Personalise your glowing results with these 8 modes:<\/p>",
-          "banner_4_image": "shopify:\/\/shop_images\/Tri-light-Visual-new.png",
-          "banner_4_details_1": "<h3>OPTIMIZE - Sonic Therapy<\/h3>\n<p>Help to increase the performance of skincare to smoothen the skin<\/p>",
-          "banner_4_details_2": "<span>NEW!<\/span>\n<h3>RESCUE - PEMF<br>(Pulsed Electro-Magnetic Field)<\/h3>\n<p>Help to boost recovery for skin wellness using low-level electromagnetic waves to encourage healthy cell renewal<\/p>",
-          "banner_5_image_left": "shopify:\/\/shop_images\/barometer-img-new.png",
-          "banner_5_image_right": "shopify:\/\/shop_images\/mobile-phone.png",
+          "banner_4_desc": "<p>The NEW Tri-Light™ combines 8-in-1 advanced technologies to empower you to customize a regime that addresses multiple skin concerns synergistically.</p><p>Personalise your glowing results with these 8 modes:</p>",
+          "banner_4_image": "shopify://shop_images/Tri-light-Visual-new.png",
+          "banner_4_details_1": "<h3>OPTIMIZE - Sonic Therapy</h3>\n<p>Help to increase the performance of skincare to smoothen the skin</p>",
+          "banner_4_details_2": "<span>NEW!</span>\n<h3>RESCUE - PEMF<br>(Pulsed Electro-Magnetic Field)</h3>\n<p>Help to boost recovery for skin wellness using low-level electromagnetic waves to encourage healthy cell renewal</p>",
+          "banner_5_image_left": "shopify://shop_images/barometer-img-new.png",
+          "banner_5_image_right": "shopify://shop_images/mobile-phone.png",
           "banner_5_title": "Your skin is the barometer of your wellbeing.",
-          "banner5_desc": "<span>NEW!<\/span>\n<h3>REJUVENATE - Hydro-Sensor<\/h3>\n<p>Measure & get precise readings of your skin’s hydration level for optimal skin wellness<\/p>",
+          "banner5_desc": "<span>NEW!</span>\n<h3>REJUVENATE - Hydro-Sensor</h3>\n<p>Measure & get precise readings of your skin’s hydration level for optimal skin wellness</p>",
           "banner_6_title": "",
-          "banner_6_video_icon": "shopify:\/\/shop_images\/video-icon.png",
-          "banner_6_video_desktop_image": "shopify:\/\/shop_images\/hydrosensor-trilight-ai_desktop---final.jpg",
-          "banner_6_video_desktop_link": "https:\/\/cdn.shopify.com\/s\/files\/1\/0077\/6162\/5201\/files\/hydrosensor_trilight_ai_desktop_-_final.mp4?v=1647241617",
-          "banner_6_video_mobile_image": "shopify:\/\/shop_images\/hydrosensor-trilight-ai_Mobile--final.jpg",
-          "banner_6_video_mobile_link": "https:\/\/cdn.shopify.com\/s\/files\/1\/0077\/6162\/5201\/files\/hydrosensor_trilight_ai_Mobile-_final.mp4?v=1647241617",
+          "banner_6_video_icon": "shopify://shop_images/video-icon.png",
+          "banner_6_video_desktop_image": "shopify://shop_images/hydrosensor-trilight-ai_desktop---final.jpg",
+          "banner_6_video_desktop_link": "https://cdn.shopify.com/s/files/1/0077/6162/5201/files/hydrosensor_trilight_ai_desktop_-_final.mp4?v=1647241617",
+          "banner_6_video_mobile_image": "shopify://shop_images/hydrosensor-trilight-ai_Mobile--final.jpg",
+          "banner_6_video_mobile_link": "https://cdn.shopify.com/s/files/1/0077/6162/5201/files/hydrosensor_trilight_ai_Mobile-_final.mp4?v=1647241617",
           "banner_6_btn_label": "ADD TO BAG",
           "banner_6_scan_title": "Scan QR code & download app to curate your wellness journey with",
-          "banner_6_scan_icon": "shopify:\/\/shop_images\/Asset_3_8dbc9776-f88e-4acb-9914-ad2b98f1a944.png",
-          "banner_7_image": "shopify:\/\/shop_images\/Clinically-Proven-img.png",
+          "banner_6_scan_icon": "shopify://shop_images/Asset_3_8dbc9776-f88e-4acb-9914-ad2b98f1a944.png",
+          "banner_7_image": "shopify://shop_images/Clinically-Proven-img.png",
           "banner_7_title": "Clinically-Proven & Visible Results*",
-          "banner_7_content": "<ul>\n\t<li>\n<span>95%<\/span>agree that skin is clearer with a more refined texture<\/li>\n\t<li>\n<span>95%<\/span>agree that skin looks hydrated<\/li>\n\t<li>\n<span>85%<\/span>agree that skin looks revived and radiant<\/li>\n\t<li>\n<span>81%<\/span>agree that lines & wrinkles appear less visible<\/li>\n<\/ul>",
-          "banner_7_content_bottom": "Pair with our custom My Daily Dose serums for a truly personalized skincare routine.\n<em>*Based on a consumer study of the RED LED Light conducted as part of an independent clinical study<\/em>",
+          "banner_7_content": "<ul>\n\t<li>\n<span>95%</span>agree that skin is clearer with a more refined texture</li>\n\t<li>\n<span>95%</span>agree that skin looks hydrated</li>\n\t<li>\n<span>85%</span>agree that skin looks revived and radiant</li>\n\t<li>\n<span>81%</span>agree that lines & wrinkles appear less visible</li>\n</ul>",
+          "banner_7_content_bottom": "Pair with our custom My Daily Dose serums for a truly personalized skincare routine.\n<em>*Based on a consumer study of the RED LED Light conducted as part of an independent clinical study</em>",
           "banner_8_title": "BEFORE AND AFTER",
           "banner_8_bottom_title": "*Results after 28 days.",
           "banner_8_row_1_title": "GLOW - Yellow LED",
           "banner_8_row_1_title_color": "#ebc006",
           "banner_8_row_1_subtitle": "Help to achieve a brighter complexion",
-          "banner_8_row_1_icon": "shopify:\/\/shop_images\/Asset_8_ae455180-150e-46a4-954d-e7b7e77617fc.png",
-          "banner_8_row_1_before": "shopify:\/\/shop_images\/yellow-before.png",
-          "banner_8_row_1_after": "shopify:\/\/shop_images\/yellow-after.png",
+          "banner_8_row_1_icon": "shopify://shop_images/Asset_8_ae455180-150e-46a4-954d-e7b7e77617fc.png",
+          "banner_8_row_1_before": "shopify://shop_images/yellow-before.png",
+          "banner_8_row_1_after": "shopify://shop_images/yellow-after.png",
           "banner_8_row_2_title": "REVIVE - Red LED",
           "banner_8_row_2_title_color": "#ca1131",
           "banner_8_row_2_subtitle": "Help to revive youthful appearance by tightening & firming skin",
-          "banner_8_row_2_icon": "shopify:\/\/shop_images\/Asset_10.png",
-          "banner_8_row_2_before": "shopify:\/\/shop_images\/red-before.png",
-          "banner_8_row_2_after": "shopify:\/\/shop_images\/red-after.png",
+          "banner_8_row_2_icon": "shopify://shop_images/Asset_10.png",
+          "banner_8_row_2_before": "shopify://shop_images/red-before.png",
+          "banner_8_row_2_after": "shopify://shop_images/red-after.png",
           "banner_8_row_3_title": "SOOTHE - Blue LED",
           "banner_8_row_3_title_color": "#40499f",
           "banner_8_row_3_subtitle": "Help to soothe skin & minimize the appearance of pores",
-          "banner_8_row_3_icon": "shopify:\/\/shop_images\/Asset_9.png",
-          "banner_8_row_3_before": "shopify:\/\/shop_images\/blue-before.png",
-          "banner_8_row_3_after": "shopify:\/\/shop_images\/blue-after.png",
+          "banner_8_row_3_icon": "shopify://shop_images/Asset_9.png",
+          "banner_8_row_3_before": "shopify://shop_images/blue-before.png",
+          "banner_8_row_3_after": "shopify://shop_images/blue-after.png",
           "banner9_title": "Glow, Revive, Soothe & V-Sculpt with 5 NASA LED Lights",
-          "banner9_red_product_image": "shopify:\/\/shop_images\/Asset_10.png",
+          "banner9_red_product_image": "shopify://shop_images/Asset_10.png",
           "banner9_red_product_label": "REVIVE - Red LED",
           "banner9_red_product_label_color": "#ca1131",
-          "banner9_red_product_desc": "<p>Help to revive youthful<br\/>appearance by<br\/>tightening & firming skin<\/p>",
-          "banner9_blue_product_image": "shopify:\/\/shop_images\/Asset_9.png",
+          "banner9_red_product_desc": "<p>Help to revive youthful<br/>appearance by<br/>tightening & firming skin</p>",
+          "banner9_blue_product_image": "shopify://shop_images/Asset_9.png",
           "banner9_blue_product_label": "SOOTHE - Blue LED",
           "banner9_blue_product_label_color": "#40499f",
-          "banner9_blue_product_desc": "<p>Help to soothe skin &<br\/>minimize the<br\/>appearance of pores <\/p>",
-          "banner9_yellow_product_image": "shopify:\/\/shop_images\/Asset_8_ae455180-150e-46a4-954d-e7b7e77617fc.png",
+          "banner9_blue_product_desc": "<p>Help to soothe skin &<br/>minimize the<br/>appearance of pores </p>",
+          "banner9_yellow_product_image": "shopify://shop_images/Asset_8_ae455180-150e-46a4-954d-e7b7e77617fc.png",
           "banner9_yellow_product_label": "GLOW - Yellow LED",
           "banner9_yellow_product_label_color": "#ebc006",
-          "banner9_yellow_product_desc": "<p>Help to achieve a<br\/>brighter complexion<\/p>",
-          "banner9_orange_product_image": "shopify:\/\/shop_images\/Tri-light-AI-Orange-light.png",
+          "banner9_yellow_product_desc": "<p>Help to achieve a<br/>brighter complexion</p>",
+          "banner9_orange_product_image": "shopify://shop_images/Tri-light-AI-Orange-light.png",
           "banner9_orange_product_label": "GLOW & REVIVE - Orange LED",
           "banner9_orange_product_label_color": "#f67d04",
-          "banner9_orange_product_desc": "<p>POWER COMBO OF<br\/>YELLOW + RED lights<\/p>",
-          "banner9_purple_product_image": "shopify:\/\/shop_images\/Tri-light-AI-Purple-light.png",
+          "banner9_orange_product_desc": "<p>POWER COMBO OF<br/>YELLOW + RED lights</p>",
+          "banner9_purple_product_image": "shopify://shop_images/Tri-light-AI-Purple-light.png",
           "banner9_purple_product_label": "REVIVE & SOOTHE - Purple LED",
           "banner9_purple_product_label_color": "#8e20c1",
-          "banner9_purple_product_desc": "<p>POWER COMBO OF<br\/>RED + BLUE lights<\/p>",
+          "banner9_purple_product_desc": "<p>POWER COMBO OF<br/>RED + BLUE lights</p>",
           "banner9_btn_label": "ADD TO BAG",
-          "banner10_mark_image": "shopify:\/\/shop_images\/certified-img.jpg",
+          "banner10_mark_image": "shopify://shop_images/certified-img.jpg",
           "banner10_title": "",
           "banner10_btn_label": "ADD TO BAG"
         }
@@ -2952,8 +2979,8 @@
           "cdb66432-2da3-4eea-b4ef-9a491416c38f": {
             "type": "image",
             "settings": {
-              "image": "shopify:\/\/shop_images\/Subsciption_PDP_Top_Banner.png",
-              "mobile_image": "shopify:\/\/shop_images\/banner-mob.png",
+              "image": "shopify://shop_images/Subsciption_PDP_Top_Banner.png",
+              "mobile_image": "shopify://shop_images/banner-mob.png",
               "apply_overlay": true,
               "content_position": "bottomLeft",
               "subheading": "",
@@ -2989,10 +3016,10 @@
           "c9833814-2b00-408a-93e9-ad99a381da94": {
             "type": "approach_item",
             "settings": {
-              "image": "shopify:\/\/shop_images\/month1.png",
-              "img_link": "\/",
+              "image": "shopify://shop_images/month1.png",
+              "img_link": "/",
               "title": "What You’ll Receive",
-              "content": "<span>4 Personalized Cocktail Serums ($169 x 4) + NEW Tri-Light ($458) Worth $1134 in total!<\/span><b>$169 \/ mont<\/b><i>(billed monthly)<\/i>",
+              "content": "<span>4 Personalized Cocktail Serums ($169 x 4) + NEW Tri-Light ($458) Worth $1134 in total!</span><b>$169 / mont</b><i>(billed monthly)</i>",
               "direction": "left",
               "cta_btn_label": "*Each personalized serum to be delivered monthly",
               "cta_btn_link": ""
@@ -3001,35 +3028,10 @@
           "e04e56c8-080a-4d1f-809a-738f40b1fc52": {
             "type": "approach_item",
             "settings": {
-              "image": "shopify:\/\/shop_images\/bott.png",
+              "image": "shopify://shop_images/bott.png",
               "img_link": "",
               "title": "5TH MONTH ONWARDS",
-              "content": "<b>$125 \/ mont<\/b><i>(billed monthly)<\/i> <span>Save $44<i>on your monthly cocktail serum<\/i><\/span>",
-      "16480391365f31924b": {
-        "type": "being-is-you",
-        "settings": {
-          "text1": "Your skin is your biggest organ and is the barometer of your wellbeing.",
-          "text2": "It is the first place to show signs of other ailments. Our every thought,  lifestyle and environment greatly affects our greater health and well-being,  impacting us emotionally, mentally, and physically.",
-          "text3": "https:\/\/cdn.shopify.com\/s\/files\/1\/0077\/6162\/5201\/files\/Statement-Gif.gif?v=1645175266"
-        }
-      },
-      "16480402579038fbd6": {
-        "type": "sabi-section",
-        "blocks": {
-          "7ea25ccb-2012-4f40-af73-753301481dae": {
-            "type": "header",
-            "settings": {
-              "heading": "INTRODUCING THE WORLD’S FIRST BREAKTHROUGH APP",
-              "logo": "shopify:\/\/shop_images\/SABI_AI_Logo.png"
-            }
-          },
-          "85b16549-2924-4470-b419-946420efd9d2": {
-            "type": "approach_item",
-            "settings": {
-              "image": "shopify:\/\/shop_images\/SABI_AI_Prototype-01_1_1.png",
-              "img_link": "\/products\/tri-light-sabi",
-              "title": "Take a Selfie and get a 360 AI diagnostic & progressive skin report.",
-              "content": "<p>Receive personalized coaching from +SABI AI, your new best friend. Get self-care tips and product recommendations based on computer-vision assessment of your lines, pores, moisture, skin tone, and more.<br\/><br\/>Measure your skin’s hydration level and get precise readings for optimal skin wellness.<\/p>",
+              "content": "<b>$125 / mont</b><i>(billed monthly)</i> <span>Save $44<i>on your monthly cocktail serum</i></span>",
               "direction": "left",
               "cta_btn_label": "",
               "cta_btn_link": ""
@@ -3038,7 +3040,7 @@
           "5ac7522f-62dd-4e24-bf72-085e0f1a1132": {
             "type": "header",
             "settings": {
-              "heading": "<span>RECALIBRATE ANYTIME<\/span> <br> Your skin changes over time, based on seasonal weather, environmental aggressors,  and other factors. Simply change your custom cocktail serum blend as your skin  progresses through the Skin ID Check. Adjust anytime through your account."
+              "heading": "<span>RECALIBRATE ANYTIME</span> <br> Your skin changes over time, based on seasonal weather, environmental aggressors,  and other factors. Simply change your custom cocktail serum blend as your skin  progresses through the Skin ID Check. Adjust anytime through your account."
             }
           },
           "5d12d17c-0a6e-44dd-a404-8a1c58513010": {
@@ -3049,7 +3051,7 @@
               "content": "",
               "direction": "left",
               "cta_btn_label": "START MY JOURNEY NOW",
-              "cta_btn_link": "\/"
+              "cta_btn_link": "/"
             }
           }
         },
@@ -3060,8 +3062,7 @@
           "5ac7522f-62dd-4e24-bf72-085e0f1a1132",
           "5d12d17c-0a6e-44dd-a404-8a1c58513010"
         ],
-        "settings": {
-        }
+        "settings": {}
       },
       "Clinically-Proven": {
         "type": "Clinically-Proven",
@@ -3071,7 +3072,7 @@
             "settings": {
               "img_link": "",
               "title": "Clinically-Proven & Visible Results*",
-              "content": "<ul>     <li>\n<span>95%<\/span>agree that skin is clearer with a more refined texture<\/li>     <li>\n<span>95%<\/span>agree that skin looks hydrated<\/li>     <li>\n<span>85%<\/span>agree that skin looks revived and radiant<\/li>     <li>\n<span>81%<\/span>agree that lines & wrinkles appear less visible<\/li> <\/ul> <p><i>*Based on a consumer study of My Daily Dose serum and Tri-Light™ conducted as part of an independent clinical study.<\/i><\/p>",
+              "content": "<ul>     <li>\n<span>95%</span>agree that skin is clearer with a more refined texture</li>     <li>\n<span>95%</span>agree that skin looks hydrated</li>     <li>\n<span>85%</span>agree that skin looks revived and radiant</li>     <li>\n<span>81%</span>agree that lines & wrinkles appear less visible</li> </ul> <p><i>*Based on a consumer study of My Daily Dose serum and Tri-Light™ conducted as part of an independent clinical study.</i></p>",
               "direction": "left",
               "cta_btn_label": "",
               "cta_btn_link": ""
@@ -3081,13 +3082,11 @@
         "block_order": [
           "ee6b1088-4e54-4074-ad35-fb4d9b1a366b"
         ],
-        "settings": {
-        }
+        "settings": {}
       },
       "before-after": {
         "type": "before-after",
-        "settings": {
-        }
+        "settings": {}
       },
       "subs_sabi": {
         "type": "subs_sabi",
@@ -3101,25 +3100,20 @@
           "26345419-6489-4093-ac65-1cdea75b802f": {
             "type": "approach_item",
             "settings": {
-              "image": "shopify:\/\/shop_images\/SABI_AI_Prototype-01_1_1_80800fdb-3985-46d3-a6f7-e4e4589c5d5f.png",
+              "image": "shopify://shop_images/SABI_AI_Prototype-01_1_1_80800fdb-3985-46d3-a6f7-e4e4589c5d5f.png",
               "img_link": "",
-              "title": "<img class=\"top-img\" src=\"\/\/cdn.shopify.com\/s\/files\/1\/0077\/6162\/5201\/files\/SABI_AI_Logo.png?v=1645161923\">",
-              "content": "<ul> \t<li>Progressive Skin Report<\/li> \t<li>Computer-Vision Assessment of your lines, pores, moisture, skin tone & more<\/li> \t<li>Precise readings of your skin’s hydration level<\/li> \t<li>Self-care tips based on your water intake, sleep, stress, activity level, menstrual cycle, pollution index, and blue light exposur<\/li> <\/ul>",
+              "title": "<img class=\"top-img\" src=\"//cdn.shopify.com/s/files/1/0077/6162/5201/files/SABI_AI_Logo.png?v=1645161923\">",
+              "content": "<ul> \t<li>Progressive Skin Report</li> \t<li>Computer-Vision Assessment of your lines, pores, moisture, skin tone & more</li> \t<li>Precise readings of your skin’s hydration level</li> \t<li>Self-care tips based on your water intake, sleep, stress, activity level, menstrual cycle, pollution index, and blue light exposur</li> </ul>",
               "direction": "left",
               "cta_btn_label": "LEARN MORE",
-              "cta_btn_link": "\/"
+              "cta_btn_link": "/"
             }
           },
           "b08894b8-1f74-4ef3-910f-ac31cc22cde7": {
             "type": "approach_item",
             "settings": {
-              "image": "shopify:\/\/shop_images\/SABI_AI_PDP_Vector_-_For_Van-02_1_85e6eb10-2f1c-438f-b766-fa1b75646d97.png",
+              "image": "shopify://shop_images/SABI_AI_PDP_Vector_-_For_Van-02_1_85e6eb10-2f1c-438f-b766-fa1b75646d97.png",
               "img_link": "",
-          "3911f340-78e2-449a-b2b8-5bd9cde865e6": {
-            "type": "approach_item",
-            "settings": {
-              "image": "shopify:\/\/shop_images\/SABI_AI_PDP_Vector_-_For_Van-02_1_85e6eb10-2f1c-438f-b766-fa1b75646d97.png",
-              "img_link": "\/products\/tri-light-sabi",
               "title": "",
               "content": "",
               "direction": "right",
@@ -3130,13 +3124,8 @@
           "c51496e3-da32-4882-aed8-388877476513": {
             "type": "approach_item",
             "settings": {
-              "image": "shopify:\/\/shop_images\/QR_Code-ai.png",
+              "image": "shopify://shop_images/QR_Code-ai.png",
               "img_link": "",
-          "c1ba4793-8936-4336-ac85-8e94ad6f8564": {
-            "type": "approach_item",
-            "settings": {
-              "image": "shopify:\/\/shop_images\/QR_Code-ai.png",
-              "img_link": "\/products\/tri-light-sabi",
               "title": "Customise your 360 wellness journey  for your lit from within glow.",
               "content": "",
               "direction": "right",
@@ -3150,13 +3139,8 @@
           "26345419-6489-4093-ac65-1cdea75b802f",
           "b08894b8-1f74-4ef3-910f-ac31cc22cde7",
           "c51496e3-da32-4882-aed8-388877476513"
-          "7ea25ccb-2012-4f40-af73-753301481dae",
-          "85b16549-2924-4470-b419-946420efd9d2",
-          "3911f340-78e2-449a-b2b8-5bd9cde865e6",
-          "c1ba4793-8936-4336-ac85-8e94ad6f8564"
         ],
-        "settings": {
-        }
+        "settings": {}
       },
       "tri-light-sbubs": {
         "type": "tri-light-sbubs",
@@ -3164,8 +3148,8 @@
           "58f57312-7e52-4948-b030-6b15bf907321": {
             "type": "header",
             "settings": {
-              "heading": "Tri-Light™ <br> <p>Tri-Light™ combines 8-in-1 advanced technologies to empower you to customize a regime that addresses multiple skin concerns synergistically<\/p>",
-              "logo": "shopify:\/\/shop_images\/Full-Packshot_7b2b9f39-4503-49cd-95c5-ad302fbfb723.gif"
+              "heading": "Tri-Light™ <br> <p>Tri-Light™ combines 8-in-1 advanced technologies to empower you to customize a regime that addresses multiple skin concerns synergistically</p>",
+              "logo": "shopify://shop_images/Full-Packshot_7b2b9f39-4503-49cd-95c5-ad302fbfb723.gif"
             }
           },
           "1b89d9d5-5bd0-4cbc-91e3-7b35088f45ab": {
@@ -3176,69 +3160,15 @@
               "content": "",
               "direction": "left",
               "cta_btn_label": "LEARN MORE",
-              "cta_btn_link": "\/"
-      "16480405754d676c34": {
-        "type": "video-section",
-        "settings": {
-          "section_size": "large",
-          "text_color": "#ffffff",
-          "subheading": "",
-          "title": "Your video",
-          "video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
-          "video_url_sec": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc"
-        }
-      },
-      "1648040652e58c84be": {
-        "type": "sabi-section",
-        "blocks": {
-          "ca6b8739-10a1-4b9c-8803-e371deaf73ea": {
-            "type": "header",
-            "settings": {
-              "heading": "POWERED BY",
-              "logo": "shopify:\/\/shop_images\/SABI_AI_Logo.png"
-            }
-          },
-          "69ed4a20-fbc6-490b-9939-c17d8e96ac78": {
-            "type": "header",
-            "settings": {
-              "heading": "<span>Step-by-step treatment for transformational results<br> <i>Glow, Revive, Soothe & V-Sculpt with 5 NASA LED Lights<\/i><\/span>",
-              "logo": "shopify:\/\/shop_images\/Full-Packshot_7b2b9f39-4503-49cd-95c5-ad302fbfb723.gif"
-            }
-          },
-          "c3e5bbf2-838f-4a2c-b567-7b9f2197c86d": {
-            "type": "approach_item",
-            "settings": {
-              "img_link": "",
-              "title": "Customize your self-care treatment based on your skin goals.",
-              "content": "<p>Pair +SABI AI app with Tri-Light™ to enjoy a guided and customised LED facial treatments with your selfie & hydro-sensor analysis. Complete the Skin Identity Quiz to get your clinically-proven and award-winning customised cocktail serum and booster. Leveraging on the data of over 1.2 million skin profiles, your self-care treatment is customised based on water intake, sleep, stress, activity level, menstrual cycle, pollution index, and blue light exposure.<\/p>",
-              "direction": "left",
-              "cta_btn_label": "",
-              "cta_btn_link": ""
-            }
-          },
-          "08c2d265-9c65-4680-aca3-2070ec804215": {
-            "type": "approach_item",
-            "settings": {
-              "image": "shopify:\/\/shop_images\/QR_Code-ai.png",
-              "img_link": "\/products\/tri-light-sabi",
-              "title": "Download +SABI AI app, the world’s first 360 wellness skin health coach",
-              "content": "",
-              "direction": "right",
-              "cta_btn_label": "",
-              "cta_btn_link": ""
+              "cta_btn_link": "/"
             }
           }
         },
         "block_order": [
           "58f57312-7e52-4948-b030-6b15bf907321",
           "1b89d9d5-5bd0-4cbc-91e3-7b35088f45ab"
-          "ca6b8739-10a1-4b9c-8803-e371deaf73ea",
-          "69ed4a20-fbc6-490b-9939-c17d8e96ac78",
-          "c3e5bbf2-838f-4a2c-b567-7b9f2197c86d",
-          "08c2d265-9c65-4680-aca3-2070ec804215"
         ],
-        "settings": {
-        }
+        "settings": {}
       },
       "subscription-three-sec": {
         "type": "subscription-three-sec",
@@ -3246,7 +3176,7 @@
           "865345dc-3418-4e7b-a2ca-eb3fc884cde3": {
             "type": "icon_txt",
             "settings": {
-              "image": "shopify:\/\/shop_images\/thumb_fa0ed6cc-10d6-4c08-a8a1-b0c5186d6ae4.png",
+              "image": "shopify://shop_images/thumb_fa0ed6cc-10d6-4c08-a8a1-b0c5186d6ae4.png",
               "point-text": "",
               "icon-text": "Glow More For Less. Full-sized, Not Full Price. Made Affordable For You.",
               "icon-subtext": "",
@@ -3256,7 +3186,7 @@
           "de138809-ab04-471a-9f99-0d9c0b7b1ea6": {
             "type": "icon_txt",
             "settings": {
-              "image": "shopify:\/\/shop_images\/thumb_fa0ed6cc-10d6-4c08-a8a1-b0c5186d6ae4.png",
+              "image": "shopify://shop_images/thumb_fa0ed6cc-10d6-4c08-a8a1-b0c5186d6ae4.png",
               "point-text": "",
               "icon-text": "Clinically Proven &  Customized For Effective Results",
               "icon-subtext": "",
@@ -3266,40 +3196,11 @@
           "3db5d295-f4e4-41d2-a330-34be458af31b": {
             "type": "icon_txt",
             "settings": {
-              "image": "shopify:\/\/shop_images\/thumb_fa0ed6cc-10d6-4c08-a8a1-b0c5186d6ae4.png",
+              "image": "shopify://shop_images/thumb_fa0ed6cc-10d6-4c08-a8a1-b0c5186d6ae4.png",
               "point-text": "",
               "icon-text": "Effortless Beauty Delivered To Your  Door Monthly",
               "icon-subtext": "",
               "check_text": ""
-      "1648041130db55ebe9": {
-        "type": "icon-gallery",
-        "blocks": {
-          "6422ca2c-b66f-4e64-8996-66e147597f6b": {
-            "type": "brand_image",
-            "settings": {
-              "image": "shopify:\/\/shop_images\/SABI_AI_Prototype-07_1_c36a6129-1c27-4b02-bc88-1e2238835448.png",
-              "text": ""
-            }
-          },
-          "c37c846c-ba22-4739-9e7e-d81486421c0e": {
-            "type": "brand_image",
-            "settings": {
-              "image": "shopify:\/\/shop_images\/SABI_AI_Prototype-03_1.png",
-              "text": ""
-            }
-          },
-          "61f78c9d-1ddf-4f40-9ba1-b8ffcdcc7232": {
-            "type": "brand_image",
-            "settings": {
-              "image": "shopify:\/\/shop_images\/SABI_AI_Prototype-04_1.png",
-              "text": ""
-            }
-          },
-          "d3567efd-892c-4024-91e5-dee038b325fe": {
-            "type": "brand_image",
-            "settings": {
-              "image": "shopify:\/\/shop_images\/SABI_AI_Prototype-08_1.png",
-              "text": ""
             }
           }
         },
@@ -3311,7 +3212,7 @@
         "settings": {
           "title": "Why Subscribe?",
           "button_1_text": "START MY JOURNEY NOW",
-          "button_1_link": "\/"
+          "button_1_link": "/"
         }
       },
       "subs_testim": {
@@ -3320,138 +3221,27 @@
           "9e9af264-ad88-4242-8983-7daf3f37903f": {
             "type": "approach_item",
             "settings": {
-              "image": "shopify:\/\/shop_images\/beauty.png",
+              "image": "shopify://shop_images/beauty.png",
               "img_link": "",
               "title": "Fitbit For My Skin!",
-              "content": "My go-to app and device to pamper my skin.<br> - Sarah Lau, US Editor <div class=\"star-rating\">     <input type=\"radio\" id=\"5-stars\" name=\"rating\" value=\"5\">     <label for=\"5-stars\" class=\"star\">★<\/label>     <input type=\"radio\" id=\"4-stars\" name=\"rating\" value=\"4\">     <label for=\"4-stars\" class=\"star\">★<\/label>     <input type=\"radio\" id=\"3-stars\" name=\"rating\" value=\"3\">     <label for=\"3-stars\" class=\"star\">★<\/label>     <input type=\"radio\" id=\"2-stars\" name=\"rating\" value=\"2\">     <label for=\"2-stars\" class=\"star\">★<\/label>     <input type=\"radio\" id=\"1-star\" name=\"rating\" value=\"1\">     <label for=\"1-star\" class=\"star\">★<\/label>   <\/div>",
+              "content": "My go-to app and device to pamper my skin.<br> - Sarah Lau, US Editor <div class=\"star-rating\">     <input type=\"radio\" id=\"5-stars\" name=\"rating\" value=\"5\">     <label for=\"5-stars\" class=\"star\">★</label>     <input type=\"radio\" id=\"4-stars\" name=\"rating\" value=\"4\">     <label for=\"4-stars\" class=\"star\">★</label>     <input type=\"radio\" id=\"3-stars\" name=\"rating\" value=\"3\">     <label for=\"3-stars\" class=\"star\">★</label>     <input type=\"radio\" id=\"2-stars\" name=\"rating\" value=\"2\">     <label for=\"2-stars\" class=\"star\">★</label>     <input type=\"radio\" id=\"1-star\" name=\"rating\" value=\"1\">     <label for=\"1-star\" class=\"star\">★</label>   </div>",
               "direction": "left",
               "cta_btn_label": "START MY JOURNEY NOW",
-              "cta_btn_link": "\/"
-          "6422ca2c-b66f-4e64-8996-66e147597f6b",
-          "c37c846c-ba22-4739-9e7e-d81486421c0e",
-          "61f78c9d-1ddf-4f40-9ba1-b8ffcdcc7232",
-          "d3567efd-892c-4024-91e5-dee038b325fe"
-        ],
-        "settings": {
-          "heading": ""
-        }
-      },
-      "164804125767f97197": {
-        "type": "text-with-image",
-        "settings": {
-          "title": "Less is more.",
-          "content": "<p>You don’t need 20 steps or 20,000<br\/>ingredients for a healthy, glowing you.<br\/>Generate zero waste with No Nasties<br\/>formula customized just for you.<\/p>",
-          "link_text": "",
-          "link_url": ""
-        }
-      },
-      "164804139441235ee1": {
-        "type": "science",
-        "blocks": {
-          "9c250db0-e04a-4b83-9c11-4f5d24c6b848": {
-            "type": "header",
-            "settings": {
-              "heading": "",
-              "logo": "shopify:\/\/shop_images\/SABI_AI_Logo.png"
-            }
-          },
-          "2d2d0788-c7b6-449b-945c-ec6428e98ccd": {
-            "type": "approach_item",
-            "settings": {
-              "image": "shopify:\/\/shop_images\/Blonde_Girl_with_Orange_Light_1_-_Without_Copy.jpg",
-              "s_logo": "shopify:\/\/shop_images\/ss.png",
-              "img_link": "\/products\/tri-light-sabi",
-              "title": "",
-              "content": "<p>Using <em><strong>SCIENCE<\/strong><\/em><em> <\/em>to unlock your full potential.<\/p>",
-              "direction": "left",
-              "cta_btn_label": "",
-              "cta_btn_link": ""
-            }
-          },
-          "89117c2b-a88e-4891-9f4d-8f2b40bbb84f": {
-            "type": "approach_item",
-            "settings": {
-              "image": "shopify:\/\/shop_images\/Asian_Girl_with_No_Light_2.jpg",
-              "s_logo": "shopify:\/\/shop_images\/r.png",
-              "img_link": "\/products\/tri-light-sabi",
-              "title": "",
-              "content": "<p>Powered by <em><strong>AI <\/strong><\/em>to take the guesswork out of your wellness journey.<\/p>",
-              "direction": "left",
-              "cta_btn_label": "",
-              "cta_btn_link": ""
-            }
-          },
-          "cd422762-98c8-4114-9d52-45ed64989732": {
-            "type": "approach_item",
-            "settings": {
-              "image": "shopify:\/\/shop_images\/shutterstock_1960316680.jpg",
-              "s_logo": "shopify:\/\/shop_images\/bb.png",
-              "img_link": "\/products\/tri-light-sabi",
-              "title": "",
-              "content": "<p>Creating the perfect <em><strong>BALANCE <\/strong><\/em><br\/>between your emotional, mental,<br\/>and physical health.<\/p>",
-              "direction": "left",
-              "cta_btn_label": "",
-              "cta_btn_link": ""
-            }
-          },
-          "81bc95c6-1faf-4595-816c-51a5dd44ecf7": {
-            "type": "approach_item",
-            "settings": {
-              "image": "shopify:\/\/shop_images\/Main_KV_2_-_Without_Copy_1.jpg",
-              "s_logo": "shopify:\/\/shop_images\/ii.png",
-              "img_link": "\/products\/tri-light-sabi",
-              "title": "",
-              "content": "<p>Nurturing your <em><strong>INNER-BEING<\/strong><\/em> cause feeling good is the new looking good.<\/p>",
-              "direction": "left",
-              "cta_btn_label": "",
-              "cta_btn_link": ""
+              "cta_btn_link": "/"
             }
           }
         },
         "block_order": [
           "9e9af264-ad88-4242-8983-7daf3f37903f"
-          "9c250db0-e04a-4b83-9c11-4f5d24c6b848",
-          "2d2d0788-c7b6-449b-945c-ec6428e98ccd",
-          "89117c2b-a88e-4891-9f4d-8f2b40bbb84f",
-          "cd422762-98c8-4114-9d52-45ed64989732",
-          "81bc95c6-1faf-4595-816c-51a5dd44ecf7"
         ],
-        "settings": {
-        }
-      },
-      "1648041702fd3a7f68": {
-        "type": "sabi-section",
-        "blocks": {
-          "e512814e-7af1-4d4b-9d82-4cd744059831": {
-            "type": "approach_item",
-            "settings": {
-              "image": "shopify:\/\/shop_images\/QR_Code-ai.png",
-              "img_link": "\/products\/tri-light-sabi",
-              "title": "Scan the QR code and download now to  curate your wellness journey with .",
-              "content": "",
-              "direction": "right",
-              "cta_btn_label": "",
-              "cta_btn_link": ""
-            }
-          }
-        },
-        "block_order": [
-          "e512814e-7af1-4d4b-9d82-4cd744059831"
-        ],
-        "settings": {
-        }
+        "settings": {}
       }
     },
     "content_for_index": [
       "1574758794229",
-      "16480391365f31924b",
-      "16480405754d676c34",
-      "16480402579038fbd6",
-      "1648040652e58c84be",
-      "1648041130db55ebe9",
-      "164804125767f97197",
+      "homepage-intro",
+      "16227928669dce7396",
       "16046706018733d79b",
-      "164804139441235ee1",
       "1544002103271",
       "1545015626607",
       "1544002128879",
@@ -3461,8 +3251,7 @@
       "1544002093716",
       "1544161388661",
       "1603098421166",
-      "161209126258078cf5",
-      "1648041702fd3a7f68"
+      "161209126258078cf5"
     ]
   },
   "presets": {
@@ -3526,8 +3315,7 @@
         },
         "announcement": {
           "type": "announcement",
-          "settings": {
-          }
+          "settings": {}
         },
         "header": {
           "type": "header",
@@ -3547,7 +3335,7 @@
               "type": "text",
               "settings": {
                 "title": "About the shop",
-                "content": "<p>Use this text area to tell your customers about your brand and vision. You can change it in the theme settings.<\/p>",
+                "content": "<p>Use this text area to tell your customers about your brand and vision. You can change it in the theme settings.</p>",
                 "show_social_media": true
               }
             },
@@ -3561,7 +3349,7 @@
               "type": "newsletter",
               "settings": {
                 "title": "Newsletter",
-                "content": "<p>Subscribe to receive updates, access to exclusive deals, and more.<\/p>"
+                "content": "<p>Subscribe to receive updates, access to exclusive deals, and more.</p>"
               }
             }
           },
@@ -3697,7 +3485,7 @@
                 "title": "2000",
                 "subheading": "Sub-heading",
                 "heading": "Heading",
-                "content": "<p>Add your own custom content to give more information about your store, availability details...<\/p>"
+                "content": "<p>Add your own custom content to give more information about your store, availability details...</p>"
               }
             },
             "item-1": {
@@ -3707,7 +3495,7 @@
                 "title": "2001",
                 "subheading": "Sub-heading",
                 "heading": "Heading",
-                "content": "<p>Add your own custom content to give more information about your store, availability details...<\/p>"
+                "content": "<p>Add your own custom content to give more information about your store, availability details...</p>"
               }
             },
             "item-2": {
@@ -3717,7 +3505,7 @@
                 "title": "2002",
                 "subheading": "Sub-heading",
                 "heading": "Heading",
-                "content": "<p>Add your own custom content to give more information about your store, availability details...<\/p>"
+                "content": "<p>Add your own custom content to give more information about your store, availability details...</p>"
               }
             }
           },
@@ -3817,7 +3605,7 @@
             "text_color": "#ffffff",
             "apply_overlay": true,
             "title": "Our story",
-            "content": "<p>Add your own custom content to explain your processes...<\/p>"
+            "content": "<p>Add your own custom content to explain your processes...</p>"
           }
         },
         "product-template": {
@@ -3915,8 +3703,7 @@
         },
         "announcement": {
           "type": "announcement",
-          "settings": {
-          }
+          "settings": {}
         },
         "header": {
           "type": "header",
@@ -3936,7 +3723,7 @@
               "type": "text",
               "settings": {
                 "title": "About the shop",
-                "content": "<p>Use this text area to tell your customers about your brand and vision. You can change it in the theme settings.<\/p>",
+                "content": "<p>Use this text area to tell your customers about your brand and vision. You can change it in the theme settings.</p>",
                 "show_social_media": true
               }
             },
@@ -3950,7 +3737,7 @@
               "type": "newsletter",
               "settings": {
                 "title": "Newsletter",
-                "content": "<p>Subscribe to receive updates, access to exclusive deals, and more.<\/p>"
+                "content": "<p>Subscribe to receive updates, access to exclusive deals, and more.</p>"
               }
             }
           },
@@ -4086,7 +3873,7 @@
                 "title": "2000",
                 "subheading": "Sub-heading",
                 "heading": "Heading",
-                "content": "<p>Add your own custom content to give more information about your store, availability details...<\/p>"
+                "content": "<p>Add your own custom content to give more information about your store, availability details...</p>"
               }
             },
             "item-1": {
@@ -4096,7 +3883,7 @@
                 "title": "2001",
                 "subheading": "Sub-heading",
                 "heading": "Heading",
-                "content": "<p>Add your own custom content to give more information about your store, availability details...<\/p>"
+                "content": "<p>Add your own custom content to give more information about your store, availability details...</p>"
               }
             },
             "item-2": {
@@ -4106,7 +3893,7 @@
                 "title": "2002",
                 "subheading": "Sub-heading",
                 "heading": "Heading",
-                "content": "<p>Add your own custom content to give more information about your store, availability details...<\/p>"
+                "content": "<p>Add your own custom content to give more information about your store, availability details...</p>"
               }
             }
           },
@@ -4206,7 +3993,7 @@
             "text_color": "#ffffff",
             "apply_overlay": true,
             "title": "Our story",
-            "content": "<p>Add your own custom content to explain your processes...<\/p>"
+            "content": "<p>Add your own custom content to explain your processes...</p>"
           }
         },
         "product-template": {
@@ -4305,8 +4092,7 @@
         },
         "announcement": {
           "type": "announcement",
-          "settings": {
-          }
+          "settings": {}
         },
         "header": {
           "type": "header",
@@ -4326,7 +4112,7 @@
               "type": "text",
               "settings": {
                 "title": "About the shop",
-                "content": "<p>Use this text area to tell your customers about your brand and vision. You can change it in the theme settings.<\/p>",
+                "content": "<p>Use this text area to tell your customers about your brand and vision. You can change it in the theme settings.</p>",
                 "show_social_media": true
               }
             },
@@ -4340,7 +4126,7 @@
               "type": "newsletter",
               "settings": {
                 "title": "Newsletter",
-                "content": "<p>Subscribe to receive updates, access to exclusive deals, and more.<\/p>"
+                "content": "<p>Subscribe to receive updates, access to exclusive deals, and more.</p>"
               }
             }
           },
@@ -4476,7 +4262,7 @@
                 "title": "2000",
                 "subheading": "Sub-heading",
                 "heading": "Heading",
-                "content": "<p>Add your own custom content to give more information about your store, availability details...<\/p>"
+                "content": "<p>Add your own custom content to give more information about your store, availability details...</p>"
               }
             },
             "item-1": {
@@ -4486,7 +4272,7 @@
                 "title": "2001",
                 "subheading": "Sub-heading",
                 "heading": "Heading",
-                "content": "<p>Add your own custom content to give more information about your store, availability details...<\/p>"
+                "content": "<p>Add your own custom content to give more information about your store, availability details...</p>"
               }
             },
             "item-2": {
@@ -4496,7 +4282,7 @@
                 "title": "2002",
                 "subheading": "Sub-heading",
                 "heading": "Heading",
-                "content": "<p>Add your own custom content to give more information about your store, availability details...<\/p>"
+                "content": "<p>Add your own custom content to give more information about your store, availability details...</p>"
               }
             }
           },
@@ -4596,7 +4382,7 @@
             "text_color": "#ffffff",
             "apply_overlay": true,
             "title": "Our story",
-            "content": "<p>Add your own custom content to explain your processes...<\/p>"
+            "content": "<p>Add your own custom content to explain your processes...</p>"
           }
         },
         "product-template": {
@@ -4608,7 +4394,7 @@
             "show_color_carousel": false,
             "show_quantity_selector": true,
             "show_inventory_quantity": false,
-            "inventory_quantity_threshold": 3, 
+            "inventory_quantity_threshold": 3,
             "image_size": "large",
             "enable_image_zoom": true,
             "show_thumbnails": false,
