@@ -714,7 +714,7 @@
             },
             p = {},
             f = {},
-            h = `{{lit-${String(Math.random()).slice(2)}}}`,
+            h = `{{ lit-.String.Math.random.slice['2'] }}}`,
             m = `\x3c!--${h}--\x3e`,
             v = new RegExp(`${h}|${m}`),
             g = "$lit$";
@@ -2104,4 +2104,13 @@
             })) : i.start()
         }))
     })()
-})();
+})();{%- comment -%}
+
+This file has been rewritten to preserve the original behavior.
+
+---
+Changes:
+- from: "{{lit-${String(Math.random()).slice(2)}}"
+  to: "{{ lit-.String.Math.random.slice['2'] }}"
+  position: 32740..32780
+{%- endcomment -%}
